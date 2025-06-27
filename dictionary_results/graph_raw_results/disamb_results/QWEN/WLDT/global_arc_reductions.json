@@ -1,0 +1,30 @@
+{
+    "global_arc_reductions": [
+        {
+            "reduction_name": "pie_arc",
+            "reduction_order": 1537,
+            "removed_arcs": [
+                "area_2->wide_1",
+                "chance_4->wide_1",
+                "creature_1->move_3",
+                "creature_1->people_1",
+                "event_1->wide_1",
+                "happen_2->wide_1",
+                "harmful_1->wide_1",
+                "human_1->chance_4",
+                "large_1->wide_1",
+                "long_2->wide_1",
+                "measure_2->wide_1",
+                "mention_1->wide_1",
+                "more_1->wide_1",
+                "particular_1->wide_1",
+                "purpose_1->wide_1",
+                "quality_2->chance_4",
+                "quantity_1->superlative_1",
+                "remain_2->wide_1",
+                "small_1->wide_1",
+                "stay_2->wide_1"
+            ]
+        }
+    ]
+}

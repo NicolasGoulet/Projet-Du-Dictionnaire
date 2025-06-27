@@ -1,0 +1,1313 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "advertisement"
+        ],
+        "arcs": [
+            [
+                "advertisement",
+                "advertisement"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "alcohol",
+            "wine"
+        ],
+        "arcs": [
+            [
+                "alcohol",
+                "alcohol"
+            ],
+            [
+                "wine",
+                "wine"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "leather"
+        ],
+        "arcs": [
+            [
+                "leather",
+                "leather"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "want",
+            "wish"
+        ],
+        "arcs": [
+            [
+                "want",
+                "want"
+            ],
+            [
+                "wish",
+                "wish"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "get"
+        ],
+        "arcs": [
+            [
+                "get",
+                "get"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "electronic"
+        ],
+        "arcs": [
+            [
+                "electronic",
+                "electronic"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "gasoline"
+        ],
+        "arcs": [
+            [
+                "gasoline",
+                "gasoline"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "marry"
+        ],
+        "arcs": [
+            [
+                "marry",
+                "marry"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "relationship"
+        ],
+        "arcs": [
+            [
+                "relationship",
+                "relationship"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "refrigerator"
+        ],
+        "arcs": [
+            [
+                "refrigerator",
+                "refrigerator"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "loyalty"
+        ],
+        "arcs": [
+            [
+                "loyalty",
+                "loyalty"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "chop"
+        ],
+        "arcs": [
+            [
+                "chop",
+                "chop"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "ship"
+        ],
+        "arcs": [
+            [
+                "ship",
+                "ship"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "train"
+        ],
+        "arcs": [
+            [
+                "train",
+                "train"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "mountain"
+        ],
+        "arcs": [
+            [
+                "mountain",
+                "mountain"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "dull"
+        ],
+        "arcs": [
+            [
+                "dull",
+                "dull"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "anyway"
+        ],
+        "arcs": [
+            [
+                "anyway",
+                "anyway"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [
+            "science"
+        ],
+        "arcs": [
+            [
+                "science",
+                "science"
+            ]
+        ]
+    },
+    "satellite_18": {
+        "vertices": [
+            "suddenly"
+        ],
+        "arcs": [
+            [
+                "suddenly",
+                "suddenly"
+            ]
+        ]
+    },
+    "satellite_19": {
+        "vertices": [
+            "test"
+        ],
+        "arcs": [
+            [
+                "test",
+                "test"
+            ]
+        ]
+    },
+    "satellite_20": {
+        "vertices": [
+            "politician"
+        ],
+        "arcs": [
+            [
+                "politician",
+                "politician"
+            ]
+        ]
+    },
+    "satellite_21": {
+        "vertices": [
+            "naked"
+        ],
+        "arcs": [
+            [
+                "naked",
+                "naked"
+            ]
+        ]
+    },
+    "satellite_22": {
+        "vertices": [
+            "respect"
+        ],
+        "arcs": [
+            [
+                "respect",
+                "respect"
+            ]
+        ]
+    },
+    "satellite_23": {
+        "vertices": [
+            "temporary"
+        ],
+        "arcs": [
+            [
+                "temporary",
+                "temporary"
+            ]
+        ]
+    },
+    "satellite_24": {
+        "vertices": [
+            "occasion"
+        ],
+        "arcs": [
+            [
+                "occasion",
+                "occasion"
+            ]
+        ]
+    },
+    "satellite_25": {
+        "vertices": [
+            "wash"
+        ],
+        "arcs": [
+            [
+                "wash",
+                "wash"
+            ]
+        ]
+    },
+    "satellite_26": {
+        "vertices": [
+            "really"
+        ],
+        "arcs": [
+            [
+                "really",
+                "really"
+            ]
+        ]
+    },
+    "satellite_27": {
+        "vertices": [
+            "thank"
+        ],
+        "arcs": [
+            [
+                "thank",
+                "thank"
+            ]
+        ]
+    },
+    "satellite_28": {
+        "vertices": [
+            "owe"
+        ],
+        "arcs": [
+            [
+                "owe",
+                "owe"
+            ]
+        ]
+    },
+    "satellite_29": {
+        "vertices": [
+            "forgive"
+        ],
+        "arcs": [
+            [
+                "forgive",
+                "forgive"
+            ]
+        ]
+    },
+    "satellite_30": {
+        "vertices": [
+            "dirty"
+        ],
+        "arcs": [
+            [
+                "dirty",
+                "dirty"
+            ]
+        ]
+    },
+    "satellite_31": {
+        "vertices": [
+            "passport"
+        ],
+        "arcs": [
+            [
+                "passport",
+                "passport"
+            ]
+        ]
+    },
+    "satellite_32": {
+        "vertices": [
+            "uncle"
+        ],
+        "arcs": [
+            [
+                "uncle",
+                "uncle"
+            ]
+        ]
+    },
+    "satellite_33": {
+        "vertices": [
+            "louse"
+        ],
+        "arcs": [
+            [
+                "louse",
+                "louse"
+            ]
+        ]
+    },
+    "satellite_34": {
+        "vertices": [
+            "rabbit"
+        ],
+        "arcs": [
+            [
+                "rabbit",
+                "rabbit"
+            ]
+        ]
+    },
+    "satellite_35": {
+        "vertices": [
+            "drawer"
+        ],
+        "arcs": [
+            [
+                "drawer",
+                "drawer"
+            ]
+        ]
+    },
+    "satellite_36": {
+        "vertices": [
+            "sofa"
+        ],
+        "arcs": [
+            [
+                "sofa",
+                "sofa"
+            ]
+        ]
+    },
+    "satellite_37": {
+        "vertices": [
+            "perhaps"
+        ],
+        "arcs": [
+            [
+                "perhaps",
+                "perhaps"
+            ]
+        ]
+    },
+    "satellite_38": {
+        "vertices": [
+            "medicine"
+        ],
+        "arcs": [
+            [
+                "medicine",
+                "medicine"
+            ]
+        ]
+    },
+    "satellite_39": {
+        "vertices": [
+            "chocolate"
+        ],
+        "arcs": [
+            [
+                "chocolate",
+                "chocolate"
+            ]
+        ]
+    },
+    "satellite_40": {
+        "vertices": [
+            "mushroom"
+        ],
+        "arcs": [
+            [
+                "mushroom",
+                "mushroom"
+            ]
+        ]
+    },
+    "satellite_41": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_42": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_43": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_44": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_45": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_46": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_47": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_48": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_49": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_50": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_51": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_52": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_53": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_54": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_55": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_56": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_57": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_58": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_59": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_60": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_61": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_62": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_63": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_64": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_65": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_66": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_67": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_68": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_69": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_70": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_71": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_72": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_73": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_74": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_75": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_76": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_77": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_78": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_79": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_80": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_81": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_82": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_83": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_84": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_85": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_86": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_87": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_88": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_89": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_90": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_91": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_92": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_93": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_94": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_95": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_96": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_97": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_98": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_99": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_100": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_101": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_102": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_103": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_104": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_105": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_106": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_107": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_108": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "sofa"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "passport"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "perhaps"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "politician"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "rabbit"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "really"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "refrigerator"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "relationship"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "respect"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "science"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "ship"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "owe"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "temporary"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "test"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "thank"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "train"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "uncle"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "want"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "wash"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "wine"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "wish"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "suddenly"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "get"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "alcohol"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "anyway"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "chocolate"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "chop"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "dirty"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "drawer"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "dull"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "electronic"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "forgive"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "gasoline"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "advertisement"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "leather"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "louse"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "loyalty"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "marry"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "medicine"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "mountain"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "mushroom"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "naked"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "occasion"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "rabbit"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sofa"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "dirty"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "drawer"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "dull"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "electronic"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "ship"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "science"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "respect"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "relationship"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "forgive"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "refrigerator"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "really"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "gasoline"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "get"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "advertisement"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "politician"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "leather"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "perhaps"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "passport"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "owe"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "louse"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "loyalty"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "occasion"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "marry"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "medicine"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mountain"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mushroom"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "naked"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "wish"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "temporary"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "test"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "want"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "wash"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "thank"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "wine"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "train"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "suddenly"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "anyway"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "chop"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "chocolate"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "alcohol"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "uncle"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "prove"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "warning"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "proof"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "program"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "print"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "political"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "purple"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "rabbit"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sofa"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "dirty"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "drawer"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "dull"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "electronic"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "ship"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "science"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "respect"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "relationship"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "forgive"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "refrigerator"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "really"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "gasoline"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "get"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "advertisement"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "politician"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "leather"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "perhaps"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "passport"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "owe"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "louse"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "loyalty"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "occasion"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "marry"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "medicine"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mountain"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mushroom"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "naked"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "wish"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "temporary"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "test"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "want"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "wash"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "thank"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "wine"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "train"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "suddenly"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "anyway"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "chop"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "chocolate"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "alcohol"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "uncle"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "prove"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "warning"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "proof"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "program"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "print"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "political"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "purple"
+        }
+    ]
+}

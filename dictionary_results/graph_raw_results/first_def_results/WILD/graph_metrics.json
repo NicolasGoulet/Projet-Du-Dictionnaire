@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "2742 / 100.00%",
+    "nb_of_words_in_kernel": "1290 / 47.05%",
+    "nb_of_words_in_core": "1232 / 44.93%",
+    "nb_of_reduced_core": "545 / 19.88%",
+    "nb_of_words_in_satelites": "58 / 2.12%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "1452 / 52.95%",
+    "reduced_core_mfvs_size": "148 / 5.40%",
+    "nb_of_words_mfvs": "279 / 10.18%",
+    "initial_nb_of_loops": 2481,
+    "initial_nb_of_arcs": 22928,
+    "final_nb_of_arcs": 4751,
+    "initial_nb_of_out_deg_0": 1072,
+    "initial_nb_of_in_deg_0": 0,
+    "initial_nb_of_out_deg_1": 386,
+    "initial_nb_of_in_deg_1": 41,
+    "initial_nb_of_sccs": 18,
+    "size_of_biggest_scc": 1232,
+    "size_of_2nd_biggest_scc": 3,
+    "nb_of_sccs_kernel": 40,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 3,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "0 / 0.00%",
+    "nb_undefining": "1407 / 51.31%",
+    "top n out deg": [
+        {
+            "out_degree": 557,
+            "vertex": "have"
+        },
+        {
+            "out_degree": 531,
+            "vertex": "thing"
+        },
+        {
+            "out_degree": 519,
+            "vertex": "make"
+        },
+        {
+            "out_degree": 431,
+            "vertex": "people"
+        },
+        {
+            "out_degree": 407,
+            "vertex": "use"
+        },
+        {
+            "out_degree": 358,
+            "vertex": "other"
+        },
+        {
+            "out_degree": 297,
+            "vertex": "often"
+        },
+        {
+            "out_degree": 278,
+            "vertex": "do"
+        },
+        {
+            "out_degree": 256,
+            "vertex": "very"
+        },
+        {
+            "out_degree": 251,
+            "vertex": "mean"
+        },
+        {
+            "out_degree": 191,
+            "vertex": "animal"
+        },
+        {
+            "out_degree": 188,
+            "vertex": "part"
+        },
+        {
+            "out_degree": 180,
+            "vertex": "go"
+        },
+        {
+            "out_degree": 178,
+            "vertex": "person"
+        },
+        {
+            "out_degree": 167,
+            "vertex": "place"
+        },
+        {
+            "out_degree": 166,
+            "vertex": "long"
+        },
+        {
+            "out_degree": 159,
+            "vertex": "small"
+        },
+        {
+            "out_degree": 158,
+            "vertex": "kind"
+        },
+        {
+            "out_degree": 158,
+            "vertex": "many"
+        },
+        {
+            "out_degree": 142,
+            "vertex": "call"
+        },
+        {
+            "out_degree": 142,
+            "vertex": "say"
+        },
+        {
+            "out_degree": 140,
+            "vertex": "way"
+        },
+        {
+            "out_degree": 140,
+            "vertex": "large"
+        },
+        {
+            "out_degree": 136,
+            "vertex": "also"
+        },
+        {
+            "out_degree": 135,
+            "vertex": "eat"
+        },
+        {
+            "out_degree": 132,
+            "vertex": "be"
+        },
+        {
+            "out_degree": 131,
+            "vertex": "sometimes"
+        },
+        {
+            "out_degree": 130,
+            "vertex": "body"
+        },
+        {
+            "out_degree": 124,
+            "vertex": "word"
+        },
+        {
+            "out_degree": 123,
+            "vertex": "food"
+        },
+        {
+            "out_degree": 115,
+            "vertex": "live"
+        },
+        {
+            "out_degree": 114,
+            "vertex": "time"
+        },
+        {
+            "out_degree": 114,
+            "vertex": "piece"
+        },
+        {
+            "out_degree": 108,
+            "vertex": "water"
+        },
+        {
+            "out_degree": 106,
+            "vertex": "move"
+        },
+        {
+            "out_degree": 105,
+            "vertex": "get"
+        },
+        {
+            "out_degree": 104,
+            "vertex": "look"
+        },
+        {
+            "out_degree": 104,
+            "vertex": "give"
+        },
+        {
+            "out_degree": 98,
+            "vertex": "talk"
+        },
+        {
+            "out_degree": 97,
+            "vertex": "see"
+        },
+        {
+            "out_degree": 95,
+            "vertex": "come"
+        },
+        {
+            "out_degree": 93,
+            "vertex": "want"
+        },
+        {
+            "out_degree": 92,
+            "vertex": "take"
+        },
+        {
+            "out_degree": 91,
+            "vertex": "together"
+        },
+        {
+            "out_degree": 88,
+            "vertex": "plant"
+        },
+        {
+            "out_degree": 87,
+            "vertex": "grow"
+        },
+        {
+            "out_degree": 85,
+            "vertex": "happen"
+        },
+        {
+            "out_degree": 81,
+            "vertex": "feel"
+        },
+        {
+            "out_degree": 80,
+            "vertex": "put"
+        },
+        {
+            "out_degree": 77,
+            "vertex": "certain"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 29,
+            "vertex": "reptile"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "urban"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "pizza"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "family"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "hail"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "net"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "oil"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "fiber"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "pumpkin"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "ballet"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "plug"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "fairy tale"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "kettle"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "kangaroo"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "shelf"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "fashion"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "chipmunk"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "vanilla"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "coconut"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "camel"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "rubber"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "clover"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "lantern"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "cell"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "spaghetti"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "scorpion"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "event"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "somersault"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "pleasure"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "knight"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "flake"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "evaporation"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "mountain"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "chimpanzee"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "cream"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "seesaw"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "movie"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "tuxedo"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "trick-or-treat"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "emotion"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "mall"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "hippopotamus"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "fungus"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "separate"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "verb"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "mushroom"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "continent"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "sled"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "poem"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "ranger"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 559,
+            "vertex": "have"
+        },
+        {
+            "total_degree": 544,
+            "vertex": "thing"
+        },
+        {
+            "total_degree": 523,
+            "vertex": "make"
+        },
+        {
+            "total_degree": 437,
+            "vertex": "people"
+        },
+        {
+            "total_degree": 417,
+            "vertex": "use"
+        },
+        {
+            "total_degree": 365,
+            "vertex": "other"
+        },
+        {
+            "total_degree": 311,
+            "vertex": "often"
+        },
+        {
+            "total_degree": 284,
+            "vertex": "do"
+        },
+        {
+            "total_degree": 274,
+            "vertex": "very"
+        },
+        {
+            "total_degree": 258,
+            "vertex": "mean"
+        },
+        {
+            "total_degree": 209,
+            "vertex": "animal"
+        },
+        {
+            "total_degree": 197,
+            "vertex": "part"
+        },
+        {
+            "total_degree": 184,
+            "vertex": "go"
+        },
+        {
+            "total_degree": 181,
+            "vertex": "person"
+        },
+        {
+            "total_degree": 180,
+            "vertex": "place"
+        },
+        {
+            "total_degree": 176,
+            "vertex": "long"
+        },
+        {
+            "total_degree": 167,
+            "vertex": "many"
+        },
+        {
+            "total_degree": 164,
+            "vertex": "kind"
+        },
+        {
+            "total_degree": 161,
+            "vertex": "small"
+        },
+        {
+            "total_degree": 150,
+            "vertex": "large"
+        },
+        {
+            "total_degree": 147,
+            "vertex": "say"
+        },
+        {
+            "total_degree": 146,
+            "vertex": "call"
+        },
+        {
+            "total_degree": 145,
+            "vertex": "way"
+        },
+        {
+            "total_degree": 143,
+            "vertex": "be"
+        },
+        {
+            "total_degree": 143,
+            "vertex": "also"
+        },
+        {
+            "total_degree": 140,
+            "vertex": "eat"
+        },
+        {
+            "total_degree": 140,
+            "vertex": "sometimes"
+        },
+        {
+            "total_degree": 135,
+            "vertex": "body"
+        },
+        {
+            "total_degree": 133,
+            "vertex": "word"
+        },
+        {
+            "total_degree": 127,
+            "vertex": "food"
+        },
+        {
+            "total_degree": 123,
+            "vertex": "piece"
+        },
+        {
+            "total_degree": 120,
+            "vertex": "live"
+        },
+        {
+            "total_degree": 118,
+            "vertex": "time"
+        },
+        {
+            "total_degree": 117,
+            "vertex": "water"
+        },
+        {
+            "total_degree": 113,
+            "vertex": "get"
+        },
+        {
+            "total_degree": 110,
+            "vertex": "give"
+        },
+        {
+            "total_degree": 110,
+            "vertex": "move"
+        },
+        {
+            "total_degree": 108,
+            "vertex": "look"
+        },
+        {
+            "total_degree": 107,
+            "vertex": "want"
+        },
+        {
+            "total_degree": 104,
+            "vertex": "see"
+        },
+        {
+            "total_degree": 104,
+            "vertex": "happen"
+        },
+        {
+            "total_degree": 104,
+            "vertex": "plant"
+        },
+        {
+            "total_degree": 103,
+            "vertex": "come"
+        },
+        {
+            "total_degree": 103,
+            "vertex": "talk"
+        },
+        {
+            "total_degree": 101,
+            "vertex": "together"
+        },
+        {
+            "total_degree": 97,
+            "vertex": "take"
+        },
+        {
+            "total_degree": 95,
+            "vertex": "feel"
+        },
+        {
+            "total_degree": 90,
+            "vertex": "grow"
+        },
+        {
+            "total_degree": 86,
+            "vertex": "shape"
+        },
+        {
+            "total_degree": 84,
+            "vertex": "put"
+        }
+    ]
+}

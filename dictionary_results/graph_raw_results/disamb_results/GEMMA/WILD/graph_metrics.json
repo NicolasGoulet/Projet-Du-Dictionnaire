@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "3782 / 100.00%",
+    "nb_of_words_in_kernel": "1744 / 46.11%",
+    "nb_of_words_in_core": "1664 / 44.00%",
+    "nb_of_reduced_core": "750 / 19.83%",
+    "nb_of_words_in_satelites": "80 / 2.12%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "2038 / 53.89%",
+    "reduced_core_mfvs_size": "182 / 4.81%",
+    "nb_of_words_mfvs": "364 / 9.62%",
+    "initial_nb_of_loops": 3432,
+    "initial_nb_of_arcs": 30372,
+    "final_nb_of_arcs": 6324,
+    "initial_nb_of_out_deg_0": 1528,
+    "initial_nb_of_in_deg_0": 0,
+    "initial_nb_of_out_deg_1": 555,
+    "initial_nb_of_in_deg_1": 51,
+    "initial_nb_of_sccs": 24,
+    "size_of_biggest_scc": 1664,
+    "size_of_2nd_biggest_scc": 4,
+    "nb_of_sccs_kernel": 50,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 4,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "0 / 0.00%",
+    "nb_undefining": "2037 / 53.86%",
+    "top n out deg": [
+        {
+            "out_degree": 637,
+            "vertex": "thing_1"
+        },
+        {
+            "out_degree": 540,
+            "vertex": "people_1"
+        },
+        {
+            "out_degree": 539,
+            "vertex": "use_1"
+        },
+        {
+            "out_degree": 498,
+            "vertex": "mean_1"
+        },
+        {
+            "out_degree": 420,
+            "vertex": "other_1"
+        },
+        {
+            "out_degree": 402,
+            "vertex": "make_2"
+        },
+        {
+            "out_degree": 375,
+            "vertex": "have_3"
+        },
+        {
+            "out_degree": 358,
+            "vertex": "often_1"
+        },
+        {
+            "out_degree": 320,
+            "vertex": "very_1"
+        },
+        {
+            "out_degree": 292,
+            "vertex": "also_1"
+        },
+        {
+            "out_degree": 244,
+            "vertex": "part_1"
+        },
+        {
+            "out_degree": 240,
+            "vertex": "person_1"
+        },
+        {
+            "out_degree": 234,
+            "vertex": "do_1"
+        },
+        {
+            "out_degree": 233,
+            "vertex": "sometimes_1"
+        },
+        {
+            "out_degree": 230,
+            "vertex": "say_1"
+        },
+        {
+            "out_degree": 218,
+            "vertex": "place_1"
+        },
+        {
+            "out_degree": 198,
+            "vertex": "make_1"
+        },
+        {
+            "out_degree": 193,
+            "vertex": "many_1"
+        },
+        {
+            "out_degree": 193,
+            "vertex": "kind_2"
+        },
+        {
+            "out_degree": 186,
+            "vertex": "way_4"
+        },
+        {
+            "out_degree": 183,
+            "vertex": "animal_1"
+        },
+        {
+            "out_degree": 182,
+            "vertex": "have_2"
+        },
+        {
+            "out_degree": 179,
+            "vertex": "small_1"
+        },
+        {
+            "out_degree": 175,
+            "vertex": "long_2"
+        },
+        {
+            "out_degree": 166,
+            "vertex": "eat_1"
+        },
+        {
+            "out_degree": 164,
+            "vertex": "be_1"
+        },
+        {
+            "out_degree": 157,
+            "vertex": "do_3"
+        },
+        {
+            "out_degree": 157,
+            "vertex": "have_1"
+        },
+        {
+            "out_degree": 156,
+            "vertex": "large_1"
+        },
+        {
+            "out_degree": 155,
+            "vertex": "call_5"
+        },
+        {
+            "out_degree": 153,
+            "vertex": "food_1"
+        },
+        {
+            "out_degree": 153,
+            "vertex": "body_1"
+        },
+        {
+            "out_degree": 152,
+            "vertex": "word_1"
+        },
+        {
+            "out_degree": 148,
+            "vertex": "piece_1"
+        },
+        {
+            "out_degree": 139,
+            "vertex": "give_1"
+        },
+        {
+            "out_degree": 133,
+            "vertex": "talk_1"
+        },
+        {
+            "out_degree": 132,
+            "vertex": "water_1"
+        },
+        {
+            "out_degree": 126,
+            "vertex": "go_1"
+        },
+        {
+            "out_degree": 116,
+            "vertex": "look_1"
+        },
+        {
+            "out_degree": 110,
+            "vertex": "see_1"
+        },
+        {
+            "out_degree": 108,
+            "vertex": "plant_1"
+        },
+        {
+            "out_degree": 108,
+            "vertex": "happen_1"
+        },
+        {
+            "out_degree": 99,
+            "vertex": "shape_1"
+        },
+        {
+            "out_degree": 96,
+            "vertex": "certain_2"
+        },
+        {
+            "out_degree": 94,
+            "vertex": "feel_2"
+        },
+        {
+            "out_degree": 93,
+            "vertex": "together_1"
+        },
+        {
+            "out_degree": 90,
+            "vertex": "move_2"
+        },
+        {
+            "out_degree": 90,
+            "vertex": "group_1"
+        },
+        {
+            "out_degree": 88,
+            "vertex": "live_2"
+        },
+        {
+            "out_degree": 87,
+            "vertex": "want_2"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 31,
+            "vertex": "drug_2"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "reptile_1"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "cup_2"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "urban_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "pizza_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "bar_3"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "family_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "wood_2"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "net_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "hail_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "fiber_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "point_6"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "oil_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "kettle_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "atmosphere_2"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "kangaroo_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "plug_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "ballet_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "pumpkin_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "fairy tale_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "chipmunk_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "vanilla_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "shelf_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "rubber_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "coconut_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "fashion_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "camel_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "tuxedo_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "cell_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "cream_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "oil_2"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "scorpion_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "chimpanzee_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "lantern_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "knight_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "mountain_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "evaporation_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "movie_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "flake_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "pleasure_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "clover_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "somersault_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "spaghetti_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "event_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "seesaw_1"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "environment_3"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "poem_1"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "verb_1"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "volcano_1"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "atmosphere_1"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 650,
+            "vertex": "thing_1"
+        },
+        {
+            "total_degree": 549,
+            "vertex": "use_1"
+        },
+        {
+            "total_degree": 546,
+            "vertex": "people_1"
+        },
+        {
+            "total_degree": 515,
+            "vertex": "mean_1"
+        },
+        {
+            "total_degree": 427,
+            "vertex": "other_1"
+        },
+        {
+            "total_degree": 406,
+            "vertex": "make_2"
+        },
+        {
+            "total_degree": 382,
+            "vertex": "have_3"
+        },
+        {
+            "total_degree": 372,
+            "vertex": "often_1"
+        },
+        {
+            "total_degree": 338,
+            "vertex": "very_1"
+        },
+        {
+            "total_degree": 299,
+            "vertex": "also_1"
+        },
+        {
+            "total_degree": 253,
+            "vertex": "part_1"
+        },
+        {
+            "total_degree": 243,
+            "vertex": "person_1"
+        },
+        {
+            "total_degree": 242,
+            "vertex": "sometimes_1"
+        },
+        {
+            "total_degree": 240,
+            "vertex": "do_1"
+        },
+        {
+            "total_degree": 235,
+            "vertex": "say_1"
+        },
+        {
+            "total_degree": 231,
+            "vertex": "place_1"
+        },
+        {
+            "total_degree": 202,
+            "vertex": "many_1"
+        },
+        {
+            "total_degree": 202,
+            "vertex": "make_1"
+        },
+        {
+            "total_degree": 201,
+            "vertex": "animal_1"
+        },
+        {
+            "total_degree": 199,
+            "vertex": "kind_2"
+        },
+        {
+            "total_degree": 189,
+            "vertex": "way_4"
+        },
+        {
+            "total_degree": 188,
+            "vertex": "have_2"
+        },
+        {
+            "total_degree": 181,
+            "vertex": "small_1"
+        },
+        {
+            "total_degree": 179,
+            "vertex": "long_2"
+        },
+        {
+            "total_degree": 175,
+            "vertex": "be_1"
+        },
+        {
+            "total_degree": 171,
+            "vertex": "eat_1"
+        },
+        {
+            "total_degree": 166,
+            "vertex": "large_1"
+        },
+        {
+            "total_degree": 166,
+            "vertex": "do_3"
+        },
+        {
+            "total_degree": 163,
+            "vertex": "call_5"
+        },
+        {
+            "total_degree": 161,
+            "vertex": "word_1"
+        },
+        {
+            "total_degree": 159,
+            "vertex": "have_1"
+        },
+        {
+            "total_degree": 158,
+            "vertex": "body_1"
+        },
+        {
+            "total_degree": 157,
+            "vertex": "food_1"
+        },
+        {
+            "total_degree": 157,
+            "vertex": "piece_1"
+        },
+        {
+            "total_degree": 145,
+            "vertex": "give_1"
+        },
+        {
+            "total_degree": 141,
+            "vertex": "water_1"
+        },
+        {
+            "total_degree": 138,
+            "vertex": "talk_1"
+        },
+        {
+            "total_degree": 130,
+            "vertex": "go_1"
+        },
+        {
+            "total_degree": 127,
+            "vertex": "happen_1"
+        },
+        {
+            "total_degree": 124,
+            "vertex": "plant_1"
+        },
+        {
+            "total_degree": 120,
+            "vertex": "look_1"
+        },
+        {
+            "total_degree": 117,
+            "vertex": "see_1"
+        },
+        {
+            "total_degree": 112,
+            "vertex": "move_2"
+        },
+        {
+            "total_degree": 109,
+            "vertex": "shape_1"
+        },
+        {
+            "total_degree": 108,
+            "vertex": "certain_2"
+        },
+        {
+            "total_degree": 104,
+            "vertex": "group_1"
+        },
+        {
+            "total_degree": 103,
+            "vertex": "together_1"
+        },
+        {
+            "total_degree": 101,
+            "vertex": "feel_2"
+        },
+        {
+            "total_degree": 97,
+            "vertex": "live_2"
+        },
+        {
+            "total_degree": 92,
+            "vertex": "want_2"
+        }
+    ]
+}

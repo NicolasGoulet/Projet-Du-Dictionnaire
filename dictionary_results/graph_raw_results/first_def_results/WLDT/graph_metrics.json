@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "4389 / 100.00%",
+    "nb_of_words_in_kernel": "1147 / 26.13%",
+    "nb_of_words_in_core": "986 / 22.47%",
+    "nb_of_reduced_core": "268 / 6.11%",
+    "nb_of_words_in_satelites": "161 / 3.67%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "3242 / 73.87%",
+    "reduced_core_mfvs_size": "66 / 1.50%",
+    "nb_of_words_mfvs": "249 / 5.67%",
+    "initial_nb_of_loops": 342,
+    "initial_nb_of_arcs": 21393,
+    "final_nb_of_arcs": 1570,
+    "initial_nb_of_out_deg_0": 2435,
+    "initial_nb_of_in_deg_0": 5,
+    "initial_nb_of_out_deg_1": 454,
+    "initial_nb_of_in_deg_1": 152,
+    "initial_nb_of_sccs": 42,
+    "size_of_biggest_scc": 986,
+    "size_of_2nd_biggest_scc": 5,
+    "nb_of_sccs_kernel": 110,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 5,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "5 / 0.11%",
+    "nb_undefining": "3131 / 71.34%",
+    "top n out deg": [
+        {
+            "out_degree": 433,
+            "vertex": "use"
+        },
+        {
+            "out_degree": 392,
+            "vertex": "make"
+        },
+        {
+            "out_degree": 353,
+            "vertex": "have"
+        },
+        {
+            "out_degree": 303,
+            "vertex": "thing"
+        },
+        {
+            "out_degree": 302,
+            "vertex": "other"
+        },
+        {
+            "out_degree": 299,
+            "vertex": "person"
+        },
+        {
+            "out_degree": 253,
+            "vertex": "people"
+        },
+        {
+            "out_degree": 222,
+            "vertex": "do"
+        },
+        {
+            "out_degree": 201,
+            "vertex": "part"
+        },
+        {
+            "out_degree": 174,
+            "vertex": "past"
+        },
+        {
+            "out_degree": 168,
+            "vertex": "place"
+        },
+        {
+            "out_degree": 163,
+            "vertex": "small"
+        },
+        {
+            "out_degree": 150,
+            "vertex": "piece"
+        },
+        {
+            "out_degree": 134,
+            "vertex": "time"
+        },
+        {
+            "out_degree": 128,
+            "vertex": "give"
+        },
+        {
+            "out_degree": 121,
+            "vertex": "way"
+        },
+        {
+            "out_degree": 120,
+            "vertex": "large"
+        },
+        {
+            "out_degree": 118,
+            "vertex": "body"
+        },
+        {
+            "out_degree": 117,
+            "vertex": "tense"
+        },
+        {
+            "out_degree": 113,
+            "vertex": "cause"
+        },
+        {
+            "out_degree": 108,
+            "vertex": "participle"
+        },
+        {
+            "out_degree": 107,
+            "vertex": "group"
+        },
+        {
+            "out_degree": 105,
+            "vertex": "material"
+        },
+        {
+            "out_degree": 103,
+            "vertex": "act"
+        },
+        {
+            "out_degree": 102,
+            "vertex": "long"
+        },
+        {
+            "out_degree": 98,
+            "vertex": "food"
+        },
+        {
+            "out_degree": 97,
+            "vertex": "move"
+        },
+        {
+            "out_degree": 95,
+            "vertex": "animal"
+        },
+        {
+            "out_degree": 92,
+            "vertex": "form"
+        },
+        {
+            "out_degree": 92,
+            "vertex": "work"
+        },
+        {
+            "out_degree": 90,
+            "vertex": "money"
+        },
+        {
+            "out_degree": 87,
+            "vertex": "take"
+        },
+        {
+            "out_degree": 87,
+            "vertex": "such"
+        },
+        {
+            "out_degree": 82,
+            "vertex": "hold"
+        },
+        {
+            "out_degree": 82,
+            "vertex": "together"
+        },
+        {
+            "out_degree": 80,
+            "vertex": "amount"
+        },
+        {
+            "out_degree": 79,
+            "vertex": "water"
+        },
+        {
+            "out_degree": 78,
+            "vertex": "liquid"
+        },
+        {
+            "out_degree": 74,
+            "vertex": "often"
+        },
+        {
+            "out_degree": 73,
+            "vertex": "word"
+        },
+        {
+            "out_degree": 70,
+            "vertex": "live"
+        },
+        {
+            "out_degree": 70,
+            "vertex": "certain"
+        },
+        {
+            "out_degree": 69,
+            "vertex": "show"
+        },
+        {
+            "out_degree": 68,
+            "vertex": "surface"
+        },
+        {
+            "out_degree": 68,
+            "vertex": "good"
+        },
+        {
+            "out_degree": 68,
+            "vertex": "keep"
+        },
+        {
+            "out_degree": 66,
+            "vertex": "short"
+        },
+        {
+            "out_degree": 66,
+            "vertex": "put"
+        },
+        {
+            "out_degree": 65,
+            "vertex": "metal"
+        },
+        {
+            "out_degree": 64,
+            "vertex": "very"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 21,
+            "vertex": "alcohol"
+        },
+        {
+            "in_degree": 20,
+            "vertex": "tray"
+        },
+        {
+            "in_degree": 18,
+            "vertex": "wheelbarrow"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "consonant"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "shovel"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "fish"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "metal"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "tape"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "television"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "bowling"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "keypad"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "gymnastics"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "desk"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "shelf"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "nerve"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "dashboard"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "diploma"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "uncountable"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "hyphen"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "sack"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "staple"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "anemia"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "infinitive"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "art"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "cassette"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "rubber"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "louse"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "zipper"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "briefcase"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "ski"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "rocket"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "semicolon"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "poem"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "hard hat"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "maple"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "rake"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "pin"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "adverb"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "dolly"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "carbohydrate"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "participle"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "cancer"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "license plate"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "calcium"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "stroke"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "liberal arts"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "warranty"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "newspaper"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "drum"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "turtle"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 435,
+            "vertex": "use"
+        },
+        {
+            "total_degree": 397,
+            "vertex": "make"
+        },
+        {
+            "total_degree": 355,
+            "vertex": "have"
+        },
+        {
+            "total_degree": 305,
+            "vertex": "thing"
+        },
+        {
+            "total_degree": 304,
+            "vertex": "other"
+        },
+        {
+            "total_degree": 301,
+            "vertex": "person"
+        },
+        {
+            "total_degree": 256,
+            "vertex": "people"
+        },
+        {
+            "total_degree": 224,
+            "vertex": "do"
+        },
+        {
+            "total_degree": 205,
+            "vertex": "part"
+        },
+        {
+            "total_degree": 179,
+            "vertex": "past"
+        },
+        {
+            "total_degree": 172,
+            "vertex": "place"
+        },
+        {
+            "total_degree": 167,
+            "vertex": "small"
+        },
+        {
+            "total_degree": 154,
+            "vertex": "piece"
+        },
+        {
+            "total_degree": 135,
+            "vertex": "time"
+        },
+        {
+            "total_degree": 131,
+            "vertex": "give"
+        },
+        {
+            "total_degree": 130,
+            "vertex": "tense"
+        },
+        {
+            "total_degree": 125,
+            "vertex": "way"
+        },
+        {
+            "total_degree": 123,
+            "vertex": "body"
+        },
+        {
+            "total_degree": 123,
+            "vertex": "participle"
+        },
+        {
+            "total_degree": 123,
+            "vertex": "large"
+        },
+        {
+            "total_degree": 116,
+            "vertex": "material"
+        },
+        {
+            "total_degree": 116,
+            "vertex": "cause"
+        },
+        {
+            "total_degree": 115,
+            "vertex": "group"
+        },
+        {
+            "total_degree": 106,
+            "vertex": "long"
+        },
+        {
+            "total_degree": 105,
+            "vertex": "animal"
+        },
+        {
+            "total_degree": 104,
+            "vertex": "act"
+        },
+        {
+            "total_degree": 101,
+            "vertex": "food"
+        },
+        {
+            "total_degree": 100,
+            "vertex": "move"
+        },
+        {
+            "total_degree": 99,
+            "vertex": "money"
+        },
+        {
+            "total_degree": 97,
+            "vertex": "work"
+        },
+        {
+            "total_degree": 94,
+            "vertex": "form"
+        },
+        {
+            "total_degree": 90,
+            "vertex": "such"
+        },
+        {
+            "total_degree": 89,
+            "vertex": "water"
+        },
+        {
+            "total_degree": 89,
+            "vertex": "take"
+        },
+        {
+            "total_degree": 89,
+            "vertex": "liquid"
+        },
+        {
+            "total_degree": 85,
+            "vertex": "hold"
+        },
+        {
+            "total_degree": 84,
+            "vertex": "word"
+        },
+        {
+            "total_degree": 83,
+            "vertex": "together"
+        },
+        {
+            "total_degree": 82,
+            "vertex": "amount"
+        },
+        {
+            "total_degree": 82,
+            "vertex": "metal"
+        },
+        {
+            "total_degree": 76,
+            "vertex": "often"
+        },
+        {
+            "total_degree": 73,
+            "vertex": "certain"
+        },
+        {
+            "total_degree": 73,
+            "vertex": "live"
+        },
+        {
+            "total_degree": 72,
+            "vertex": "building"
+        },
+        {
+            "total_degree": 72,
+            "vertex": "very"
+        },
+        {
+            "total_degree": 71,
+            "vertex": "good"
+        },
+        {
+            "total_degree": 71,
+            "vertex": "show"
+        },
+        {
+            "total_degree": 70,
+            "vertex": "put"
+        },
+        {
+            "total_degree": 70,
+            "vertex": "keep"
+        },
+        {
+            "total_degree": 69,
+            "vertex": "short"
+        }
+    ]
+}

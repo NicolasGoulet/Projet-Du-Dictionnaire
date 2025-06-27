@@ -1,0 +1,680 @@
+{
+    "words": [
+        {
+            "vertex": "acipenseridae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "actinopoda_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "adolescent_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alaudidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alone_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alternate_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ammodytidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anhingidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apply_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "assume_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "asterisk_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "atrichornithidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "author_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "back_19",
+            "depth_level": 0
+        },
+        {
+            "vertex": "balistidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bridge_11",
+            "depth_level": 0
+        },
+        {
+            "vertex": "buoy_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "c_13",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calliphoridae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carry_17",
+            "depth_level": 0
+        },
+        {
+            "vertex": "center_21",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cichlidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "claw_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "command_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "companion_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "conflict_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "corvidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "corydalidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dasypodidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "date_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "declare_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "desire_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diffident_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dribble_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "earnest_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "easternmost_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eastward_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ericaceae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eve_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "express_13",
+            "depth_level": 0
+        },
+        {
+            "vertex": "femtosecond_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flirtatious_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "foremost_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "freckle_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gerbillinae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gobiidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gross_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guanaco_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hawk_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hg_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "host_11",
+            "depth_level": 0
+        },
+        {
+            "vertex": "initial_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "inquire_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "inside_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "intransitivize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "introduce_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "just_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lack_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lampridae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "leak_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "linger_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lobotidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loiter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "malaconotinae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mesozoic_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miss_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "monocanthidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "moonwort_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mugilidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "musophagidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "myliobatidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nanosecond_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "negative_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nocturnally_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "none_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "northeast_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "only_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "orient_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "oriolidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ornament_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "outside_14",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paradisaeidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "parallel_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pardonable_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pastoral_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pelecanidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peramelidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "perdicinae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pin_14",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pipridae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plataleidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ploceidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "podargidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pour_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "preside_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prey_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pteroclididae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "puncture_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "read_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "refocus_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "regalecidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "result_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rhinocerotidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rise_22",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rise_26",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scar_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scout_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scuff_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skin_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slow_11",
+            "depth_level": 0
+        },
+        {
+            "vertex": "southeast_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sparidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spear_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stab_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stake_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stripe_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sturnidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "substitute_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "surface_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "teenage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "threskiornithidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trachipteridae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "treeless_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "uncrossed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "upupidae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "use_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "v_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weather_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "west_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wheel_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "x_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "accompany_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ask_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "canonize_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "company_10",
+            "depth_level": 1
+        },
+        {
+            "vertex": "externally_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "heartfelt_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hold_15",
+            "depth_level": 1
+        },
+        {
+            "vertex": "in_7",
+            "depth_level": 1
+        },
+        {
+            "vertex": "inject_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "insert_5",
+            "depth_level": 1
+        },
+        {
+            "vertex": "internally_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "inward_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "inwards_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lead_19",
+            "depth_level": 1
+        },
+        {
+            "vertex": "northeastward_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "outward_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "outwards_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pare_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "peel_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pit_14",
+            "depth_level": 1
+        },
+        {
+            "vertex": "point_40",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pose_9",
+            "depth_level": 1
+        },
+        {
+            "vertex": "post_18",
+            "depth_level": 1
+        },
+        {
+            "vertex": "purpose_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "role_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "seek_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "southeastward_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "spineless_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sub_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "thornless_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "westernmost_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "westward_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "within_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "along_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "also_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "furthermore_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "protrude_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "further_6",
+            "depth_level": 3
+        }
+    ]
+}

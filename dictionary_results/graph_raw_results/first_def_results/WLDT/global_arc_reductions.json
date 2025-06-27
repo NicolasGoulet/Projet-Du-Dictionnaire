@@ -1,0 +1,51 @@
+{
+    "global_arc_reductions": [
+        {
+            "reduction_name": "pie_arc",
+            "reduction_order": 873,
+            "removed_arcs": [
+                "fact->sex",
+                "form->drawing",
+                "life->nation",
+                "make->drawing",
+                "make->nation",
+                "mention->drawing",
+                "nose->smell",
+                "people->nation",
+                "picture->idea",
+                "picture->arm",
+                "picture->see",
+                "place->arrive",
+                "place->away",
+                "place->bring",
+                "place->carry",
+                "place->character",
+                "place->distance",
+                "place->flat",
+                "place->forward",
+                "place->guide",
+                "place->joint",
+                "place->middle",
+                "place->motion",
+                "place->move",
+                "place->noun",
+                "place->set",
+                "place->travel",
+                "place->adverb",
+                "place->judge",
+                "place->dig",
+                "place->well",
+                "place->amuse",
+                "place->sheet",
+                "place->sense",
+                "place->trunk",
+                "place->formal",
+                "structure->drawing",
+                "tool->drawing",
+                "travel->come",
+                "travel->direction",
+                "writing->drawing"
+            ]
+        }
+    ]
+}

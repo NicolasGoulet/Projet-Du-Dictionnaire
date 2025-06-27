@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "71138 / 100.00%",
+    "nb_of_words_in_kernel": "4951 / 6.96%",
+    "nb_of_words_in_core": "3644 / 5.12%",
+    "nb_of_reduced_core": "1039 / 1.46%",
+    "nb_of_words_in_satelites": "1307 / 1.84%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "66187 / 93.04%",
+    "reduced_core_mfvs_size": "229 / 0.32%",
+    "nb_of_words_mfvs": "1015 / 1.43%",
+    "initial_nb_of_loops": 5768,
+    "initial_nb_of_arcs": 367654,
+    "final_nb_of_arcs": 7330,
+    "initial_nb_of_out_deg_0": 55248,
+    "initial_nb_of_in_deg_0": 49,
+    "initial_nb_of_out_deg_1": 5850,
+    "initial_nb_of_in_deg_1": 2668,
+    "initial_nb_of_sccs": 360,
+    "size_of_biggest_scc": 3644,
+    "size_of_2nd_biggest_scc": 5,
+    "nb_of_sccs_kernel": 925,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 5,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "52 / 0.07%",
+    "nb_undefining": "65819 / 92.52%",
+    "top n out deg": [
+        {
+            "out_degree": 5604,
+            "vertex": "use_18"
+        },
+        {
+            "out_degree": 4140,
+            "vertex": "especially_1"
+        },
+        {
+            "out_degree": 4055,
+            "vertex": "people_2"
+        },
+        {
+            "out_degree": 3711,
+            "vertex": "make_12"
+        },
+        {
+            "out_degree": 3367,
+            "vertex": "very_2"
+        },
+        {
+            "out_degree": 2831,
+            "vertex": "way_14"
+        },
+        {
+            "out_degree": 2274,
+            "vertex": "particular_1"
+        },
+        {
+            "out_degree": 2076,
+            "vertex": "do_16"
+        },
+        {
+            "out_degree": 1896,
+            "vertex": "small_3"
+        },
+        {
+            "out_degree": 1746,
+            "vertex": "situation_1"
+        },
+        {
+            "out_degree": 1660,
+            "vertex": "do_14"
+        },
+        {
+            "out_degree": 1648,
+            "vertex": "person_1"
+        },
+        {
+            "out_degree": 1580,
+            "vertex": "piece_2"
+        },
+        {
+            "out_degree": 1565,
+            "vertex": "thing_1"
+        },
+        {
+            "out_degree": 1480,
+            "vertex": "have_14"
+        },
+        {
+            "out_degree": 1379,
+            "vertex": "money_1"
+        },
+        {
+            "out_degree": 1355,
+            "vertex": "make_4"
+        },
+        {
+            "out_degree": 1311,
+            "vertex": "large_1"
+        },
+        {
+            "out_degree": 1226,
+            "vertex": "feel_4"
+        },
+        {
+            "out_degree": 1199,
+            "vertex": "move_17"
+        },
+        {
+            "out_degree": 1084,
+            "vertex": "place_2"
+        },
+        {
+            "out_degree": 1006,
+            "vertex": "have_11"
+        },
+        {
+            "out_degree": 989,
+            "vertex": "become_1"
+        },
+        {
+            "out_degree": 988,
+            "vertex": "important_1"
+        },
+        {
+            "out_degree": 972,
+            "vertex": "time_28"
+        },
+        {
+            "out_degree": 972,
+            "vertex": "say_5"
+        },
+        {
+            "out_degree": 962,
+            "vertex": "very_1"
+        },
+        {
+            "out_degree": 934,
+            "vertex": "amount_1"
+        },
+        {
+            "out_degree": 916,
+            "vertex": "word_1"
+        },
+        {
+            "out_degree": 908,
+            "vertex": "give_2"
+        },
+        {
+            "out_degree": 901,
+            "vertex": "happen_1"
+        },
+        {
+            "out_degree": 893,
+            "vertex": "group_1"
+        },
+        {
+            "out_degree": 836,
+            "vertex": "order_2"
+        },
+        {
+            "out_degree": 826,
+            "vertex": "job_1"
+        },
+        {
+            "out_degree": 819,
+            "vertex": "body_1"
+        },
+        {
+            "out_degree": 801,
+            "vertex": "part_11"
+        },
+        {
+            "out_degree": 793,
+            "vertex": "lot_9"
+        },
+        {
+            "out_degree": 790,
+            "vertex": "too_1"
+        },
+        {
+            "out_degree": 786,
+            "vertex": "thing_2"
+        },
+        {
+            "out_degree": 782,
+            "vertex": "problem_1"
+        },
+        {
+            "out_degree": 775,
+            "vertex": "usually_1"
+        },
+        {
+            "out_degree": 773,
+            "vertex": "food_1"
+        },
+        {
+            "out_degree": 764,
+            "vertex": "feeling_1"
+        },
+        {
+            "out_degree": 758,
+            "vertex": "area_1"
+        },
+        {
+            "out_degree": 747,
+            "vertex": "show_12"
+        },
+        {
+            "out_degree": 742,
+            "vertex": "country_1"
+        },
+        {
+            "out_degree": 713,
+            "vertex": "difficult_1"
+        },
+        {
+            "out_degree": 710,
+            "vertex": "information_1"
+        },
+        {
+            "out_degree": 703,
+            "vertex": "organization_1"
+        },
+        {
+            "out_degree": 697,
+            "vertex": "think_2"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 26,
+            "vertex": "noun_1"
+        },
+        {
+            "in_degree": 20,
+            "vertex": "gong_1"
+        },
+        {
+            "in_degree": 19,
+            "vertex": "dear_1"
+        },
+        {
+            "in_degree": 19,
+            "vertex": "apartheid_1"
+        },
+        {
+            "in_degree": 18,
+            "vertex": "sentence_1"
+        },
+        {
+            "in_degree": 18,
+            "vertex": "verbal noun_1"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "adverb_1"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "rosette_1"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "subsidiarity_1"
+        },
+        {
+            "in_degree": 17,
+            "vertex": "pancake_2"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "melodrama_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "police_3"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "conveyor belt_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "steel band_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "probation_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "badge_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "color line_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "chess_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "subject_5"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "theme park_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "colour bar_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "rhyming slang_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "self made_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "cardboard city_1"
+        },
+        {
+            "in_degree": 16,
+            "vertex": "tribe_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "non restrictive_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "bowling_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "affricate_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "peat_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "assault course_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "CD_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "politically correct_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "purse_2"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "gilt edged_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "needle_3"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "licence_4"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "positive discrimination_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "bassoon_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "net_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "packet switching_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "valid_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "comparative_5"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "comparative_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "laser_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "last orders_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "paper_17"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "erotic_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "circuit board_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "mod_1"
+        },
+        {
+            "in_degree": 15,
+            "vertex": "vet_3"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 5613,
+            "vertex": "use_18"
+        },
+        {
+            "total_degree": 4147,
+            "vertex": "especially_1"
+        },
+        {
+            "total_degree": 4057,
+            "vertex": "people_2"
+        },
+        {
+            "total_degree": 3717,
+            "vertex": "make_12"
+        },
+        {
+            "total_degree": 3374,
+            "vertex": "very_2"
+        },
+        {
+            "total_degree": 2835,
+            "vertex": "way_14"
+        },
+        {
+            "total_degree": 2275,
+            "vertex": "particular_1"
+        },
+        {
+            "total_degree": 2082,
+            "vertex": "do_16"
+        },
+        {
+            "total_degree": 1899,
+            "vertex": "small_3"
+        },
+        {
+            "total_degree": 1754,
+            "vertex": "situation_1"
+        },
+        {
+            "total_degree": 1663,
+            "vertex": "do_14"
+        },
+        {
+            "total_degree": 1654,
+            "vertex": "person_1"
+        },
+        {
+            "total_degree": 1587,
+            "vertex": "piece_2"
+        },
+        {
+            "total_degree": 1573,
+            "vertex": "thing_1"
+        },
+        {
+            "total_degree": 1483,
+            "vertex": "have_14"
+        },
+        {
+            "total_degree": 1385,
+            "vertex": "money_1"
+        },
+        {
+            "total_degree": 1357,
+            "vertex": "make_4"
+        },
+        {
+            "total_degree": 1317,
+            "vertex": "large_1"
+        },
+        {
+            "total_degree": 1230,
+            "vertex": "feel_4"
+        },
+        {
+            "total_degree": 1204,
+            "vertex": "move_17"
+        },
+        {
+            "total_degree": 1088,
+            "vertex": "place_2"
+        },
+        {
+            "total_degree": 1012,
+            "vertex": "have_11"
+        },
+        {
+            "total_degree": 999,
+            "vertex": "important_1"
+        },
+        {
+            "total_degree": 993,
+            "vertex": "become_1"
+        },
+        {
+            "total_degree": 977,
+            "vertex": "say_5"
+        },
+        {
+            "total_degree": 976,
+            "vertex": "time_28"
+        },
+        {
+            "total_degree": 965,
+            "vertex": "very_1"
+        },
+        {
+            "total_degree": 938,
+            "vertex": "amount_1"
+        },
+        {
+            "total_degree": 924,
+            "vertex": "word_1"
+        },
+        {
+            "total_degree": 910,
+            "vertex": "give_2"
+        },
+        {
+            "total_degree": 910,
+            "vertex": "happen_1"
+        },
+        {
+            "total_degree": 900,
+            "vertex": "group_1"
+        },
+        {
+            "total_degree": 838,
+            "vertex": "order_2"
+        },
+        {
+            "total_degree": 831,
+            "vertex": "job_1"
+        },
+        {
+            "total_degree": 823,
+            "vertex": "body_1"
+        },
+        {
+            "total_degree": 807,
+            "vertex": "part_11"
+        },
+        {
+            "total_degree": 796,
+            "vertex": "lot_9"
+        },
+        {
+            "total_degree": 794,
+            "vertex": "too_1"
+        },
+        {
+            "total_degree": 787,
+            "vertex": "thing_2"
+        },
+        {
+            "total_degree": 785,
+            "vertex": "problem_1"
+        },
+        {
+            "total_degree": 781,
+            "vertex": "usually_1"
+        },
+        {
+            "total_degree": 779,
+            "vertex": "food_1"
+        },
+        {
+            "total_degree": 767,
+            "vertex": "feeling_1"
+        },
+        {
+            "total_degree": 762,
+            "vertex": "area_1"
+        },
+        {
+            "total_degree": 757,
+            "vertex": "show_12"
+        },
+        {
+            "total_degree": 748,
+            "vertex": "country_1"
+        },
+        {
+            "total_degree": 718,
+            "vertex": "difficult_1"
+        },
+        {
+            "total_degree": 716,
+            "vertex": "information_1"
+        },
+        {
+            "total_degree": 709,
+            "vertex": "organization_1"
+        },
+        {
+            "total_degree": 704,
+            "vertex": "animal_1"
+        }
+    ]
+}

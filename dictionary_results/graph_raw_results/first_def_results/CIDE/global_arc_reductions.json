@@ -1,0 +1,46 @@
+{
+    "global_arc_reductions": [
+        {
+            "reduction_name": "pie_arc",
+            "reduction_order": 860,
+            "removed_arcs": [
+                "body->shoulder",
+                "case->trial",
+                "computer->entrance",
+                "connect->cord",
+                "correct->entrance",
+                "crime->trial",
+                "decide->trial",
+                "join->shoulder",
+                "key->entrance",
+                "keyboard->entrance",
+                "law->trial",
+                "legal->trial",
+                "length->cord",
+                "line->entrance",
+                "make->cord",
+                "matter->trial",
+                "move->entrance",
+                "number->entrance",
+                "object->trial",
+                "other->cord",
+                "perform->entrance",
+                "person->trial",
+                "place->entrance",
+                "purpose->trial",
+                "quality->trial",
+                "rest->shoulder",
+                "say->entrance",
+                "screen->entrance",
+                "side->shoulder",
+                "strange->cord",
+                "supply->cord",
+                "thing->shoulder",
+                "thread->cord",
+                "use->entrance",
+                "wire->cord",
+                "word->entrance"
+            ]
+        }
+    ]
+}

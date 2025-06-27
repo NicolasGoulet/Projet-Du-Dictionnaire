@@ -1,0 +1,7358 @@
+{
+    "edges": [
+        {
+            "from": "ability_1",
+            "to": "energy_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "power_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "sense_4"
+        },
+        {
+            "from": "ability_1",
+            "to": "understanding_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "regard_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "acceptable_1"
+        },
+        {
+            "from": "ability_1",
+            "to": "appearance_2"
+        },
+        {
+            "from": "ability_1",
+            "to": "people_2"
+        },
+        {
+            "from": "ability_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "ability_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "able_1",
+            "to": "ability_1"
+        },
+        {
+            "from": "able_1",
+            "to": "active_2"
+        },
+        {
+            "from": "able_1",
+            "to": "available_1"
+        },
+        {
+            "from": "able_1",
+            "to": "necessary_1"
+        },
+        {
+            "from": "able_1",
+            "to": "fix_2"
+        },
+        {
+            "from": "able_1",
+            "to": "influence_1"
+        },
+        {
+            "from": "able_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "able_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "able_1",
+            "to": "set_3"
+        },
+        {
+            "from": "able_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "able_1",
+            "to": "close_1"
+        },
+        {
+            "from": "able_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "able_1",
+            "to": "shock_1"
+        },
+        {
+            "from": "able_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "accept_3",
+            "to": "acceptable_1"
+        },
+        {
+            "from": "accept_3",
+            "to": "belief_3"
+        },
+        {
+            "from": "accept_3",
+            "to": "believe_1"
+        },
+        {
+            "from": "accept_3",
+            "to": "idea_2"
+        },
+        {
+            "from": "accept_3",
+            "to": "correct_3"
+        },
+        {
+            "from": "acceptable_1",
+            "to": "fit_1"
+        },
+        {
+            "from": "acceptable_1",
+            "to": "well_1"
+        },
+        {
+            "from": "acquaint_1",
+            "to": "great_3"
+        },
+        {
+            "from": "acquaint_1",
+            "to": "just_1"
+        },
+        {
+            "from": "acquaint_1",
+            "to": "type_1"
+        },
+        {
+            "from": "active_2",
+            "to": "activity_1"
+        },
+        {
+            "from": "active_2",
+            "to": "energy_1"
+        },
+        {
+            "from": "active_2",
+            "to": "live_1"
+        },
+        {
+            "from": "activity_1",
+            "to": "rest_2"
+        },
+        {
+            "from": "activity_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "activity_2",
+            "to": "part_3"
+        },
+        {
+            "from": "activity_2",
+            "to": "rest_2"
+        },
+        {
+            "from": "activity_2",
+            "to": "time_6"
+        },
+        {
+            "from": "activity_2",
+            "to": "role_2"
+        },
+        {
+            "from": "activity_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "adjective_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "adjective_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "adjective_1",
+            "to": "great_3"
+        },
+        {
+            "from": "adverb_1",
+            "to": "less_2"
+        },
+        {
+            "from": "adverb_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "advice_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "advice_1",
+            "to": "free_3"
+        },
+        {
+            "from": "advice_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "advice_1",
+            "to": "rule_1"
+        },
+        {
+            "from": "advice_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "affection_1",
+            "to": "like_3"
+        },
+        {
+            "from": "affection_1",
+            "to": "love_1"
+        },
+        {
+            "from": "agree_2",
+            "to": "consent_1"
+        },
+        {
+            "from": "agree_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "ahead_2",
+            "to": "forward_1"
+        },
+        {
+            "from": "ahead_2",
+            "to": "move_2"
+        },
+        {
+            "from": "ahead_2",
+            "to": "plan_2"
+        },
+        {
+            "from": "alike_1",
+            "to": "same_2"
+        },
+        {
+            "from": "alike_1",
+            "to": "character_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "distinct_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "else_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "other_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "similar_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "similarity_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "shut_1"
+        },
+        {
+            "from": "alike_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "alike_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "animal_2",
+            "to": "birth_2"
+        },
+        {
+            "from": "animal_2",
+            "to": "creature_1"
+        },
+        {
+            "from": "animal_2",
+            "to": "form_2"
+        },
+        {
+            "from": "animal_2",
+            "to": "pain_1"
+        },
+        {
+            "from": "animal_2",
+            "to": "authority_3"
+        },
+        {
+            "from": "animal_2",
+            "to": "life_1"
+        },
+        {
+            "from": "animal_2",
+            "to": "specific_1"
+        },
+        {
+            "from": "animal_2",
+            "to": "machine_1"
+        },
+        {
+            "from": "anxious_1",
+            "to": "nervous_3"
+        },
+        {
+            "from": "anxious_1",
+            "to": "worry_1"
+        },
+        {
+            "from": "apart_1",
+            "to": "aside_3"
+        },
+        {
+            "from": "apart_1",
+            "to": "distinct_1"
+        },
+        {
+            "from": "apart_1",
+            "to": "life_1"
+        },
+        {
+            "from": "apart_1",
+            "to": "type_1"
+        },
+        {
+            "from": "apart_1",
+            "to": "own_1"
+        },
+        {
+            "from": "apart_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "appearance_2",
+            "to": "shape_1"
+        },
+        {
+            "from": "appearance_2",
+            "to": "high_5"
+        },
+        {
+            "from": "appearance_2",
+            "to": "back_3"
+        },
+        {
+            "from": "area_3",
+            "to": "top_1"
+        },
+        {
+            "from": "area_3",
+            "to": "extent_1"
+        },
+        {
+            "from": "arrange_1",
+            "to": "order_3"
+        },
+        {
+            "from": "arrange_1",
+            "to": "just_1"
+        },
+        {
+            "from": "as_1",
+            "to": "accept_3"
+        },
+        {
+            "from": "as_1",
+            "to": "believe_1"
+        },
+        {
+            "from": "as_1",
+            "to": "enough_1"
+        },
+        {
+            "from": "as_1",
+            "to": "free_3"
+        },
+        {
+            "from": "aside_3",
+            "to": "necessary_1"
+        },
+        {
+            "from": "aside_3",
+            "to": "space_5"
+        },
+        {
+            "from": "aside_3",
+            "to": "time_6"
+        },
+        {
+            "from": "assist_1",
+            "to": "advice_1"
+        },
+        {
+            "from": "assist_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "assist_1",
+            "to": "free_3"
+        },
+        {
+            "from": "assist_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "assist_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "assist_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "attach_1",
+            "to": "fasten_1"
+        },
+        {
+            "from": "attach_1",
+            "to": "function_1"
+        },
+        {
+            "from": "attention_2",
+            "to": "assist_1"
+        },
+        {
+            "from": "attention_2",
+            "to": "danger_1"
+        },
+        {
+            "from": "authority_3",
+            "to": "guide_2"
+        },
+        {
+            "from": "authority_3",
+            "to": "correct_3"
+        },
+        {
+            "from": "available_1",
+            "to": "space_3"
+        },
+        {
+            "from": "available_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "available_1",
+            "to": "safe_1"
+        },
+        {
+            "from": "aware_1",
+            "to": "feel_2"
+        },
+        {
+            "from": "aware_1",
+            "to": "know_3"
+        },
+        {
+            "from": "aware_1",
+            "to": "learn_2"
+        },
+        {
+            "from": "aware_1",
+            "to": "perceive_1"
+        },
+        {
+            "from": "baby_1",
+            "to": "birth_2"
+        },
+        {
+            "from": "baby_1",
+            "to": "child_1"
+        },
+        {
+            "from": "back_3",
+            "to": "limit_2"
+        },
+        {
+            "from": "back_3",
+            "to": "dimension_1"
+        },
+        {
+            "from": "back_3",
+            "to": "ease_1"
+        },
+        {
+            "from": "basic_1",
+            "to": "nature_1"
+        },
+        {
+            "from": "basic_1",
+            "to": "feature_2"
+        },
+        {
+            "from": "basic_1",
+            "to": "word_1"
+        },
+        {
+            "from": "basis_1",
+            "to": "basic_1"
+        },
+        {
+            "from": "basis_1",
+            "to": "foundation_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "behavior_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "deal_2"
+        },
+        {
+            "from": "behave_1",
+            "to": "activity_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "activity_2"
+        },
+        {
+            "from": "behave_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "good_2"
+        },
+        {
+            "from": "behave_1",
+            "to": "human_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "moral_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "thing_1"
+        },
+        {
+            "from": "behave_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "behave_1",
+            "to": "free_3"
+        },
+        {
+            "from": "behave_1",
+            "to": "role_2"
+        },
+        {
+            "from": "behavior_1",
+            "to": "rule_1"
+        },
+        {
+            "from": "behavior_1",
+            "to": "high_5"
+        },
+        {
+            "from": "behavior_1",
+            "to": "people_2"
+        },
+        {
+            "from": "belief_2",
+            "to": "persist_2"
+        },
+        {
+            "from": "belief_2",
+            "to": "trust_1"
+        },
+        {
+            "from": "belief_3",
+            "to": "idea_2"
+        },
+        {
+            "from": "belief_3",
+            "to": "formal_2"
+        },
+        {
+            "from": "belief_3",
+            "to": "people_2"
+        },
+        {
+            "from": "believe_1",
+            "to": "belief_3"
+        },
+        {
+            "from": "believe_1",
+            "to": "idea_2"
+        },
+        {
+            "from": "birth_2",
+            "to": "life_1"
+        },
+        {
+            "from": "birth_2",
+            "to": "baby_1"
+        },
+        {
+            "from": "birth_2",
+            "to": "phrase_1"
+        },
+        {
+            "from": "birth_2",
+            "to": "high_5"
+        },
+        {
+            "from": "bring_1",
+            "to": "judge_3"
+        },
+        {
+            "from": "bring_1",
+            "to": "free_3"
+        },
+        {
+            "from": "bring_1",
+            "to": "deal_1"
+        },
+        {
+            "from": "bring_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "business_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "business_1",
+            "to": "just_1"
+        },
+        {
+            "from": "business_2",
+            "to": "company_1"
+        },
+        {
+            "from": "business_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "business_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "careful_1",
+            "to": "cautious_1"
+        },
+        {
+            "from": "careful_1",
+            "to": "serious_3"
+        },
+        {
+            "from": "carefully_1",
+            "to": "judgment_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "acquaint_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "aware_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "deal_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "deal_2"
+        },
+        {
+            "from": "carefully_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "carefully_1",
+            "to": "free_4"
+        },
+        {
+            "from": "carefully_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "carefully_1",
+            "to": "assist_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "carefully_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "cautious_1",
+            "to": "careful_1"
+        },
+        {
+            "from": "cautious_1",
+            "to": "carefully_1"
+        },
+        {
+            "from": "certain_1",
+            "to": "expect_2"
+        },
+        {
+            "from": "certain_1",
+            "to": "positive_1"
+        },
+        {
+            "from": "certain_2",
+            "to": "definite_2"
+        },
+        {
+            "from": "certain_2",
+            "to": "comparative_2"
+        },
+        {
+            "from": "certain_2",
+            "to": "problem_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "area_3"
+        },
+        {
+            "from": "certain_3",
+            "to": "behave_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "go_11"
+        },
+        {
+            "from": "certain_3",
+            "to": "keep_4"
+        },
+        {
+            "from": "certain_3",
+            "to": "place_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "professional_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "proper_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "regard_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "structure_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "such_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "type_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "verb_1"
+        },
+        {
+            "from": "certain_3",
+            "to": "people_2"
+        },
+        {
+            "from": "certain_3",
+            "to": "control_2"
+        },
+        {
+            "from": "character_1",
+            "to": "nature_1"
+        },
+        {
+            "from": "character_1",
+            "to": "self_1"
+        },
+        {
+            "from": "character_1",
+            "to": "such_1"
+        },
+        {
+            "from": "character_2",
+            "to": "strong_2"
+        },
+        {
+            "from": "character_2",
+            "to": "great_3"
+        },
+        {
+            "from": "characteristic_1",
+            "to": "feature_2"
+        },
+        {
+            "from": "characteristic_1",
+            "to": "people_2"
+        },
+        {
+            "from": "characteristic_1",
+            "to": "specific_1"
+        },
+        {
+            "from": "characteristic_1",
+            "to": "type_1"
+        },
+        {
+            "from": "child_1",
+            "to": "baby_1"
+        },
+        {
+            "from": "child_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "child_1",
+            "to": "life_1"
+        },
+        {
+            "from": "close_1",
+            "to": "community_2"
+        },
+        {
+            "from": "close_1",
+            "to": "shut_1"
+        },
+        {
+            "from": "close_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "close_1",
+            "to": "judgment_1"
+        },
+        {
+            "from": "clothe_1",
+            "to": "clothing_1"
+        },
+        {
+            "from": "clothe_1",
+            "to": "function_1"
+        },
+        {
+            "from": "clothing_1",
+            "to": "clothe_1"
+        },
+        {
+            "from": "clothing_1",
+            "to": "function_1"
+        },
+        {
+            "from": "comfortable_1",
+            "to": "uncomfortable_1"
+        },
+        {
+            "from": "comfortable_1",
+            "to": "uneasy_1"
+        },
+        {
+            "from": "common_1",
+            "to": "true_1"
+        },
+        {
+            "from": "common_1",
+            "to": "people_2"
+        },
+        {
+            "from": "communication_1",
+            "to": "object_1"
+        },
+        {
+            "from": "communication_1",
+            "to": "sense_1"
+        },
+        {
+            "from": "communication_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "community_2",
+            "to": "people_2"
+        },
+        {
+            "from": "community_2",
+            "to": "law_1"
+        },
+        {
+            "from": "community_2",
+            "to": "formal_2"
+        },
+        {
+            "from": "company_1",
+            "to": "business_2"
+        },
+        {
+            "from": "company_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "comparative_2",
+            "to": "less_2"
+        },
+        {
+            "from": "comparative_2",
+            "to": "ahead_2"
+        },
+        {
+            "from": "comparative_2",
+            "to": "close_1"
+        },
+        {
+            "from": "complete_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "complete_1",
+            "to": "thorough_1"
+        },
+        {
+            "from": "complete_1",
+            "to": "whole_2"
+        },
+        {
+            "from": "complete_1",
+            "to": "total_1"
+        },
+        {
+            "from": "complete_1",
+            "to": "function_1"
+        },
+        {
+            "from": "complete_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "complete_1",
+            "to": "shut_1"
+        },
+        {
+            "from": "complicated_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "complicated_1",
+            "to": "device_1"
+        },
+        {
+            "from": "concern_1",
+            "to": "deal_1"
+        },
+        {
+            "from": "concern_1",
+            "to": "matter_2"
+        },
+        {
+            "from": "concern_1",
+            "to": "assist_1"
+        },
+        {
+            "from": "connect_1",
+            "to": "attach_1"
+        },
+        {
+            "from": "connect_1",
+            "to": "link_2"
+        },
+        {
+            "from": "connect_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "connect_1",
+            "to": "function_1"
+        },
+        {
+            "from": "consent_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "consent_1",
+            "to": "permission_2"
+        },
+        {
+            "from": "consider_3",
+            "to": "law_1"
+        },
+        {
+            "from": "consider_3",
+            "to": "damage_1"
+        },
+        {
+            "from": "consider_3",
+            "to": "function_1"
+        },
+        {
+            "from": "consider_3",
+            "to": "fair_1"
+        },
+        {
+            "from": "consider_3",
+            "to": "agree_2"
+        },
+        {
+            "from": "continue_1",
+            "to": "keep_1"
+        },
+        {
+            "from": "continue_1",
+            "to": "last_4"
+        },
+        {
+            "from": "continue_1",
+            "to": "remain_1"
+        },
+        {
+            "from": "continue_3",
+            "to": "persist_2"
+        },
+        {
+            "from": "continue_3",
+            "to": "continue_1"
+        },
+        {
+            "from": "control_2",
+            "to": "restrain_1"
+        },
+        {
+            "from": "control_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "correct_1",
+            "to": "proper_1"
+        },
+        {
+            "from": "correct_1",
+            "to": "error_1"
+        },
+        {
+            "from": "correct_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "correct_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "correct_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "correct_3",
+            "to": "accept_3"
+        },
+        {
+            "from": "correct_3",
+            "to": "mistake_1"
+        },
+        {
+            "from": "correct_3",
+            "to": "correct_1"
+        },
+        {
+            "from": "course_1",
+            "to": "persist_2"
+        },
+        {
+            "from": "course_1",
+            "to": "way_8"
+        },
+        {
+            "from": "course_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "creature_1",
+            "to": "animal_2"
+        },
+        {
+            "from": "creature_1",
+            "to": "people_2"
+        },
+        {
+            "from": "damage_1",
+            "to": "injury_1"
+        },
+        {
+            "from": "damage_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "danger_1",
+            "to": "cautious_1"
+        },
+        {
+            "from": "danger_1",
+            "to": "fear_1"
+        },
+        {
+            "from": "danger_1",
+            "to": "safe_1"
+        },
+        {
+            "from": "danger_1",
+            "to": "free_3"
+        },
+        {
+            "from": "deal_1",
+            "to": "complicated_1"
+        },
+        {
+            "from": "deal_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "deal_1",
+            "to": "cautious_1"
+        },
+        {
+            "from": "deal_1",
+            "to": "consider_3"
+        },
+        {
+            "from": "deal_1",
+            "to": "close_1"
+        },
+        {
+            "from": "deal_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "deal_1",
+            "to": "grow_4"
+        },
+        {
+            "from": "deal_1",
+            "to": "information_1"
+        },
+        {
+            "from": "deal_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "deal_2",
+            "to": "complicated_1"
+        },
+        {
+            "from": "deal_2",
+            "to": "problem_1"
+        },
+        {
+            "from": "decide_1",
+            "to": "fix_2"
+        },
+        {
+            "from": "decide_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "definite_2",
+            "to": "certain_2"
+        },
+        {
+            "from": "definite_2",
+            "to": "uncertain_1"
+        },
+        {
+            "from": "describe_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "describe_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "describe_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "develop_1",
+            "to": "grow_4"
+        },
+        {
+            "from": "develop_1",
+            "to": "function_1"
+        },
+        {
+            "from": "develop_1",
+            "to": "life_1"
+        },
+        {
+            "from": "develop_1",
+            "to": "young_1"
+        },
+        {
+            "from": "device_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "device_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "size_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "extend_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "small_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "dimension_1",
+            "to": "safe_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "function_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "danger_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "life_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "young_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "front_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "last_2"
+        },
+        {
+            "from": "dimension_1",
+            "to": "word_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "enough_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "less_2"
+        },
+        {
+            "from": "dimension_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "dimension_1",
+            "to": "free_3"
+        },
+        {
+            "from": "dimension_1",
+            "to": "rest_2"
+        },
+        {
+            "from": "dimension_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "discomfort_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "discomfort_1",
+            "to": "uncomfortable_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "apart_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "length_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "long_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "reach_7"
+        },
+        {
+            "from": "distance_1",
+            "to": "dimension_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "distance_1",
+            "to": "function_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "extent_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "free_3"
+        },
+        {
+            "from": "distance_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "distance_1",
+            "to": "forward_1"
+        },
+        {
+            "from": "distinct_1",
+            "to": "particular_3"
+        },
+        {
+            "from": "distinct_1",
+            "to": "section_1"
+        },
+        {
+            "from": "distinct_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "doubt_1",
+            "to": "certain_1"
+        },
+        {
+            "from": "doubt_1",
+            "to": "certain_2"
+        },
+        {
+            "from": "doubt_1",
+            "to": "definite_2"
+        },
+        {
+            "from": "doubt_1",
+            "to": "sure_1"
+        },
+        {
+            "from": "doubt_1",
+            "to": "problem_1"
+        },
+        {
+            "from": "ease_1",
+            "to": "comfortable_1"
+        },
+        {
+            "from": "ease_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "else_1",
+            "to": "device_1"
+        },
+        {
+            "from": "else_1",
+            "to": "fasten_1"
+        },
+        {
+            "from": "else_1",
+            "to": "likeness_1"
+        },
+        {
+            "from": "else_1",
+            "to": "specific_1"
+        },
+        {
+            "from": "else_1",
+            "to": "symbol_1"
+        },
+        {
+            "from": "else_1",
+            "to": "own_1"
+        },
+        {
+            "from": "else_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "else_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "else_1",
+            "to": "as_1"
+        },
+        {
+            "from": "else_1",
+            "to": "size_1"
+        },
+        {
+            "from": "else_1",
+            "to": "forward_1"
+        },
+        {
+            "from": "else_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "else_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "end_1",
+            "to": "length_1"
+        },
+        {
+            "from": "end_1",
+            "to": "low_1"
+        },
+        {
+            "from": "end_1",
+            "to": "recently_1"
+        },
+        {
+            "from": "end_1",
+            "to": "last_2"
+        },
+        {
+            "from": "end_4",
+            "to": "goal_1"
+        },
+        {
+            "from": "end_4",
+            "to": "progress_1"
+        },
+        {
+            "from": "energy_1",
+            "to": "force_1"
+        },
+        {
+            "from": "energy_1",
+            "to": "life_1"
+        },
+        {
+            "from": "energy_1",
+            "to": "strong_3"
+        },
+        {
+            "from": "energy_1",
+            "to": "universe_1"
+        },
+        {
+            "from": "energy_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "energy_1",
+            "to": "free_3"
+        },
+        {
+            "from": "energy_1",
+            "to": "work_3"
+        },
+        {
+            "from": "energy_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "energy_1",
+            "to": "firm_2"
+        },
+        {
+            "from": "energy_1",
+            "to": "steady_3"
+        },
+        {
+            "from": "enough_1",
+            "to": "acceptable_1"
+        },
+        {
+            "from": "enough_1",
+            "to": "judge_3"
+        },
+        {
+            "from": "enough_1",
+            "to": "free_3"
+        },
+        {
+            "from": "enough_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "environment_1",
+            "to": "observation_1"
+        },
+        {
+            "from": "environment_1",
+            "to": "sense_1"
+        },
+        {
+            "from": "environment_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "error_1",
+            "to": "mistake_1"
+        },
+        {
+            "from": "error_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "error_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "excited_1",
+            "to": "rest_2"
+        },
+        {
+            "from": "excited_1",
+            "to": "steady_3"
+        },
+        {
+            "from": "excited_1",
+            "to": "point_3"
+        },
+        {
+            "from": "expect_2",
+            "to": "fear_1"
+        },
+        {
+            "from": "expect_2",
+            "to": "likely_1"
+        },
+        {
+            "from": "expect_2",
+            "to": "sudden_1"
+        },
+        {
+            "from": "expect_2",
+            "to": "close_1"
+        },
+        {
+            "from": "expect_2",
+            "to": "decide_1"
+        },
+        {
+            "from": "explanation_1",
+            "to": "note_2"
+        },
+        {
+            "from": "explanation_1",
+            "to": "idea_2"
+        },
+        {
+            "from": "explanation_1",
+            "to": "true_1"
+        },
+        {
+            "from": "explanation_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "explanation_1",
+            "to": "think_2"
+        },
+        {
+            "from": "explanation_1",
+            "to": "device_1"
+        },
+        {
+            "from": "explanation_1",
+            "to": "function_1"
+        },
+        {
+            "from": "explanation_1",
+            "to": "place_2"
+        },
+        {
+            "from": "explanation_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "explanation_1",
+            "to": "correct_1"
+        },
+        {
+            "from": "explanation_1",
+            "to": "people_2"
+        },
+        {
+            "from": "extend_1",
+            "to": "extent_1"
+        },
+        {
+            "from": "extend_1",
+            "to": "reach_7"
+        },
+        {
+            "from": "extent_1",
+            "to": "as_1"
+        },
+        {
+            "from": "extent_1",
+            "to": "alike_1"
+        },
+        {
+            "from": "extent_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "extent_1",
+            "to": "point_3"
+        },
+        {
+            "from": "fact_1",
+            "to": "information_1"
+        },
+        {
+            "from": "fact_1",
+            "to": "judgment_1"
+        },
+        {
+            "from": "fail_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "fail_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "fair_1",
+            "to": "just_1"
+        },
+        {
+            "from": "fair_1",
+            "to": "right_1"
+        },
+        {
+            "from": "fasten_1",
+            "to": "attach_1"
+        },
+        {
+            "from": "fasten_1",
+            "to": "join_1"
+        },
+        {
+            "from": "fasten_1",
+            "to": "link_2"
+        },
+        {
+            "from": "fasten_1",
+            "to": "free_3"
+        },
+        {
+            "from": "fear_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "fear_1",
+            "to": "anxious_1"
+        },
+        {
+            "from": "fear_1",
+            "to": "nervous_3"
+        },
+        {
+            "from": "feature_2",
+            "to": "quality_1"
+        },
+        {
+            "from": "feature_2",
+            "to": "type_1"
+        },
+        {
+            "from": "feel_2",
+            "to": "comfortable_1"
+        },
+        {
+            "from": "feel_2",
+            "to": "uncomfortable_1"
+        },
+        {
+            "from": "feel_2",
+            "to": "share_1"
+        },
+        {
+            "from": "feel_2",
+            "to": "assist_1"
+        },
+        {
+            "from": "firm_2",
+            "to": "persist_2"
+        },
+        {
+            "from": "firm_2",
+            "to": "fix_2"
+        },
+        {
+            "from": "fit_1",
+            "to": "correct_3"
+        },
+        {
+            "from": "fit_1",
+            "to": "set_3"
+        },
+        {
+            "from": "fit_1",
+            "to": "function_1"
+        },
+        {
+            "from": "fix_2",
+            "to": "certain_3"
+        },
+        {
+            "from": "fix_2",
+            "to": "period_1"
+        },
+        {
+            "from": "fix_2",
+            "to": "participle_1"
+        },
+        {
+            "from": "force_1",
+            "to": "hold_4"
+        },
+        {
+            "from": "force_1",
+            "to": "strong_3"
+        },
+        {
+            "from": "force_1",
+            "to": "stand_2"
+        },
+        {
+            "from": "force_1",
+            "to": "wrong_2"
+        },
+        {
+            "from": "force_1",
+            "to": "keep_1"
+        },
+        {
+            "from": "force_1",
+            "to": "shock_1"
+        },
+        {
+            "from": "form_1",
+            "to": "basic_1"
+        },
+        {
+            "from": "form_1",
+            "to": "less_2"
+        },
+        {
+            "from": "form_1",
+            "to": "list_1"
+        },
+        {
+            "from": "form_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "form_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "form_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "form_1",
+            "to": "device_1"
+        },
+        {
+            "from": "form_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "form_2",
+            "to": "object_1"
+        },
+        {
+            "from": "form_2",
+            "to": "shape_1"
+        },
+        {
+            "from": "form_2",
+            "to": "side_6"
+        },
+        {
+            "from": "form_4",
+            "to": "judgment_1"
+        },
+        {
+            "from": "form_4",
+            "to": "participle_1"
+        },
+        {
+            "from": "form_4",
+            "to": "plural_1"
+        },
+        {
+            "from": "form_4",
+            "to": "comparative_2"
+        },
+        {
+            "from": "form_4",
+            "to": "life_1"
+        },
+        {
+            "from": "form_4",
+            "to": "pain_1"
+        },
+        {
+            "from": "formal_2",
+            "to": "people_2"
+        },
+        {
+            "from": "formal_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "forward_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "forward_1",
+            "to": "front_1"
+        },
+        {
+            "from": "forward_1",
+            "to": "progress_1"
+        },
+        {
+            "from": "forward_1",
+            "to": "expect_2"
+        },
+        {
+            "from": "forward_1",
+            "to": "time_2"
+        },
+        {
+            "from": "forward_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "forward_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "foundation_1",
+            "to": "basis_1"
+        },
+        {
+            "from": "foundation_1",
+            "to": "word_1"
+        },
+        {
+            "from": "free_3",
+            "to": "sure_1"
+        },
+        {
+            "from": "free_3",
+            "to": "ease_1"
+        },
+        {
+            "from": "free_4",
+            "to": "develop_1"
+        },
+        {
+            "from": "free_4",
+            "to": "rest_2"
+        },
+        {
+            "from": "free_4",
+            "to": "idea_2"
+        },
+        {
+            "from": "free_4",
+            "to": "authority_3"
+        },
+        {
+            "from": "front_1",
+            "to": "back_3"
+        },
+        {
+            "from": "front_1",
+            "to": "dimension_1"
+        },
+        {
+            "from": "function_1",
+            "to": "active_2"
+        },
+        {
+            "from": "function_1",
+            "to": "behave_1"
+        },
+        {
+            "from": "function_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "function_1",
+            "to": "power_1"
+        },
+        {
+            "from": "function_1",
+            "to": "extent_1"
+        },
+        {
+            "from": "give_3",
+            "to": "sentence_1"
+        },
+        {
+            "from": "give_3",
+            "to": "decide_1"
+        },
+        {
+            "from": "go_11",
+            "to": "continue_3"
+        },
+        {
+            "from": "go_11",
+            "to": "last_4"
+        },
+        {
+            "from": "go_11",
+            "to": "move_2"
+        },
+        {
+            "from": "go_11",
+            "to": "remain_1"
+        },
+        {
+            "from": "goal_1",
+            "to": "end_4"
+        },
+        {
+            "from": "goal_1",
+            "to": "assist_1"
+        },
+        {
+            "from": "goal_1",
+            "to": "role_2"
+        },
+        {
+            "from": "goal_1",
+            "to": "part_3"
+        },
+        {
+            "from": "goal_1",
+            "to": "behave_1"
+        },
+        {
+            "from": "goal_1",
+            "to": "hold_6"
+        },
+        {
+            "from": "good_1",
+            "to": "acceptable_1"
+        },
+        {
+            "from": "good_1",
+            "to": "business_2"
+        },
+        {
+            "from": "good_1",
+            "to": "well_1"
+        },
+        {
+            "from": "good_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "good_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "good_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "good_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "good_2",
+            "to": "right_1"
+        },
+        {
+            "from": "good_2",
+            "to": "wrong_2"
+        },
+        {
+            "from": "good_2",
+            "to": "acceptable_1"
+        },
+        {
+            "from": "good_2",
+            "to": "guide_2"
+        },
+        {
+            "from": "good_2",
+            "to": "idea_2"
+        },
+        {
+            "from": "good_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "great_3",
+            "to": "important_1"
+        },
+        {
+            "from": "great_3",
+            "to": "damage_1"
+        },
+        {
+            "from": "great_3",
+            "to": "word_1"
+        },
+        {
+            "from": "great_3",
+            "to": "people_2"
+        },
+        {
+            "from": "grow_4",
+            "to": "go_11"
+        },
+        {
+            "from": "grow_4",
+            "to": "learn_2"
+        },
+        {
+            "from": "grow_4",
+            "to": "perceive_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "fear_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "pronoun_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "develop_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "safe_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "machine_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "free_3"
+        },
+        {
+            "from": "grow_4",
+            "to": "participle_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "function_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "verb_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "life_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "young_1"
+        },
+        {
+            "from": "grow_4",
+            "to": "ease_1"
+        },
+        {
+            "from": "guide_2",
+            "to": "rule_1"
+        },
+        {
+            "from": "guide_2",
+            "to": "correct_3"
+        },
+        {
+            "from": "hand_1",
+            "to": "give_3"
+        },
+        {
+            "from": "hand_1",
+            "to": "hold_1"
+        },
+        {
+            "from": "hand_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "hand_1",
+            "to": "free_3"
+        },
+        {
+            "from": "have_1",
+            "to": "able_1"
+        },
+        {
+            "from": "have_1",
+            "to": "certain_1"
+        },
+        {
+            "from": "have_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "have_1",
+            "to": "concern_1"
+        },
+        {
+            "from": "have_1",
+            "to": "good_1"
+        },
+        {
+            "from": "have_1",
+            "to": "hold_1"
+        },
+        {
+            "from": "have_1",
+            "to": "important_1"
+        },
+        {
+            "from": "have_1",
+            "to": "long_1"
+        },
+        {
+            "from": "have_1",
+            "to": "moral_1"
+        },
+        {
+            "from": "have_1",
+            "to": "particular_1"
+        },
+        {
+            "from": "have_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "have_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "have_1",
+            "to": "possess_1"
+        },
+        {
+            "from": "have_1",
+            "to": "professional_1"
+        },
+        {
+            "from": "have_1",
+            "to": "see_7"
+        },
+        {
+            "from": "have_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "have_1",
+            "to": "similar_1"
+        },
+        {
+            "from": "have_1",
+            "to": "strong_1"
+        },
+        {
+            "from": "have_1",
+            "to": "strong_2"
+        },
+        {
+            "from": "have_1",
+            "to": "thin_2"
+        },
+        {
+            "from": "have_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "have_1",
+            "to": "permission_2"
+        },
+        {
+            "from": "have_1",
+            "to": "possible_1"
+        },
+        {
+            "from": "have_1",
+            "to": "high_5"
+        },
+        {
+            "from": "have_1",
+            "to": "great_3"
+        },
+        {
+            "from": "have_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "have_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "have_1",
+            "to": "system_1"
+        },
+        {
+            "from": "have_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "have_1",
+            "to": "as_1"
+        },
+        {
+            "from": "have_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "have_1",
+            "to": "acquaint_1"
+        },
+        {
+            "from": "have_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "have_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "have_1",
+            "to": "function_1"
+        },
+        {
+            "from": "have_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "have_1",
+            "to": "shock_1"
+        },
+        {
+            "from": "have_1",
+            "to": "last_2"
+        },
+        {
+            "from": "have_1",
+            "to": "just_1"
+        },
+        {
+            "from": "have_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "have_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "high_5",
+            "to": "dimension_1"
+        },
+        {
+            "from": "high_5",
+            "to": "fair_1"
+        },
+        {
+            "from": "hold_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "hold_1",
+            "to": "deal_1"
+        },
+        {
+            "from": "hold_1",
+            "to": "wear_1"
+        },
+        {
+            "from": "hold_4",
+            "to": "free_3"
+        },
+        {
+            "from": "hold_4",
+            "to": "ease_1"
+        },
+        {
+            "from": "hold_6",
+            "to": "limit_2"
+        },
+        {
+            "from": "hold_6",
+            "to": "restrain_1"
+        },
+        {
+            "from": "human_1",
+            "to": "animal_2"
+        },
+        {
+            "from": "human_1",
+            "to": "child_1"
+        },
+        {
+            "from": "human_1",
+            "to": "hand_1"
+        },
+        {
+            "from": "human_1",
+            "to": "people_1"
+        },
+        {
+            "from": "human_1",
+            "to": "person_1"
+        },
+        {
+            "from": "human_1",
+            "to": "voice_1"
+        },
+        {
+            "from": "human_1",
+            "to": "time_2"
+        },
+        {
+            "from": "human_1",
+            "to": "form_2"
+        },
+        {
+            "from": "human_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "human_1",
+            "to": "life_1"
+        },
+        {
+            "from": "human_1",
+            "to": "people_2"
+        },
+        {
+            "from": "human_1",
+            "to": "function_1"
+        },
+        {
+            "from": "human_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "idea_2",
+            "to": "advice_1"
+        },
+        {
+            "from": "idea_2",
+            "to": "belief_2"
+        },
+        {
+            "from": "idea_2",
+            "to": "assist_1"
+        },
+        {
+            "from": "idea_2",
+            "to": "people_2"
+        },
+        {
+            "from": "image_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "image_1",
+            "to": "device_1"
+        },
+        {
+            "from": "importance_1",
+            "to": "important_1"
+        },
+        {
+            "from": "importance_1",
+            "to": "attention_2"
+        },
+        {
+            "from": "importance_1",
+            "to": "good_1"
+        },
+        {
+            "from": "importance_1",
+            "to": "great_3"
+        },
+        {
+            "from": "importance_1",
+            "to": "as_1"
+        },
+        {
+            "from": "importance_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "importance_1",
+            "to": "word_1"
+        },
+        {
+            "from": "important_1",
+            "to": "great_3"
+        },
+        {
+            "from": "important_1",
+            "to": "high_5"
+        },
+        {
+            "from": "important_1",
+            "to": "importance_1"
+        },
+        {
+            "from": "important_1",
+            "to": "serious_3"
+        },
+        {
+            "from": "important_1",
+            "to": "time_2"
+        },
+        {
+            "from": "important_1",
+            "to": "feature_2"
+        },
+        {
+            "from": "important_1",
+            "to": "damage_1"
+        },
+        {
+            "from": "important_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "important_1",
+            "to": "word_1"
+        },
+        {
+            "from": "influence_1",
+            "to": "concern_1"
+        },
+        {
+            "from": "influence_1",
+            "to": "just_1"
+        },
+        {
+            "from": "influence_1",
+            "to": "firm_2"
+        },
+        {
+            "from": "information_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "information_1",
+            "to": "communication_1"
+        },
+        {
+            "from": "information_1",
+            "to": "judgment_1"
+        },
+        {
+            "from": "information_1",
+            "to": "know_1"
+        },
+        {
+            "from": "information_1",
+            "to": "message_1"
+        },
+        {
+            "from": "information_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "information_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "information_1",
+            "to": "language_1"
+        },
+        {
+            "from": "information_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "information_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "information_1",
+            "to": "learn_2"
+        },
+        {
+            "from": "information_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "information_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "information_1",
+            "to": "speed_2"
+        },
+        {
+            "from": "injury_1",
+            "to": "damage_1"
+        },
+        {
+            "from": "injury_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "interest_1",
+            "to": "community_2"
+        },
+        {
+            "from": "interest_1",
+            "to": "matter_2"
+        },
+        {
+            "from": "interest_1",
+            "to": "affection_1"
+        },
+        {
+            "from": "interest_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "item_1",
+            "to": "function_1"
+        },
+        {
+            "from": "item_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "job_1",
+            "to": "professional_1"
+        },
+        {
+            "from": "job_1",
+            "to": "business_1"
+        },
+        {
+            "from": "join_1",
+            "to": "attach_1"
+        },
+        {
+            "from": "join_1",
+            "to": "connect_1"
+        },
+        {
+            "from": "join_1",
+            "to": "fasten_1"
+        },
+        {
+            "from": "join_1",
+            "to": "link_2"
+        },
+        {
+            "from": "join_1",
+            "to": "structure_1"
+        },
+        {
+            "from": "join_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "join_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "judge_3",
+            "to": "sense_4"
+        },
+        {
+            "from": "judge_3",
+            "to": "think_2"
+        },
+        {
+            "from": "judgment_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "judgment_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "judgment_1",
+            "to": "great_3"
+        },
+        {
+            "from": "judgment_1",
+            "to": "idea_2"
+        },
+        {
+            "from": "judgment_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "just_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "just_1",
+            "to": "last_2"
+        },
+        {
+            "from": "just_1",
+            "to": "past_3"
+        },
+        {
+            "from": "just_1",
+            "to": "know_1"
+        },
+        {
+            "from": "keep_1",
+            "to": "consider_3"
+        },
+        {
+            "from": "keep_1",
+            "to": "hold_4"
+        },
+        {
+            "from": "keep_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "keep_1",
+            "to": "control_2"
+        },
+        {
+            "from": "keep_1",
+            "to": "distinct_1"
+        },
+        {
+            "from": "keep_4",
+            "to": "right_1"
+        },
+        {
+            "from": "keep_4",
+            "to": "function_1"
+        },
+        {
+            "from": "keep_4",
+            "to": "correct_1"
+        },
+        {
+            "from": "keep_4",
+            "to": "persist_2"
+        },
+        {
+            "from": "keep_4",
+            "to": "ease_1"
+        },
+        {
+            "from": "kind_4",
+            "to": "arrange_1"
+        },
+        {
+            "from": "kind_4",
+            "to": "form_4"
+        },
+        {
+            "from": "kind_4",
+            "to": "influence_1"
+        },
+        {
+            "from": "kind_4",
+            "to": "sort_1"
+        },
+        {
+            "from": "kind_4",
+            "to": "such_1"
+        },
+        {
+            "from": "know_1",
+            "to": "interest_1"
+        },
+        {
+            "from": "know_1",
+            "to": "judge_3"
+        },
+        {
+            "from": "know_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "know_1",
+            "to": "word_1"
+        },
+        {
+            "from": "know_3",
+            "to": "aware_1"
+        },
+        {
+            "from": "know_3",
+            "to": "certain_2"
+        },
+        {
+            "from": "know_3",
+            "to": "definite_2"
+        },
+        {
+            "from": "know_3",
+            "to": "doubt_1"
+        },
+        {
+            "from": "know_3",
+            "to": "expect_2"
+        },
+        {
+            "from": "know_3",
+            "to": "fact_1"
+        },
+        {
+            "from": "know_3",
+            "to": "name_1"
+        },
+        {
+            "from": "know_3",
+            "to": "uncertain_1"
+        },
+        {
+            "from": "know_3",
+            "to": "relate_2"
+        },
+        {
+            "from": "know_3",
+            "to": "section_1"
+        },
+        {
+            "from": "know_3",
+            "to": "appearance_2"
+        },
+        {
+            "from": "know_3",
+            "to": "people_2"
+        },
+        {
+            "from": "know_3",
+            "to": "assist_1"
+        },
+        {
+            "from": "language_1",
+            "to": "speech_2"
+        },
+        {
+            "from": "language_1",
+            "to": "word_1"
+        },
+        {
+            "from": "language_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "language_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "language_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "last_2",
+            "to": "hand_1"
+        },
+        {
+            "from": "last_2",
+            "to": "decide_1"
+        },
+        {
+            "from": "last_4",
+            "to": "continue_1"
+        },
+        {
+            "from": "last_4",
+            "to": "extend_1"
+        },
+        {
+            "from": "law_1",
+            "to": "rule_1"
+        },
+        {
+            "from": "law_1",
+            "to": "permission_2"
+        },
+        {
+            "from": "law_1",
+            "to": "people_2"
+        },
+        {
+            "from": "law_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "law_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "layer_1",
+            "to": "spread_2"
+        },
+        {
+            "from": "layer_1",
+            "to": "surface_1"
+        },
+        {
+            "from": "learn_2",
+            "to": "interest_1"
+        },
+        {
+            "from": "learn_2",
+            "to": "high_5"
+        },
+        {
+            "from": "learn_2",
+            "to": "assist_1"
+        },
+        {
+            "from": "learn_2",
+            "to": "judgment_1"
+        },
+        {
+            "from": "length_1",
+            "to": "dimension_1"
+        },
+        {
+            "from": "length_1",
+            "to": "end_1"
+        },
+        {
+            "from": "length_1",
+            "to": "reach_7"
+        },
+        {
+            "from": "length_1",
+            "to": "width_1"
+        },
+        {
+            "from": "length_1",
+            "to": "function_1"
+        },
+        {
+            "from": "length_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "length_1",
+            "to": "total_1"
+        },
+        {
+            "from": "length_1",
+            "to": "environment_1"
+        },
+        {
+            "from": "length_1",
+            "to": "same_2"
+        },
+        {
+            "from": "less_2",
+            "to": "damage_1"
+        },
+        {
+            "from": "less_2",
+            "to": "safe_1"
+        },
+        {
+            "from": "less_2",
+            "to": "authority_3"
+        },
+        {
+            "from": "life_1",
+            "to": "live_1"
+        },
+        {
+            "from": "life_1",
+            "to": "young_1"
+        },
+        {
+            "from": "life_1",
+            "to": "people_1"
+        },
+        {
+            "from": "life_1",
+            "to": "person_1"
+        },
+        {
+            "from": "life_1",
+            "to": "self_1"
+        },
+        {
+            "from": "life_1",
+            "to": "voice_1"
+        },
+        {
+            "from": "like_3",
+            "to": "affection_1"
+        },
+        {
+            "from": "like_3",
+            "to": "just_1"
+        },
+        {
+            "from": "likely_1",
+            "to": "expect_2"
+        },
+        {
+            "from": "likely_1",
+            "to": "probable_1"
+        },
+        {
+            "from": "likeness_1",
+            "to": "image_1"
+        },
+        {
+            "from": "likeness_1",
+            "to": "similar_1"
+        },
+        {
+            "from": "limit_2",
+            "to": "free_3"
+        },
+        {
+            "from": "limit_2",
+            "to": "thing_4"
+        },
+        {
+            "from": "limit_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "line_1",
+            "to": "arrange_1"
+        },
+        {
+            "from": "line_1",
+            "to": "know_1"
+        },
+        {
+            "from": "line_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "link_2",
+            "to": "connect_1"
+        },
+        {
+            "from": "link_2",
+            "to": "relate_2"
+        },
+        {
+            "from": "list_1",
+            "to": "item_1"
+        },
+        {
+            "from": "list_1",
+            "to": "time_2"
+        },
+        {
+            "from": "little_1",
+            "to": "small_1"
+        },
+        {
+            "from": "little_1",
+            "to": "thin_2"
+        },
+        {
+            "from": "little_1",
+            "to": "function_1"
+        },
+        {
+            "from": "live_1",
+            "to": "creature_1"
+        },
+        {
+            "from": "live_1",
+            "to": "birth_2"
+        },
+        {
+            "from": "live_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "live_1",
+            "to": "just_1"
+        },
+        {
+            "from": "live_1",
+            "to": "people_2"
+        },
+        {
+            "from": "long_1",
+            "to": "continue_1"
+        },
+        {
+            "from": "long_1",
+            "to": "extend_1"
+        },
+        {
+            "from": "long_1",
+            "to": "line_1"
+        },
+        {
+            "from": "long_1",
+            "to": "last_2"
+        },
+        {
+            "from": "long_1",
+            "to": "rest_2"
+        },
+        {
+            "from": "long_1",
+            "to": "function_1"
+        },
+        {
+            "from": "long_1",
+            "to": "free_3"
+        },
+        {
+            "from": "long_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "long_1",
+            "to": "distinct_1"
+        },
+        {
+            "from": "long_1",
+            "to": "forward_1"
+        },
+        {
+            "from": "long_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "love_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "love_1",
+            "to": "people_2"
+        },
+        {
+            "from": "low_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "low_1",
+            "to": "just_1"
+        },
+        {
+            "from": "low_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "machine_1",
+            "to": "device_1"
+        },
+        {
+            "from": "machine_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "machine_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "matter_2",
+            "to": "thing_4"
+        },
+        {
+            "from": "matter_2",
+            "to": "think_2"
+        },
+        {
+            "from": "matter_2",
+            "to": "problem_1"
+        },
+        {
+            "from": "member_1",
+            "to": "share_1"
+        },
+        {
+            "from": "member_1",
+            "to": "people_2"
+        },
+        {
+            "from": "member_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "member_1",
+            "to": "law_1"
+        },
+        {
+            "from": "member_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "message_1",
+            "to": "communication_1"
+        },
+        {
+            "from": "message_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "mistake_1",
+            "to": "correct_1"
+        },
+        {
+            "from": "mistake_1",
+            "to": "error_1"
+        },
+        {
+            "from": "mistake_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "mistake_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "money_1",
+            "to": "business_1"
+        },
+        {
+            "from": "money_1",
+            "to": "business_2"
+        },
+        {
+            "from": "money_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "money_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "money_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "moral_1",
+            "to": "character_2"
+        },
+        {
+            "from": "moral_1",
+            "to": "wrong_2"
+        },
+        {
+            "from": "moral_1",
+            "to": "know_1"
+        },
+        {
+            "from": "move_2",
+            "to": "expect_2"
+        },
+        {
+            "from": "move_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "move_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "movement_2",
+            "to": "course_1"
+        },
+        {
+            "from": "movement_2",
+            "to": "plural_1"
+        },
+        {
+            "from": "name_1",
+            "to": "list_1"
+        },
+        {
+            "from": "name_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "name_1",
+            "to": "time_2"
+        },
+        {
+            "from": "nature_1",
+            "to": "high_5"
+        },
+        {
+            "from": "nature_1",
+            "to": "self_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "complete_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "able_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "aside_3"
+        },
+        {
+            "from": "necessary_1",
+            "to": "basis_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "enough_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "serious_3"
+        },
+        {
+            "from": "necessary_1",
+            "to": "possible_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "free_3"
+        },
+        {
+            "from": "necessary_1",
+            "to": "share_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "word_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "business_1"
+        },
+        {
+            "from": "necessary_1",
+            "to": "people_2"
+        },
+        {
+            "from": "nervous_3",
+            "to": "anxious_1"
+        },
+        {
+            "from": "nervous_3",
+            "to": "uneasy_1"
+        },
+        {
+            "from": "note_2",
+            "to": "money_1"
+        },
+        {
+            "from": "note_2",
+            "to": "comparative_2"
+        },
+        {
+            "from": "now_3",
+            "to": "last_2"
+        },
+        {
+            "from": "now_3",
+            "to": "people_2"
+        },
+        {
+            "from": "object_1",
+            "to": "function_1"
+        },
+        {
+            "from": "object_1",
+            "to": "shape_1"
+        },
+        {
+            "from": "object_1",
+            "to": "symbol_1"
+        },
+        {
+            "from": "object_1",
+            "to": "thing_2"
+        },
+        {
+            "from": "object_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "object_1",
+            "to": "deal_1"
+        },
+        {
+            "from": "object_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "object_1",
+            "to": "back_3"
+        },
+        {
+            "from": "object_1",
+            "to": "front_1"
+        },
+        {
+            "from": "object_1",
+            "to": "width_1"
+        },
+        {
+            "from": "observation_1",
+            "to": "attention_2"
+        },
+        {
+            "from": "observation_1",
+            "to": "sudden_1"
+        },
+        {
+            "from": "observation_1",
+            "to": "acquaint_1"
+        },
+        {
+            "from": "observation_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "order_3",
+            "to": "arrange_1"
+        },
+        {
+            "from": "order_3",
+            "to": "phrase_1"
+        },
+        {
+            "from": "order_3",
+            "to": "set_3"
+        },
+        {
+            "from": "order_3",
+            "to": "time_2"
+        },
+        {
+            "from": "order_3",
+            "to": "decide_1"
+        },
+        {
+            "from": "organization_3",
+            "to": "company_1"
+        },
+        {
+            "from": "organization_3",
+            "to": "permission_2"
+        },
+        {
+            "from": "other_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "other_1",
+            "to": "animal_2"
+        },
+        {
+            "from": "other_1",
+            "to": "apart_1"
+        },
+        {
+            "from": "other_1",
+            "to": "basis_1"
+        },
+        {
+            "from": "other_1",
+            "to": "business_2"
+        },
+        {
+            "from": "other_1",
+            "to": "character_1"
+        },
+        {
+            "from": "other_1",
+            "to": "else_1"
+        },
+        {
+            "from": "other_1",
+            "to": "image_1"
+        },
+        {
+            "from": "other_1",
+            "to": "life_1"
+        },
+        {
+            "from": "other_1",
+            "to": "message_1"
+        },
+        {
+            "from": "other_1",
+            "to": "particular_1"
+        },
+        {
+            "from": "other_1",
+            "to": "type_1"
+        },
+        {
+            "from": "other_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "other_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "other_1",
+            "to": "just_1"
+        },
+        {
+            "from": "other_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "other_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "other_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "other_1",
+            "to": "shut_1"
+        },
+        {
+            "from": "other_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "other_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "outside_1",
+            "to": "firm_2"
+        },
+        {
+            "from": "outside_1",
+            "to": "surface_1"
+        },
+        {
+            "from": "outside_1",
+            "to": "appearance_2"
+        },
+        {
+            "from": "outside_1",
+            "to": "form_2"
+        },
+        {
+            "from": "outside_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "outside_1",
+            "to": "back_3"
+        },
+        {
+            "from": "own_1",
+            "to": "have_1"
+        },
+        {
+            "from": "own_1",
+            "to": "possess_1"
+        },
+        {
+            "from": "own_1",
+            "to": "self_1"
+        },
+        {
+            "from": "own_1",
+            "to": "just_1"
+        },
+        {
+            "from": "own_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "pain_1",
+            "to": "discomfort_1"
+        },
+        {
+            "from": "pain_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "pain_1",
+            "to": "fear_1"
+        },
+        {
+            "from": "pain_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "pain_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "part_1",
+            "to": "piece_1"
+        },
+        {
+            "from": "part_1",
+            "to": "section_1"
+        },
+        {
+            "from": "part_1",
+            "to": "whole_2"
+        },
+        {
+            "from": "part_3",
+            "to": "human_1"
+        },
+        {
+            "from": "part_3",
+            "to": "interest_1"
+        },
+        {
+            "from": "part_3",
+            "to": "participle_1"
+        },
+        {
+            "from": "part_3",
+            "to": "agree_2"
+        },
+        {
+            "from": "participle_1",
+            "to": "tell_1"
+        },
+        {
+            "from": "participle_1",
+            "to": "say_2"
+        },
+        {
+            "from": "participle_1",
+            "to": "speak_2"
+        },
+        {
+            "from": "participle_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "participle_1",
+            "to": "write_2"
+        },
+        {
+            "from": "participle_1",
+            "to": "danger_1"
+        },
+        {
+            "from": "participle_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "participle_1",
+            "to": "other_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "item_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "member_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "specific_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "time_6"
+        },
+        {
+            "from": "particular_1",
+            "to": "list_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "life_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "arrange_1"
+        },
+        {
+            "from": "particular_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "job_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "movement_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "put_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "regard_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "remain_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "sense_4"
+        },
+        {
+            "from": "particular_3",
+            "to": "set_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "side_6"
+        },
+        {
+            "from": "particular_3",
+            "to": "space_5"
+        },
+        {
+            "from": "particular_3",
+            "to": "way_8"
+        },
+        {
+            "from": "particular_3",
+            "to": "business_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "authority_3"
+        },
+        {
+            "from": "particular_3",
+            "to": "formal_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "participle_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "thing_4"
+        },
+        {
+            "from": "particular_3",
+            "to": "function_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "persist_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "speed_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "verb_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "clothe_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "give_3"
+        },
+        {
+            "from": "particular_3",
+            "to": "join_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "necessary_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "set_3"
+        },
+        {
+            "from": "particular_3",
+            "to": "spread_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "arrange_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "close_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "ease_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "agree_2"
+        },
+        {
+            "from": "particular_3",
+            "to": "word_1"
+        },
+        {
+            "from": "particular_3",
+            "to": "decide_1"
+        },
+        {
+            "from": "past_3",
+            "to": "recently_1"
+        },
+        {
+            "from": "past_3",
+            "to": "last_2"
+        },
+        {
+            "from": "people_1",
+            "to": "activity_2"
+        },
+        {
+            "from": "people_1",
+            "to": "community_2"
+        },
+        {
+            "from": "people_1",
+            "to": "human_1"
+        },
+        {
+            "from": "people_1",
+            "to": "language_1"
+        },
+        {
+            "from": "people_1",
+            "to": "permission_2"
+        },
+        {
+            "from": "people_1",
+            "to": "space_3"
+        },
+        {
+            "from": "people_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "people_1",
+            "to": "company_1"
+        },
+        {
+            "from": "people_1",
+            "to": "organization_3"
+        },
+        {
+            "from": "people_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "people_1",
+            "to": "fix_2"
+        },
+        {
+            "from": "people_1",
+            "to": "people_2"
+        },
+        {
+            "from": "people_1",
+            "to": "put_2"
+        },
+        {
+            "from": "people_1",
+            "to": "just_1"
+        },
+        {
+            "from": "people_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "people_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "people_2",
+            "to": "law_1"
+        },
+        {
+            "from": "people_2",
+            "to": "just_1"
+        },
+        {
+            "from": "people_2",
+            "to": "formal_2"
+        },
+        {
+            "from": "people_2",
+            "to": "thing_4"
+        },
+        {
+            "from": "perceive_1",
+            "to": "know_1"
+        },
+        {
+            "from": "perceive_1",
+            "to": "observation_1"
+        },
+        {
+            "from": "period_1",
+            "to": "time_6"
+        },
+        {
+            "from": "period_1",
+            "to": "time_2"
+        },
+        {
+            "from": "permission_2",
+            "to": "consent_1"
+        },
+        {
+            "from": "permission_2",
+            "to": "authority_3"
+        },
+        {
+            "from": "persist_2",
+            "to": "continue_3"
+        },
+        {
+            "from": "persist_2",
+            "to": "continue_1"
+        },
+        {
+            "from": "person_1",
+            "to": "behavior_1"
+        },
+        {
+            "from": "person_1",
+            "to": "belief_2"
+        },
+        {
+            "from": "person_1",
+            "to": "business_1"
+        },
+        {
+            "from": "person_1",
+            "to": "character_1"
+        },
+        {
+            "from": "person_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "person_1",
+            "to": "creature_1"
+        },
+        {
+            "from": "person_1",
+            "to": "form_2"
+        },
+        {
+            "from": "person_1",
+            "to": "function_1"
+        },
+        {
+            "from": "person_1",
+            "to": "goal_1"
+        },
+        {
+            "from": "person_1",
+            "to": "image_1"
+        },
+        {
+            "from": "person_1",
+            "to": "influence_1"
+        },
+        {
+            "from": "person_1",
+            "to": "judge_3"
+        },
+        {
+            "from": "person_1",
+            "to": "love_1"
+        },
+        {
+            "from": "person_1",
+            "to": "message_1"
+        },
+        {
+            "from": "person_1",
+            "to": "moral_1"
+        },
+        {
+            "from": "person_1",
+            "to": "nature_1"
+        },
+        {
+            "from": "person_1",
+            "to": "organization_3"
+        },
+        {
+            "from": "person_1",
+            "to": "particular_1"
+        },
+        {
+            "from": "person_1",
+            "to": "people_1"
+        },
+        {
+            "from": "person_1",
+            "to": "people_2"
+        },
+        {
+            "from": "person_1",
+            "to": "quality_1"
+        },
+        {
+            "from": "person_1",
+            "to": "role_2"
+        },
+        {
+            "from": "person_1",
+            "to": "speaker_1"
+        },
+        {
+            "from": "person_1",
+            "to": "specific_1"
+        },
+        {
+            "from": "person_1",
+            "to": "thing_2"
+        },
+        {
+            "from": "person_1",
+            "to": "trust_1"
+        },
+        {
+            "from": "person_1",
+            "to": "wear_1"
+        },
+        {
+            "from": "person_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "person_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "person_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "person_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "person_1",
+            "to": "high_5"
+        },
+        {
+            "from": "person_1",
+            "to": "assist_1"
+        },
+        {
+            "from": "person_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "person_1",
+            "to": "great_3"
+        },
+        {
+            "from": "person_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "person_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "person_1",
+            "to": "just_1"
+        },
+        {
+            "from": "person_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "person_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "person_1",
+            "to": "free_3"
+        },
+        {
+            "from": "person_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "person_1",
+            "to": "member_1"
+        },
+        {
+            "from": "person_1",
+            "to": "idea_2"
+        },
+        {
+            "from": "person_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "phrase_1",
+            "to": "pronoun_1"
+        },
+        {
+            "from": "phrase_1",
+            "to": "subject_5"
+        },
+        {
+            "from": "picture_2",
+            "to": "describe_1"
+        },
+        {
+            "from": "picture_2",
+            "to": "device_1"
+        },
+        {
+            "from": "piece_1",
+            "to": "job_1"
+        },
+        {
+            "from": "piece_1",
+            "to": "part_1"
+        },
+        {
+            "from": "piece_1",
+            "to": "whole_2"
+        },
+        {
+            "from": "piece_1",
+            "to": "function_1"
+        },
+        {
+            "from": "piece_1",
+            "to": "device_1"
+        },
+        {
+            "from": "piece_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "place_1",
+            "to": "bring_1"
+        },
+        {
+            "from": "place_1",
+            "to": "space_3"
+        },
+        {
+            "from": "place_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "place_1",
+            "to": "free_3"
+        },
+        {
+            "from": "place_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "place_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "place_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "place_1",
+            "to": "distinct_1"
+        },
+        {
+            "from": "place_1",
+            "to": "law_1"
+        },
+        {
+            "from": "place_1",
+            "to": "end_4"
+        },
+        {
+            "from": "place_1",
+            "to": "goal_1"
+        },
+        {
+            "from": "place_1",
+            "to": "people_2"
+        },
+        {
+            "from": "place_2",
+            "to": "character_1"
+        },
+        {
+            "from": "place_2",
+            "to": "distance_1"
+        },
+        {
+            "from": "place_2",
+            "to": "people_2"
+        },
+        {
+            "from": "place_2",
+            "to": "authority_3"
+        },
+        {
+            "from": "place_2",
+            "to": "participle_1"
+        },
+        {
+            "from": "place_2",
+            "to": "decide_1"
+        },
+        {
+            "from": "place_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "place_2",
+            "to": "message_1"
+        },
+        {
+            "from": "plan_2",
+            "to": "set_3"
+        },
+        {
+            "from": "plan_2",
+            "to": "assist_1"
+        },
+        {
+            "from": "plan_2",
+            "to": "fail_1"
+        },
+        {
+            "from": "plural_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "plural_1",
+            "to": "permission_2"
+        },
+        {
+            "from": "plural_1",
+            "to": "just_1"
+        },
+        {
+            "from": "plural_1",
+            "to": "sense_1"
+        },
+        {
+            "from": "plural_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "plural_1",
+            "to": "shut_1"
+        },
+        {
+            "from": "point_3",
+            "to": "end_1"
+        },
+        {
+            "from": "point_3",
+            "to": "top_1"
+        },
+        {
+            "from": "point_3",
+            "to": "function_1"
+        },
+        {
+            "from": "point_3",
+            "to": "participle_1"
+        },
+        {
+            "from": "positive_1",
+            "to": "certain_1"
+        },
+        {
+            "from": "positive_1",
+            "to": "sure_1"
+        },
+        {
+            "from": "possess_1",
+            "to": "have_1"
+        },
+        {
+            "from": "possess_1",
+            "to": "wear_1"
+        },
+        {
+            "from": "possible_1",
+            "to": "available_1"
+        },
+        {
+            "from": "possible_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "power_1",
+            "to": "ability_1"
+        },
+        {
+            "from": "power_1",
+            "to": "able_1"
+        },
+        {
+            "from": "power_1",
+            "to": "energy_1"
+        },
+        {
+            "from": "power_1",
+            "to": "influence_1"
+        },
+        {
+            "from": "power_1",
+            "to": "reason_2"
+        },
+        {
+            "from": "power_1",
+            "to": "see_7"
+        },
+        {
+            "from": "power_1",
+            "to": "strong_1"
+        },
+        {
+            "from": "power_1",
+            "to": "strong_2"
+        },
+        {
+            "from": "power_1",
+            "to": "possible_1"
+        },
+        {
+            "from": "power_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "power_1",
+            "to": "shock_1"
+        },
+        {
+            "from": "power_1",
+            "to": "free_3"
+        },
+        {
+            "from": "power_1",
+            "to": "firm_2"
+        },
+        {
+            "from": "power_1",
+            "to": "idea_2"
+        },
+        {
+            "from": "probable_1",
+            "to": "likely_1"
+        },
+        {
+            "from": "probable_1",
+            "to": "danger_1"
+        },
+        {
+            "from": "problem_1",
+            "to": "injury_1"
+        },
+        {
+            "from": "problem_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "professional_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "professional_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "progress_1",
+            "to": "course_1"
+        },
+        {
+            "from": "progress_1",
+            "to": "move_2"
+        },
+        {
+            "from": "progress_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "progress_1",
+            "to": "close_1"
+        },
+        {
+            "from": "pronoun_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "pronoun_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "fit_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "well_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "correct_3"
+        },
+        {
+            "from": "proper_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "function_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "danger_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "own_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "proper_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "put_2",
+            "to": "arrange_1"
+        },
+        {
+            "from": "put_2",
+            "to": "set_2"
+        },
+        {
+            "from": "put_2",
+            "to": "hold_6"
+        },
+        {
+            "from": "put_2",
+            "to": "set_3"
+        },
+        {
+            "from": "put_2",
+            "to": "plural_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "ability_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "character_2"
+        },
+        {
+            "from": "quality_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "feature_2"
+        },
+        {
+            "from": "quality_1",
+            "to": "importance_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "nature_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "similarity_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "strength_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "function_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "type_1"
+        },
+        {
+            "from": "quality_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "reach_7",
+            "to": "extent_1"
+        },
+        {
+            "from": "reach_7",
+            "to": "function_1"
+        },
+        {
+            "from": "reach_7",
+            "to": "free_3"
+        },
+        {
+            "from": "reason_2",
+            "to": "phrase_1"
+        },
+        {
+            "from": "reason_2",
+            "to": "understanding_1"
+        },
+        {
+            "from": "recently_1",
+            "to": "past_3"
+        },
+        {
+            "from": "recently_1",
+            "to": "birth_2"
+        },
+        {
+            "from": "recently_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "recently_1",
+            "to": "device_1"
+        },
+        {
+            "from": "regard_1",
+            "to": "like_3"
+        },
+        {
+            "from": "regard_1",
+            "to": "speed_2"
+        },
+        {
+            "from": "relate_2",
+            "to": "thing_4"
+        },
+        {
+            "from": "relate_2",
+            "to": "specific_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "keep_4"
+        },
+        {
+            "from": "remain_1",
+            "to": "stand_2"
+        },
+        {
+            "from": "remain_1",
+            "to": "thorough_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "keep_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "just_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "common_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "length_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "width_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "permission_2"
+        },
+        {
+            "from": "remain_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "remain_1",
+            "to": "back_3"
+        },
+        {
+            "from": "rest_2",
+            "to": "just_1"
+        },
+        {
+            "from": "rest_2",
+            "to": "role_2"
+        },
+        {
+            "from": "restrain_1",
+            "to": "control_2"
+        },
+        {
+            "from": "restrain_1",
+            "to": "limit_2"
+        },
+        {
+            "from": "right_1",
+            "to": "good_2"
+        },
+        {
+            "from": "right_1",
+            "to": "moral_1"
+        },
+        {
+            "from": "right_1",
+            "to": "people_2"
+        },
+        {
+            "from": "role_2",
+            "to": "function_1"
+        },
+        {
+            "from": "role_2",
+            "to": "part_3"
+        },
+        {
+            "from": "rule_1",
+            "to": "law_1"
+        },
+        {
+            "from": "rule_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "safe_1",
+            "to": "danger_1"
+        },
+        {
+            "from": "safe_1",
+            "to": "free_3"
+        },
+        {
+            "from": "same_2",
+            "to": "people_2"
+        },
+        {
+            "from": "same_2",
+            "to": "alike_1"
+        },
+        {
+            "from": "same_2",
+            "to": "function_1"
+        },
+        {
+            "from": "same_2",
+            "to": "assist_1"
+        },
+        {
+            "from": "same_2",
+            "to": "participle_1"
+        },
+        {
+            "from": "say_2",
+            "to": "fact_1"
+        },
+        {
+            "from": "say_2",
+            "to": "sentence_1"
+        },
+        {
+            "from": "say_2",
+            "to": "phrase_1"
+        },
+        {
+            "from": "say_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "section_1",
+            "to": "part_1"
+        },
+        {
+            "from": "section_1",
+            "to": "period_1"
+        },
+        {
+            "from": "section_1",
+            "to": "piece_1"
+        },
+        {
+            "from": "see_7",
+            "to": "object_1"
+        },
+        {
+            "from": "see_7",
+            "to": "influence_1"
+        },
+        {
+            "from": "self_1",
+            "to": "high_5"
+        },
+        {
+            "from": "self_1",
+            "to": "free_3"
+        },
+        {
+            "from": "sense_1",
+            "to": "observation_1"
+        },
+        {
+            "from": "sense_1",
+            "to": "perceive_1"
+        },
+        {
+            "from": "sense_4",
+            "to": "feel_2"
+        },
+        {
+            "from": "sense_4",
+            "to": "high_5"
+        },
+        {
+            "from": "sense_4",
+            "to": "phrase_1"
+        },
+        {
+            "from": "sentence_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "sentence_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "sentence_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "sentence_1",
+            "to": "pronoun_1"
+        },
+        {
+            "from": "sentence_1",
+            "to": "subject_5"
+        },
+        {
+            "from": "sentence_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "serious_3",
+            "to": "high_5"
+        },
+        {
+            "from": "serious_3",
+            "to": "careful_1"
+        },
+        {
+            "from": "serious_3",
+            "to": "carefully_1"
+        },
+        {
+            "from": "serious_3",
+            "to": "ease_1"
+        },
+        {
+            "from": "set_2",
+            "to": "distinct_1"
+        },
+        {
+            "from": "set_2",
+            "to": "fix_2"
+        },
+        {
+            "from": "set_2",
+            "to": "life_1"
+        },
+        {
+            "from": "set_2",
+            "to": "space_5"
+        },
+        {
+            "from": "set_2",
+            "to": "time_6"
+        },
+        {
+            "from": "set_2",
+            "to": "type_1"
+        },
+        {
+            "from": "set_2",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "set_2",
+            "to": "people_2"
+        },
+        {
+            "from": "set_3",
+            "to": "aside_3"
+        },
+        {
+            "from": "set_3",
+            "to": "order_3"
+        },
+        {
+            "from": "set_3",
+            "to": "function_1"
+        },
+        {
+            "from": "set_3",
+            "to": "adjective_1"
+        },
+        {
+            "from": "set_3",
+            "to": "ease_1"
+        },
+        {
+            "from": "shape_1",
+            "to": "form_1"
+        },
+        {
+            "from": "shape_1",
+            "to": "form_2"
+        },
+        {
+            "from": "shape_1",
+            "to": "object_1"
+        },
+        {
+            "from": "shape_1",
+            "to": "arrange_1"
+        },
+        {
+            "from": "shape_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "shape_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "share_1",
+            "to": "common_1"
+        },
+        {
+            "from": "share_1",
+            "to": "community_2"
+        },
+        {
+            "from": "share_1",
+            "to": "type_1"
+        },
+        {
+            "from": "share_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "share_1",
+            "to": "people_2"
+        },
+        {
+            "from": "share_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "shock_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "shock_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "shut_1",
+            "to": "close_1"
+        },
+        {
+            "from": "shut_1",
+            "to": "free_3"
+        },
+        {
+            "from": "side_6",
+            "to": "outside_1"
+        },
+        {
+            "from": "side_6",
+            "to": "free_3"
+        },
+        {
+            "from": "similar_1",
+            "to": "likeness_1"
+        },
+        {
+            "from": "similar_1",
+            "to": "similarity_1"
+        },
+        {
+            "from": "similar_1",
+            "to": "unit_1"
+        },
+        {
+            "from": "similar_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "similarity_1",
+            "to": "likeness_1"
+        },
+        {
+            "from": "similarity_1",
+            "to": "comparative_2"
+        },
+        {
+            "from": "size_1",
+            "to": "dimension_1"
+        },
+        {
+            "from": "size_1",
+            "to": "little_1"
+        },
+        {
+            "from": "small_1",
+            "to": "less_2"
+        },
+        {
+            "from": "small_1",
+            "to": "little_1"
+        },
+        {
+            "from": "small_1",
+            "to": "safe_1"
+        },
+        {
+            "from": "small_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "small_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "small_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "small_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "sort_1",
+            "to": "kind_4"
+        },
+        {
+            "from": "sort_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "space_3",
+            "to": "apart_1"
+        },
+        {
+            "from": "space_3",
+            "to": "area_3"
+        },
+        {
+            "from": "space_3",
+            "to": "distance_1"
+        },
+        {
+            "from": "space_3",
+            "to": "order_3"
+        },
+        {
+            "from": "space_3",
+            "to": "side_6"
+        },
+        {
+            "from": "space_3",
+            "to": "participle_1"
+        },
+        {
+            "from": "space_3",
+            "to": "shut_1"
+        },
+        {
+            "from": "space_3",
+            "to": "low_1"
+        },
+        {
+            "from": "space_3",
+            "to": "just_1"
+        },
+        {
+            "from": "space_5",
+            "to": "place_1"
+        },
+        {
+            "from": "space_5",
+            "to": "place_2"
+        },
+        {
+            "from": "speak_1",
+            "to": "speech_2"
+        },
+        {
+            "from": "speak_1",
+            "to": "talk_1"
+        },
+        {
+            "from": "speak_1",
+            "to": "tell_1"
+        },
+        {
+            "from": "speak_2",
+            "to": "bring_1"
+        },
+        {
+            "from": "speak_2",
+            "to": "language_1"
+        },
+        {
+            "from": "speak_2",
+            "to": "message_1"
+        },
+        {
+            "from": "speak_2",
+            "to": "speaker_1"
+        },
+        {
+            "from": "speak_2",
+            "to": "thing_1"
+        },
+        {
+            "from": "speak_2",
+            "to": "note_2"
+        },
+        {
+            "from": "speaker_1",
+            "to": "bring_1"
+        },
+        {
+            "from": "speaker_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "specific_1",
+            "to": "certain_3"
+        },
+        {
+            "from": "specific_1",
+            "to": "device_1"
+        },
+        {
+            "from": "specific_1",
+            "to": "nervous_3"
+        },
+        {
+            "from": "specific_1",
+            "to": "particular_3"
+        },
+        {
+            "from": "specific_1",
+            "to": "place_2"
+        },
+        {
+            "from": "specific_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "speech_2",
+            "to": "explanation_1"
+        },
+        {
+            "from": "speech_2",
+            "to": "say_2"
+        },
+        {
+            "from": "speech_2",
+            "to": "sentence_1"
+        },
+        {
+            "from": "speech_2",
+            "to": "agree_2"
+        },
+        {
+            "from": "speed_2",
+            "to": "machine_1"
+        },
+        {
+            "from": "speed_2",
+            "to": "excited_1"
+        },
+        {
+            "from": "spread_2",
+            "to": "layer_1"
+        },
+        {
+            "from": "spread_2",
+            "to": "clothing_1"
+        },
+        {
+            "from": "spread_2",
+            "to": "shut_1"
+        },
+        {
+            "from": "spread_2",
+            "to": "function_1"
+        },
+        {
+            "from": "spread_2",
+            "to": "machine_1"
+        },
+        {
+            "from": "stand_2",
+            "to": "symbol_1"
+        },
+        {
+            "from": "stand_2",
+            "to": "decide_1"
+        },
+        {
+            "from": "steady_3",
+            "to": "firm_2"
+        },
+        {
+            "from": "steady_3",
+            "to": "persist_2"
+        },
+        {
+            "from": "steady_3",
+            "to": "point_3"
+        },
+        {
+            "from": "strength_1",
+            "to": "force_1"
+        },
+        {
+            "from": "strength_1",
+            "to": "strong_1"
+        },
+        {
+            "from": "strength_1",
+            "to": "trust_1"
+        },
+        {
+            "from": "strength_1",
+            "to": "free_3"
+        },
+        {
+            "from": "strong_1",
+            "to": "strength_1"
+        },
+        {
+            "from": "strong_1",
+            "to": "free_3"
+        },
+        {
+            "from": "strong_2",
+            "to": "character_2"
+        },
+        {
+            "from": "strong_2",
+            "to": "love_1"
+        },
+        {
+            "from": "strong_2",
+            "to": "sentence_1"
+        },
+        {
+            "from": "strong_2",
+            "to": "affection_1"
+        },
+        {
+            "from": "strong_2",
+            "to": "firm_2"
+        },
+        {
+            "from": "strong_3",
+            "to": "fear_1"
+        },
+        {
+            "from": "strong_3",
+            "to": "great_3"
+        },
+        {
+            "from": "structure_1",
+            "to": "form_1"
+        },
+        {
+            "from": "structure_1",
+            "to": "foundation_1"
+        },
+        {
+            "from": "subject_5",
+            "to": "phrase_1"
+        },
+        {
+            "from": "subject_5",
+            "to": "sentence_1"
+        },
+        {
+            "from": "such_1",
+            "to": "foundation_1"
+        },
+        {
+            "from": "such_1",
+            "to": "word_1"
+        },
+        {
+            "from": "such_1",
+            "to": "work_3"
+        },
+        {
+            "from": "such_1",
+            "to": "writing_2"
+        },
+        {
+            "from": "such_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "such_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "such_1",
+            "to": "function_1"
+        },
+        {
+            "from": "such_1",
+            "to": "free_3"
+        },
+        {
+            "from": "sudden_1",
+            "to": "shock_1"
+        },
+        {
+            "from": "sudden_1",
+            "to": "excited_1"
+        },
+        {
+            "from": "sure_1",
+            "to": "certain_1"
+        },
+        {
+            "from": "sure_1",
+            "to": "definite_2"
+        },
+        {
+            "from": "sure_1",
+            "to": "doubt_1"
+        },
+        {
+            "from": "sure_1",
+            "to": "know_3"
+        },
+        {
+            "from": "sure_1",
+            "to": "positive_1"
+        },
+        {
+            "from": "sure_1",
+            "to": "uncertain_1"
+        },
+        {
+            "from": "surface_1",
+            "to": "layer_1"
+        },
+        {
+            "from": "surface_1",
+            "to": "outside_1"
+        },
+        {
+            "from": "surface_1",
+            "to": "top_1"
+        },
+        {
+            "from": "symbol_1",
+            "to": "word_1"
+        },
+        {
+            "from": "symbol_1",
+            "to": "writing_2"
+        },
+        {
+            "from": "symbol_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "system_1",
+            "to": "language_1"
+        },
+        {
+            "from": "system_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "system_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "talk_1",
+            "to": "now_3"
+        },
+        {
+            "from": "talk_1",
+            "to": "speak_1"
+        },
+        {
+            "from": "tell_1",
+            "to": "describe_1"
+        },
+        {
+            "from": "tell_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "thin_2",
+            "to": "line_1"
+        },
+        {
+            "from": "thin_2",
+            "to": "pain_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "able_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "activity_2"
+        },
+        {
+            "from": "thing_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "distance_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "environment_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "influence_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "item_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "length_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "list_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "money_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "nature_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "role_2"
+        },
+        {
+            "from": "thing_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "specific_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "structure_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "system_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "trust_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "type_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "unit_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "universe_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "advice_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "thing_1",
+            "to": "arrange_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "hold_6"
+        },
+        {
+            "from": "thing_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "pronoun_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "thing_1",
+            "to": "formal_2"
+        },
+        {
+            "from": "thing_1",
+            "to": "thing_4"
+        },
+        {
+            "from": "thing_1",
+            "to": "people_2"
+        },
+        {
+            "from": "thing_1",
+            "to": "correct_3"
+        },
+        {
+            "from": "thing_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "belief_2"
+        },
+        {
+            "from": "thing_2",
+            "to": "character_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "clothing_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "image_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "life_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "member_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "particular_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "quality_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "machine_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "organization_3"
+        },
+        {
+            "from": "thing_2",
+            "to": "sentence_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "free_3"
+        },
+        {
+            "from": "thing_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "thing_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "thing_4",
+            "to": "role_2"
+        },
+        {
+            "from": "thing_4",
+            "to": "ease_1"
+        },
+        {
+            "from": "thing_4",
+            "to": "machine_1"
+        },
+        {
+            "from": "think_2",
+            "to": "plan_2"
+        },
+        {
+            "from": "think_2",
+            "to": "reason_2"
+        },
+        {
+            "from": "think_2",
+            "to": "thing_1"
+        },
+        {
+            "from": "think_2",
+            "to": "specific_1"
+        },
+        {
+            "from": "thorough_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "thorough_1",
+            "to": "function_1"
+        },
+        {
+            "from": "time_2",
+            "to": "people_2"
+        },
+        {
+            "from": "time_2",
+            "to": "role_2"
+        },
+        {
+            "from": "time_2",
+            "to": "other_1"
+        },
+        {
+            "from": "time_6",
+            "to": "plan_2"
+        },
+        {
+            "from": "time_6",
+            "to": "rest_2"
+        },
+        {
+            "from": "time_6",
+            "to": "close_1"
+        },
+        {
+            "from": "top_1",
+            "to": "surface_1"
+        },
+        {
+            "from": "top_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "top_1",
+            "to": "machine_1"
+        },
+        {
+            "from": "total_1",
+            "to": "time_2"
+        },
+        {
+            "from": "total_1",
+            "to": "develop_1"
+        },
+        {
+            "from": "true_1",
+            "to": "accept_3"
+        },
+        {
+            "from": "true_1",
+            "to": "belief_3"
+        },
+        {
+            "from": "true_1",
+            "to": "believe_1"
+        },
+        {
+            "from": "true_1",
+            "to": "certain_2"
+        },
+        {
+            "from": "true_1",
+            "to": "fact_1"
+        },
+        {
+            "from": "true_1",
+            "to": "probable_1"
+        },
+        {
+            "from": "true_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "true_1",
+            "to": "error_1"
+        },
+        {
+            "from": "true_1",
+            "to": "correct_1"
+        },
+        {
+            "from": "true_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "true_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "trust_1",
+            "to": "belief_2"
+        },
+        {
+            "from": "trust_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "type_1",
+            "to": "form_4"
+        },
+        {
+            "from": "type_1",
+            "to": "kind_4"
+        },
+        {
+            "from": "type_1",
+            "to": "sort_1"
+        },
+        {
+            "from": "type_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "uncertain_1",
+            "to": "anxious_1"
+        },
+        {
+            "from": "uncertain_1",
+            "to": "doubt_1"
+        },
+        {
+            "from": "uncomfortable_1",
+            "to": "shock_1"
+        },
+        {
+            "from": "uncomfortable_1",
+            "to": "steady_3"
+        },
+        {
+            "from": "understanding_1",
+            "to": "information_1"
+        },
+        {
+            "from": "understanding_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "understanding_1",
+            "to": "learn_2"
+        },
+        {
+            "from": "understanding_1",
+            "to": "guide_2"
+        },
+        {
+            "from": "understanding_1",
+            "to": "acquaint_1"
+        },
+        {
+            "from": "understanding_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "uneasy_1",
+            "to": "discomfort_1"
+        },
+        {
+            "from": "uneasy_1",
+            "to": "worry_1"
+        },
+        {
+            "from": "unit_1",
+            "to": "word_1"
+        },
+        {
+            "from": "unit_1",
+            "to": "pain_1"
+        },
+        {
+            "from": "universe_1",
+            "to": "size_1"
+        },
+        {
+            "from": "universe_1",
+            "to": "people_2"
+        },
+        {
+            "from": "universe_1",
+            "to": "forward_1"
+        },
+        {
+            "from": "universe_1",
+            "to": "ahead_2"
+        },
+        {
+            "from": "verb_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "verb_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "verb_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "verb_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "voice_1",
+            "to": "speak_1"
+        },
+        {
+            "from": "voice_1",
+            "to": "speak_2"
+        },
+        {
+            "from": "voice_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "way_8",
+            "to": "movement_2"
+        },
+        {
+            "from": "way_8",
+            "to": "persist_2"
+        },
+        {
+            "from": "way_8",
+            "to": "plan_2"
+        },
+        {
+            "from": "way_8",
+            "to": "know_1"
+        },
+        {
+            "from": "wear_1",
+            "to": "clothing_1"
+        },
+        {
+            "from": "wear_1",
+            "to": "function_1"
+        },
+        {
+            "from": "well_1",
+            "to": "fair_1"
+        },
+        {
+            "from": "well_1",
+            "to": "fail_1"
+        },
+        {
+            "from": "well_1",
+            "to": "authority_3"
+        },
+        {
+            "from": "well_1",
+            "to": "characteristic_1"
+        },
+        {
+            "from": "well_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "whole_2",
+            "to": "complete_1"
+        },
+        {
+            "from": "whole_2",
+            "to": "part_1"
+        },
+        {
+            "from": "whole_2",
+            "to": "piece_1"
+        },
+        {
+            "from": "width_1",
+            "to": "dimension_1"
+        },
+        {
+            "from": "width_1",
+            "to": "thin_2"
+        },
+        {
+            "from": "word_1",
+            "to": "adjective_1"
+        },
+        {
+            "from": "word_1",
+            "to": "adverb_1"
+        },
+        {
+            "from": "word_1",
+            "to": "describe_1"
+        },
+        {
+            "from": "word_1",
+            "to": "language_1"
+        },
+        {
+            "from": "word_1",
+            "to": "name_1"
+        },
+        {
+            "from": "word_1",
+            "to": "plural_1"
+        },
+        {
+            "from": "word_1",
+            "to": "pronoun_1"
+        },
+        {
+            "from": "word_1",
+            "to": "say_2"
+        },
+        {
+            "from": "word_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "word_1",
+            "to": "speak_1"
+        },
+        {
+            "from": "word_1",
+            "to": "talk_1"
+        },
+        {
+            "from": "word_1",
+            "to": "tell_1"
+        },
+        {
+            "from": "word_1",
+            "to": "verb_1"
+        },
+        {
+            "from": "word_1",
+            "to": "writing_2"
+        },
+        {
+            "from": "word_1",
+            "to": "phrase_1"
+        },
+        {
+            "from": "word_1",
+            "to": "note_2"
+        },
+        {
+            "from": "word_1",
+            "to": "participle_1"
+        },
+        {
+            "from": "word_1",
+            "to": "agree_2"
+        },
+        {
+            "from": "word_1",
+            "to": "picture_2"
+        },
+        {
+            "from": "word_1",
+            "to": "basis_1"
+        },
+        {
+            "from": "word_1",
+            "to": "decide_1"
+        },
+        {
+            "from": "work_3",
+            "to": "list_1"
+        },
+        {
+            "from": "work_3",
+            "to": "ease_1"
+        },
+        {
+            "from": "worry_1",
+            "to": "ease_1"
+        },
+        {
+            "from": "worry_1",
+            "to": "free_4"
+        },
+        {
+            "from": "worry_1",
+            "to": "sentence_1"
+        },
+        {
+            "from": "worry_1",
+            "to": "injury_1"
+        },
+        {
+            "from": "write_2",
+            "to": "describe_1"
+        },
+        {
+            "from": "write_2",
+            "to": "language_1"
+        },
+        {
+            "from": "write_2",
+            "to": "list_1"
+        },
+        {
+            "from": "write_2",
+            "to": "message_1"
+        },
+        {
+            "from": "write_2",
+            "to": "note_2"
+        },
+        {
+            "from": "write_2",
+            "to": "now_3"
+        },
+        {
+            "from": "write_2",
+            "to": "say_2"
+        },
+        {
+            "from": "write_2",
+            "to": "tell_1"
+        },
+        {
+            "from": "write_2",
+            "to": "fix_2"
+        },
+        {
+            "from": "write_2",
+            "to": "advice_1"
+        },
+        {
+            "from": "write_2",
+            "to": "guide_2"
+        },
+        {
+            "from": "write_2",
+            "to": "money_1"
+        },
+        {
+            "from": "write_2",
+            "to": "verb_1"
+        },
+        {
+            "from": "write_2",
+            "to": "decide_1"
+        },
+        {
+            "from": "writing_2",
+            "to": "explanation_1"
+        },
+        {
+            "from": "writing_2",
+            "to": "sentence_1"
+        },
+        {
+            "from": "writing_2",
+            "to": "word_1"
+        },
+        {
+            "from": "writing_2",
+            "to": "write_2"
+        },
+        {
+            "from": "writing_2",
+            "to": "agree_2"
+        },
+        {
+            "from": "wrong_2",
+            "to": "injury_1"
+        },
+        {
+            "from": "wrong_2",
+            "to": "moral_1"
+        },
+        {
+            "from": "wrong_2",
+            "to": "ease_1"
+        },
+        {
+            "from": "wrong_2",
+            "to": "people_2"
+        },
+        {
+            "from": "young_1",
+            "to": "child_1"
+        },
+        {
+            "from": "young_1",
+            "to": "life_1"
+        }
+    ],
+    "nodes": [
+        {
+            "id": "ability_1",
+            "label": "ability_1"
+        },
+        {
+            "id": "able_1",
+            "label": "able_1"
+        },
+        {
+            "id": "accept_3",
+            "label": "accept_3"
+        },
+        {
+            "id": "acceptable_1",
+            "label": "acceptable_1"
+        },
+        {
+            "id": "acquaint_1",
+            "label": "acquaint_1"
+        },
+        {
+            "id": "active_2",
+            "label": "active_2"
+        },
+        {
+            "id": "activity_1",
+            "label": "activity_1"
+        },
+        {
+            "id": "activity_2",
+            "label": "activity_2"
+        },
+        {
+            "id": "adjective_1",
+            "label": "adjective_1"
+        },
+        {
+            "id": "adverb_1",
+            "label": "adverb_1"
+        },
+        {
+            "id": "advice_1",
+            "label": "advice_1"
+        },
+        {
+            "id": "affection_1",
+            "label": "affection_1"
+        },
+        {
+            "id": "agree_2",
+            "label": "agree_2"
+        },
+        {
+            "id": "ahead_2",
+            "label": "ahead_2"
+        },
+        {
+            "id": "alike_1",
+            "label": "alike_1"
+        },
+        {
+            "id": "animal_2",
+            "label": "animal_2"
+        },
+        {
+            "id": "anxious_1",
+            "label": "anxious_1"
+        },
+        {
+            "id": "apart_1",
+            "label": "apart_1"
+        },
+        {
+            "id": "appearance_2",
+            "label": "appearance_2"
+        },
+        {
+            "id": "area_3",
+            "label": "area_3"
+        },
+        {
+            "id": "arrange_1",
+            "label": "arrange_1"
+        },
+        {
+            "id": "as_1",
+            "label": "as_1"
+        },
+        {
+            "id": "aside_3",
+            "label": "aside_3"
+        },
+        {
+            "id": "assist_1",
+            "label": "assist_1"
+        },
+        {
+            "id": "attach_1",
+            "label": "attach_1"
+        },
+        {
+            "id": "attention_2",
+            "label": "attention_2"
+        },
+        {
+            "id": "authority_3",
+            "label": "authority_3"
+        },
+        {
+            "id": "available_1",
+            "label": "available_1"
+        },
+        {
+            "id": "aware_1",
+            "label": "aware_1"
+        },
+        {
+            "id": "baby_1",
+            "label": "baby_1"
+        },
+        {
+            "id": "back_3",
+            "label": "back_3"
+        },
+        {
+            "id": "basic_1",
+            "label": "basic_1"
+        },
+        {
+            "id": "basis_1",
+            "label": "basis_1"
+        },
+        {
+            "id": "behave_1",
+            "label": "behave_1"
+        },
+        {
+            "id": "behavior_1",
+            "label": "behavior_1"
+        },
+        {
+            "id": "belief_2",
+            "label": "belief_2"
+        },
+        {
+            "id": "belief_3",
+            "label": "belief_3"
+        },
+        {
+            "id": "believe_1",
+            "label": "believe_1"
+        },
+        {
+            "id": "birth_2",
+            "label": "birth_2"
+        },
+        {
+            "id": "bring_1",
+            "label": "bring_1"
+        },
+        {
+            "id": "business_1",
+            "label": "business_1"
+        },
+        {
+            "id": "business_2",
+            "label": "business_2"
+        },
+        {
+            "id": "careful_1",
+            "label": "careful_1"
+        },
+        {
+            "id": "carefully_1",
+            "label": "carefully_1"
+        },
+        {
+            "id": "cautious_1",
+            "label": "cautious_1"
+        },
+        {
+            "id": "certain_1",
+            "label": "certain_1"
+        },
+        {
+            "id": "certain_2",
+            "label": "certain_2"
+        },
+        {
+            "id": "certain_3",
+            "label": "certain_3"
+        },
+        {
+            "id": "character_1",
+            "label": "character_1"
+        },
+        {
+            "id": "character_2",
+            "label": "character_2"
+        },
+        {
+            "id": "characteristic_1",
+            "label": "characteristic_1"
+        },
+        {
+            "id": "child_1",
+            "label": "child_1"
+        },
+        {
+            "id": "close_1",
+            "label": "close_1"
+        },
+        {
+            "id": "clothe_1",
+            "label": "clothe_1"
+        },
+        {
+            "id": "clothing_1",
+            "label": "clothing_1"
+        },
+        {
+            "id": "comfortable_1",
+            "label": "comfortable_1"
+        },
+        {
+            "id": "common_1",
+            "label": "common_1"
+        },
+        {
+            "id": "communication_1",
+            "label": "communication_1"
+        },
+        {
+            "id": "community_2",
+            "label": "community_2"
+        },
+        {
+            "id": "company_1",
+            "label": "company_1"
+        },
+        {
+            "id": "comparative_2",
+            "label": "comparative_2"
+        },
+        {
+            "id": "complete_1",
+            "label": "complete_1"
+        },
+        {
+            "id": "complicated_1",
+            "label": "complicated_1"
+        },
+        {
+            "id": "concern_1",
+            "label": "concern_1"
+        },
+        {
+            "id": "connect_1",
+            "label": "connect_1"
+        },
+        {
+            "id": "consent_1",
+            "label": "consent_1"
+        },
+        {
+            "id": "consider_3",
+            "label": "consider_3"
+        },
+        {
+            "id": "continue_1",
+            "label": "continue_1"
+        },
+        {
+            "id": "continue_3",
+            "label": "continue_3"
+        },
+        {
+            "id": "control_2",
+            "label": "control_2"
+        },
+        {
+            "id": "correct_1",
+            "label": "correct_1"
+        },
+        {
+            "id": "correct_3",
+            "label": "correct_3"
+        },
+        {
+            "id": "course_1",
+            "label": "course_1"
+        },
+        {
+            "id": "creature_1",
+            "label": "creature_1"
+        },
+        {
+            "id": "damage_1",
+            "label": "damage_1"
+        },
+        {
+            "id": "danger_1",
+            "label": "danger_1"
+        },
+        {
+            "id": "deal_1",
+            "label": "deal_1"
+        },
+        {
+            "id": "deal_2",
+            "label": "deal_2"
+        },
+        {
+            "id": "decide_1",
+            "label": "decide_1"
+        },
+        {
+            "id": "definite_2",
+            "label": "definite_2"
+        },
+        {
+            "id": "describe_1",
+            "label": "describe_1"
+        },
+        {
+            "id": "develop_1",
+            "label": "develop_1"
+        },
+        {
+            "id": "device_1",
+            "label": "device_1"
+        },
+        {
+            "id": "dimension_1",
+            "label": "dimension_1"
+        },
+        {
+            "id": "discomfort_1",
+            "label": "discomfort_1"
+        },
+        {
+            "id": "distance_1",
+            "label": "distance_1"
+        },
+        {
+            "id": "distinct_1",
+            "label": "distinct_1"
+        },
+        {
+            "id": "doubt_1",
+            "label": "doubt_1"
+        },
+        {
+            "id": "ease_1",
+            "label": "ease_1"
+        },
+        {
+            "id": "else_1",
+            "label": "else_1"
+        },
+        {
+            "id": "end_1",
+            "label": "end_1"
+        },
+        {
+            "id": "end_4",
+            "label": "end_4"
+        },
+        {
+            "id": "energy_1",
+            "label": "energy_1"
+        },
+        {
+            "id": "enough_1",
+            "label": "enough_1"
+        },
+        {
+            "id": "environment_1",
+            "label": "environment_1"
+        },
+        {
+            "id": "error_1",
+            "label": "error_1"
+        },
+        {
+            "id": "excited_1",
+            "label": "excited_1"
+        },
+        {
+            "id": "expect_2",
+            "label": "expect_2"
+        },
+        {
+            "id": "explanation_1",
+            "label": "explanation_1"
+        },
+        {
+            "id": "extend_1",
+            "label": "extend_1"
+        },
+        {
+            "id": "extent_1",
+            "label": "extent_1"
+        },
+        {
+            "id": "fact_1",
+            "label": "fact_1"
+        },
+        {
+            "id": "fail_1",
+            "label": "fail_1"
+        },
+        {
+            "id": "fair_1",
+            "label": "fair_1"
+        },
+        {
+            "id": "fasten_1",
+            "label": "fasten_1"
+        },
+        {
+            "id": "fear_1",
+            "label": "fear_1"
+        },
+        {
+            "id": "feature_2",
+            "label": "feature_2"
+        },
+        {
+            "id": "feel_2",
+            "label": "feel_2"
+        },
+        {
+            "id": "firm_2",
+            "label": "firm_2"
+        },
+        {
+            "id": "fit_1",
+            "label": "fit_1"
+        },
+        {
+            "id": "fix_2",
+            "label": "fix_2"
+        },
+        {
+            "id": "force_1",
+            "label": "force_1"
+        },
+        {
+            "id": "form_1",
+            "label": "form_1"
+        },
+        {
+            "id": "form_2",
+            "label": "form_2"
+        },
+        {
+            "id": "form_4",
+            "label": "form_4"
+        },
+        {
+            "id": "formal_2",
+            "label": "formal_2"
+        },
+        {
+            "id": "forward_1",
+            "label": "forward_1"
+        },
+        {
+            "id": "foundation_1",
+            "label": "foundation_1"
+        },
+        {
+            "id": "free_3",
+            "label": "free_3"
+        },
+        {
+            "id": "free_4",
+            "label": "free_4"
+        },
+        {
+            "id": "front_1",
+            "label": "front_1"
+        },
+        {
+            "id": "function_1",
+            "label": "function_1"
+        },
+        {
+            "id": "give_3",
+            "label": "give_3"
+        },
+        {
+            "id": "go_11",
+            "label": "go_11"
+        },
+        {
+            "id": "goal_1",
+            "label": "goal_1"
+        },
+        {
+            "id": "good_1",
+            "label": "good_1"
+        },
+        {
+            "id": "good_2",
+            "label": "good_2"
+        },
+        {
+            "id": "great_3",
+            "label": "great_3"
+        },
+        {
+            "id": "grow_4",
+            "label": "grow_4"
+        },
+        {
+            "id": "guide_2",
+            "label": "guide_2"
+        },
+        {
+            "id": "hand_1",
+            "label": "hand_1"
+        },
+        {
+            "id": "have_1",
+            "label": "have_1"
+        },
+        {
+            "id": "high_5",
+            "label": "high_5"
+        },
+        {
+            "id": "hold_1",
+            "label": "hold_1"
+        },
+        {
+            "id": "hold_4",
+            "label": "hold_4"
+        },
+        {
+            "id": "hold_6",
+            "label": "hold_6"
+        },
+        {
+            "id": "human_1",
+            "label": "human_1"
+        },
+        {
+            "id": "idea_2",
+            "label": "idea_2"
+        },
+        {
+            "id": "image_1",
+            "label": "image_1"
+        },
+        {
+            "id": "importance_1",
+            "label": "importance_1"
+        },
+        {
+            "id": "important_1",
+            "label": "important_1"
+        },
+        {
+            "id": "influence_1",
+            "label": "influence_1"
+        },
+        {
+            "id": "information_1",
+            "label": "information_1"
+        },
+        {
+            "id": "injury_1",
+            "label": "injury_1"
+        },
+        {
+            "id": "interest_1",
+            "label": "interest_1"
+        },
+        {
+            "id": "item_1",
+            "label": "item_1"
+        },
+        {
+            "id": "job_1",
+            "label": "job_1"
+        },
+        {
+            "id": "join_1",
+            "label": "join_1"
+        },
+        {
+            "id": "judge_3",
+            "label": "judge_3"
+        },
+        {
+            "id": "judgment_1",
+            "label": "judgment_1"
+        },
+        {
+            "id": "just_1",
+            "label": "just_1"
+        },
+        {
+            "id": "keep_1",
+            "label": "keep_1"
+        },
+        {
+            "id": "keep_4",
+            "label": "keep_4"
+        },
+        {
+            "id": "kind_4",
+            "label": "kind_4"
+        },
+        {
+            "id": "know_1",
+            "label": "know_1"
+        },
+        {
+            "id": "know_3",
+            "label": "know_3"
+        },
+        {
+            "id": "language_1",
+            "label": "language_1"
+        },
+        {
+            "id": "last_2",
+            "label": "last_2"
+        },
+        {
+            "id": "last_4",
+            "label": "last_4"
+        },
+        {
+            "id": "law_1",
+            "label": "law_1"
+        },
+        {
+            "id": "layer_1",
+            "label": "layer_1"
+        },
+        {
+            "id": "learn_2",
+            "label": "learn_2"
+        },
+        {
+            "id": "length_1",
+            "label": "length_1"
+        },
+        {
+            "id": "less_2",
+            "label": "less_2"
+        },
+        {
+            "id": "life_1",
+            "label": "life_1"
+        },
+        {
+            "id": "like_3",
+            "label": "like_3"
+        },
+        {
+            "id": "likely_1",
+            "label": "likely_1"
+        },
+        {
+            "id": "likeness_1",
+            "label": "likeness_1"
+        },
+        {
+            "id": "limit_2",
+            "label": "limit_2"
+        },
+        {
+            "id": "line_1",
+            "label": "line_1"
+        },
+        {
+            "id": "link_2",
+            "label": "link_2"
+        },
+        {
+            "id": "list_1",
+            "label": "list_1"
+        },
+        {
+            "id": "little_1",
+            "label": "little_1"
+        },
+        {
+            "id": "live_1",
+            "label": "live_1"
+        },
+        {
+            "id": "long_1",
+            "label": "long_1"
+        },
+        {
+            "id": "love_1",
+            "label": "love_1"
+        },
+        {
+            "id": "low_1",
+            "label": "low_1"
+        },
+        {
+            "id": "machine_1",
+            "label": "machine_1"
+        },
+        {
+            "id": "matter_2",
+            "label": "matter_2"
+        },
+        {
+            "id": "member_1",
+            "label": "member_1"
+        },
+        {
+            "id": "message_1",
+            "label": "message_1"
+        },
+        {
+            "id": "mistake_1",
+            "label": "mistake_1"
+        },
+        {
+            "id": "money_1",
+            "label": "money_1"
+        },
+        {
+            "id": "moral_1",
+            "label": "moral_1"
+        },
+        {
+            "id": "move_2",
+            "label": "move_2"
+        },
+        {
+            "id": "movement_2",
+            "label": "movement_2"
+        },
+        {
+            "id": "name_1",
+            "label": "name_1"
+        },
+        {
+            "id": "nature_1",
+            "label": "nature_1"
+        },
+        {
+            "id": "necessary_1",
+            "label": "necessary_1"
+        },
+        {
+            "id": "nervous_3",
+            "label": "nervous_3"
+        },
+        {
+            "id": "note_2",
+            "label": "note_2"
+        },
+        {
+            "id": "now_3",
+            "label": "now_3"
+        },
+        {
+            "id": "object_1",
+            "label": "object_1"
+        },
+        {
+            "id": "observation_1",
+            "label": "observation_1"
+        },
+        {
+            "id": "order_3",
+            "label": "order_3"
+        },
+        {
+            "id": "organization_3",
+            "label": "organization_3"
+        },
+        {
+            "id": "other_1",
+            "label": "other_1"
+        },
+        {
+            "id": "outside_1",
+            "label": "outside_1"
+        },
+        {
+            "id": "own_1",
+            "label": "own_1"
+        },
+        {
+            "id": "pain_1",
+            "label": "pain_1"
+        },
+        {
+            "id": "part_1",
+            "label": "part_1"
+        },
+        {
+            "id": "part_3",
+            "label": "part_3"
+        },
+        {
+            "id": "participle_1",
+            "label": "participle_1"
+        },
+        {
+            "id": "particular_1",
+            "label": "particular_1"
+        },
+        {
+            "id": "particular_3",
+            "label": "particular_3"
+        },
+        {
+            "id": "past_3",
+            "label": "past_3"
+        },
+        {
+            "id": "people_1",
+            "label": "people_1"
+        },
+        {
+            "id": "people_2",
+            "label": "people_2"
+        },
+        {
+            "id": "perceive_1",
+            "label": "perceive_1"
+        },
+        {
+            "id": "period_1",
+            "label": "period_1"
+        },
+        {
+            "id": "permission_2",
+            "label": "permission_2"
+        },
+        {
+            "id": "persist_2",
+            "label": "persist_2"
+        },
+        {
+            "id": "person_1",
+            "label": "person_1"
+        },
+        {
+            "id": "phrase_1",
+            "label": "phrase_1"
+        },
+        {
+            "id": "picture_2",
+            "label": "picture_2"
+        },
+        {
+            "id": "piece_1",
+            "label": "piece_1"
+        },
+        {
+            "id": "place_1",
+            "label": "place_1"
+        },
+        {
+            "id": "place_2",
+            "label": "place_2"
+        },
+        {
+            "id": "plan_2",
+            "label": "plan_2"
+        },
+        {
+            "id": "plural_1",
+            "label": "plural_1"
+        },
+        {
+            "id": "point_3",
+            "label": "point_3"
+        },
+        {
+            "id": "positive_1",
+            "label": "positive_1"
+        },
+        {
+            "id": "possess_1",
+            "label": "possess_1"
+        },
+        {
+            "id": "possible_1",
+            "label": "possible_1"
+        },
+        {
+            "id": "power_1",
+            "label": "power_1"
+        },
+        {
+            "id": "probable_1",
+            "label": "probable_1"
+        },
+        {
+            "id": "problem_1",
+            "label": "problem_1"
+        },
+        {
+            "id": "professional_1",
+            "label": "professional_1"
+        },
+        {
+            "id": "progress_1",
+            "label": "progress_1"
+        },
+        {
+            "id": "pronoun_1",
+            "label": "pronoun_1"
+        },
+        {
+            "id": "proper_1",
+            "label": "proper_1"
+        },
+        {
+            "id": "put_2",
+            "label": "put_2"
+        },
+        {
+            "id": "quality_1",
+            "label": "quality_1"
+        },
+        {
+            "id": "reach_7",
+            "label": "reach_7"
+        },
+        {
+            "id": "reason_2",
+            "label": "reason_2"
+        },
+        {
+            "id": "recently_1",
+            "label": "recently_1"
+        },
+        {
+            "id": "regard_1",
+            "label": "regard_1"
+        },
+        {
+            "id": "relate_2",
+            "label": "relate_2"
+        },
+        {
+            "id": "remain_1",
+            "label": "remain_1"
+        },
+        {
+            "id": "rest_2",
+            "label": "rest_2"
+        },
+        {
+            "id": "restrain_1",
+            "label": "restrain_1"
+        },
+        {
+            "id": "right_1",
+            "label": "right_1"
+        },
+        {
+            "id": "role_2",
+            "label": "role_2"
+        },
+        {
+            "id": "rule_1",
+            "label": "rule_1"
+        },
+        {
+            "id": "safe_1",
+            "label": "safe_1"
+        },
+        {
+            "id": "same_2",
+            "label": "same_2"
+        },
+        {
+            "id": "say_2",
+            "label": "say_2"
+        },
+        {
+            "id": "section_1",
+            "label": "section_1"
+        },
+        {
+            "id": "see_7",
+            "label": "see_7"
+        },
+        {
+            "id": "self_1",
+            "label": "self_1"
+        },
+        {
+            "id": "sense_1",
+            "label": "sense_1"
+        },
+        {
+            "id": "sense_4",
+            "label": "sense_4"
+        },
+        {
+            "id": "sentence_1",
+            "label": "sentence_1"
+        },
+        {
+            "id": "serious_3",
+            "label": "serious_3"
+        },
+        {
+            "id": "set_2",
+            "label": "set_2"
+        },
+        {
+            "id": "set_3",
+            "label": "set_3"
+        },
+        {
+            "id": "shape_1",
+            "label": "shape_1"
+        },
+        {
+            "id": "share_1",
+            "label": "share_1"
+        },
+        {
+            "id": "shock_1",
+            "label": "shock_1"
+        },
+        {
+            "id": "shut_1",
+            "label": "shut_1"
+        },
+        {
+            "id": "side_6",
+            "label": "side_6"
+        },
+        {
+            "id": "similar_1",
+            "label": "similar_1"
+        },
+        {
+            "id": "similarity_1",
+            "label": "similarity_1"
+        },
+        {
+            "id": "size_1",
+            "label": "size_1"
+        },
+        {
+            "id": "small_1",
+            "label": "small_1"
+        },
+        {
+            "id": "sort_1",
+            "label": "sort_1"
+        },
+        {
+            "id": "space_3",
+            "label": "space_3"
+        },
+        {
+            "id": "space_5",
+            "label": "space_5"
+        },
+        {
+            "id": "speak_1",
+            "label": "speak_1"
+        },
+        {
+            "id": "speak_2",
+            "label": "speak_2"
+        },
+        {
+            "id": "speaker_1",
+            "label": "speaker_1"
+        },
+        {
+            "id": "specific_1",
+            "label": "specific_1"
+        },
+        {
+            "id": "speech_2",
+            "label": "speech_2"
+        },
+        {
+            "id": "speed_2",
+            "label": "speed_2"
+        },
+        {
+            "id": "spread_2",
+            "label": "spread_2"
+        },
+        {
+            "id": "stand_2",
+            "label": "stand_2"
+        },
+        {
+            "id": "steady_3",
+            "label": "steady_3"
+        },
+        {
+            "id": "strength_1",
+            "label": "strength_1"
+        },
+        {
+            "id": "strong_1",
+            "label": "strong_1"
+        },
+        {
+            "id": "strong_2",
+            "label": "strong_2"
+        },
+        {
+            "id": "strong_3",
+            "label": "strong_3"
+        },
+        {
+            "id": "structure_1",
+            "label": "structure_1"
+        },
+        {
+            "id": "subject_5",
+            "label": "subject_5"
+        },
+        {
+            "id": "such_1",
+            "label": "such_1"
+        },
+        {
+            "id": "sudden_1",
+            "label": "sudden_1"
+        },
+        {
+            "id": "sure_1",
+            "label": "sure_1"
+        },
+        {
+            "id": "surface_1",
+            "label": "surface_1"
+        },
+        {
+            "id": "symbol_1",
+            "label": "symbol_1"
+        },
+        {
+            "id": "system_1",
+            "label": "system_1"
+        },
+        {
+            "id": "talk_1",
+            "label": "talk_1"
+        },
+        {
+            "id": "tell_1",
+            "label": "tell_1"
+        },
+        {
+            "id": "thin_2",
+            "label": "thin_2"
+        },
+        {
+            "id": "thing_1",
+            "label": "thing_1"
+        },
+        {
+            "id": "thing_2",
+            "label": "thing_2"
+        },
+        {
+            "id": "thing_4",
+            "label": "thing_4"
+        },
+        {
+            "id": "think_2",
+            "label": "think_2"
+        },
+        {
+            "id": "thorough_1",
+            "label": "thorough_1"
+        },
+        {
+            "id": "time_2",
+            "label": "time_2"
+        },
+        {
+            "id": "time_6",
+            "label": "time_6"
+        },
+        {
+            "id": "top_1",
+            "label": "top_1"
+        },
+        {
+            "id": "total_1",
+            "label": "total_1"
+        },
+        {
+            "id": "true_1",
+            "label": "true_1"
+        },
+        {
+            "id": "trust_1",
+            "label": "trust_1"
+        },
+        {
+            "id": "type_1",
+            "label": "type_1"
+        },
+        {
+            "id": "uncertain_1",
+            "label": "uncertain_1"
+        },
+        {
+            "id": "uncomfortable_1",
+            "label": "uncomfortable_1"
+        },
+        {
+            "id": "understanding_1",
+            "label": "understanding_1"
+        },
+        {
+            "id": "uneasy_1",
+            "label": "uneasy_1"
+        },
+        {
+            "id": "unit_1",
+            "label": "unit_1"
+        },
+        {
+            "id": "universe_1",
+            "label": "universe_1"
+        },
+        {
+            "id": "verb_1",
+            "label": "verb_1"
+        },
+        {
+            "id": "voice_1",
+            "label": "voice_1"
+        },
+        {
+            "id": "way_8",
+            "label": "way_8"
+        },
+        {
+            "id": "wear_1",
+            "label": "wear_1"
+        },
+        {
+            "id": "well_1",
+            "label": "well_1"
+        },
+        {
+            "id": "whole_2",
+            "label": "whole_2"
+        },
+        {
+            "id": "width_1",
+            "label": "width_1"
+        },
+        {
+            "id": "word_1",
+            "label": "word_1"
+        },
+        {
+            "id": "work_3",
+            "label": "work_3"
+        },
+        {
+            "id": "worry_1",
+            "label": "worry_1"
+        },
+        {
+            "id": "write_2",
+            "label": "write_2"
+        },
+        {
+            "id": "writing_2",
+            "label": "writing_2"
+        },
+        {
+            "id": "wrong_2",
+            "label": "wrong_2"
+        },
+        {
+            "id": "young_1",
+            "label": "young_1"
+        }
+    ]
+}

@@ -1,0 +1,1451 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "atom",
+            "nucleus"
+        ],
+        "arcs": [
+            [
+                "atom",
+                "atom"
+            ],
+            [
+                "nucleus",
+                "nucleus"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "lightweight",
+            "welterweight"
+        ],
+        "arcs": [
+            [
+                "lightweight",
+                "lightweight"
+            ],
+            [
+                "welterweight",
+                "welterweight"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "deer"
+        ],
+        "arcs": [
+            [
+                "deer",
+                "deer"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "negative"
+        ],
+        "arcs": [
+            [
+                "negative",
+                "negative"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "north",
+            "south"
+        ],
+        "arcs": [
+            [
+                "north",
+                "north"
+            ],
+            [
+                "south",
+                "south"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "cement"
+        ],
+        "arcs": [
+            [
+                "cement",
+                "cement"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "whisky"
+        ],
+        "arcs": [
+            [
+                "whisky",
+                "whisky"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "cacao"
+        ],
+        "arcs": [
+            [
+                "cacao",
+                "cacao"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "bitter"
+        ],
+        "arcs": [
+            [
+                "bitter",
+                "bitter"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "primate"
+        ],
+        "arcs": [
+            [
+                "primate",
+                "primate"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "holy"
+        ],
+        "arcs": [
+            [
+                "holy",
+                "holy"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "womb"
+        ],
+        "arcs": [
+            [
+                "womb",
+                "womb"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "volcano"
+        ],
+        "arcs": [
+            [
+                "volcano",
+                "volcano"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "dust"
+        ],
+        "arcs": [
+            [
+                "dust",
+                "dust"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "sand"
+        ],
+        "arcs": [
+            [
+                "sand",
+                "sand"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "astonish"
+        ],
+        "arcs": [
+            [
+                "astonish",
+                "astonish"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "sturgeon"
+        ],
+        "arcs": [
+            [
+                "sturgeon",
+                "sturgeon"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [
+            "peppercorn"
+        ],
+        "arcs": [
+            [
+                "peppercorn",
+                "peppercorn"
+            ]
+        ]
+    },
+    "satellite_18": {
+        "vertices": [
+            "greenfly"
+        ],
+        "arcs": [
+            [
+                "greenfly",
+                "greenfly"
+            ]
+        ]
+    },
+    "satellite_19": {
+        "vertices": [
+            "situate"
+        ],
+        "arcs": [
+            [
+                "situate",
+                "situate"
+            ]
+        ]
+    },
+    "satellite_20": {
+        "vertices": [
+            "tablet"
+        ],
+        "arcs": [
+            [
+                "tablet",
+                "tablet"
+            ]
+        ]
+    },
+    "satellite_21": {
+        "vertices": [
+            "mallet"
+        ],
+        "arcs": [
+            [
+                "mallet",
+                "mallet"
+            ]
+        ]
+    },
+    "satellite_22": {
+        "vertices": [
+            "serviette"
+        ],
+        "arcs": [
+            [
+                "serviette",
+                "serviette"
+            ]
+        ]
+    },
+    "satellite_23": {
+        "vertices": [
+            "universe"
+        ],
+        "arcs": [
+            [
+                "universe",
+                "universe"
+            ]
+        ]
+    },
+    "satellite_24": {
+        "vertices": [
+            "comply"
+        ],
+        "arcs": [
+            [
+                "comply",
+                "comply"
+            ]
+        ]
+    },
+    "satellite_25": {
+        "vertices": [
+            "sleigh"
+        ],
+        "arcs": [
+            [
+                "sleigh",
+                "sleigh"
+            ]
+        ]
+    },
+    "satellite_26": {
+        "vertices": [
+            "timber"
+        ],
+        "arcs": [
+            [
+                "timber",
+                "timber"
+            ]
+        ]
+    },
+    "satellite_27": {
+        "vertices": [
+            "paring"
+        ],
+        "arcs": [
+            [
+                "paring",
+                "paring"
+            ]
+        ]
+    },
+    "satellite_28": {
+        "vertices": [
+            "silkworm"
+        ],
+        "arcs": [
+            [
+                "silkworm",
+                "silkworm"
+            ]
+        ]
+    },
+    "satellite_29": {
+        "vertices": [
+            "forewarn"
+        ],
+        "arcs": [
+            [
+                "forewarn",
+                "forewarn"
+            ]
+        ]
+    },
+    "satellite_30": {
+        "vertices": [
+            "internee"
+        ],
+        "arcs": [
+            [
+                "internee",
+                "internee"
+            ]
+        ]
+    },
+    "satellite_31": {
+        "vertices": [
+            "tune"
+        ],
+        "arcs": [
+            [
+                "tune",
+                "tune"
+            ]
+        ]
+    },
+    "satellite_32": {
+        "vertices": [
+            "alas"
+        ],
+        "arcs": [
+            [
+                "alas",
+                "alas"
+            ]
+        ]
+    },
+    "satellite_33": {
+        "vertices": [
+            "deny"
+        ],
+        "arcs": [
+            [
+                "deny",
+                "deny"
+            ]
+        ]
+    },
+    "satellite_34": {
+        "vertices": [
+            "vanity"
+        ],
+        "arcs": [
+            [
+                "vanity",
+                "vanity"
+            ]
+        ]
+    },
+    "satellite_35": {
+        "vertices": [
+            "cocoon"
+        ],
+        "arcs": [
+            [
+                "cocoon",
+                "cocoon"
+            ]
+        ]
+    },
+    "satellite_36": {
+        "vertices": [
+            "prime"
+        ],
+        "arcs": [
+            [
+                "prime",
+                "prime"
+            ]
+        ]
+    },
+    "satellite_37": {
+        "vertices": [
+            "tap"
+        ],
+        "arcs": [
+            [
+                "tap",
+                "tap"
+            ]
+        ]
+    },
+    "satellite_38": {
+        "vertices": [
+            "liver"
+        ],
+        "arcs": [
+            [
+                "liver",
+                "liver"
+            ]
+        ]
+    },
+    "satellite_39": {
+        "vertices": [
+            "paddle"
+        ],
+        "arcs": [
+            [
+                "paddle",
+                "paddle"
+            ]
+        ]
+    },
+    "satellite_40": {
+        "vertices": [
+            "juniper"
+        ],
+        "arcs": [
+            [
+                "juniper",
+                "juniper"
+            ]
+        ]
+    },
+    "satellite_41": {
+        "vertices": [
+            "tobacco"
+        ],
+        "arcs": [
+            [
+                "tobacco",
+                "tobacco"
+            ]
+        ]
+    },
+    "satellite_42": {
+        "vertices": [
+            "blueberry"
+        ],
+        "arcs": [
+            [
+                "blueberry",
+                "blueberry"
+            ]
+        ]
+    },
+    "satellite_43": {
+        "vertices": [
+            "fit"
+        ],
+        "arcs": [
+            [
+                "fit",
+                "fit"
+            ]
+        ]
+    },
+    "satellite_44": {
+        "vertices": [
+            "nimble"
+        ],
+        "arcs": [
+            [
+                "nimble",
+                "nimble"
+            ]
+        ]
+    },
+    "satellite_45": {
+        "vertices": [
+            "banter"
+        ],
+        "arcs": [
+            [
+                "banter",
+                "banter"
+            ]
+        ]
+    },
+    "satellite_46": {
+        "vertices": [
+            "postmortem"
+        ],
+        "arcs": [
+            [
+                "postmortem",
+                "postmortem"
+            ]
+        ]
+    },
+    "satellite_47": {
+        "vertices": [
+            "urine"
+        ],
+        "arcs": [
+            [
+                "urine",
+                "urine"
+            ]
+        ]
+    },
+    "satellite_48": {
+        "vertices": [
+            "crocodile"
+        ],
+        "arcs": [
+            [
+                "crocodile",
+                "crocodile"
+            ]
+        ]
+    },
+    "satellite_49": {
+        "vertices": [
+            "switchblade"
+        ],
+        "arcs": [
+            [
+                "switchblade",
+                "switchblade"
+            ]
+        ]
+    },
+    "satellite_50": {
+        "vertices": [
+            "maize"
+        ],
+        "arcs": [
+            [
+                "maize",
+                "maize"
+            ]
+        ]
+    },
+    "satellite_51": {
+        "vertices": [
+            "equilibrium"
+        ],
+        "arcs": [
+            [
+                "equilibrium",
+                "equilibrium"
+            ]
+        ]
+    },
+    "satellite_52": {
+        "vertices": [
+            "automate"
+        ],
+        "arcs": [
+            [
+                "automate",
+                "automate"
+            ]
+        ]
+    },
+    "satellite_53": {
+        "vertices": [
+            "bath"
+        ],
+        "arcs": [
+            [
+                "bath",
+                "bath"
+            ]
+        ]
+    },
+    "satellite_54": {
+        "vertices": [
+            "syringe"
+        ],
+        "arcs": [
+            [
+                "syringe",
+                "syringe"
+            ]
+        ]
+    },
+    "satellite_55": {
+        "vertices": [
+            "needle"
+        ],
+        "arcs": [
+            [
+                "needle",
+                "needle"
+            ]
+        ]
+    },
+    "satellite_56": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_57": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_58": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_59": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_60": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_61": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_62": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_63": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_64": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_65": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_66": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_67": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_68": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_69": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_70": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_71": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_72": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_73": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_74": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_75": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_76": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_77": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_78": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_79": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_80": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_81": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_82": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_83": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_84": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_85": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_86": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_87": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_88": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_89": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_90": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_91": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_92": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_93": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_94": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_95": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_96": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_97": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_98": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_99": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_100": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_101": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_102": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_103": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_104": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_105": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_106": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_107": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_108": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "sturgeon"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "north"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "nucleus"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "paddle"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "paring"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "peppercorn"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "postmortem"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "primate"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "prime"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sand"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "serviette"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "silkworm"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "situate"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sleigh"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "south"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "nimble"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "switchblade"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "syringe"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tablet"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tap"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "timber"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tobacco"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tune"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "universe"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "urine"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "vanity"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "volcano"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "welterweight"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "whisky"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "womb"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "dust"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "astonish"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "atom"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "automate"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "banter"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "bath"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "bitter"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "blueberry"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "cacao"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "cement"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "cocoon"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "comply"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "crocodile"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "deer"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "deny"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "alas"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "equilibrium"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "fit"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "forewarn"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "greenfly"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "comply"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "equilibrium"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "dust"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "postmortem"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "primate"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "prime"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "deny"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "deer"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "crocodile"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sand"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "peppercorn"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "serviette"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "silkworm"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "situate"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sleigh"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cement"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "south"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sturgeon"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cacao"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "negative"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "liver"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "lightweight"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "maize"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mallet"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "juniper"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "internee"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "needle"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "holy"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cocoon"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nimble"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "north"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "greenfly"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nucleus"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paddle"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paring"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "forewarn"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "fit"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "bitter"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "universe"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "banter"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "urine"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "tune"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "bath"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "tobacco"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "timber"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "automate"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "atom"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "vanity"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "astonish"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "volcano"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "comply"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "equilibrium"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "dust"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "postmortem"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "primate"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "prime"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "deny"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "deer"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "crocodile"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sand"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "peppercorn"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "serviette"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "silkworm"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "situate"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sleigh"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cement"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "south"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sturgeon"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cacao"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "negative"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "liver"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "lightweight"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "maize"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mallet"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "juniper"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "internee"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "needle"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "holy"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cocoon"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nimble"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "north"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "greenfly"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nucleus"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paddle"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paring"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "forewarn"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "fit"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "bitter"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "universe"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "banter"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "urine"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "tune"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "bath"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "tobacco"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "timber"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "automate"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "atom"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "vanity"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "astonish"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "volcano"
+        }
+    ]
+}

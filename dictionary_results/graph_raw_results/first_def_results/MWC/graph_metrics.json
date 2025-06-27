@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "74274 / 100.00%",
+    "nb_of_words_in_kernel": "7576 / 10.20%",
+    "nb_of_words_in_core": "5846 / 7.87%",
+    "nb_of_reduced_core": "2015 / 2.71%",
+    "nb_of_words_in_satelites": "1730 / 2.33%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "66698 / 89.80%",
+    "reduced_core_mfvs_size": "310 / 0.42%",
+    "nb_of_words_mfvs": "1095 / 1.47%",
+    "initial_nb_of_loops": 688,
+    "initial_nb_of_arcs": 381094,
+    "final_nb_of_arcs": 14672,
+    "initial_nb_of_out_deg_0": 53117,
+    "initial_nb_of_in_deg_0": 142,
+    "initial_nb_of_out_deg_1": 5146,
+    "initial_nb_of_in_deg_1": 7120,
+    "initial_nb_of_sccs": 332,
+    "size_of_biggest_scc": 5846,
+    "size_of_2nd_biggest_scc": 11,
+    "nb_of_sccs_kernel": 1311,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 11,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "152 / 0.20%",
+    "nb_undefining": "65475 / 88.15%",
+    "top n out deg": [
+        {
+            "out_degree": 4241,
+            "vertex": "use"
+        },
+        {
+            "out_degree": 4182,
+            "vertex": "especially"
+        },
+        {
+            "out_degree": 3780,
+            "vertex": "have"
+        },
+        {
+            "out_degree": 3326,
+            "vertex": "relate"
+        },
+        {
+            "out_degree": 3121,
+            "vertex": "usually"
+        },
+        {
+            "out_degree": 2378,
+            "vertex": "make"
+        },
+        {
+            "out_degree": 1984,
+            "vertex": "act"
+        },
+        {
+            "out_degree": 1865,
+            "vertex": "form"
+        },
+        {
+            "out_degree": 1602,
+            "vertex": "person"
+        },
+        {
+            "out_degree": 1574,
+            "vertex": "call"
+        },
+        {
+            "out_degree": 1546,
+            "vertex": "state"
+        },
+        {
+            "out_degree": 1517,
+            "vertex": "also"
+        },
+        {
+            "out_degree": 1434,
+            "vertex": "small"
+        },
+        {
+            "out_degree": 1336,
+            "vertex": "part"
+        },
+        {
+            "out_degree": 1220,
+            "vertex": "often"
+        },
+        {
+            "out_degree": 1166,
+            "vertex": "cause"
+        },
+        {
+            "out_degree": 1062,
+            "vertex": "body"
+        },
+        {
+            "out_degree": 1060,
+            "vertex": "process"
+        },
+        {
+            "out_degree": 1035,
+            "vertex": "produce"
+        },
+        {
+            "out_degree": 1017,
+            "vertex": "family"
+        },
+        {
+            "out_degree": 973,
+            "vertex": "quality"
+        },
+        {
+            "out_degree": 950,
+            "vertex": "characterize"
+        },
+        {
+            "out_degree": 946,
+            "vertex": "large"
+        },
+        {
+            "out_degree": 920,
+            "vertex": "various"
+        },
+        {
+            "out_degree": 915,
+            "vertex": "compare"
+        },
+        {
+            "out_degree": 905,
+            "vertex": "consist"
+        },
+        {
+            "out_degree": 897,
+            "vertex": "action"
+        },
+        {
+            "out_degree": 887,
+            "vertex": "give"
+        },
+        {
+            "out_degree": 828,
+            "vertex": "plant"
+        },
+        {
+            "out_degree": 801,
+            "vertex": "other"
+        },
+        {
+            "out_degree": 797,
+            "vertex": "contain"
+        },
+        {
+            "out_degree": 795,
+            "vertex": "group"
+        },
+        {
+            "out_degree": 770,
+            "vertex": "place"
+        },
+        {
+            "out_degree": 735,
+            "vertex": "time"
+        },
+        {
+            "out_degree": 697,
+            "vertex": "water"
+        },
+        {
+            "out_degree": 678,
+            "vertex": "high"
+        },
+        {
+            "out_degree": 677,
+            "vertex": "resemble"
+        },
+        {
+            "out_degree": 663,
+            "vertex": "more"
+        },
+        {
+            "out_degree": 663,
+            "vertex": "occur"
+        },
+        {
+            "out_degree": 654,
+            "vertex": "light"
+        },
+        {
+            "out_degree": 651,
+            "vertex": "capable"
+        },
+        {
+            "out_degree": 649,
+            "vertex": "system"
+        },
+        {
+            "out_degree": 634,
+            "vertex": "material"
+        },
+        {
+            "out_degree": 628,
+            "vertex": "animal"
+        },
+        {
+            "out_degree": 606,
+            "vertex": "cell"
+        },
+        {
+            "out_degree": 600,
+            "vertex": "long"
+        },
+        {
+            "out_degree": 586,
+            "vertex": "chiefly"
+        },
+        {
+            "out_degree": 577,
+            "vertex": "surface"
+        },
+        {
+            "out_degree": 576,
+            "vertex": "several"
+        },
+        {
+            "out_degree": 575,
+            "vertex": "lack"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 44,
+            "vertex": "vocabulary entry"
+        },
+        {
+            "in_degree": 42,
+            "vertex": "water"
+        },
+        {
+            "in_degree": 37,
+            "vertex": "adverb"
+        },
+        {
+            "in_degree": 37,
+            "vertex": "brain"
+        },
+        {
+            "in_degree": 36,
+            "vertex": "bacterium"
+        },
+        {
+            "in_degree": 36,
+            "vertex": "sulfury"
+        },
+        {
+            "in_degree": 36,
+            "vertex": "sulphury"
+        },
+        {
+            "in_degree": 36,
+            "vertex": "sulfur"
+        },
+        {
+            "in_degree": 35,
+            "vertex": "animally"
+        },
+        {
+            "in_degree": 35,
+            "vertex": "wasplike"
+        },
+        {
+            "in_degree": 35,
+            "vertex": "animal"
+        },
+        {
+            "in_degree": 35,
+            "vertex": "smooth muscle"
+        },
+        {
+            "in_degree": 35,
+            "vertex": "wasp"
+        },
+        {
+            "in_degree": 34,
+            "vertex": "verbless"
+        },
+        {
+            "in_degree": 34,
+            "vertex": "verb"
+        },
+        {
+            "in_degree": 33,
+            "vertex": "connective tissue"
+        },
+        {
+            "in_degree": 33,
+            "vertex": "will"
+        },
+        {
+            "in_degree": 32,
+            "vertex": "romanticism"
+        },
+        {
+            "in_degree": 32,
+            "vertex": "systemic lupus erythematosus"
+        },
+        {
+            "in_degree": 32,
+            "vertex": "romanticist"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "resinous"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "viatical"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "jaw"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "forebrain"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "beta-receptor"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "resin"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "viatical settlement"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "protein"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "termite"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "cystic fibrosis"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "strong interaction"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "woodpecker"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "strong nuclear force"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "DNA"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "zinc"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "vertebra"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "brass instrument"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "cetaceous"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "radium"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "kidney"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "cetacean"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "cephalopod"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "strong force"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "woodwind"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "sugarless"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "sugar"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "tuberculosis"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "LSD"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "bends"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "weak interaction"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 4246,
+            "vertex": "use"
+        },
+        {
+            "total_degree": 4183,
+            "vertex": "especially"
+        },
+        {
+            "total_degree": 3785,
+            "vertex": "have"
+        },
+        {
+            "total_degree": 3329,
+            "vertex": "relate"
+        },
+        {
+            "total_degree": 3126,
+            "vertex": "usually"
+        },
+        {
+            "total_degree": 2380,
+            "vertex": "make"
+        },
+        {
+            "total_degree": 1987,
+            "vertex": "act"
+        },
+        {
+            "total_degree": 1869,
+            "vertex": "form"
+        },
+        {
+            "total_degree": 1613,
+            "vertex": "person"
+        },
+        {
+            "total_degree": 1581,
+            "vertex": "call"
+        },
+        {
+            "total_degree": 1548,
+            "vertex": "state"
+        },
+        {
+            "total_degree": 1518,
+            "vertex": "also"
+        },
+        {
+            "total_degree": 1440,
+            "vertex": "small"
+        },
+        {
+            "total_degree": 1345,
+            "vertex": "part"
+        },
+        {
+            "total_degree": 1223,
+            "vertex": "often"
+        },
+        {
+            "total_degree": 1170,
+            "vertex": "cause"
+        },
+        {
+            "total_degree": 1072,
+            "vertex": "body"
+        },
+        {
+            "total_degree": 1062,
+            "vertex": "process"
+        },
+        {
+            "total_degree": 1038,
+            "vertex": "produce"
+        },
+        {
+            "total_degree": 1024,
+            "vertex": "family"
+        },
+        {
+            "total_degree": 977,
+            "vertex": "quality"
+        },
+        {
+            "total_degree": 953,
+            "vertex": "characterize"
+        },
+        {
+            "total_degree": 947,
+            "vertex": "large"
+        },
+        {
+            "total_degree": 922,
+            "vertex": "various"
+        },
+        {
+            "total_degree": 918,
+            "vertex": "compare"
+        },
+        {
+            "total_degree": 909,
+            "vertex": "consist"
+        },
+        {
+            "total_degree": 903,
+            "vertex": "action"
+        },
+        {
+            "total_degree": 889,
+            "vertex": "give"
+        },
+        {
+            "total_degree": 832,
+            "vertex": "plant"
+        },
+        {
+            "total_degree": 804,
+            "vertex": "other"
+        },
+        {
+            "total_degree": 801,
+            "vertex": "group"
+        },
+        {
+            "total_degree": 799,
+            "vertex": "contain"
+        },
+        {
+            "total_degree": 773,
+            "vertex": "place"
+        },
+        {
+            "total_degree": 744,
+            "vertex": "time"
+        },
+        {
+            "total_degree": 739,
+            "vertex": "water"
+        },
+        {
+            "total_degree": 686,
+            "vertex": "high"
+        },
+        {
+            "total_degree": 678,
+            "vertex": "resemble"
+        },
+        {
+            "total_degree": 666,
+            "vertex": "occur"
+        },
+        {
+            "total_degree": 664,
+            "vertex": "more"
+        },
+        {
+            "total_degree": 663,
+            "vertex": "animal"
+        },
+        {
+            "total_degree": 657,
+            "vertex": "light"
+        },
+        {
+            "total_degree": 655,
+            "vertex": "system"
+        },
+        {
+            "total_degree": 652,
+            "vertex": "capable"
+        },
+        {
+            "total_degree": 638,
+            "vertex": "material"
+        },
+        {
+            "total_degree": 611,
+            "vertex": "cell"
+        },
+        {
+            "total_degree": 603,
+            "vertex": "long"
+        },
+        {
+            "total_degree": 590,
+            "vertex": "chiefly"
+        },
+        {
+            "total_degree": 582,
+            "vertex": "surface"
+        },
+        {
+            "total_degree": 578,
+            "vertex": "several"
+        },
+        {
+            "total_degree": 578,
+            "vertex": "line"
+        }
+    ]
+}

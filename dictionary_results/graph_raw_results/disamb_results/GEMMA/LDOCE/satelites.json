@@ -1,0 +1,6817 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "chess_1"
+        ],
+        "arcs": [
+            [
+                "chess_1",
+                "chess_1"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "ground_33"
+        ],
+        "arcs": [
+            [
+                "ground_33",
+                "ground_33"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "card_7"
+        ],
+        "arcs": [
+            [
+                "card_7",
+                "card_7"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "neuter_3"
+        ],
+        "arcs": [
+            [
+                "neuter_3",
+                "neuter_3"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "lift_1"
+        ],
+        "arcs": [
+            [
+                "lift_1",
+                "lift_1"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "sour_3"
+        ],
+        "arcs": [
+            [
+                "sour_3",
+                "sour_3"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "limestone_1"
+        ],
+        "arcs": [
+            [
+                "limestone_1",
+                "limestone_1"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "power_18"
+        ],
+        "arcs": [
+            [
+                "power_18",
+                "power_18"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "magician_2"
+        ],
+        "arcs": [
+            [
+                "magician_2",
+                "magician_2"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "paper_12"
+        ],
+        "arcs": [
+            [
+                "paper_12",
+                "paper_12"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "obligatory_1"
+        ],
+        "arcs": [
+            [
+                "obligatory_1",
+                "obligatory_1"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "sweet_1"
+        ],
+        "arcs": [
+            [
+                "sweet_1",
+                "sweet_1"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "bathroom_1"
+        ],
+        "arcs": [
+            [
+                "bathroom_1",
+                "bathroom_1"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "jelly_3"
+        ],
+        "arcs": [
+            [
+                "jelly_3",
+                "jelly_3"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "sofa_1"
+        ],
+        "arcs": [
+            [
+                "sofa_1",
+                "sofa_1"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "knit_1"
+        ],
+        "arcs": [
+            [
+                "knit_1",
+                "knit_1"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "gravestone_1"
+        ],
+        "arcs": [
+            [
+                "gravestone_1",
+                "gravestone_1"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [
+            "draught_3"
+        ],
+        "arcs": [
+            [
+                "draught_3",
+                "draught_3"
+            ]
+        ]
+    },
+    "satellite_18": {
+        "vertices": [
+            "purse_3"
+        ],
+        "arcs": [
+            [
+                "purse_3",
+                "purse_3"
+            ]
+        ]
+    },
+    "satellite_19": {
+        "vertices": [
+            "proton_1"
+        ],
+        "arcs": [
+            [
+                "proton_1",
+                "proton_1"
+            ]
+        ]
+    },
+    "satellite_20": {
+        "vertices": [
+            "spine_1"
+        ],
+        "arcs": [
+            [
+                "spine_1",
+                "spine_1"
+            ]
+        ]
+    },
+    "satellite_21": {
+        "vertices": [
+            "walker_1"
+        ],
+        "arcs": [
+            [
+                "walker_1",
+                "walker_1"
+            ]
+        ]
+    },
+    "satellite_22": {
+        "vertices": [
+            "pestle_1"
+        ],
+        "arcs": [
+            [
+                "pestle_1",
+                "pestle_1"
+            ]
+        ]
+    },
+    "satellite_23": {
+        "vertices": [
+            "wedding_1"
+        ],
+        "arcs": [
+            [
+                "wedding_1",
+                "wedding_1"
+            ]
+        ]
+    },
+    "satellite_24": {
+        "vertices": [
+            "wander_5"
+        ],
+        "arcs": [
+            [
+                "wander_5",
+                "wander_5"
+            ]
+        ]
+    },
+    "satellite_25": {
+        "vertices": [
+            "unsanitary_1"
+        ],
+        "arcs": [
+            [
+                "unsanitary_1",
+                "unsanitary_1"
+            ]
+        ]
+    },
+    "satellite_26": {
+        "vertices": [
+            "housewife_1"
+        ],
+        "arcs": [
+            [
+                "housewife_1",
+                "housewife_1"
+            ]
+        ]
+    },
+    "satellite_27": {
+        "vertices": [
+            "intern_1"
+        ],
+        "arcs": [
+            [
+                "intern_1",
+                "intern_1"
+            ]
+        ]
+    },
+    "satellite_28": {
+        "vertices": [
+            "unconscious_1"
+        ],
+        "arcs": [
+            [
+                "unconscious_1",
+                "unconscious_1"
+            ]
+        ]
+    },
+    "satellite_29": {
+        "vertices": [
+            "vomit_2"
+        ],
+        "arcs": [
+            [
+                "vomit_2",
+                "vomit_2"
+            ]
+        ]
+    },
+    "satellite_30": {
+        "vertices": [
+            "veterinarian_1"
+        ],
+        "arcs": [
+            [
+                "veterinarian_1",
+                "veterinarian_1"
+            ]
+        ]
+    },
+    "satellite_31": {
+        "vertices": [
+            "singsong_1"
+        ],
+        "arcs": [
+            [
+                "singsong_1",
+                "singsong_1"
+            ]
+        ]
+    },
+    "satellite_32": {
+        "vertices": [
+            "draw_35"
+        ],
+        "arcs": [
+            [
+                "draw_35",
+                "draw_35"
+            ]
+        ]
+    },
+    "satellite_33": {
+        "vertices": [
+            "thorax_2"
+        ],
+        "arcs": [
+            [
+                "thorax_2",
+                "thorax_2"
+            ]
+        ]
+    },
+    "satellite_34": {
+        "vertices": [
+            "volcano_1"
+        ],
+        "arcs": [
+            [
+                "volcano_1",
+                "volcano_1"
+            ]
+        ]
+    },
+    "satellite_35": {
+        "vertices": [
+            "get_14"
+        ],
+        "arcs": [
+            [
+                "get_14",
+                "get_14"
+            ]
+        ]
+    },
+    "satellite_36": {
+        "vertices": [
+            "mummy_1"
+        ],
+        "arcs": [
+            [
+                "mummy_1",
+                "mummy_1"
+            ]
+        ]
+    },
+    "satellite_37": {
+        "vertices": [
+            "pitcher_1"
+        ],
+        "arcs": [
+            [
+                "pitcher_1",
+                "pitcher_1"
+            ]
+        ]
+    },
+    "satellite_38": {
+        "vertices": [
+            "hump_2"
+        ],
+        "arcs": [
+            [
+                "hump_2",
+                "hump_2"
+            ]
+        ]
+    },
+    "satellite_39": {
+        "vertices": [
+            "shell_2"
+        ],
+        "arcs": [
+            [
+                "shell_2",
+                "shell_2"
+            ]
+        ]
+    },
+    "satellite_40": {
+        "vertices": [
+            "mushroom_1"
+        ],
+        "arcs": [
+            [
+                "mushroom_1",
+                "mushroom_1"
+            ]
+        ]
+    },
+    "satellite_41": {
+        "vertices": [
+            "infect_1"
+        ],
+        "arcs": [
+            [
+                "infect_1",
+                "infect_1"
+            ]
+        ]
+    },
+    "satellite_42": {
+        "vertices": [
+            "chancery_3"
+        ],
+        "arcs": [
+            [
+                "chancery_3",
+                "chancery_3"
+            ]
+        ]
+    },
+    "satellite_43": {
+        "vertices": [
+            "show_3"
+        ],
+        "arcs": [
+            [
+                "show_3",
+                "show_3"
+            ]
+        ]
+    },
+    "satellite_44": {
+        "vertices": [
+            "guest_1"
+        ],
+        "arcs": [
+            [
+                "guest_1",
+                "guest_1"
+            ]
+        ]
+    },
+    "satellite_45": {
+        "vertices": [
+            "holdover_1"
+        ],
+        "arcs": [
+            [
+                "holdover_1",
+                "holdover_1"
+            ]
+        ]
+    },
+    "satellite_46": {
+        "vertices": [
+            "place_34"
+        ],
+        "arcs": [
+            [
+                "place_34",
+                "place_34"
+            ]
+        ]
+    },
+    "satellite_47": {
+        "vertices": [
+            "flat_27"
+        ],
+        "arcs": [
+            [
+                "flat_27",
+                "flat_27"
+            ]
+        ]
+    },
+    "satellite_48": {
+        "vertices": [
+            "run_65"
+        ],
+        "arcs": [
+            [
+                "run_65",
+                "run_65"
+            ]
+        ]
+    },
+    "satellite_49": {
+        "vertices": [
+            "around_2"
+        ],
+        "arcs": [
+            [
+                "around_2",
+                "around_2"
+            ]
+        ]
+    },
+    "satellite_50": {
+        "vertices": [
+            "trailer_1"
+        ],
+        "arcs": [
+            [
+                "trailer_1",
+                "trailer_1"
+            ]
+        ]
+    },
+    "satellite_51": {
+        "vertices": [
+            "monk_1"
+        ],
+        "arcs": [
+            [
+                "monk_1",
+                "monk_1"
+            ]
+        ]
+    },
+    "satellite_52": {
+        "vertices": [
+            "baseball_1"
+        ],
+        "arcs": [
+            [
+                "baseball_1",
+                "baseball_1"
+            ]
+        ]
+    },
+    "satellite_53": {
+        "vertices": [
+            "plectrum_1"
+        ],
+        "arcs": [
+            [
+                "plectrum_1",
+                "plectrum_1"
+            ]
+        ]
+    },
+    "satellite_54": {
+        "vertices": [
+            "tout_1"
+        ],
+        "arcs": [
+            [
+                "tout_1",
+                "tout_1"
+            ]
+        ]
+    },
+    "satellite_55": {
+        "vertices": [
+            "coffin_1"
+        ],
+        "arcs": [
+            [
+                "coffin_1",
+                "coffin_1"
+            ]
+        ]
+    },
+    "satellite_56": {
+        "vertices": [
+            "sidewalk_1"
+        ],
+        "arcs": [
+            [
+                "sidewalk_1",
+                "sidewalk_1"
+            ]
+        ]
+    },
+    "satellite_57": {
+        "vertices": [
+            "interval_6"
+        ],
+        "arcs": [
+            [
+                "interval_6",
+                "interval_6"
+            ]
+        ]
+    },
+    "satellite_58": {
+        "vertices": [
+            "ride_6"
+        ],
+        "arcs": [
+            [
+                "ride_6",
+                "ride_6"
+            ]
+        ]
+    },
+    "satellite_59": {
+        "vertices": [
+            "wrap_7"
+        ],
+        "arcs": [
+            [
+                "wrap_7",
+                "wrap_7"
+            ]
+        ]
+    },
+    "satellite_60": {
+        "vertices": [
+            "mingle_2"
+        ],
+        "arcs": [
+            [
+                "mingle_2",
+                "mingle_2"
+            ]
+        ]
+    },
+    "satellite_61": {
+        "vertices": [
+            "southern_1"
+        ],
+        "arcs": [
+            [
+                "southern_1",
+                "southern_1"
+            ]
+        ]
+    },
+    "satellite_62": {
+        "vertices": [
+            "podiatrist_1"
+        ],
+        "arcs": [
+            [
+                "podiatrist_1",
+                "podiatrist_1"
+            ]
+        ]
+    },
+    "satellite_63": {
+        "vertices": [
+            "sharp_14"
+        ],
+        "arcs": [
+            [
+                "sharp_14",
+                "sharp_14"
+            ]
+        ]
+    },
+    "satellite_64": {
+        "vertices": [
+            "western_2"
+        ],
+        "arcs": [
+            [
+                "western_2",
+                "western_2"
+            ]
+        ]
+    },
+    "satellite_65": {
+        "vertices": [
+            "rub_18"
+        ],
+        "arcs": [
+            [
+                "rub_18",
+                "rub_18"
+            ]
+        ]
+    },
+    "satellite_66": {
+        "vertices": [
+            "transitory_1"
+        ],
+        "arcs": [
+            [
+                "transitory_1",
+                "transitory_1"
+            ]
+        ]
+    },
+    "satellite_67": {
+        "vertices": [
+            "jawbreaker_1"
+        ],
+        "arcs": [
+            [
+                "jawbreaker_1",
+                "jawbreaker_1"
+            ]
+        ]
+    },
+    "satellite_68": {
+        "vertices": [
+            "order_14"
+        ],
+        "arcs": [
+            [
+                "order_14",
+                "order_14"
+            ]
+        ]
+    },
+    "satellite_69": {
+        "vertices": [
+            "walkover_1"
+        ],
+        "arcs": [
+            [
+                "walkover_1",
+                "walkover_1"
+            ]
+        ]
+    },
+    "satellite_70": {
+        "vertices": [
+            "away_9"
+        ],
+        "arcs": [
+            [
+                "away_9",
+                "away_9"
+            ]
+        ]
+    },
+    "satellite_71": {
+        "vertices": [
+            "low_17"
+        ],
+        "arcs": [
+            [
+                "low_17",
+                "low_17"
+            ]
+        ]
+    },
+    "satellite_72": {
+        "vertices": [
+            "snigger_1"
+        ],
+        "arcs": [
+            [
+                "snigger_1",
+                "snigger_1"
+            ]
+        ]
+    },
+    "satellite_73": {
+        "vertices": [
+            "druggist_1"
+        ],
+        "arcs": [
+            [
+                "druggist_1",
+                "druggist_1"
+            ]
+        ]
+    },
+    "satellite_74": {
+        "vertices": [
+            "concur_2"
+        ],
+        "arcs": [
+            [
+                "concur_2",
+                "concur_2"
+            ]
+        ]
+    },
+    "satellite_75": {
+        "vertices": [
+            "bartender_1"
+        ],
+        "arcs": [
+            [
+                "bartender_1",
+                "bartender_1"
+            ]
+        ]
+    },
+    "satellite_76": {
+        "vertices": [
+            "tailbone_1"
+        ],
+        "arcs": [
+            [
+                "tailbone_1",
+                "tailbone_1"
+            ]
+        ]
+    },
+    "satellite_77": {
+        "vertices": [
+            "rank_4"
+        ],
+        "arcs": [
+            [
+                "rank_4",
+                "rank_4"
+            ]
+        ]
+    },
+    "satellite_78": {
+        "vertices": [
+            "track_24"
+        ],
+        "arcs": [
+            [
+                "track_24",
+                "track_24"
+            ]
+        ]
+    },
+    "satellite_79": {
+        "vertices": [
+            "groundhog_1"
+        ],
+        "arcs": [
+            [
+                "groundhog_1",
+                "groundhog_1"
+            ]
+        ]
+    },
+    "satellite_80": {
+        "vertices": [
+            "tick_1"
+        ],
+        "arcs": [
+            [
+                "tick_1",
+                "tick_1"
+            ]
+        ]
+    },
+    "satellite_81": {
+        "vertices": [
+            "windscreen_1"
+        ],
+        "arcs": [
+            [
+                "windscreen_1",
+                "windscreen_1"
+            ]
+        ]
+    },
+    "satellite_82": {
+        "vertices": [
+            "suit_1"
+        ],
+        "arcs": [
+            [
+                "suit_1",
+                "suit_1"
+            ]
+        ]
+    },
+    "satellite_83": {
+        "vertices": [
+            "waistcoat_1"
+        ],
+        "arcs": [
+            [
+                "waistcoat_1",
+                "waistcoat_1"
+            ]
+        ]
+    },
+    "satellite_84": {
+        "vertices": [
+            "tease_6"
+        ],
+        "arcs": [
+            [
+                "tease_6",
+                "tease_6"
+            ]
+        ]
+    },
+    "satellite_85": {
+        "vertices": [
+            "angle_1"
+        ],
+        "arcs": [
+            [
+                "angle_1",
+                "angle_1"
+            ]
+        ]
+    },
+    "satellite_86": {
+        "vertices": [
+            "gorilla_1"
+        ],
+        "arcs": [
+            [
+                "gorilla_1",
+                "gorilla_1"
+            ]
+        ]
+    },
+    "satellite_87": {
+        "vertices": [
+            "abseil_1"
+        ],
+        "arcs": [
+            [
+                "abseil_1",
+                "abseil_1"
+            ]
+        ]
+    },
+    "satellite_88": {
+        "vertices": [
+            "dip_9"
+        ],
+        "arcs": [
+            [
+                "dip_9",
+                "dip_9"
+            ]
+        ]
+    },
+    "satellite_89": {
+        "vertices": [
+            "gradient_1"
+        ],
+        "arcs": [
+            [
+                "gradient_1",
+                "gradient_1"
+            ]
+        ]
+    },
+    "satellite_90": {
+        "vertices": [
+            "trust_1"
+        ],
+        "arcs": [
+            [
+                "trust_1",
+                "trust_1"
+            ]
+        ]
+    },
+    "satellite_91": {
+        "vertices": [
+            "punch_16"
+        ],
+        "arcs": [
+            [
+                "punch_16",
+                "punch_16"
+            ]
+        ]
+    },
+    "satellite_92": {
+        "vertices": [
+            "treacle_1"
+        ],
+        "arcs": [
+            [
+                "treacle_1",
+                "treacle_1"
+            ]
+        ]
+    },
+    "satellite_93": {
+        "vertices": [
+            "aerodynamic_2"
+        ],
+        "arcs": [
+            [
+                "aerodynamic_2",
+                "aerodynamic_2"
+            ]
+        ]
+    },
+    "satellite_94": {
+        "vertices": [
+            "sorry_1"
+        ],
+        "arcs": [
+            [
+                "sorry_1",
+                "sorry_1"
+            ]
+        ]
+    },
+    "satellite_95": {
+        "vertices": [
+            "lobotomy_1"
+        ],
+        "arcs": [
+            [
+                "lobotomy_1",
+                "lobotomy_1"
+            ]
+        ]
+    },
+    "satellite_96": {
+        "vertices": [
+            "path_1"
+        ],
+        "arcs": [
+            [
+                "path_1",
+                "path_1"
+            ]
+        ]
+    },
+    "satellite_97": {
+        "vertices": [
+            "torch_1"
+        ],
+        "arcs": [
+            [
+                "torch_1",
+                "torch_1"
+            ]
+        ]
+    },
+    "satellite_98": {
+        "vertices": [
+            "jam_1"
+        ],
+        "arcs": [
+            [
+                "jam_1",
+                "jam_1"
+            ]
+        ]
+    },
+    "satellite_99": {
+        "vertices": [
+            "burgle_1"
+        ],
+        "arcs": [
+            [
+                "burgle_1",
+                "burgle_1"
+            ]
+        ]
+    },
+    "satellite_100": {
+        "vertices": [
+            "pouch_2"
+        ],
+        "arcs": [
+            [
+                "pouch_2",
+                "pouch_2"
+            ]
+        ]
+    },
+    "satellite_101": {
+        "vertices": [
+            "wool_1"
+        ],
+        "arcs": [
+            [
+                "wool_1",
+                "wool_1"
+            ]
+        ]
+    },
+    "satellite_102": {
+        "vertices": [
+            "publish_2"
+        ],
+        "arcs": [
+            [
+                "publish_2",
+                "publish_2"
+            ]
+        ]
+    },
+    "satellite_103": {
+        "vertices": [
+            "sweater_1"
+        ],
+        "arcs": [
+            [
+                "sweater_1",
+                "sweater_1"
+            ]
+        ]
+    },
+    "satellite_104": {
+        "vertices": [
+            "run_21"
+        ],
+        "arcs": [
+            [
+                "run_21",
+                "run_21"
+            ]
+        ]
+    },
+    "satellite_105": {
+        "vertices": [
+            "mutually_2"
+        ],
+        "arcs": [
+            [
+                "mutually_2",
+                "mutually_2"
+            ]
+        ]
+    },
+    "satellite_106": {
+        "vertices": [
+            "skin_6"
+        ],
+        "arcs": [
+            [
+                "skin_6",
+                "skin_6"
+            ]
+        ]
+    },
+    "satellite_107": {
+        "vertices": [
+            "wait_19"
+        ],
+        "arcs": [
+            [
+                "wait_19",
+                "wait_19"
+            ]
+        ]
+    },
+    "satellite_108": {
+        "vertices": [
+            "headcheese_1"
+        ],
+        "arcs": [
+            [
+                "headcheese_1",
+                "headcheese_1"
+            ]
+        ]
+    },
+    "satellite_109": {
+        "vertices": [
+            "fillet_1"
+        ],
+        "arcs": [
+            [
+                "fillet_1",
+                "fillet_1"
+            ]
+        ]
+    },
+    "satellite_110": {
+        "vertices": [
+            "lapwing_1"
+        ],
+        "arcs": [
+            [
+                "lapwing_1",
+                "lapwing_1"
+            ]
+        ]
+    },
+    "satellite_111": {
+        "vertices": [
+            "nut_1"
+        ],
+        "arcs": [
+            [
+                "nut_1",
+                "nut_1"
+            ]
+        ]
+    },
+    "satellite_112": {
+        "vertices": [
+            "cobnut_1"
+        ],
+        "arcs": [
+            [
+                "cobnut_1",
+                "cobnut_1"
+            ]
+        ]
+    },
+    "satellite_113": {
+        "vertices": [
+            "reptile_1"
+        ],
+        "arcs": [
+            [
+                "reptile_1",
+                "reptile_1"
+            ]
+        ]
+    },
+    "satellite_114": {
+        "vertices": [
+            "rooster_1"
+        ],
+        "arcs": [
+            [
+                "rooster_1",
+                "rooster_1"
+            ]
+        ]
+    },
+    "satellite_115": {
+        "vertices": [
+            "hide_1"
+        ],
+        "arcs": [
+            [
+                "hide_1",
+                "hide_1"
+            ]
+        ]
+    },
+    "satellite_116": {
+        "vertices": [
+            "leap_2"
+        ],
+        "arcs": [
+            [
+                "leap_2",
+                "leap_2"
+            ]
+        ]
+    },
+    "satellite_117": {
+        "vertices": [
+            "honk_2"
+        ],
+        "arcs": [
+            [
+                "honk_2",
+                "honk_2"
+            ]
+        ]
+    },
+    "satellite_118": {
+        "vertices": [
+            "soppy_1"
+        ],
+        "arcs": [
+            [
+                "soppy_1",
+                "soppy_1"
+            ]
+        ]
+    },
+    "satellite_119": {
+        "vertices": [
+            "brainwave_1"
+        ],
+        "arcs": [
+            [
+                "brainwave_1",
+                "brainwave_1"
+            ]
+        ]
+    },
+    "satellite_120": {
+        "vertices": [
+            "vacationer_1"
+        ],
+        "arcs": [
+            [
+                "vacationer_1",
+                "vacationer_1"
+            ]
+        ]
+    },
+    "satellite_121": {
+        "vertices": [
+            "order_7"
+        ],
+        "arcs": [
+            [
+                "order_7",
+                "order_7"
+            ]
+        ]
+    },
+    "satellite_122": {
+        "vertices": [
+            "sincere_1"
+        ],
+        "arcs": [
+            [
+                "sincere_1",
+                "sincere_1"
+            ]
+        ]
+    },
+    "satellite_123": {
+        "vertices": [
+            "wind_10"
+        ],
+        "arcs": [
+            [
+                "wind_10",
+                "wind_10"
+            ]
+        ]
+    },
+    "satellite_124": {
+        "vertices": [
+            "telltale_1"
+        ],
+        "arcs": [
+            [
+                "telltale_1",
+                "telltale_1"
+            ]
+        ]
+    },
+    "satellite_125": {
+        "vertices": [
+            "childminder_1"
+        ],
+        "arcs": [
+            [
+                "childminder_1",
+                "childminder_1"
+            ]
+        ]
+    },
+    "satellite_126": {
+        "vertices": [
+            "religious_2"
+        ],
+        "arcs": [
+            [
+                "religious_2",
+                "religious_2"
+            ]
+        ]
+    },
+    "satellite_127": {
+        "vertices": [
+            "church_3"
+        ],
+        "arcs": [
+            [
+                "church_3",
+                "church_3"
+            ]
+        ]
+    },
+    "satellite_128": {
+        "vertices": [
+            "currency_1"
+        ],
+        "arcs": [
+            [
+                "currency_1",
+                "currency_1"
+            ]
+        ]
+    },
+    "satellite_129": {
+        "vertices": [
+            "turn_55"
+        ],
+        "arcs": [
+            [
+                "turn_55",
+                "turn_55"
+            ]
+        ]
+    },
+    "satellite_130": {
+        "vertices": [
+            "zipper_1"
+        ],
+        "arcs": [
+            [
+                "zipper_1",
+                "zipper_1"
+            ]
+        ]
+    },
+    "satellite_131": {
+        "vertices": [
+            "temperament_1"
+        ],
+        "arcs": [
+            [
+                "temperament_1",
+                "temperament_1"
+            ]
+        ]
+    },
+    "satellite_132": {
+        "vertices": [
+            "conceit_1"
+        ],
+        "arcs": [
+            [
+                "conceit_1",
+                "conceit_1"
+            ]
+        ]
+    },
+    "satellite_133": {
+        "vertices": [
+            "show_18"
+        ],
+        "arcs": [
+            [
+                "show_18",
+                "show_18"
+            ]
+        ]
+    },
+    "satellite_134": {
+        "vertices": [
+            "pedlar_1"
+        ],
+        "arcs": [
+            [
+                "pedlar_1",
+                "pedlar_1"
+            ]
+        ]
+    },
+    "satellite_135": {
+        "vertices": [
+            "polythene_1"
+        ],
+        "arcs": [
+            [
+                "polythene_1",
+                "polythene_1"
+            ]
+        ]
+    },
+    "satellite_136": {
+        "vertices": [
+            "ask_4"
+        ],
+        "arcs": [
+            [
+                "ask_4",
+                "ask_4"
+            ]
+        ]
+    },
+    "satellite_137": {
+        "vertices": [
+            "nun_1"
+        ],
+        "arcs": [
+            [
+                "nun_1",
+                "nun_1"
+            ]
+        ]
+    },
+    "satellite_138": {
+        "vertices": [
+            "barbarous_1"
+        ],
+        "arcs": [
+            [
+                "barbarous_1",
+                "barbarous_1"
+            ]
+        ]
+    },
+    "satellite_139": {
+        "vertices": [
+            "dink_1"
+        ],
+        "arcs": [
+            [
+                "dink_1",
+                "dink_1"
+            ]
+        ]
+    },
+    "satellite_140": {
+        "vertices": [
+            "grow_12"
+        ],
+        "arcs": [
+            [
+                "grow_12",
+                "grow_12"
+            ]
+        ]
+    },
+    "satellite_141": {
+        "vertices": [
+            "prostitute_1"
+        ],
+        "arcs": [
+            [
+                "prostitute_1",
+                "prostitute_1"
+            ]
+        ]
+    },
+    "satellite_142": {
+        "vertices": [
+            "toilet_2"
+        ],
+        "arcs": [
+            [
+                "toilet_2",
+                "toilet_2"
+            ]
+        ]
+    },
+    "satellite_143": {
+        "vertices": [
+            "longways_1"
+        ],
+        "arcs": [
+            [
+                "longways_1",
+                "longways_1"
+            ]
+        ]
+    },
+    "satellite_144": {
+        "vertices": [
+            "rub_15"
+        ],
+        "arcs": [
+            [
+                "rub_15",
+                "rub_15"
+            ]
+        ]
+    },
+    "satellite_145": {
+        "vertices": [
+            "fruit_4"
+        ],
+        "arcs": [
+            [
+                "fruit_4",
+                "fruit_4"
+            ]
+        ]
+    },
+    "satellite_146": {
+        "vertices": [
+            "stone_4"
+        ],
+        "arcs": [
+            [
+                "stone_4",
+                "stone_4"
+            ]
+        ]
+    },
+    "satellite_147": {
+        "vertices": [
+            "transportation_2"
+        ],
+        "arcs": [
+            [
+                "transportation_2",
+                "transportation_2"
+            ]
+        ]
+    },
+    "satellite_148": {
+        "vertices": [
+            "star_5"
+        ],
+        "arcs": [
+            [
+                "star_5",
+                "star_5"
+            ]
+        ]
+    },
+    "satellite_149": {
+        "vertices": [
+            "poop_3"
+        ],
+        "arcs": [
+            [
+                "poop_3",
+                "poop_3"
+            ]
+        ]
+    },
+    "satellite_150": {
+        "vertices": [
+            "icing_1"
+        ],
+        "arcs": [
+            [
+                "icing_1",
+                "icing_1"
+            ]
+        ]
+    },
+    "satellite_151": {
+        "vertices": [
+            "long_11"
+        ],
+        "arcs": [
+            [
+                "long_11",
+                "long_11"
+            ]
+        ]
+    },
+    "satellite_152": {
+        "vertices": [
+            "specialty_1"
+        ],
+        "arcs": [
+            [
+                "specialty_1",
+                "specialty_1"
+            ]
+        ]
+    },
+    "satellite_153": {
+        "vertices": [
+            "paint_13"
+        ],
+        "arcs": [
+            [
+                "paint_13",
+                "paint_13"
+            ]
+        ]
+    },
+    "satellite_154": {
+        "vertices": [
+            "underground_1"
+        ],
+        "arcs": [
+            [
+                "underground_1",
+                "underground_1"
+            ]
+        ]
+    },
+    "satellite_155": {
+        "vertices": [
+            "make_84"
+        ],
+        "arcs": [
+            [
+                "make_84",
+                "make_84"
+            ]
+        ]
+    },
+    "satellite_156": {
+        "vertices": [
+            "relative_1"
+        ],
+        "arcs": [
+            [
+                "relative_1",
+                "relative_1"
+            ]
+        ]
+    },
+    "satellite_157": {
+        "vertices": [
+            "related_2"
+        ],
+        "arcs": [
+            [
+                "related_2",
+                "related_2"
+            ]
+        ]
+    },
+    "satellite_158": {
+        "vertices": [
+            "repudiate_3"
+        ],
+        "arcs": [
+            [
+                "repudiate_3",
+                "repudiate_3"
+            ]
+        ]
+    },
+    "satellite_159": {
+        "vertices": [
+            "thank_1"
+        ],
+        "arcs": [
+            [
+                "thank_1",
+                "thank_1"
+            ]
+        ]
+    },
+    "satellite_160": {
+        "vertices": [
+            "industrial_2"
+        ],
+        "arcs": [
+            [
+                "industrial_2",
+                "industrial_2"
+            ]
+        ]
+    },
+    "satellite_161": {
+        "vertices": [
+            "timber_1"
+        ],
+        "arcs": [
+            [
+                "timber_1",
+                "timber_1"
+            ]
+        ]
+    },
+    "satellite_162": {
+        "vertices": [
+            "janitor_1"
+        ],
+        "arcs": [
+            [
+                "janitor_1",
+                "janitor_1"
+            ]
+        ]
+    },
+    "satellite_163": {
+        "vertices": [
+            "storekeeper_1"
+        ],
+        "arcs": [
+            [
+                "storekeeper_1",
+                "storekeeper_1"
+            ]
+        ]
+    },
+    "satellite_164": {
+        "vertices": [
+            "style_4"
+        ],
+        "arcs": [
+            [
+                "style_4",
+                "style_4"
+            ]
+        ]
+    },
+    "satellite_165": {
+        "vertices": [
+            "upscale_1"
+        ],
+        "arcs": [
+            [
+                "upscale_1",
+                "upscale_1"
+            ]
+        ]
+    },
+    "satellite_166": {
+        "vertices": [
+            "people_10"
+        ],
+        "arcs": [
+            [
+                "people_10",
+                "people_10"
+            ]
+        ]
+    },
+    "satellite_167": {
+        "vertices": [
+            "plait_2"
+        ],
+        "arcs": [
+            [
+                "plait_2",
+                "plait_2"
+            ]
+        ]
+    },
+    "satellite_168": {
+        "vertices": [
+            "tentacle_1"
+        ],
+        "arcs": [
+            [
+                "tentacle_1",
+                "tentacle_1"
+            ]
+        ]
+    },
+    "satellite_169": {
+        "vertices": [
+            "tear_1"
+        ],
+        "arcs": [
+            [
+                "tear_1",
+                "tear_1"
+            ]
+        ]
+    },
+    "satellite_170": {
+        "vertices": [
+            "roomer_1"
+        ],
+        "arcs": [
+            [
+                "roomer_1",
+                "roomer_1"
+            ]
+        ]
+    },
+    "satellite_171": {
+        "vertices": [
+            "grave_1"
+        ],
+        "arcs": [
+            [
+                "grave_1",
+                "grave_1"
+            ]
+        ]
+    },
+    "satellite_172": {
+        "vertices": [
+            "tram_1"
+        ],
+        "arcs": [
+            [
+                "tram_1",
+                "tram_1"
+            ]
+        ]
+    },
+    "satellite_173": {
+        "vertices": [
+            "stack_1"
+        ],
+        "arcs": [
+            [
+                "stack_1",
+                "stack_1"
+            ]
+        ]
+    },
+    "satellite_174": {
+        "vertices": [
+            "packet_1"
+        ],
+        "arcs": [
+            [
+                "packet_1",
+                "packet_1"
+            ]
+        ]
+    },
+    "satellite_175": {
+        "vertices": [
+            "share_10"
+        ],
+        "arcs": [
+            [
+                "share_10",
+                "share_10"
+            ]
+        ]
+    },
+    "satellite_176": {
+        "vertices": [
+            "roommate_2"
+        ],
+        "arcs": [
+            [
+                "roommate_2",
+                "roommate_2"
+            ]
+        ]
+    },
+    "satellite_177": {
+        "vertices": [
+            "premium_1"
+        ],
+        "arcs": [
+            [
+                "premium_1",
+                "premium_1"
+            ]
+        ]
+    },
+    "satellite_178": {
+        "vertices": [
+            "shot_8"
+        ],
+        "arcs": [
+            [
+                "shot_8",
+                "shot_8"
+            ]
+        ]
+    },
+    "satellite_179": {
+        "vertices": [
+            "truck_1"
+        ],
+        "arcs": [
+            [
+                "truck_1",
+                "truck_1"
+            ]
+        ]
+    },
+    "satellite_180": {
+        "vertices": [
+            "racetrack_2"
+        ],
+        "arcs": [
+            [
+                "racetrack_2",
+                "racetrack_2"
+            ]
+        ]
+    },
+    "satellite_181": {
+        "vertices": [
+            "stab_5"
+        ],
+        "arcs": [
+            [
+                "stab_5",
+                "stab_5"
+            ]
+        ]
+    },
+    "satellite_182": {
+        "vertices": [
+            "mallet_2"
+        ],
+        "arcs": [
+            [
+                "mallet_2",
+                "mallet_2"
+            ]
+        ]
+    },
+    "satellite_183": {
+        "vertices": [
+            "hessian_1"
+        ],
+        "arcs": [
+            [
+                "hessian_1",
+                "hessian_1"
+            ]
+        ]
+    },
+    "satellite_184": {
+        "vertices": [
+            "entertaining_2"
+        ],
+        "arcs": [
+            [
+                "entertaining_2",
+                "entertaining_2"
+            ]
+        ]
+    },
+    "satellite_185": {
+        "vertices": [
+            "coriander_1"
+        ],
+        "arcs": [
+            [
+                "coriander_1",
+                "coriander_1"
+            ]
+        ]
+    },
+    "satellite_186": {
+        "vertices": [
+            "pernickety_1"
+        ],
+        "arcs": [
+            [
+                "pernickety_1",
+                "pernickety_1"
+            ]
+        ]
+    },
+    "satellite_187": {
+        "vertices": [
+            "sport_3"
+        ],
+        "arcs": [
+            [
+                "sport_3",
+                "sport_3"
+            ]
+        ]
+    },
+    "satellite_188": {
+        "vertices": [
+            "spot_7"
+        ],
+        "arcs": [
+            [
+                "spot_7",
+                "spot_7"
+            ]
+        ]
+    },
+    "satellite_189": {
+        "vertices": [
+            "rubbish_1"
+        ],
+        "arcs": [
+            [
+                "rubbish_1",
+                "rubbish_1"
+            ]
+        ]
+    },
+    "satellite_190": {
+        "vertices": [
+            "rubber_2"
+        ],
+        "arcs": [
+            [
+                "rubber_2",
+                "rubber_2"
+            ]
+        ]
+    },
+    "satellite_191": {
+        "vertices": [
+            "solitaire_3"
+        ],
+        "arcs": [
+            [
+                "solitaire_3",
+                "solitaire_3"
+            ]
+        ]
+    },
+    "satellite_192": {
+        "vertices": [
+            "mind_30"
+        ],
+        "arcs": [
+            [
+                "mind_30",
+                "mind_30"
+            ]
+        ]
+    },
+    "satellite_193": {
+        "vertices": [
+            "warehouse_1"
+        ],
+        "arcs": [
+            [
+                "warehouse_1",
+                "warehouse_1"
+            ]
+        ]
+    },
+    "satellite_194": {
+        "vertices": [
+            "misplace_1"
+        ],
+        "arcs": [
+            [
+                "misplace_1",
+                "misplace_1"
+            ]
+        ]
+    },
+    "satellite_195": {
+        "vertices": [
+            "speak_18"
+        ],
+        "arcs": [
+            [
+                "speak_18",
+                "speak_18"
+            ]
+        ]
+    },
+    "satellite_196": {
+        "vertices": [
+            "washcloth_1"
+        ],
+        "arcs": [
+            [
+                "washcloth_1",
+                "washcloth_1"
+            ]
+        ]
+    },
+    "satellite_197": {
+        "vertices": [
+            "suitcase_1"
+        ],
+        "arcs": [
+            [
+                "suitcase_1",
+                "suitcase_1"
+            ]
+        ]
+    },
+    "satellite_198": {
+        "vertices": [
+            "stalemate_1"
+        ],
+        "arcs": [
+            [
+                "stalemate_1",
+                "stalemate_1"
+            ]
+        ]
+    },
+    "satellite_199": {
+        "vertices": [
+            "officially_1"
+        ],
+        "arcs": [
+            [
+                "officially_1",
+                "officially_1"
+            ]
+        ]
+    },
+    "satellite_200": {
+        "vertices": [
+            "sedan_1"
+        ],
+        "arcs": [
+            [
+                "sedan_1",
+                "sedan_1"
+            ]
+        ]
+    },
+    "satellite_201": {
+        "vertices": [
+            "dukedom_2"
+        ],
+        "arcs": [
+            [
+                "dukedom_2",
+                "dukedom_2"
+            ]
+        ]
+    },
+    "satellite_202": {
+        "vertices": [
+            "clamp_2"
+        ],
+        "arcs": [
+            [
+                "clamp_2",
+                "clamp_2"
+            ]
+        ]
+    },
+    "satellite_203": {
+        "vertices": [
+            "specialty_2"
+        ],
+        "arcs": [
+            [
+                "specialty_2",
+                "specialty_2"
+            ]
+        ]
+    },
+    "satellite_204": {
+        "vertices": [
+            "washing_1"
+        ],
+        "arcs": [
+            [
+                "washing_1",
+                "washing_1"
+            ]
+        ]
+    },
+    "satellite_205": {
+        "vertices": [
+            "support_7"
+        ],
+        "arcs": [
+            [
+                "support_7",
+                "support_7"
+            ]
+        ]
+    },
+    "satellite_206": {
+        "vertices": [
+            "lucky_1"
+        ],
+        "arcs": [
+            [
+                "lucky_1",
+                "lucky_1"
+            ]
+        ]
+    },
+    "satellite_207": {
+        "vertices": [
+            "say_9"
+        ],
+        "arcs": [
+            [
+                "say_9",
+                "say_9"
+            ]
+        ]
+    },
+    "satellite_208": {
+        "vertices": [
+            "mileometer_1"
+        ],
+        "arcs": [
+            [
+                "mileometer_1",
+                "mileometer_1"
+            ]
+        ]
+    },
+    "satellite_209": {
+        "vertices": [
+            "talk_40"
+        ],
+        "arcs": [
+            [
+                "talk_40",
+                "talk_40"
+            ]
+        ]
+    },
+    "satellite_210": {
+        "vertices": [
+            "parenthesis_1"
+        ],
+        "arcs": [
+            [
+                "parenthesis_1",
+                "parenthesis_1"
+            ]
+        ]
+    },
+    "satellite_211": {
+        "vertices": [
+            "floorboard_2"
+        ],
+        "arcs": [
+            [
+                "floorboard_2",
+                "floorboard_2"
+            ]
+        ]
+    },
+    "satellite_212": {
+        "vertices": [
+            "finish_14"
+        ],
+        "arcs": [
+            [
+                "finish_14",
+                "finish_14"
+            ]
+        ]
+    },
+    "satellite_213": {
+        "vertices": [
+            "lead_1"
+        ],
+        "arcs": [
+            [
+                "lead_1",
+                "lead_1"
+            ]
+        ]
+    },
+    "satellite_214": {
+        "vertices": [
+            "straightaway_1"
+        ],
+        "arcs": [
+            [
+                "straightaway_1",
+                "straightaway_1"
+            ]
+        ]
+    },
+    "satellite_215": {
+        "vertices": [
+            "hydroplane_3"
+        ],
+        "arcs": [
+            [
+                "hydroplane_3",
+                "hydroplane_3"
+            ]
+        ]
+    },
+    "satellite_216": {
+        "vertices": [
+            "tribe_1"
+        ],
+        "arcs": [
+            [
+                "tribe_1",
+                "tribe_1"
+            ]
+        ]
+    },
+    "satellite_217": {
+        "vertices": [
+            "remove_6"
+        ],
+        "arcs": [
+            [
+                "remove_6",
+                "remove_6"
+            ]
+        ]
+    },
+    "satellite_218": {
+        "vertices": [
+            "straight_16"
+        ],
+        "arcs": [
+            [
+                "straight_16",
+                "straight_16"
+            ]
+        ]
+    },
+    "satellite_219": {
+        "vertices": [
+            "underhand_2"
+        ],
+        "arcs": [
+            [
+                "underhand_2",
+                "underhand_2"
+            ]
+        ]
+    },
+    "satellite_220": {
+        "vertices": [
+            "overhand_1"
+        ],
+        "arcs": [
+            [
+                "overhand_1",
+                "overhand_1"
+            ]
+        ]
+    },
+    "satellite_221": {
+        "vertices": [
+            "paddle_3"
+        ],
+        "arcs": [
+            [
+                "paddle_3",
+                "paddle_3"
+            ]
+        ]
+    },
+    "satellite_222": {
+        "vertices": [
+            "throw_24"
+        ],
+        "arcs": [
+            [
+                "throw_24",
+                "throw_24"
+            ]
+        ]
+    },
+    "satellite_223": {
+        "vertices": [
+            "unique_1"
+        ],
+        "arcs": [
+            [
+                "unique_1",
+                "unique_1"
+            ]
+        ]
+    },
+    "satellite_224": {
+        "vertices": [
+            "sniff_3"
+        ],
+        "arcs": [
+            [
+                "sniff_3",
+                "sniff_3"
+            ]
+        ]
+    },
+    "satellite_225": {
+        "vertices": [
+            "dieresis_1"
+        ],
+        "arcs": [
+            [
+                "dieresis_1",
+                "dieresis_1"
+            ]
+        ]
+    },
+    "satellite_226": {
+        "vertices": [
+            "wrinkle_1"
+        ],
+        "arcs": [
+            [
+                "wrinkle_1",
+                "wrinkle_1"
+            ]
+        ]
+    },
+    "satellite_227": {
+        "vertices": [
+            "yield_6"
+        ],
+        "arcs": [
+            [
+                "yield_6",
+                "yield_6"
+            ]
+        ]
+    },
+    "satellite_228": {
+        "vertices": [
+            "pressurize_1"
+        ],
+        "arcs": [
+            [
+                "pressurize_1",
+                "pressurize_1"
+            ]
+        ]
+    },
+    "satellite_229": {
+        "vertices": [
+            "post_8"
+        ],
+        "arcs": [
+            [
+                "post_8",
+                "post_8"
+            ]
+        ]
+    },
+    "satellite_230": {
+        "vertices": [
+            "rook_2"
+        ],
+        "arcs": [
+            [
+                "rook_2",
+                "rook_2"
+            ]
+        ]
+    },
+    "satellite_231": {
+        "vertices": [
+            "shield_3"
+        ],
+        "arcs": [
+            [
+                "shield_3",
+                "shield_3"
+            ]
+        ]
+    },
+    "satellite_232": {
+        "vertices": [
+            "confess_1"
+        ],
+        "arcs": [
+            [
+                "confess_1",
+                "confess_1"
+            ]
+        ]
+    },
+    "satellite_233": {
+        "vertices": [
+            "suit_4"
+        ],
+        "arcs": [
+            [
+                "suit_4",
+                "suit_4"
+            ]
+        ]
+    },
+    "satellite_234": {
+        "vertices": [
+            "drool_1"
+        ],
+        "arcs": [
+            [
+                "drool_1",
+                "drool_1"
+            ]
+        ]
+    },
+    "satellite_235": {
+        "vertices": [
+            "skate_1"
+        ],
+        "arcs": [
+            [
+                "skate_1",
+                "skate_1"
+            ]
+        ]
+    },
+    "satellite_236": {
+        "vertices": [
+            "southeastern_1"
+        ],
+        "arcs": [
+            [
+                "southeastern_1",
+                "southeastern_1"
+            ]
+        ]
+    },
+    "satellite_237": {
+        "vertices": [
+            "plaintiff_1"
+        ],
+        "arcs": [
+            [
+                "plaintiff_1",
+                "plaintiff_1"
+            ]
+        ]
+    },
+    "satellite_238": {
+        "vertices": [
+            "pin_6"
+        ],
+        "arcs": [
+            [
+                "pin_6",
+                "pin_6"
+            ]
+        ]
+    },
+    "satellite_239": {
+        "vertices": [
+            "pervert_3"
+        ],
+        "arcs": [
+            [
+                "pervert_3",
+                "pervert_3"
+            ]
+        ]
+    },
+    "satellite_240": {
+        "vertices": [
+            "rucksack_1"
+        ],
+        "arcs": [
+            [
+                "rucksack_1",
+                "rucksack_1"
+            ]
+        ]
+    },
+    "satellite_241": {
+        "vertices": [
+            "windbag_1"
+        ],
+        "arcs": [
+            [
+                "windbag_1",
+                "windbag_1"
+            ]
+        ]
+    },
+    "satellite_242": {
+        "vertices": [
+            "antenna_2"
+        ],
+        "arcs": [
+            [
+                "antenna_2",
+                "antenna_2"
+            ]
+        ]
+    },
+    "satellite_243": {
+        "vertices": [
+            "earn_3"
+        ],
+        "arcs": [
+            [
+                "earn_3",
+                "earn_3"
+            ]
+        ]
+    },
+    "satellite_244": {
+        "vertices": [
+            "transfer_4"
+        ],
+        "arcs": [
+            [
+                "transfer_4",
+                "transfer_4"
+            ]
+        ]
+    },
+    "satellite_245": {
+        "vertices": [
+            "toss_8"
+        ],
+        "arcs": [
+            [
+                "toss_8",
+                "toss_8"
+            ]
+        ]
+    },
+    "satellite_246": {
+        "vertices": [
+            "logarithm_1"
+        ],
+        "arcs": [
+            [
+                "logarithm_1",
+                "logarithm_1"
+            ]
+        ]
+    },
+    "satellite_247": {
+        "vertices": [
+            "pancake_2"
+        ],
+        "arcs": [
+            [
+                "pancake_2",
+                "pancake_2"
+            ]
+        ]
+    },
+    "satellite_248": {
+        "vertices": [
+            "zinc_1"
+        ],
+        "arcs": [
+            [
+                "zinc_1",
+                "zinc_1"
+            ]
+        ]
+    },
+    "satellite_249": {
+        "vertices": [
+            "suspender_2"
+        ],
+        "arcs": [
+            [
+                "suspender_2",
+                "suspender_2"
+            ]
+        ]
+    },
+    "satellite_250": {
+        "vertices": [
+            "northern_1"
+        ],
+        "arcs": [
+            [
+                "northern_1",
+                "northern_1"
+            ]
+        ]
+    },
+    "satellite_251": {
+        "vertices": [
+            "northeastern_1"
+        ],
+        "arcs": [
+            [
+                "northeastern_1",
+                "northeastern_1"
+            ]
+        ]
+    },
+    "satellite_252": {
+        "vertices": [
+            "stinger_1"
+        ],
+        "arcs": [
+            [
+                "stinger_1",
+                "stinger_1"
+            ]
+        ]
+    },
+    "satellite_253": {
+        "vertices": [
+            "suspender_1"
+        ],
+        "arcs": [
+            [
+                "suspender_1",
+                "suspender_1"
+            ]
+        ]
+    },
+    "satellite_254": {
+        "vertices": [
+            "strength_5"
+        ],
+        "arcs": [
+            [
+                "strength_5",
+                "strength_5"
+            ]
+        ]
+    },
+    "satellite_255": {
+        "vertices": [
+            "check_7"
+        ],
+        "arcs": [
+            [
+                "check_7",
+                "check_7"
+            ]
+        ]
+    },
+    "satellite_256": {
+        "vertices": [
+            "exchange_4"
+        ],
+        "arcs": [
+            [
+                "exchange_4",
+                "exchange_4"
+            ]
+        ]
+    },
+    "satellite_257": {
+        "vertices": [
+            "sweet_2"
+        ],
+        "arcs": [
+            [
+                "sweet_2",
+                "sweet_2"
+            ]
+        ]
+    },
+    "satellite_258": {
+        "vertices": [
+            "draft_2"
+        ],
+        "arcs": [
+            [
+                "draft_2",
+                "draft_2"
+            ]
+        ]
+    },
+    "satellite_259": {
+        "vertices": [
+            "recess_2"
+        ],
+        "arcs": [
+            [
+                "recess_2",
+                "recess_2"
+            ]
+        ]
+    },
+    "satellite_260": {
+        "vertices": [
+            "stop_9"
+        ],
+        "arcs": [
+            [
+                "stop_9",
+                "stop_9"
+            ]
+        ]
+    },
+    "satellite_261": {
+        "vertices": [
+            "liver_1"
+        ],
+        "arcs": [
+            [
+                "liver_1",
+                "liver_1"
+            ]
+        ]
+    },
+    "satellite_262": {
+        "vertices": [
+            "endive_2"
+        ],
+        "arcs": [
+            [
+                "endive_2",
+                "endive_2"
+            ]
+        ]
+    },
+    "satellite_263": {
+        "vertices": [
+            "rupture_3"
+        ],
+        "arcs": [
+            [
+                "rupture_3",
+                "rupture_3"
+            ]
+        ]
+    },
+    "satellite_264": {
+        "vertices": [
+            "wrench_3"
+        ],
+        "arcs": [
+            [
+                "wrench_3",
+                "wrench_3"
+            ]
+        ]
+    },
+    "satellite_265": {
+        "vertices": [
+            "bellhop_1"
+        ],
+        "arcs": [
+            [
+                "bellhop_1",
+                "bellhop_1"
+            ]
+        ]
+    },
+    "satellite_266": {
+        "vertices": [
+            "buttonhole_2"
+        ],
+        "arcs": [
+            [
+                "buttonhole_2",
+                "buttonhole_2"
+            ]
+        ]
+    },
+    "satellite_267": {
+        "vertices": [
+            "gunk_1"
+        ],
+        "arcs": [
+            [
+                "gunk_1",
+                "gunk_1"
+            ]
+        ]
+    },
+    "satellite_268": {
+        "vertices": [
+            "windmill_2"
+        ],
+        "arcs": [
+            [
+                "windmill_2",
+                "windmill_2"
+            ]
+        ]
+    },
+    "satellite_269": {
+        "vertices": [
+            "shelf_1"
+        ],
+        "arcs": [
+            [
+                "shelf_1",
+                "shelf_1"
+            ]
+        ]
+    },
+    "satellite_270": {
+        "vertices": [
+            "conservatory_2"
+        ],
+        "arcs": [
+            [
+                "conservatory_2",
+                "conservatory_2"
+            ]
+        ]
+    },
+    "satellite_271": {
+        "vertices": [
+            "southwestern_1"
+        ],
+        "arcs": [
+            [
+                "southwestern_1",
+                "southwestern_1"
+            ]
+        ]
+    },
+    "satellite_272": {
+        "vertices": [
+            "budgie_1"
+        ],
+        "arcs": [
+            [
+                "budgie_1",
+                "budgie_1"
+            ]
+        ]
+    },
+    "satellite_273": {
+        "vertices": [
+            "telephone_5"
+        ],
+        "arcs": [
+            [
+                "telephone_5",
+                "telephone_5"
+            ]
+        ]
+    },
+    "satellite_274": {
+        "vertices": [
+            "grill_1"
+        ],
+        "arcs": [
+            [
+                "grill_1",
+                "grill_1"
+            ]
+        ]
+    },
+    "satellite_275": {
+        "vertices": [
+            "number_4"
+        ],
+        "arcs": [
+            [
+                "number_4",
+                "number_4"
+            ]
+        ]
+    },
+    "satellite_276": {
+        "vertices": [
+            "majorette_1"
+        ],
+        "arcs": [
+            [
+                "majorette_1",
+                "majorette_1"
+            ]
+        ]
+    },
+    "satellite_277": {
+        "vertices": [
+            "trunk_2"
+        ],
+        "arcs": [
+            [
+                "trunk_2",
+                "trunk_2"
+            ]
+        ]
+    },
+    "satellite_278": {
+        "vertices": [
+            "amplifier_1"
+        ],
+        "arcs": [
+            [
+                "amplifier_1",
+                "amplifier_1"
+            ]
+        ]
+    },
+    "satellite_279": {
+        "vertices": [
+            "trombone_1"
+        ],
+        "arcs": [
+            [
+                "trombone_1",
+                "trombone_1"
+            ]
+        ]
+    },
+    "satellite_280": {
+        "vertices": [
+            "condom_1"
+        ],
+        "arcs": [
+            [
+                "condom_1",
+                "condom_1"
+            ]
+        ]
+    },
+    "satellite_281": {
+        "vertices": [
+            "flutter_9"
+        ],
+        "arcs": [
+            [
+                "flutter_9",
+                "flutter_9"
+            ]
+        ]
+    },
+    "satellite_282": {
+        "vertices": [
+            "nappy_1"
+        ],
+        "arcs": [
+            [
+                "nappy_1",
+                "nappy_1"
+            ]
+        ]
+    },
+    "satellite_283": {
+        "vertices": [
+            "row_8"
+        ],
+        "arcs": [
+            [
+                "row_8",
+                "row_8"
+            ]
+        ]
+    },
+    "satellite_284": {
+        "vertices": [
+            "pancake_1"
+        ],
+        "arcs": [
+            [
+                "pancake_1",
+                "pancake_1"
+            ]
+        ]
+    },
+    "satellite_285": {
+        "vertices": [
+            "pie_1"
+        ],
+        "arcs": [
+            [
+                "pie_1",
+                "pie_1"
+            ]
+        ]
+    },
+    "satellite_286": {
+        "vertices": [
+            "pouf_1"
+        ],
+        "arcs": [
+            [
+                "pouf_1",
+                "pouf_1"
+            ]
+        ]
+    },
+    "satellite_287": {
+        "vertices": [
+            "tooth_2"
+        ],
+        "arcs": [
+            [
+                "tooth_2",
+                "tooth_2"
+            ]
+        ]
+    },
+    "satellite_288": {
+        "vertices": [
+            "porridge_1"
+        ],
+        "arcs": [
+            [
+                "porridge_1",
+                "porridge_1"
+            ]
+        ]
+    },
+    "satellite_289": {
+        "vertices": [
+            "light_4"
+        ],
+        "arcs": [
+            [
+                "light_4",
+                "light_4"
+            ]
+        ]
+    },
+    "satellite_290": {
+        "vertices": [
+            "wallet_1"
+        ],
+        "arcs": [
+            [
+                "wallet_1",
+                "wallet_1"
+            ]
+        ]
+    },
+    "satellite_291": {
+        "vertices": [
+            "reed_2"
+        ],
+        "arcs": [
+            [
+                "reed_2",
+                "reed_2"
+            ]
+        ]
+    },
+    "satellite_292": {
+        "vertices": [
+            "bosun_1"
+        ],
+        "arcs": [
+            [
+                "bosun_1",
+                "bosun_1"
+            ]
+        ]
+    },
+    "satellite_293": {
+        "vertices": [
+            "refrigerator_1"
+        ],
+        "arcs": [
+            [
+                "refrigerator_1",
+                "refrigerator_1"
+            ]
+        ]
+    },
+    "satellite_294": {
+        "vertices": [
+            "flutist_1"
+        ],
+        "arcs": [
+            [
+                "flutist_1",
+                "flutist_1"
+            ]
+        ]
+    },
+    "satellite_295": {
+        "vertices": [
+            "flyover_1"
+        ],
+        "arcs": [
+            [
+                "flyover_1",
+                "flyover_1"
+            ]
+        ]
+    },
+    "satellite_296": {
+        "vertices": [
+            "mishmash_1"
+        ],
+        "arcs": [
+            [
+                "mishmash_1",
+                "mishmash_1"
+            ]
+        ]
+    },
+    "satellite_297": {
+        "vertices": [
+            "pipe_4"
+        ],
+        "arcs": [
+            [
+                "pipe_4",
+                "pipe_4"
+            ]
+        ]
+    },
+    "satellite_298": {
+        "vertices": [
+            "note_4"
+        ],
+        "arcs": [
+            [
+                "note_4",
+                "note_4"
+            ]
+        ]
+    },
+    "satellite_299": {
+        "vertices": [
+            "speed_2"
+        ],
+        "arcs": [
+            [
+                "speed_2",
+                "speed_2"
+            ]
+        ]
+    },
+    "satellite_300": {
+        "vertices": [
+            "steamroller_2"
+        ],
+        "arcs": [
+            [
+                "steamroller_2",
+                "steamroller_2"
+            ]
+        ]
+    },
+    "satellite_301": {
+        "vertices": [
+            "beetroot_1"
+        ],
+        "arcs": [
+            [
+                "beetroot_1",
+                "beetroot_1"
+            ]
+        ]
+    },
+    "satellite_302": {
+        "vertices": [
+            "divestment_1"
+        ],
+        "arcs": [
+            [
+                "divestment_1",
+                "divestment_1"
+            ]
+        ]
+    },
+    "satellite_303": {
+        "vertices": [
+            "sir_4"
+        ],
+        "arcs": [
+            [
+                "sir_4",
+                "sir_4"
+            ]
+        ]
+    },
+    "satellite_304": {
+        "vertices": [
+            "eggplant_1"
+        ],
+        "arcs": [
+            [
+                "eggplant_1",
+                "eggplant_1"
+            ]
+        ]
+    },
+    "satellite_305": {
+        "vertices": [
+            "cover_4"
+        ],
+        "arcs": [
+            [
+                "cover_4",
+                "cover_4"
+            ]
+        ]
+    },
+    "satellite_306": {
+        "vertices": [
+            "duvet_1"
+        ],
+        "arcs": [
+            [
+                "duvet_1",
+                "duvet_1"
+            ]
+        ]
+    },
+    "satellite_307": {
+        "vertices": [
+            "glove_2"
+        ],
+        "arcs": [
+            [
+                "glove_2",
+                "glove_2"
+            ]
+        ]
+    },
+    "satellite_308": {
+        "vertices": [
+            "stretch_11"
+        ],
+        "arcs": [
+            [
+                "stretch_11",
+                "stretch_11"
+            ]
+        ]
+    },
+    "satellite_309": {
+        "vertices": [
+            "campsite_1"
+        ],
+        "arcs": [
+            [
+                "campsite_1",
+                "campsite_1"
+            ]
+        ]
+    },
+    "satellite_310": {
+        "vertices": [
+            "rosette_1"
+        ],
+        "arcs": [
+            [
+                "rosette_1",
+                "rosette_1"
+            ]
+        ]
+    },
+    "satellite_311": {
+        "vertices": [
+            "leash_1"
+        ],
+        "arcs": [
+            [
+                "leash_1",
+                "leash_1"
+            ]
+        ]
+    },
+    "satellite_312": {
+        "vertices": [
+            "bathtub_1"
+        ],
+        "arcs": [
+            [
+                "bathtub_1",
+                "bathtub_1"
+            ]
+        ]
+    },
+    "satellite_313": {
+        "vertices": [
+            "backtalk_1"
+        ],
+        "arcs": [
+            [
+                "backtalk_1",
+                "backtalk_1"
+            ]
+        ]
+    },
+    "satellite_314": {
+        "vertices": [
+            "stockholder_1"
+        ],
+        "arcs": [
+            [
+                "stockholder_1",
+                "stockholder_1"
+            ]
+        ]
+    },
+    "satellite_315": {
+        "vertices": [
+            "well_39"
+        ],
+        "arcs": [
+            [
+                "well_39",
+                "well_39"
+            ]
+        ]
+    },
+    "satellite_316": {
+        "vertices": [
+            "lead_8"
+        ],
+        "arcs": [
+            [
+                "lead_8",
+                "lead_8"
+            ]
+        ]
+    },
+    "satellite_317": {
+        "vertices": [
+            "bookstore_1"
+        ],
+        "arcs": [
+            [
+                "bookstore_1",
+                "bookstore_1"
+            ]
+        ]
+    },
+    "satellite_318": {
+        "vertices": [
+            "line_15"
+        ],
+        "arcs": [
+            [
+                "line_15",
+                "line_15"
+            ]
+        ]
+    },
+    "satellite_319": {
+        "vertices": [
+            "weatherboard_1"
+        ],
+        "arcs": [
+            [
+                "weatherboard_1",
+                "weatherboard_1"
+            ]
+        ]
+    },
+    "satellite_320": {
+        "vertices": [
+            "doorway_1"
+        ],
+        "arcs": [
+            [
+                "doorway_1",
+                "doorway_1"
+            ]
+        ]
+    },
+    "satellite_321": {
+        "vertices": [
+            "hallway_1"
+        ],
+        "arcs": [
+            [
+                "hallway_1",
+                "hallway_1"
+            ]
+        ]
+    },
+    "satellite_322": {
+        "vertices": [
+            "passage_1"
+        ],
+        "arcs": [
+            [
+                "passage_1",
+                "passage_1"
+            ]
+        ]
+    },
+    "satellite_323": {
+        "vertices": [
+            "driveway_1"
+        ],
+        "arcs": [
+            [
+                "driveway_1",
+                "driveway_1"
+            ]
+        ]
+    },
+    "satellite_324": {
+        "vertices": [
+            "send_16"
+        ],
+        "arcs": [
+            [
+                "send_16",
+                "send_16"
+            ]
+        ]
+    },
+    "satellite_325": {
+        "vertices": [
+            "tape_12"
+        ],
+        "arcs": [
+            [
+                "tape_12",
+                "tape_12"
+            ]
+        ]
+    },
+    "satellite_326": {
+        "vertices": [
+            "trolley_1"
+        ],
+        "arcs": [
+            [
+                "trolley_1",
+                "trolley_1"
+            ]
+        ]
+    },
+    "satellite_327": {
+        "vertices": [
+            "wire_10"
+        ],
+        "arcs": [
+            [
+                "wire_10",
+                "wire_10"
+            ]
+        ]
+    },
+    "satellite_328": {
+        "vertices": [
+            "welterweight_1"
+        ],
+        "arcs": [
+            [
+                "welterweight_1",
+                "welterweight_1"
+            ]
+        ]
+    },
+    "satellite_329": {
+        "vertices": [
+            "build_11"
+        ],
+        "arcs": [
+            [
+                "build_11",
+                "build_11"
+            ]
+        ]
+    },
+    "satellite_330": {
+        "vertices": [
+            "alkali_1"
+        ],
+        "arcs": [
+            [
+                "alkali_1",
+                "alkali_1"
+            ]
+        ]
+    },
+    "satellite_331": {
+        "vertices": [
+            "hoarding_2"
+        ],
+        "arcs": [
+            [
+                "hoarding_2",
+                "hoarding_2"
+            ]
+        ]
+    },
+    "satellite_332": {
+        "vertices": [
+            "corn_2"
+        ],
+        "arcs": [
+            [
+                "corn_2",
+                "corn_2"
+            ]
+        ]
+    },
+    "satellite_333": {
+        "vertices": [
+            "cornflor_1"
+        ],
+        "arcs": [
+            [
+                "cornflor_1",
+                "cornflor_1"
+            ]
+        ]
+    },
+    "satellite_334": {
+        "vertices": [
+            "transom_3"
+        ],
+        "arcs": [
+            [
+                "transom_3",
+                "transom_3"
+            ]
+        ]
+    },
+    "satellite_335": {
+        "vertices": [
+            "titbit_1"
+        ],
+        "arcs": [
+            [
+                "titbit_1",
+                "titbit_1"
+            ]
+        ]
+    },
+    "satellite_336": {
+        "vertices": [
+            "lonely_1"
+        ],
+        "arcs": [
+            [
+                "lonely_1",
+                "lonely_1"
+            ]
+        ]
+    },
+    "satellite_337": {
+        "vertices": [
+            "tie_7"
+        ],
+        "arcs": [
+            [
+                "tie_7",
+                "tie_7"
+            ]
+        ]
+    },
+    "satellite_338": {
+        "vertices": [
+            "bow_2"
+        ],
+        "arcs": [
+            [
+                "bow_2",
+                "bow_2"
+            ]
+        ]
+    },
+    "satellite_339": {
+        "vertices": [
+            "counterclockwise_1"
+        ],
+        "arcs": [
+            [
+                "counterclockwise_1",
+                "counterclockwise_1"
+            ]
+        ]
+    },
+    "satellite_340": {
+        "vertices": [
+            "journal_2"
+        ],
+        "arcs": [
+            [
+                "journal_2",
+                "journal_2"
+            ]
+        ]
+    },
+    "satellite_341": {
+        "vertices": [
+            "diary_2"
+        ],
+        "arcs": [
+            [
+                "diary_2",
+                "diary_2"
+            ]
+        ]
+    },
+    "satellite_342": {
+        "vertices": [
+            "blooper_1"
+        ],
+        "arcs": [
+            [
+                "blooper_1",
+                "blooper_1"
+            ]
+        ]
+    },
+    "satellite_343": {
+        "vertices": [
+            "hemp_1"
+        ],
+        "arcs": [
+            [
+                "hemp_1",
+                "hemp_1"
+            ]
+        ]
+    },
+    "satellite_344": {
+        "vertices": [
+            "stevedore_1"
+        ],
+        "arcs": [
+            [
+                "stevedore_1",
+                "stevedore_1"
+            ]
+        ]
+    },
+    "satellite_345": {
+        "vertices": [
+            "wax_1"
+        ],
+        "arcs": [
+            [
+                "wax_1",
+                "wax_1"
+            ]
+        ]
+    },
+    "satellite_346": {
+        "vertices": [
+            "slingshot_1"
+        ],
+        "arcs": [
+            [
+                "slingshot_1",
+                "slingshot_1"
+            ]
+        ]
+    },
+    "satellite_347": {
+        "vertices": [
+            "bop_2"
+        ],
+        "arcs": [
+            [
+                "bop_2",
+                "bop_2"
+            ]
+        ]
+    },
+    "satellite_348": {
+        "vertices": [
+            "untidy_1"
+        ],
+        "arcs": [
+            [
+                "untidy_1",
+                "untidy_1"
+            ]
+        ]
+    },
+    "satellite_349": {
+        "vertices": [
+            "teleprinter_1"
+        ],
+        "arcs": [
+            [
+                "teleprinter_1",
+                "teleprinter_1"
+            ]
+        ]
+    },
+    "satellite_350": {
+        "vertices": [
+            "rank_15"
+        ],
+        "arcs": [
+            [
+                "rank_15",
+                "rank_15"
+            ]
+        ]
+    },
+    "satellite_351": {
+        "vertices": [
+            "crossbow_1"
+        ],
+        "arcs": [
+            [
+                "crossbow_1",
+                "crossbow_1"
+            ]
+        ]
+    },
+    "satellite_352": {
+        "vertices": [
+            "pacifier_1"
+        ],
+        "arcs": [
+            [
+                "pacifier_1",
+                "pacifier_1"
+            ]
+        ]
+    },
+    "satellite_353": {
+        "vertices": [
+            "sleeve_4"
+        ],
+        "arcs": [
+            [
+                "sleeve_4",
+                "sleeve_4"
+            ]
+        ]
+    },
+    "satellite_354": {
+        "vertices": [
+            "cement_1"
+        ],
+        "arcs": [
+            [
+                "cement_1",
+                "cement_1"
+            ]
+        ]
+    },
+    "satellite_355": {
+        "vertices": [
+            "chequebook_1"
+        ],
+        "arcs": [
+            [
+                "chequebook_1",
+                "chequebook_1"
+            ]
+        ]
+    },
+    "satellite_356": {
+        "vertices": [
+            "teat_1"
+        ],
+        "arcs": [
+            [
+                "teat_1",
+                "teat_1"
+            ]
+        ]
+    },
+    "satellite_357": {
+        "vertices": [
+            "mum_1"
+        ],
+        "arcs": [
+            [
+                "mum_1",
+                "mum_1"
+            ]
+        ]
+    },
+    "satellite_358": {
+        "vertices": [
+            "postgraduate_3"
+        ],
+        "arcs": [
+            [
+                "postgraduate_3",
+                "postgraduate_3"
+            ]
+        ]
+    },
+    "satellite_359": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_360": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_361": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_362": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_363": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_364": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_365": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_366": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_367": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_368": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_369": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_370": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_371": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_372": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_373": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_374": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_375": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_376": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_377": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_378": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_379": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_380": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_381": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_382": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_383": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_384": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_385": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_386": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_387": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_388": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_389": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_390": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_391": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_392": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_393": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_394": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_395": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_396": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_397": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_398": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_399": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_400": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_401": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_402": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_403": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_404": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_405": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_406": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_407": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_408": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_409": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_410": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_411": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_412": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_413": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_414": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_415": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_416": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_417": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_418": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_419": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_420": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_421": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_422": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_423": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_424": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_425": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_426": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_427": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_428": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_429": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_430": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_431": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_432": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_433": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_434": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_435": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_436": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_437": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_438": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_439": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_440": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_441": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_442": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_443": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_444": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_445": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_446": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_447": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_448": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_449": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_450": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_451": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_452": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_453": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_454": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_455": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_456": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_457": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_458": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_459": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_460": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_461": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_462": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_463": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_464": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_465": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_466": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_467": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_468": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_469": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_470": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_471": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_472": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_473": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_474": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_475": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_476": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_477": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_478": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_479": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_480": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_481": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_482": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_483": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_484": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_485": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_486": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_487": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_488": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_489": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_490": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_491": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_492": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_493": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_494": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_495": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_496": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_497": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_498": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_499": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_500": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_501": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_502": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_503": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_504": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_505": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_506": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_507": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_508": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_509": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_510": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_511": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_512": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_513": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_514": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_515": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_516": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_517": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_518": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_519": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_520": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_521": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_522": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_523": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_524": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_525": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_526": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_527": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_528": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_529": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_530": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_531": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_532": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_533": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_534": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_535": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_536": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_537": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_538": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_539": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_540": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_541": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_542": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_543": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_544": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_545": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_546": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_547": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_548": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_549": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_550": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_551": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_552": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_553": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_554": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_555": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_556": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_557": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_558": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_559": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_560": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_561": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_562": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_563": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_564": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_565": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_566": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_567": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_568": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_569": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_570": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_571": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_572": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_573": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_574": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_575": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_576": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_577": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_578": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_579": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_580": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_581": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_582": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_583": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_584": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_585": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_586": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_587": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_588": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_589": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_590": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_591": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_592": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_593": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_594": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_595": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_596": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_597": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_598": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_599": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_600": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_601": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_602": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_603": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_604": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_605": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_606": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_607": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_608": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_609": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_610": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_611": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_612": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_613": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_614": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_615": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_616": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_617": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_618": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_619": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_620": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_621": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_622": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_623": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_624": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_625": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_626": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_627": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_628": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_629": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_630": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_631": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_632": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_633": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_634": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_635": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_636": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_637": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_638": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_639": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_640": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_641": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_642": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_643": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_644": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_645": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_646": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_647": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_648": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_649": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_650": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_651": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_652": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_653": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_654": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_655": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_656": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_657": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_658": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_659": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_660": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_661": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_662": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_663": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_664": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_665": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_666": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_667": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_668": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_669": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_670": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_671": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_672": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_673": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_674": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_675": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_676": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_677": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_678": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_679": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_680": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_681": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_682": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_683": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_684": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_685": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_686": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_687": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_688": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_689": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_690": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_691": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_692": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_693": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_694": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_695": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_696": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_697": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_698": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_699": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_700": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_701": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_702": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_703": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_704": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_705": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_706": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_707": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_708": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_709": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_710": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_711": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_712": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_713": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_714": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_715": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_716": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_717": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_718": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_719": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_720": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_721": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_722": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_723": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_724": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_725": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_726": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_727": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_728": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_729": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_730": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_731": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_732": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_733": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_734": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_735": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_736": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_737": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_738": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_739": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_740": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_741": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_742": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_743": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_744": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_745": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_746": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_747": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_748": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_749": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_750": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_751": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_752": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_753": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_754": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_755": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_756": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_757": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_758": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_759": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_760": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_761": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_762": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_763": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_764": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_765": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_766": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_767": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_768": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_769": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_770": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_771": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_772": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_773": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_774": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_775": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_776": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_777": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_778": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_779": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_780": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_781": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_782": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_783": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_784": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_785": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_786": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_787": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_788": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_789": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_790": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_791": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_792": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_793": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_794": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_795": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_796": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_797": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_798": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_799": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_800": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_801": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_802": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_803": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_804": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_805": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_806": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_807": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_808": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_809": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_810": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_811": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_812": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_813": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_814": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_815": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_816": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_817": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_818": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_819": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_820": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_821": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_822": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_823": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_824": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_825": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_826": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_827": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_828": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_829": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_830": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_831": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_832": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_833": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_834": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_835": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_836": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_837": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_838": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_839": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_840": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_841": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_842": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_843": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_844": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_845": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_846": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_847": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_848": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_849": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_850": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_851": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_852": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_853": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_854": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_855": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_856": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_857": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_858": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_859": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_860": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_861": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_862": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_863": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_864": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_865": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_866": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_867": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_868": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_869": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_870": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_871": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_872": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_873": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_874": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_875": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_876": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_877": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_878": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_879": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_880": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_881": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_882": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_883": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_884": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_885": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_886": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_887": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_888": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_889": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_890": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_891": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_892": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_893": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_894": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_895": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_896": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_897": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_898": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_899": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_900": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_901": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_902": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_903": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_904": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_905": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_906": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_907": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_908": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_909": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_910": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_911": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_912": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_913": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_914": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_915": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_916": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_917": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_918": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_919": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_920": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_921": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_922": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_923": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "singsong_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sorry_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "soppy_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "solitaire_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sofa_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "snigger_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sniff_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "slingshot_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sleeve_4"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "skin_6"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "skate_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sir_4"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sour_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sincere_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sidewalk_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "show_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "show_18"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "shot_8"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "shield_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "shell_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "shelf_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sharp_14"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "share_10"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stab_5"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "storekeeper_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stop_9"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stone_4"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stockholder_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stinger_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stevedore_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "steamroller_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "star_5"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stalemate_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "stack_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "send_16"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "spot_7"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sport_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "spine_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "speed_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "specialty_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "specialty_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "speak_18"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "southwestern_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "southern_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "southeastern_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "prostitute_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "related_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "refrigerator_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "reed_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "recess_2"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "packet_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "number_4"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nun_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nut_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "obligatory_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "officially_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "order_14"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "order_7"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "overhand_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pacifier_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "note_4"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paddle_3"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paint_13"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pancake_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pancake_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paper_12"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "parenthesis_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "passage_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "path_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pedlar_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "monk_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "magician_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "majorette_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "make_84"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mallet_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mileometer_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mind_30"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mingle_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mishmash_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "misplace_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "people_10"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mum_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mummy_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mushroom_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mutually_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nappy_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "neuter_3"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "northeastern_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "northern_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "rank_15"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "power_18"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "premium_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pressurize_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "prostitute_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "proton_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "publish_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "punch_16"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "purse_3"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "racetrack_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pouf_1"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "packet_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "number_4"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nun_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nut_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "obligatory_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "officially_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "order_14"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "order_7"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "overhand_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pacifier_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "note_4"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paddle_3"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paint_13"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pancake_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pancake_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paper_12"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "parenthesis_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "passage_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "path_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pedlar_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "monk_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "magician_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "majorette_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "make_84"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mallet_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mileometer_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mind_30"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mingle_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mishmash_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "misplace_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "people_10"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mum_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mummy_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mushroom_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mutually_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nappy_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "neuter_3"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "northeastern_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "northern_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "rank_15"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "power_18"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "premium_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pressurize_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "prostitute_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "proton_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "publish_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "punch_16"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "purse_3"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "racetrack_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pouf_1"
+        }
+    ]
+}

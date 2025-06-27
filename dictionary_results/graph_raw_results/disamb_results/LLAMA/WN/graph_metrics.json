@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "149699 / 100.00%",
+    "nb_of_words_in_kernel": "13435 / 8.97%",
+    "nb_of_words_in_core": "11643 / 7.78%",
+    "nb_of_reduced_core": "5098 / 3.41%",
+    "nb_of_words_in_satelites": "1792 / 1.20%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "136264 / 91.03%",
+    "reduced_core_mfvs_size": "0 / 0.00%",
+    "nb_of_words_mfvs": "0 / 0.00%",
+    "initial_nb_of_loops": 3565,
+    "initial_nb_of_arcs": 723741,
+    "final_nb_of_arcs": 36867,
+    "initial_nb_of_out_deg_0": 110213,
+    "initial_nb_of_in_deg_0": 106,
+    "initial_nb_of_out_deg_1": 8555,
+    "initial_nb_of_in_deg_1": 6358,
+    "initial_nb_of_sccs": 284,
+    "size_of_biggest_scc": 11643,
+    "size_of_2nd_biggest_scc": 7,
+    "nb_of_sccs_kernel": 1427,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 7,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "115 / 0.08%",
+    "nb_undefining": "135277 / 90.37%",
+    "top n out deg": [
+        {
+            "out_degree": 7609,
+            "vertex": "have_12"
+        },
+        {
+            "out_degree": 3493,
+            "vertex": "person_1"
+        },
+        {
+            "out_degree": 3459,
+            "vertex": "especially_1"
+        },
+        {
+            "out_degree": 2891,
+            "vertex": "usually_1"
+        },
+        {
+            "out_degree": 2764,
+            "vertex": "use_4"
+        },
+        {
+            "out_degree": 2669,
+            "vertex": "manner_1"
+        },
+        {
+            "out_degree": 2643,
+            "vertex": "large_2"
+        },
+        {
+            "out_degree": 2605,
+            "vertex": "genus_2"
+        },
+        {
+            "out_degree": 2520,
+            "vertex": "cause_1"
+        },
+        {
+            "out_degree": 2434,
+            "vertex": "small_10"
+        },
+        {
+            "out_degree": 2257,
+            "vertex": "many_1"
+        },
+        {
+            "out_degree": 2252,
+            "vertex": "other_1"
+        },
+        {
+            "out_degree": 2086,
+            "vertex": "make_10"
+        },
+        {
+            "out_degree": 2047,
+            "vertex": "act_1"
+        },
+        {
+            "out_degree": 2041,
+            "vertex": "plant_6"
+        },
+        {
+            "out_degree": 1815,
+            "vertex": "body_5"
+        },
+        {
+            "out_degree": 1696,
+            "vertex": "tree_1"
+        },
+        {
+            "out_degree": 1666,
+            "vertex": "consist_2"
+        },
+        {
+            "out_degree": 1635,
+            "vertex": "flower_2"
+        },
+        {
+            "out_degree": 1556,
+            "vertex": "give_10"
+        },
+        {
+            "out_degree": 1542,
+            "vertex": "leaf_3"
+        },
+        {
+            "out_degree": 1536,
+            "vertex": "use_7"
+        },
+        {
+            "out_degree": 1461,
+            "vertex": "state_1"
+        },
+        {
+            "out_degree": 1335,
+            "vertex": "resemble_1"
+        },
+        {
+            "out_degree": 1328,
+            "vertex": "time_1"
+        },
+        {
+            "out_degree": 1300,
+            "vertex": "make_22"
+        },
+        {
+            "out_degree": 1258,
+            "vertex": "relate_1"
+        },
+        {
+            "out_degree": 1242,
+            "vertex": "relate_3"
+        },
+        {
+            "out_degree": 1088,
+            "vertex": "system_1"
+        },
+        {
+            "out_degree": 1073,
+            "vertex": "contain_3"
+        },
+        {
+            "out_degree": 1073,
+            "vertex": "animal_1"
+        },
+        {
+            "out_degree": 1069,
+            "vertex": "move_14"
+        },
+        {
+            "out_degree": 1068,
+            "vertex": "lack_2"
+        },
+        {
+            "out_degree": 1067,
+            "vertex": "water_2"
+        },
+        {
+            "out_degree": 1063,
+            "vertex": "shrub_1"
+        },
+        {
+            "out_degree": 1034,
+            "vertex": "often_2"
+        },
+        {
+            "out_degree": 1024,
+            "vertex": "place_1"
+        },
+        {
+            "out_degree": 1018,
+            "vertex": "family_1"
+        },
+        {
+            "out_degree": 1003,
+            "vertex": "flower_1"
+        },
+        {
+            "out_degree": 1002,
+            "vertex": "very_3"
+        },
+        {
+            "out_degree": 993,
+            "vertex": "herb_2"
+        },
+        {
+            "out_degree": 982,
+            "vertex": "part_5"
+        },
+        {
+            "out_degree": 963,
+            "vertex": "make_21"
+        },
+        {
+            "out_degree": 957,
+            "vertex": "use_9"
+        },
+        {
+            "out_degree": 947,
+            "vertex": "characterize_1"
+        },
+        {
+            "out_degree": 921,
+            "vertex": "use_2"
+        },
+        {
+            "out_degree": 880,
+            "vertex": "result_1"
+        },
+        {
+            "out_degree": 858,
+            "vertex": "red_1"
+        },
+        {
+            "out_degree": 841,
+            "vertex": "food_1"
+        },
+        {
+            "out_degree": 827,
+            "vertex": "group_1"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 30,
+            "vertex": "myotonic muscular dystrophy_1"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "myotonic dystrophy_1"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "myotonia atrophica_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "arborvirus_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "arbovirus_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "punks_1"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "liver_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "class dicotyledones_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "dicotyledones_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "class magnoliopsida_1"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "class dicotyledonae_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "dilatation and curettage_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "fentanyl_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "placebo effect_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "hindooism_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "d and c_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "dilation and curettage_1"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "sublimaze_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "hereditary motor and sensory neuropathy_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "mock orange_2"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "fluorescein_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "fluoresceine_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "botulinum toxin a_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "fluorescent dye_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "bow wood_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "rabbit brush_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "mouth to mouth resuscitation_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "seaside mahoe_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "vx gas_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "cardiopulmonary resuscitation_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "resorcinolphthalein_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "cardiac resuscitation_1"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "bendy tree_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "atomic number 94_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "plutonium_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "paranoic type schizophrenia_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "alpha receptor_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "alpha adrenoceptor_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "alpha adrenergic receptor_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "liberation tigers of tamil eelam_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "tigers_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "nuclear winter_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "radiation_7"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "radiation syndrome_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "water flea_2"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "radiation sickness_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "eutrophication_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "gaseous state_1"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "gas_2"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "kuru_1"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 7614,
+            "vertex": "have_12"
+        },
+        {
+            "total_degree": 3495,
+            "vertex": "person_1"
+        },
+        {
+            "total_degree": 3464,
+            "vertex": "especially_1"
+        },
+        {
+            "total_degree": 2893,
+            "vertex": "usually_1"
+        },
+        {
+            "total_degree": 2765,
+            "vertex": "use_4"
+        },
+        {
+            "total_degree": 2672,
+            "vertex": "manner_1"
+        },
+        {
+            "total_degree": 2649,
+            "vertex": "large_2"
+        },
+        {
+            "total_degree": 2610,
+            "vertex": "genus_2"
+        },
+        {
+            "total_degree": 2526,
+            "vertex": "cause_1"
+        },
+        {
+            "total_degree": 2438,
+            "vertex": "small_10"
+        },
+        {
+            "total_degree": 2267,
+            "vertex": "many_1"
+        },
+        {
+            "total_degree": 2256,
+            "vertex": "other_1"
+        },
+        {
+            "total_degree": 2087,
+            "vertex": "make_10"
+        },
+        {
+            "total_degree": 2051,
+            "vertex": "act_1"
+        },
+        {
+            "total_degree": 2044,
+            "vertex": "plant_6"
+        },
+        {
+            "total_degree": 1822,
+            "vertex": "body_5"
+        },
+        {
+            "total_degree": 1702,
+            "vertex": "tree_1"
+        },
+        {
+            "total_degree": 1667,
+            "vertex": "consist_2"
+        },
+        {
+            "total_degree": 1643,
+            "vertex": "flower_2"
+        },
+        {
+            "total_degree": 1562,
+            "vertex": "give_10"
+        },
+        {
+            "total_degree": 1548,
+            "vertex": "leaf_3"
+        },
+        {
+            "total_degree": 1542,
+            "vertex": "use_7"
+        },
+        {
+            "total_degree": 1465,
+            "vertex": "state_1"
+        },
+        {
+            "total_degree": 1339,
+            "vertex": "resemble_1"
+        },
+        {
+            "total_degree": 1334,
+            "vertex": "time_1"
+        },
+        {
+            "total_degree": 1305,
+            "vertex": "make_22"
+        },
+        {
+            "total_degree": 1261,
+            "vertex": "relate_1"
+        },
+        {
+            "total_degree": 1245,
+            "vertex": "relate_3"
+        },
+        {
+            "total_degree": 1097,
+            "vertex": "system_1"
+        },
+        {
+            "total_degree": 1078,
+            "vertex": "animal_1"
+        },
+        {
+            "total_degree": 1076,
+            "vertex": "contain_3"
+        },
+        {
+            "total_degree": 1075,
+            "vertex": "move_14"
+        },
+        {
+            "total_degree": 1073,
+            "vertex": "water_2"
+        },
+        {
+            "total_degree": 1072,
+            "vertex": "shrub_1"
+        },
+        {
+            "total_degree": 1068,
+            "vertex": "lack_2"
+        },
+        {
+            "total_degree": 1037,
+            "vertex": "often_2"
+        },
+        {
+            "total_degree": 1026,
+            "vertex": "place_1"
+        },
+        {
+            "total_degree": 1023,
+            "vertex": "family_1"
+        },
+        {
+            "total_degree": 1007,
+            "vertex": "flower_1"
+        },
+        {
+            "total_degree": 1005,
+            "vertex": "herb_2"
+        },
+        {
+            "total_degree": 1004,
+            "vertex": "very_3"
+        },
+        {
+            "total_degree": 988,
+            "vertex": "part_5"
+        },
+        {
+            "total_degree": 966,
+            "vertex": "use_9"
+        },
+        {
+            "total_degree": 966,
+            "vertex": "make_21"
+        },
+        {
+            "total_degree": 952,
+            "vertex": "characterize_1"
+        },
+        {
+            "total_degree": 931,
+            "vertex": "use_2"
+        },
+        {
+            "total_degree": 884,
+            "vertex": "result_1"
+        },
+        {
+            "total_degree": 865,
+            "vertex": "red_1"
+        },
+        {
+            "total_degree": 848,
+            "vertex": "food_1"
+        },
+        {
+            "total_degree": 838,
+            "vertex": "color_2"
+        }
+    ]
+}

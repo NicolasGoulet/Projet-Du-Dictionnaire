@@ -1,0 +1,866 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "fight_1",
+            "weapon_1"
+        ],
+        "arcs": [
+            [
+                "fight_1",
+                "fight_1"
+            ],
+            [
+                "weapon_1",
+                "weapon_1"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "alcohol_1"
+        ],
+        "arcs": [
+            [
+                "alcohol_1",
+                "alcohol_1"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "soldier_1"
+        ],
+        "arcs": [
+            [
+                "soldier_1",
+                "soldier_1"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "arrow_1"
+        ],
+        "arcs": [
+            [
+                "arrow_1",
+                "arrow_1"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "radio_1"
+        ],
+        "arcs": [
+            [
+                "radio_1",
+                "radio_1"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "shell_1"
+        ],
+        "arcs": [
+            [
+                "shell_1",
+                "shell_1"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "pottery_1"
+        ],
+        "arcs": [
+            [
+                "pottery_1",
+                "pottery_1"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "flashlight_1"
+        ],
+        "arcs": [
+            [
+                "flashlight_1",
+                "flashlight_1"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "cute_1"
+        ],
+        "arcs": [
+            [
+                "cute_1",
+                "cute_1"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "scratch_2"
+        ],
+        "arcs": [
+            [
+                "scratch_2",
+                "scratch_2"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "tulip_1"
+        ],
+        "arcs": [
+            [
+                "tulip_1",
+                "tulip_1"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "teapot_1"
+        ],
+        "arcs": [
+            [
+                "teapot_1",
+                "teapot_1"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "veterinarian_1"
+        ],
+        "arcs": [
+            [
+                "veterinarian_1",
+                "veterinarian_1"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "niece_1"
+        ],
+        "arcs": [
+            [
+                "niece_1",
+                "niece_1"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "western_1"
+        ],
+        "arcs": [
+            [
+                "western_1",
+                "western_1"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "summer_1"
+        ],
+        "arcs": [
+            [
+                "summer_1",
+                "summer_1"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "scientist_1"
+        ],
+        "arcs": [
+            [
+                "scientist_1",
+                "scientist_1"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [
+            "bat_1"
+        ],
+        "arcs": [
+            [
+                "bat_1",
+                "bat_1"
+            ]
+        ]
+    },
+    "satellite_18": {
+        "vertices": [
+            "hump_1"
+        ],
+        "arcs": [
+            [
+                "hump_1",
+                "hump_1"
+            ]
+        ]
+    },
+    "satellite_19": {
+        "vertices": [
+            "shoot_3"
+        ],
+        "arcs": [
+            [
+                "shoot_3",
+                "shoot_3"
+            ]
+        ]
+    },
+    "satellite_20": {
+        "vertices": [
+            "dull_2"
+        ],
+        "arcs": [
+            [
+                "dull_2",
+                "dull_2"
+            ]
+        ]
+    },
+    "satellite_21": {
+        "vertices": [
+            "paddle_1"
+        ],
+        "arcs": [
+            [
+                "paddle_1",
+                "paddle_1"
+            ]
+        ]
+    },
+    "satellite_22": {
+        "vertices": [
+            "plug_1"
+        ],
+        "arcs": [
+            [
+                "plug_1",
+                "plug_1"
+            ]
+        ]
+    },
+    "satellite_23": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_24": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_25": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_26": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_27": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_28": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_29": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_30": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_31": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_32": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_33": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_34": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_35": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_36": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_37": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_38": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_39": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_40": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_41": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_42": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_43": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_44": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_45": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_46": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_47": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_48": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "radio_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "western_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "weapon_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "veterinarian_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tulip_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "teapot_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "summer_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "soldier_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "shoot_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "shell_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "scratch_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "scientist_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "alcohol_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "pottery_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "plug_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "paddle_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "niece_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "hump_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "flashlight_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "fight_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "dull_2"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "cute_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "bat_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "arrow_1"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "radio_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "shoot_3"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "flashlight_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "hump_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "fight_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "dull_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "shell_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cute_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "soldier_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "scratch_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "scientist_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "summer_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "teapot_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "tulip_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "alcohol_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "niece_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "veterinarian_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "weapon_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pottery_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "bat_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "plug_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "western_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paddle_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "arrow_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "sea_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "outlet_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "shoot_2"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "shoot_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "simple_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "program_3"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "shop_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "signal_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "silly_2"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "newspaper_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "snail_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "spout_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "spring_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "sweet_2"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "sword_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "toaster_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "vase_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "vet_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "website_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "west_2"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "wine_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "bulb_2"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "cord_2"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "cord_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "command_1"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "clam_1"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "radio_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "shoot_3"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "flashlight_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "hump_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "fight_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "dull_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "shell_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cute_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "soldier_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "scratch_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "scientist_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "summer_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "teapot_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "tulip_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "alcohol_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "niece_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "veterinarian_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "weapon_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pottery_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "bat_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "plug_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "western_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paddle_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "arrow_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "sea_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "outlet_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "shoot_2"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "shoot_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "simple_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "program_3"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "shop_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "signal_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "silly_2"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "newspaper_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "snail_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "spout_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "spring_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "sweet_2"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "sword_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "toaster_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "vase_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "vet_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "website_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "west_2"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "wine_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "bulb_2"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "cord_2"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "cord_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "command_1"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "clam_1"
+        }
+    ]
+}

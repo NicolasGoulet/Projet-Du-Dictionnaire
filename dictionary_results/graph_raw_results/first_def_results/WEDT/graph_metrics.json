@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "40941 / 100.00%",
+    "nb_of_words_in_kernel": "6138 / 14.99%",
+    "nb_of_words_in_core": "4740 / 11.58%",
+    "nb_of_reduced_core": "1575 / 3.85%",
+    "nb_of_words_in_satelites": "1398 / 3.41%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "34803 / 85.01%",
+    "reduced_core_mfvs_size": "315 / 0.77%",
+    "nb_of_words_mfvs": "1090 / 2.66%",
+    "initial_nb_of_loops": 148,
+    "initial_nb_of_arcs": 222318,
+    "final_nb_of_arcs": 11250,
+    "initial_nb_of_out_deg_0": 25860,
+    "initial_nb_of_in_deg_0": 36,
+    "initial_nb_of_out_deg_1": 4164,
+    "initial_nb_of_in_deg_1": 1103,
+    "initial_nb_of_sccs": 319,
+    "size_of_biggest_scc": 4740,
+    "size_of_2nd_biggest_scc": 7,
+    "nb_of_sccs_kernel": 1002,
+    "nb_of_sccs_reduced_digraph": 3,
+    "size_biggest_satelite_kernel": 7,
+    "size_biggest_reduced_satelite": 3,
+    "nb_undefined": "37 / 0.09%",
+    "nb_undefining": "33644 / 82.18%",
+    "top n out deg": [
+        {
+            "out_degree": 4811,
+            "vertex": "form"
+        },
+        {
+            "out_degree": 4141,
+            "vertex": "combine"
+        },
+        {
+            "out_degree": 2914,
+            "vertex": "use"
+        },
+        {
+            "out_degree": 1967,
+            "vertex": "have"
+        },
+        {
+            "out_degree": 1638,
+            "vertex": "make"
+        },
+        {
+            "out_degree": 1458,
+            "vertex": "like"
+        },
+        {
+            "out_degree": 1457,
+            "vertex": "such"
+        },
+        {
+            "out_degree": 1375,
+            "vertex": "other"
+        },
+        {
+            "out_degree": 1314,
+            "vertex": "person"
+        },
+        {
+            "out_degree": 1252,
+            "vertex": "act"
+        },
+        {
+            "out_degree": 1088,
+            "vertex": "small"
+        },
+        {
+            "out_degree": 911,
+            "vertex": "often"
+        },
+        {
+            "out_degree": 855,
+            "vertex": "cause"
+        },
+        {
+            "out_degree": 777,
+            "vertex": "large"
+        },
+        {
+            "out_degree": 682,
+            "vertex": "part"
+        },
+        {
+            "out_degree": 675,
+            "vertex": "informal"
+        },
+        {
+            "out_degree": 644,
+            "vertex": "plant"
+        },
+        {
+            "out_degree": 637,
+            "vertex": "condition"
+        },
+        {
+            "out_degree": 615,
+            "vertex": "state"
+        },
+        {
+            "out_degree": 570,
+            "vertex": "body"
+        },
+        {
+            "out_degree": 551,
+            "vertex": "place"
+        },
+        {
+            "out_degree": 548,
+            "vertex": "pertain"
+        },
+        {
+            "out_degree": 546,
+            "vertex": "process"
+        },
+        {
+            "out_degree": 543,
+            "vertex": "various"
+        },
+        {
+            "out_degree": 535,
+            "vertex": "water"
+        },
+        {
+            "out_degree": 533,
+            "vertex": "relate"
+        },
+        {
+            "out_degree": 528,
+            "vertex": "long"
+        },
+        {
+            "out_degree": 510,
+            "vertex": "animal"
+        },
+        {
+            "out_degree": 490,
+            "vertex": "group"
+        },
+        {
+            "out_degree": 483,
+            "vertex": "several"
+        },
+        {
+            "out_degree": 469,
+            "vertex": "time"
+        },
+        {
+            "out_degree": 466,
+            "vertex": "give"
+        },
+        {
+            "out_degree": 448,
+            "vertex": "produce"
+        },
+        {
+            "out_degree": 434,
+            "vertex": "see"
+        },
+        {
+            "out_degree": 423,
+            "vertex": "contain"
+        },
+        {
+            "out_degree": 408,
+            "vertex": "quality"
+        },
+        {
+            "out_degree": 397,
+            "vertex": "high"
+        },
+        {
+            "out_degree": 388,
+            "vertex": "area"
+        },
+        {
+            "out_degree": 383,
+            "vertex": "certain"
+        },
+        {
+            "out_degree": 380,
+            "vertex": "light"
+        },
+        {
+            "out_degree": 372,
+            "vertex": "bear"
+        },
+        {
+            "out_degree": 364,
+            "vertex": "shape"
+        },
+        {
+            "out_degree": 362,
+            "vertex": "white"
+        },
+        {
+            "out_degree": 358,
+            "vertex": "more"
+        },
+        {
+            "out_degree": 356,
+            "vertex": "hold"
+        },
+        {
+            "out_degree": 354,
+            "vertex": "thing"
+        },
+        {
+            "out_degree": 346,
+            "vertex": "sound"
+        },
+        {
+            "out_degree": 343,
+            "vertex": "surface"
+        },
+        {
+            "out_degree": 343,
+            "vertex": "food"
+        },
+        {
+            "out_degree": 342,
+            "vertex": "flower"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 34,
+            "vertex": "magnesium"
+        },
+        {
+            "in_degree": 32,
+            "vertex": "iron"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "hydrogen"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "civic responsibility"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "cable television"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "phosphorus"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "operating system"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "piñata"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "laser"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "unanimous consent agreement"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "tin"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "selenium"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "academic freedom"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "survival of the fittest"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "gold"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "lead"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "nickel"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "stroboscope"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "silver"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "zinc"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "tungsten"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "hafnium"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "cellular phone"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "interactive whiteboard"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "sweet roll"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "acronym"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "motherboard"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "cell phone"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "platinum"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "bungee jumping"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "beryllium"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "osmium"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "electricity"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "thymus"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "potassium"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "neon"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "impressionism"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "reptile"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "consonant"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "fluorine"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "oxygen"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "at-large election"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "copper"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "gallium"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "affirmative action"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "golf"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "turbojet"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "lithium"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "strontium"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "billiards"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 4815,
+            "vertex": "form"
+        },
+        {
+            "total_degree": 4145,
+            "vertex": "combine"
+        },
+        {
+            "total_degree": 2917,
+            "vertex": "use"
+        },
+        {
+            "total_degree": 1969,
+            "vertex": "have"
+        },
+        {
+            "total_degree": 1642,
+            "vertex": "make"
+        },
+        {
+            "total_degree": 1461,
+            "vertex": "like"
+        },
+        {
+            "total_degree": 1460,
+            "vertex": "such"
+        },
+        {
+            "total_degree": 1377,
+            "vertex": "other"
+        },
+        {
+            "total_degree": 1316,
+            "vertex": "person"
+        },
+        {
+            "total_degree": 1256,
+            "vertex": "act"
+        },
+        {
+            "total_degree": 1093,
+            "vertex": "small"
+        },
+        {
+            "total_degree": 914,
+            "vertex": "often"
+        },
+        {
+            "total_degree": 858,
+            "vertex": "cause"
+        },
+        {
+            "total_degree": 784,
+            "vertex": "large"
+        },
+        {
+            "total_degree": 686,
+            "vertex": "part"
+        },
+        {
+            "total_degree": 678,
+            "vertex": "informal"
+        },
+        {
+            "total_degree": 648,
+            "vertex": "plant"
+        },
+        {
+            "total_degree": 639,
+            "vertex": "condition"
+        },
+        {
+            "total_degree": 621,
+            "vertex": "state"
+        },
+        {
+            "total_degree": 581,
+            "vertex": "body"
+        },
+        {
+            "total_degree": 556,
+            "vertex": "place"
+        },
+        {
+            "total_degree": 553,
+            "vertex": "process"
+        },
+        {
+            "total_degree": 552,
+            "vertex": "pertain"
+        },
+        {
+            "total_degree": 548,
+            "vertex": "water"
+        },
+        {
+            "total_degree": 547,
+            "vertex": "various"
+        },
+        {
+            "total_degree": 537,
+            "vertex": "relate"
+        },
+        {
+            "total_degree": 531,
+            "vertex": "long"
+        },
+        {
+            "total_degree": 519,
+            "vertex": "animal"
+        },
+        {
+            "total_degree": 500,
+            "vertex": "group"
+        },
+        {
+            "total_degree": 484,
+            "vertex": "several"
+        },
+        {
+            "total_degree": 480,
+            "vertex": "time"
+        },
+        {
+            "total_degree": 468,
+            "vertex": "give"
+        },
+        {
+            "total_degree": 450,
+            "vertex": "produce"
+        },
+        {
+            "total_degree": 437,
+            "vertex": "see"
+        },
+        {
+            "total_degree": 424,
+            "vertex": "contain"
+        },
+        {
+            "total_degree": 414,
+            "vertex": "quality"
+        },
+        {
+            "total_degree": 402,
+            "vertex": "high"
+        },
+        {
+            "total_degree": 390,
+            "vertex": "area"
+        },
+        {
+            "total_degree": 385,
+            "vertex": "certain"
+        },
+        {
+            "total_degree": 384,
+            "vertex": "light"
+        },
+        {
+            "total_degree": 378,
+            "vertex": "bear"
+        },
+        {
+            "total_degree": 369,
+            "vertex": "shape"
+        },
+        {
+            "total_degree": 367,
+            "vertex": "white"
+        },
+        {
+            "total_degree": 360,
+            "vertex": "hold"
+        },
+        {
+            "total_degree": 360,
+            "vertex": "more"
+        },
+        {
+            "total_degree": 357,
+            "vertex": "thing"
+        },
+        {
+            "total_degree": 354,
+            "vertex": "food"
+        },
+        {
+            "total_degree": 352,
+            "vertex": "sound"
+        },
+        {
+            "total_degree": 352,
+            "vertex": "flower"
+        },
+        {
+            "total_degree": 348,
+            "vertex": "work"
+        }
+    ]
+}

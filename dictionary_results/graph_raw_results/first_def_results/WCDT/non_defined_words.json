@@ -1,0 +1,36 @@
+{
+    "words": [
+        {
+            "vertex": "hunter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marking",
+            "depth_level": 0
+        },
+        {
+            "vertex": "no",
+            "depth_level": 0
+        },
+        {
+            "vertex": "originally",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "single",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "odor",
+            "depth_level": 1
+        }
+    ]
+}

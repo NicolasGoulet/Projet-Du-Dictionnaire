@@ -1,0 +1,45 @@
+{
+    "global_arc_reductions": [
+        {
+            "reduction_name": "pie_arc",
+            "reduction_order": 3091,
+            "removed_arcs": [
+                "building_1->entrance_1",
+                "buy_2->account_1",
+                "buy_2->bag_1",
+                "buy_2->bring_1",
+                "buy_2->building_3",
+                "buy_2->business_2",
+                "buy_2->cost_1",
+                "buy_2->customer_1",
+                "buy_2->ice_2",
+                "buy_2->payment_1",
+                "buy_2->separate_1",
+                "buy_2->shop_1",
+                "buy_2->shopping_1",
+                "buy_2->end_2",
+                "buy_2->main_2",
+                "buy_2->tape_4",
+                "buy_2->full_2",
+                "buy_2->passenger_1",
+                "change_10->receive_6",
+                "enter_2->entrance_1",
+                "fast_8->fast_2",
+                "have_11->royal_4",
+                "lane_2->fast_2",
+                "organization_1->royal_4",
+                "picture_2->receive_6",
+                "place_1->entrance_1",
+                "rate_1->fast_2",
+                "serve_1->royal_4",
+                "signal_6->receive_6",
+                "society_1->royal_4",
+                "sound_1->fast_2",
+                "sound_2->receive_6",
+                "support_1->royal_4",
+                "travel_8->fast_2",
+                "vehicle_1->fast_2"
+            ]
+        }
+    ]
+}

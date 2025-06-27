@@ -1,0 +1,260 @@
+{
+    "words": [
+        {
+            "vertex": "all_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "also_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "am_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "area_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "backward_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bard_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "being_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "board_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "buggy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chair_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chattel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clean_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cord_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "date_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deity_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fit_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flop_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "football_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "friend_16",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gob_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "goodwill_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ill_20",
+            "depth_level": 0
+        },
+        {
+            "vertex": "just_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "leave_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "m_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mention_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "noodle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "opposite_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ova_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "parson_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "picture_13",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plague_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poorly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pray_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "protect_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quid_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rap_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "right_32",
+            "depth_level": 0
+        },
+        {
+            "vertex": "row_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "same_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seemly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "self_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shalt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sharp_13",
+            "depth_level": 0
+        },
+        {
+            "vertex": "smiley_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "still_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "straightaway_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "swish_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "theatre_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "then_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tire_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "unarmed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "unreasonable_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "vary_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "w_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "warm_13",
+            "depth_level": 0
+        },
+        {
+            "vertex": "worth_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "middle_7",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pin_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "table_10",
+            "depth_level": 1
+        },
+        {
+            "vertex": "value_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "week_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mean_6",
+            "depth_level": 2
+        },
+        {
+            "vertex": "store_11",
+            "depth_level": 2
+        }
+    ]
+}

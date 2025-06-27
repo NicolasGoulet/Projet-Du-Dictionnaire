@@ -1,0 +1,5840 @@
+{
+    "reduced_words_degrees": [
+        {
+            "word": "bring_1",
+            "degree": 165
+        },
+        {
+            "word": "person_1",
+            "degree": 74
+        },
+        {
+            "word": "thing_1",
+            "degree": 73
+        },
+        {
+            "word": "have_1",
+            "degree": 69
+        },
+        {
+            "word": "particular_3",
+            "degree": 60
+        },
+        {
+            "word": "mention_1",
+            "degree": 51
+        },
+        {
+            "word": "way_1",
+            "degree": 50
+        },
+        {
+            "word": "cause_1",
+            "degree": 50
+        },
+        {
+            "word": "people_1",
+            "degree": 44
+        },
+        {
+            "word": "place_2",
+            "degree": 44
+        },
+        {
+            "word": "state_1",
+            "degree": 44
+        },
+        {
+            "word": "direction_2",
+            "degree": 39
+        },
+        {
+            "word": "amount_1",
+            "degree": 35
+        },
+        {
+            "word": "word_1",
+            "degree": 32
+        },
+        {
+            "word": "position_1",
+            "degree": 30
+        },
+        {
+            "word": "more_1",
+            "degree": 26
+        },
+        {
+            "word": "surface_1",
+            "degree": 25
+        },
+        {
+            "word": "show_1",
+            "degree": 23
+        },
+        {
+            "word": "alike_1",
+            "degree": 22
+        },
+        {
+            "word": "put_1",
+            "degree": 22
+        },
+        {
+            "word": "fact_1",
+            "degree": 21
+        },
+        {
+            "word": "mind_1",
+            "degree": 21
+        },
+        {
+            "word": "manner_1",
+            "degree": 21
+        },
+        {
+            "word": "together_1",
+            "degree": 20
+        },
+        {
+            "word": "able_1",
+            "degree": 19
+        },
+        {
+            "word": "write_1",
+            "degree": 19
+        },
+        {
+            "word": "great_3",
+            "degree": 19
+        },
+        {
+            "word": "human_1",
+            "degree": 19
+        },
+        {
+            "word": "possess_1",
+            "degree": 19
+        },
+        {
+            "word": "material_1",
+            "degree": 18
+        },
+        {
+            "word": "strength_1",
+            "degree": 18
+        },
+        {
+            "word": "area_3",
+            "degree": 17
+        },
+        {
+            "word": "such_1",
+            "degree": 17
+        },
+        {
+            "word": "form_4",
+            "degree": 17
+        },
+        {
+            "word": "purpose_1",
+            "degree": 16
+        },
+        {
+            "word": "look_1",
+            "degree": 16
+        },
+        {
+            "word": "long_1",
+            "degree": 16
+        },
+        {
+            "word": "distance_1",
+            "degree": 16
+        },
+        {
+            "word": "end_1",
+            "degree": 16
+        },
+        {
+            "word": "move_1",
+            "degree": 15
+        },
+        {
+            "word": "activity_1",
+            "degree": 15
+        },
+        {
+            "word": "take_2",
+            "degree": 15
+        },
+        {
+            "word": "give_3",
+            "degree": 15
+        },
+        {
+            "word": "number_1",
+            "degree": 15
+        },
+        {
+            "word": "move_6",
+            "degree": 14
+        },
+        {
+            "word": "animal_2",
+            "degree": 14
+        },
+        {
+            "word": "much_1",
+            "degree": 14
+        },
+        {
+            "word": "hard_1",
+            "degree": 14
+        },
+        {
+            "word": "go_2",
+            "degree": 13
+        },
+        {
+            "word": "else_1",
+            "degree": 13
+        },
+        {
+            "word": "condition_2",
+            "degree": 13
+        },
+        {
+            "word": "movement_2",
+            "degree": 13
+        },
+        {
+            "word": "set_1",
+            "degree": 13
+        },
+        {
+            "word": "small_1",
+            "degree": 13
+        },
+        {
+            "word": "sound_1",
+            "degree": 13
+        },
+        {
+            "word": "process_1",
+            "degree": 13
+        },
+        {
+            "word": "plural_1",
+            "degree": 12
+        },
+        {
+            "word": "shape_1",
+            "degree": 12
+        },
+        {
+            "word": "side_1",
+            "degree": 12
+        },
+        {
+            "word": "liquid_1",
+            "degree": 12
+        },
+        {
+            "word": "measure_2",
+            "degree": 12
+        },
+        {
+            "word": "member_1",
+            "degree": 12
+        },
+        {
+            "word": "change_1",
+            "degree": 12
+        },
+        {
+            "word": "water_1",
+            "degree": 12
+        },
+        {
+            "word": "behave_1",
+            "degree": 11
+        },
+        {
+            "word": "speak_1",
+            "degree": 11
+        },
+        {
+            "word": "space_3",
+            "degree": 11
+        },
+        {
+            "word": "degree_2",
+            "degree": 11
+        },
+        {
+            "word": "connect_1",
+            "degree": 11
+        },
+        {
+            "word": "pain_1",
+            "degree": 11
+        },
+        {
+            "word": "place_1",
+            "degree": 11
+        },
+        {
+            "word": "machine_1",
+            "degree": 11
+        },
+        {
+            "word": "have_3",
+            "degree": 11
+        },
+        {
+            "word": "reason_1",
+            "degree": 10
+        },
+        {
+            "word": "young_1",
+            "degree": 10
+        },
+        {
+            "word": "ability_1",
+            "degree": 10
+        },
+        {
+            "word": "building_1",
+            "degree": 10
+        },
+        {
+            "word": "object_4",
+            "degree": 10
+        },
+        {
+            "word": "mental_1",
+            "degree": 10
+        },
+        {
+            "word": "top_1",
+            "degree": 10
+        },
+        {
+            "word": "correct_1",
+            "degree": 10
+        },
+        {
+            "word": "thin_2",
+            "degree": 10
+        },
+        {
+            "word": "specific_1",
+            "degree": 10
+        },
+        {
+            "word": "explanation_1",
+            "degree": 10
+        },
+        {
+            "word": "life_1",
+            "degree": 10
+        },
+        {
+            "word": "letter_1",
+            "degree": 10
+        },
+        {
+            "word": "form_5",
+            "degree": 10
+        },
+        {
+            "word": "forward_1",
+            "degree": 10
+        },
+        {
+            "word": "gas_1",
+            "degree": 10
+        },
+        {
+            "word": "law_1",
+            "degree": 10
+        },
+        {
+            "word": "same_2",
+            "degree": 10
+        },
+        {
+            "word": "hold_1",
+            "degree": 10
+        },
+        {
+            "word": "hand_1",
+            "degree": 10
+        },
+        {
+            "word": "sentence_1",
+            "degree": 10
+        },
+        {
+            "word": "sense_1",
+            "degree": 10
+        },
+        {
+            "word": "outside_1",
+            "degree": 9
+        },
+        {
+            "word": "substance_1",
+            "degree": 9
+        },
+        {
+            "word": "whole_1",
+            "degree": 9
+        },
+        {
+            "word": "hear_1",
+            "degree": 9
+        },
+        {
+            "word": "body_2",
+            "degree": 9
+        },
+        {
+            "word": "strong_2",
+            "degree": 9
+        },
+        {
+            "word": "location_1",
+            "degree": 9
+        },
+        {
+            "word": "most_1",
+            "degree": 9
+        },
+        {
+            "word": "condition_4",
+            "degree": 9
+        },
+        {
+            "word": "idea_2",
+            "degree": 9
+        },
+        {
+            "word": "feel_3",
+            "degree": 9
+        },
+        {
+            "word": "carefully_1",
+            "degree": 9
+        },
+        {
+            "word": "length_1",
+            "degree": 9
+        },
+        {
+            "word": "main_1",
+            "degree": 9
+        },
+        {
+            "word": "information_1",
+            "degree": 9
+        },
+        {
+            "word": "normal_1",
+            "degree": 9
+        },
+        {
+            "word": "print_1",
+            "degree": 9
+        },
+        {
+            "word": "section_1",
+            "degree": 9
+        },
+        {
+            "word": "write_2",
+            "degree": 9
+        },
+        {
+            "word": "power_1",
+            "degree": 9
+        },
+        {
+            "word": "writing_1",
+            "degree": 9
+        },
+        {
+            "word": "decision_1",
+            "degree": 9
+        },
+        {
+            "word": "verb_1",
+            "degree": 9
+        },
+        {
+            "word": "piece_2",
+            "degree": 8
+        },
+        {
+            "word": "tell_1",
+            "degree": 8
+        },
+        {
+            "word": "harm_1",
+            "degree": 8
+        },
+        {
+            "word": "use_2",
+            "degree": 8
+        },
+        {
+            "word": "think_1",
+            "degree": 8
+        },
+        {
+            "word": "time_4",
+            "degree": 8
+        },
+        {
+            "word": "job_1",
+            "degree": 8
+        },
+        {
+            "word": "join_1",
+            "degree": 8
+        },
+        {
+            "word": "unit_1",
+            "degree": 8
+        },
+        {
+            "word": "guide_1",
+            "degree": 8
+        },
+        {
+            "word": "control_1",
+            "degree": 8
+        },
+        {
+            "word": "size_1",
+            "degree": 8
+        },
+        {
+            "word": "device_1",
+            "degree": 8
+        },
+        {
+            "word": "solid_1",
+            "degree": 8
+        },
+        {
+            "word": "earth_3",
+            "degree": 8
+        },
+        {
+            "word": "say_1",
+            "degree": 8
+        },
+        {
+            "word": "equal_1",
+            "degree": 8
+        },
+        {
+            "word": "experience_1",
+            "degree": 8
+        },
+        {
+            "word": "express_1",
+            "degree": 8
+        },
+        {
+            "word": "take_10",
+            "degree": 8
+        },
+        {
+            "word": "feel_2",
+            "degree": 8
+        },
+        {
+            "word": "fit_1",
+            "degree": 8
+        },
+        {
+            "word": "structure_1",
+            "degree": 8
+        },
+        {
+            "word": "food_1",
+            "degree": 8
+        },
+        {
+            "word": "put_2",
+            "degree": 8
+        },
+        {
+            "word": "free_1",
+            "degree": 8
+        },
+        {
+            "word": "game_2",
+            "degree": 8
+        },
+        {
+            "word": "symbol_1",
+            "degree": 8
+        },
+        {
+            "word": "number_2",
+            "degree": 8
+        },
+        {
+            "word": "lead_1",
+            "degree": 8
+        },
+        {
+            "word": "move_5",
+            "degree": 7
+        },
+        {
+            "word": "learn_1",
+            "degree": 7
+        },
+        {
+            "word": "wrong_1",
+            "degree": 7
+        },
+        {
+            "word": "clothing_1",
+            "degree": 7
+        },
+        {
+            "word": "easily_1",
+            "degree": 7
+        },
+        {
+            "word": "area_1",
+            "degree": 7
+        },
+        {
+            "word": "importance_1",
+            "degree": 7
+        },
+        {
+            "word": "need_2",
+            "degree": 7
+        },
+        {
+            "word": "fear_1",
+            "degree": 7
+        },
+        {
+            "word": "hurt_1",
+            "degree": 7
+        },
+        {
+            "word": "last_1",
+            "degree": 7
+        },
+        {
+            "word": "continue_3",
+            "degree": 7
+        },
+        {
+            "word": "little_1",
+            "degree": 7
+        },
+        {
+            "word": "space_2",
+            "degree": 7
+        },
+        {
+            "word": "thought_2",
+            "degree": 7
+        },
+        {
+            "word": "as_1",
+            "degree": 7
+        },
+        {
+            "word": "limit_1",
+            "degree": 7
+        },
+        {
+            "word": "light_1",
+            "degree": 7
+        },
+        {
+            "word": "apart_1",
+            "degree": 7
+        },
+        {
+            "word": "form_1",
+            "degree": 7
+        },
+        {
+            "word": "outer_1",
+            "degree": 7
+        },
+        {
+            "word": "direct_1",
+            "degree": 7
+        },
+        {
+            "word": "air_1",
+            "degree": 7
+        },
+        {
+            "word": "type_1",
+            "degree": 7
+        },
+        {
+            "word": "being_1",
+            "degree": 7
+        },
+        {
+            "word": "land_1",
+            "degree": 7
+        },
+        {
+            "word": "usual_2",
+            "degree": 7
+        },
+        {
+            "word": "extent_1",
+            "degree": 6
+        },
+        {
+            "word": "attention_2",
+            "degree": 6
+        },
+        {
+            "word": "eye_1",
+            "degree": 6
+        },
+        {
+            "word": "complete_3",
+            "degree": 6
+        },
+        {
+            "word": "great_4",
+            "degree": 6
+        },
+        {
+            "word": "mistake_1",
+            "degree": 6
+        },
+        {
+            "word": "completely_1",
+            "degree": 6
+        },
+        {
+            "word": "form_2",
+            "degree": 6
+        },
+        {
+            "word": "thing_2",
+            "degree": 6
+        },
+        {
+            "word": "subject_1",
+            "degree": 6
+        },
+        {
+            "word": "possible_1",
+            "degree": 6
+        },
+        {
+            "word": "bend_1",
+            "degree": 6
+        },
+        {
+            "word": "attach_1",
+            "degree": 6
+        },
+        {
+            "word": "motion_1",
+            "degree": 6
+        },
+        {
+            "word": "strong_1",
+            "degree": 6
+        },
+        {
+            "word": "proper_1",
+            "degree": 6
+        },
+        {
+            "word": "figure_3",
+            "degree": 6
+        },
+        {
+            "word": "live_5",
+            "degree": 6
+        },
+        {
+            "word": "goal_1",
+            "degree": 6
+        },
+        {
+            "word": "aware_1",
+            "degree": 6
+        },
+        {
+            "word": "soft_2",
+            "degree": 6
+        },
+        {
+            "word": "own_1",
+            "degree": 6
+        },
+        {
+            "word": "heat_1",
+            "degree": 6
+        },
+        {
+            "word": "short_3",
+            "degree": 6
+        },
+        {
+            "word": "source_1",
+            "degree": 6
+        },
+        {
+            "word": "interest_1",
+            "degree": 6
+        },
+        {
+            "word": "business_1",
+            "degree": 6
+        },
+        {
+            "word": "part_7",
+            "degree": 6
+        },
+        {
+            "word": "necessary_1",
+            "degree": 6
+        },
+        {
+            "word": "search_1",
+            "degree": 6
+        },
+        {
+            "word": "ahead_2",
+            "degree": 6
+        },
+        {
+            "word": "end_2",
+            "degree": 6
+        },
+        {
+            "word": "describe_1",
+            "degree": 6
+        },
+        {
+            "word": "certain_4",
+            "degree": 6
+        },
+        {
+            "word": "past_1",
+            "degree": 6
+        },
+        {
+            "word": "noun_1",
+            "degree": 6
+        },
+        {
+            "word": "know_1",
+            "degree": 6
+        },
+        {
+            "word": "matter_1",
+            "degree": 6
+        },
+        {
+            "word": "ball_1",
+            "degree": 6
+        },
+        {
+            "word": "amuse_1",
+            "degree": 5
+        },
+        {
+            "word": "well_1",
+            "degree": 5
+        },
+        {
+            "word": "fix_1",
+            "degree": 5
+        },
+        {
+            "word": "add_4",
+            "degree": 5
+        },
+        {
+            "word": "money_1",
+            "degree": 5
+        },
+        {
+            "word": "single_3",
+            "degree": 5
+        },
+        {
+            "word": "degree_1",
+            "degree": 5
+        },
+        {
+            "word": "living_1",
+            "degree": 5
+        },
+        {
+            "word": "quantity_1",
+            "degree": 5
+        },
+        {
+            "word": "eat_1",
+            "degree": 5
+        },
+        {
+            "word": "sick_1",
+            "degree": 5
+        },
+        {
+            "word": "accept_1",
+            "degree": 5
+        },
+        {
+            "word": "speed_1",
+            "degree": 5
+        },
+        {
+            "word": "enough_1",
+            "degree": 5
+        },
+        {
+            "word": "worry_1",
+            "degree": 5
+        },
+        {
+            "word": "error_1",
+            "degree": 5
+        },
+        {
+            "word": "example_1",
+            "degree": 5
+        },
+        {
+            "word": "standard_1",
+            "degree": 5
+        },
+        {
+            "word": "end_4",
+            "degree": 5
+        },
+        {
+            "word": "express_2",
+            "degree": 5
+        },
+        {
+            "word": "measure_1",
+            "degree": 5
+        },
+        {
+            "word": "firm_2",
+            "degree": 5
+        },
+        {
+            "word": "begin_1",
+            "degree": 5
+        },
+        {
+            "word": "space_1",
+            "degree": 5
+        },
+        {
+            "word": "remain_1",
+            "degree": 5
+        },
+        {
+            "word": "fasten_1",
+            "degree": 5
+        },
+        {
+            "word": "sound_2",
+            "degree": 5
+        },
+        {
+            "word": "separate_1",
+            "degree": 5
+        },
+        {
+            "word": "duty_1",
+            "degree": 5
+        },
+        {
+            "word": "reach_1",
+            "degree": 5
+        },
+        {
+            "word": "do_8",
+            "degree": 5
+        },
+        {
+            "word": "think_7",
+            "degree": 5
+        },
+        {
+            "word": "move_2",
+            "degree": 5
+        },
+        {
+            "word": "clear_6",
+            "degree": 5
+        },
+        {
+            "word": "play_3",
+            "degree": 5
+        },
+        {
+            "word": "circle_1",
+            "degree": 5
+        },
+        {
+            "word": "movie_1",
+            "degree": 5
+        },
+        {
+            "word": "picture_3",
+            "degree": 5
+        },
+        {
+            "word": "art_1",
+            "degree": 5
+        },
+        {
+            "word": "narrow_1",
+            "degree": 5
+        },
+        {
+            "word": "wet_1",
+            "degree": 5
+        },
+        {
+            "word": "pass_8",
+            "degree": 5
+        },
+        {
+            "word": "pass_2",
+            "degree": 5
+        },
+        {
+            "word": "thought_1",
+            "degree": 5
+        },
+        {
+            "word": "time_2",
+            "degree": 5
+        },
+        {
+            "word": "arrange_1",
+            "degree": 5
+        },
+        {
+            "word": "influence_1",
+            "degree": 5
+        },
+        {
+            "word": "injury_1",
+            "degree": 5
+        },
+        {
+            "word": "know_3",
+            "degree": 5
+        },
+        {
+            "word": "get_4",
+            "degree": 5
+        },
+        {
+            "word": "function_1",
+            "degree": 5
+        },
+        {
+            "word": "common_1",
+            "degree": 5
+        },
+        {
+            "word": "wear_1",
+            "degree": 5
+        },
+        {
+            "word": "pressure_1",
+            "degree": 5
+        },
+        {
+            "word": "powerful_1",
+            "degree": 5
+        },
+        {
+            "word": "activity_2",
+            "degree": 5
+        },
+        {
+            "word": "set_2",
+            "degree": 4
+        },
+        {
+            "word": "full_1",
+            "degree": 4
+        },
+        {
+            "word": "paper_2",
+            "degree": 4
+        },
+        {
+            "word": "effect_1",
+            "degree": 4
+        },
+        {
+            "word": "idea_1",
+            "degree": 4
+        },
+        {
+            "word": "edge_1",
+            "degree": 4
+        },
+        {
+            "word": "length_2",
+            "degree": 4
+        },
+        {
+            "word": "oxygen_1",
+            "degree": 4
+        },
+        {
+            "word": "earth_4",
+            "degree": 4
+        },
+        {
+            "word": "appearance_2",
+            "degree": 4
+        },
+        {
+            "word": "new_1",
+            "degree": 4
+        },
+        {
+            "word": "matter_2",
+            "degree": 4
+        },
+        {
+            "word": "moist_1",
+            "degree": 4
+        },
+        {
+            "word": "object_2",
+            "degree": 4
+        },
+        {
+            "word": "informal_2",
+            "degree": 4
+        },
+        {
+            "word": "forth_1",
+            "degree": 4
+        },
+        {
+            "word": "appear_1",
+            "degree": 4
+        },
+        {
+            "word": "short_1",
+            "degree": 4
+        },
+        {
+            "word": "organization_3",
+            "degree": 4
+        },
+        {
+            "word": "organ_1",
+            "degree": 4
+        },
+        {
+            "word": "ordinary_1",
+            "degree": 4
+        },
+        {
+            "word": "language_1",
+            "degree": 4
+        },
+        {
+            "word": "attention_1",
+            "degree": 4
+        },
+        {
+            "word": "item_1",
+            "degree": 4
+        },
+        {
+            "word": "kind_4",
+            "degree": 4
+        },
+        {
+            "word": "signal_3",
+            "degree": 4
+        },
+        {
+            "word": "sickness_1",
+            "degree": 4
+        },
+        {
+            "word": "head_1",
+            "degree": 4
+        },
+        {
+            "word": "ask_1",
+            "degree": 4
+        },
+        {
+            "word": "far_1",
+            "degree": 4
+        },
+        {
+            "word": "region_1",
+            "degree": 4
+        },
+        {
+            "word": "ground_1",
+            "degree": 4
+        },
+        {
+            "word": "fail_1",
+            "degree": 4
+        },
+        {
+            "word": "base_1",
+            "degree": 4
+        },
+        {
+            "word": "play_1",
+            "degree": 4
+        },
+        {
+            "word": "prepare_3",
+            "degree": 4
+        },
+        {
+            "word": "picture_2",
+            "degree": 4
+        },
+        {
+            "word": "expect_2",
+            "degree": 4
+        },
+        {
+            "word": "responsibility_2",
+            "degree": 4
+        },
+        {
+            "word": "phrase_1",
+            "degree": 4
+        },
+        {
+            "word": "exact_1",
+            "degree": 4
+        },
+        {
+            "word": "particular_1",
+            "degree": 4
+        },
+        {
+            "word": "health_2",
+            "degree": 4
+        },
+        {
+            "word": "round_1",
+            "degree": 4
+        },
+        {
+            "word": "quickly_1",
+            "degree": 4
+        },
+        {
+            "word": "rule_1",
+            "degree": 4
+        },
+        {
+            "word": "period_2",
+            "degree": 4
+        },
+        {
+            "word": "energy_3",
+            "degree": 4
+        },
+        {
+            "word": "nature_1",
+            "degree": 4
+        },
+        {
+            "word": "hold_3",
+            "degree": 4
+        },
+        {
+            "word": "problem_1",
+            "degree": 4
+        },
+        {
+            "word": "question_3",
+            "degree": 4
+        },
+        {
+            "word": "produce_2",
+            "degree": 4
+        },
+        {
+            "word": "proper_2",
+            "degree": 4
+        },
+        {
+            "word": "see_7",
+            "degree": 4
+        },
+        {
+            "word": "upper_1",
+            "degree": 4
+        },
+        {
+            "word": "accept_3",
+            "degree": 4
+        },
+        {
+            "word": "deal_1",
+            "degree": 4
+        },
+        {
+            "word": "danger_1",
+            "degree": 4
+        },
+        {
+            "word": "touch_1",
+            "degree": 4
+        },
+        {
+            "word": "care_1",
+            "degree": 4
+        },
+        {
+            "word": "tie_1",
+            "degree": 4
+        },
+        {
+            "word": "universe_1",
+            "degree": 4
+        },
+        {
+            "word": "wood_2",
+            "degree": 4
+        },
+        {
+            "word": "bring_2",
+            "degree": 4
+        },
+        {
+            "word": "believe_1",
+            "degree": 4
+        },
+        {
+            "word": "specific_2",
+            "degree": 4
+        },
+        {
+            "word": "speech_2",
+            "degree": 4
+        },
+        {
+            "word": "wood_1",
+            "degree": 4
+        },
+        {
+            "word": "study_2",
+            "degree": 4
+        },
+        {
+            "word": "view_3",
+            "degree": 4
+        },
+        {
+            "word": "stand_5",
+            "degree": 4
+        },
+        {
+            "word": "think_2",
+            "degree": 4
+        },
+        {
+            "word": "start_1",
+            "degree": 4
+        },
+        {
+            "word": "adjective_1",
+            "degree": 4
+        },
+        {
+            "word": "steady_5",
+            "degree": 4
+        },
+        {
+            "word": "consider_1",
+            "degree": 4
+        },
+        {
+            "word": "bad_4",
+            "degree": 4
+        },
+        {
+            "word": "tree_1",
+            "degree": 4
+        },
+        {
+            "word": "accident_2",
+            "degree": 4
+        },
+        {
+            "word": "stick_1",
+            "degree": 4
+        },
+        {
+            "word": "taste_1",
+            "degree": 4
+        },
+        {
+            "word": "talk_1",
+            "degree": 4
+        },
+        {
+            "word": "design_1",
+            "degree": 4
+        },
+        {
+            "word": "system_4",
+            "degree": 4
+        },
+        {
+            "word": "total_1",
+            "degree": 4
+        },
+        {
+            "word": "sky_1",
+            "degree": 4
+        },
+        {
+            "word": "system_1",
+            "degree": 4
+        },
+        {
+            "word": "smooth_1",
+            "degree": 4
+        },
+        {
+            "word": "closely_1",
+            "degree": 4
+        },
+        {
+            "word": "sure_2",
+            "degree": 4
+        },
+        {
+            "word": "healthy_1",
+            "degree": 3
+        },
+        {
+            "word": "rapidly_1",
+            "degree": 3
+        },
+        {
+            "word": "persist_1",
+            "degree": 3
+        },
+        {
+            "word": "fit_2",
+            "degree": 3
+        },
+        {
+            "word": "learn_2",
+            "degree": 3
+        },
+        {
+            "word": "aside_3",
+            "degree": 3
+        },
+        {
+            "word": "range_2",
+            "degree": 3
+        },
+        {
+            "word": "character_1",
+            "degree": 3
+        },
+        {
+            "word": "voice_1",
+            "degree": 3
+        },
+        {
+            "word": "visible_1",
+            "degree": 3
+        },
+        {
+            "word": "harmful_1",
+            "degree": 3
+        },
+        {
+            "word": "thin_1",
+            "degree": 3
+        },
+        {
+            "word": "team_1",
+            "degree": 3
+        },
+        {
+            "word": "other_2",
+            "degree": 3
+        },
+        {
+            "word": "characteristic_1",
+            "degree": 3
+        },
+        {
+            "word": "clearly_1",
+            "degree": 3
+        },
+        {
+            "word": "have_7",
+            "degree": 3
+        },
+        {
+            "word": "concern_1",
+            "degree": 3
+        },
+        {
+            "word": "foot_1",
+            "degree": 3
+        },
+        {
+            "word": "warm_1",
+            "degree": 3
+        },
+        {
+            "word": "instruction_1",
+            "degree": 3
+        },
+        {
+            "word": "active_2",
+            "degree": 3
+        },
+        {
+            "word": "tall_1",
+            "degree": 3
+        },
+        {
+            "word": "regular_2",
+            "degree": 3
+        },
+        {
+            "word": "sum_1",
+            "degree": 3
+        },
+        {
+            "word": "warmth_1",
+            "degree": 3
+        },
+        {
+            "word": "less_1",
+            "degree": 3
+        },
+        {
+            "word": "planet_1",
+            "degree": 3
+        },
+        {
+            "word": "typical_1",
+            "degree": 3
+        },
+        {
+            "word": "film_3",
+            "degree": 3
+        },
+        {
+            "word": "official_1",
+            "degree": 3
+        },
+        {
+            "word": "change_2",
+            "degree": 3
+        },
+        {
+            "word": "finish_1",
+            "degree": 3
+        },
+        {
+            "word": "rather_2",
+            "degree": 3
+        },
+        {
+            "word": "leg_1",
+            "degree": 3
+        },
+        {
+            "word": "firm_1",
+            "degree": 3
+        },
+        {
+            "word": "connection_3",
+            "degree": 3
+        },
+        {
+            "word": "progress_1",
+            "degree": 3
+        },
+        {
+            "word": "combine_1",
+            "degree": 3
+        },
+        {
+            "word": "such_3",
+            "degree": 3
+        },
+        {
+            "word": "object_1",
+            "degree": 3
+        },
+        {
+            "word": "handle_1",
+            "degree": 3
+        },
+        {
+            "word": "outline_1",
+            "degree": 3
+        },
+        {
+            "word": "power_4",
+            "degree": 3
+        },
+        {
+            "word": "clothe_1",
+            "degree": 3
+        },
+        {
+            "word": "alphabet_1",
+            "degree": 3
+        },
+        {
+            "word": "gain_4",
+            "degree": 3
+        },
+        {
+            "word": "car_2",
+            "degree": 3
+        },
+        {
+            "word": "come_3",
+            "degree": 3
+        },
+        {
+            "word": "burn_6",
+            "degree": 3
+        },
+        {
+            "word": "product_1",
+            "degree": 3
+        },
+        {
+            "word": "pitch_3",
+            "degree": 3
+        },
+        {
+            "word": "good_6",
+            "degree": 3
+        },
+        {
+            "word": "gather_5",
+            "degree": 3
+        },
+        {
+            "word": "general_1",
+            "degree": 3
+        },
+        {
+            "word": "kind_1",
+            "degree": 3
+        },
+        {
+            "word": "unable_1",
+            "degree": 3
+        },
+        {
+            "word": "number_3",
+            "degree": 3
+        },
+        {
+            "word": "vehicle_1",
+            "degree": 3
+        },
+        {
+            "word": "have_6",
+            "degree": 3
+        },
+        {
+            "word": "language_2",
+            "degree": 3
+        },
+        {
+            "word": "attempt_1",
+            "degree": 3
+        },
+        {
+            "word": "comparative_3",
+            "degree": 3
+        },
+        {
+            "word": "opposite_1",
+            "degree": 3
+        },
+        {
+            "word": "try_5",
+            "degree": 3
+        },
+        {
+            "word": "keep_4",
+            "degree": 3
+        },
+        {
+            "word": "community_1",
+            "degree": 3
+        },
+        {
+            "word": "communicate_3",
+            "degree": 3
+        },
+        {
+            "word": "alive_1",
+            "degree": 3
+        },
+        {
+            "word": "instrument_1",
+            "degree": 3
+        },
+        {
+            "word": "charge_1",
+            "degree": 3
+        },
+        {
+            "word": "lake_1",
+            "degree": 3
+        },
+        {
+            "word": "obey_1",
+            "degree": 3
+        },
+        {
+            "word": "operation_2",
+            "degree": 3
+        },
+        {
+            "word": "send_1",
+            "degree": 3
+        },
+        {
+            "word": "decide_1",
+            "degree": 3
+        },
+        {
+            "word": "ear_1",
+            "degree": 3
+        },
+        {
+            "word": "agree_2",
+            "degree": 3
+        },
+        {
+            "word": "military_1",
+            "degree": 3
+        },
+        {
+            "word": "mineral_1",
+            "degree": 3
+        },
+        {
+            "word": "somewhat_1",
+            "degree": 3
+        },
+        {
+            "word": "serve_1",
+            "degree": 3
+        },
+        {
+            "word": "time_6",
+            "degree": 3
+        },
+        {
+            "word": "send_3",
+            "degree": 3
+        },
+        {
+            "word": "damage_1",
+            "degree": 3
+        },
+        {
+            "word": "anxious_1",
+            "degree": 3
+        },
+        {
+            "word": "mix_1",
+            "degree": 3
+        },
+        {
+            "word": "curved_1",
+            "degree": 3
+        },
+        {
+            "word": "adverb_1",
+            "degree": 3
+        },
+        {
+            "word": "school_1",
+            "degree": 3
+        },
+        {
+            "word": "average_1",
+            "degree": 3
+        },
+        {
+            "word": "scale_1",
+            "degree": 3
+        },
+        {
+            "word": "say_2",
+            "degree": 3
+        },
+        {
+            "word": "belief_3",
+            "degree": 3
+        },
+        {
+            "word": "salt_1",
+            "degree": 3
+        },
+        {
+            "word": "moral_1",
+            "degree": 3
+        },
+        {
+            "word": "do_2",
+            "degree": 3
+        },
+        {
+            "word": "wrong_2",
+            "degree": 3
+        },
+        {
+            "word": "detail_1",
+            "degree": 3
+        },
+        {
+            "word": "writing_2",
+            "degree": 3
+        },
+        {
+            "word": "dirt_1",
+            "degree": 3
+        },
+        {
+            "word": "mean_1",
+            "degree": 3
+        },
+        {
+            "word": "bat_1",
+            "degree": 3
+        },
+        {
+            "word": "measurement_2",
+            "degree": 3
+        },
+        {
+            "word": "distinct_1",
+            "degree": 3
+        },
+        {
+            "word": "society_1",
+            "degree": 3
+        },
+        {
+            "word": "soft_1",
+            "degree": 3
+        },
+        {
+            "word": "nation_1",
+            "degree": 3
+        },
+        {
+            "word": "illness_1",
+            "degree": 3
+        },
+        {
+            "word": "make_6",
+            "degree": 3
+        },
+        {
+            "word": "sheet_3",
+            "degree": 3
+        },
+        {
+            "word": "sharp_1",
+            "degree": 3
+        },
+        {
+            "word": "doubt_1",
+            "degree": 3
+        },
+        {
+            "word": "image_1",
+            "degree": 3
+        },
+        {
+            "word": "drawing_1",
+            "degree": 3
+        },
+        {
+            "word": "paper_3",
+            "degree": 3
+        },
+        {
+            "word": "set_3",
+            "degree": 3
+        },
+        {
+            "word": "dry_1",
+            "degree": 3
+        },
+        {
+            "word": "remove_4",
+            "degree": 3
+        },
+        {
+            "word": "arm_1",
+            "degree": 3
+        },
+        {
+            "word": "back_1",
+            "degree": 3
+        },
+        {
+            "word": "expect_4",
+            "degree": 3
+        },
+        {
+            "word": "pattern_1",
+            "degree": 3
+        },
+        {
+            "word": "cord_1",
+            "degree": 3
+        },
+        {
+            "word": "line_6",
+            "degree": 3
+        },
+        {
+            "word": "extend_1",
+            "degree": 3
+        },
+        {
+            "word": "outward_1",
+            "degree": 3
+        },
+        {
+            "word": "way_4",
+            "degree": 3
+        },
+        {
+            "word": "woman_1",
+            "degree": 3
+        },
+        {
+            "word": "statement_1",
+            "degree": 3
+        },
+        {
+            "word": "musical_1",
+            "degree": 3
+        },
+        {
+            "word": "perceive_1",
+            "degree": 3
+        },
+        {
+            "word": "fast_1",
+            "degree": 3
+        },
+        {
+            "word": "step_1",
+            "degree": 3
+        },
+        {
+            "word": "relationship_1",
+            "degree": 3
+        },
+        {
+            "word": "fault_1",
+            "degree": 3
+        },
+        {
+            "word": "wave_1",
+            "degree": 3
+        },
+        {
+            "word": "contact_1",
+            "degree": 3
+        },
+        {
+            "word": "correct_3",
+            "degree": 3
+        },
+        {
+            "word": "available_1",
+            "degree": 3
+        },
+        {
+            "word": "run_2",
+            "degree": 3
+        },
+        {
+            "word": "locate_1",
+            "degree": 3
+        },
+        {
+            "word": "entertain_1",
+            "degree": 3
+        },
+        {
+            "word": "entirely_1",
+            "degree": 3
+        },
+        {
+            "word": "pass_1",
+            "degree": 3
+        },
+        {
+            "word": "width_1",
+            "degree": 3
+        },
+        {
+            "word": "stand_1",
+            "degree": 3
+        },
+        {
+            "word": "rope_1",
+            "degree": 3
+        },
+        {
+            "word": "center_1",
+            "degree": 3
+        },
+        {
+            "word": "weapon_1",
+            "degree": 3
+        },
+        {
+            "word": "risk_1",
+            "degree": 3
+        },
+        {
+            "word": "chance_5",
+            "degree": 3
+        },
+        {
+            "word": "responsible_1",
+            "degree": 3
+        },
+        {
+            "word": "right_3",
+            "degree": 3
+        },
+        {
+            "word": "block_1",
+            "degree": 3
+        },
+        {
+            "word": "course_2",
+            "degree": 3
+        },
+        {
+            "word": "baseball_1",
+            "degree": 2
+        },
+        {
+            "word": "trunk_1",
+            "degree": 2
+        },
+        {
+            "word": "tube_1",
+            "degree": 2
+        },
+        {
+            "word": "pace_3",
+            "degree": 2
+        },
+        {
+            "word": "pace_1",
+            "degree": 2
+        },
+        {
+            "word": "touch_2",
+            "degree": 2
+        },
+        {
+            "word": "topic_1",
+            "degree": 2
+        },
+        {
+            "word": "try_1",
+            "degree": 2
+        },
+        {
+            "word": "trade_2",
+            "degree": 2
+        },
+        {
+            "word": "wind_1",
+            "degree": 2
+        },
+        {
+            "word": "neck_3",
+            "degree": 2
+        },
+        {
+            "word": "neck_1",
+            "degree": 2
+        },
+        {
+            "word": "warning_1",
+            "degree": 2
+        },
+        {
+            "word": "musical_3",
+            "degree": 2
+        },
+        {
+            "word": "acceptable_1",
+            "degree": 2
+        },
+        {
+            "word": "music_1",
+            "degree": 2
+        },
+        {
+            "word": "alter_1",
+            "degree": 2
+        },
+        {
+            "word": "way_5",
+            "degree": 2
+        },
+        {
+            "word": "amount_2",
+            "degree": 2
+        },
+        {
+            "word": "weak_1",
+            "degree": 2
+        },
+        {
+            "word": "weave_1",
+            "degree": 2
+        },
+        {
+            "word": "will_1",
+            "degree": 2
+        },
+        {
+            "word": "walk_1",
+            "degree": 2
+        },
+        {
+            "word": "modify_1",
+            "degree": 2
+        },
+        {
+            "word": "mixture_1",
+            "degree": 2
+        },
+        {
+            "word": "woody_2",
+            "degree": 2
+        },
+        {
+            "word": "misfortune_1",
+            "degree": 2
+        },
+        {
+            "word": "world_2",
+            "degree": 2
+        },
+        {
+            "word": "meeting_2",
+            "degree": 2
+        },
+        {
+            "word": "meet_5",
+            "degree": 2
+        },
+        {
+            "word": "mechanical_1",
+            "degree": 2
+        },
+        {
+            "word": "wrist_1",
+            "degree": 2
+        },
+        {
+            "word": "matter_4",
+            "degree": 2
+        },
+        {
+            "word": "size_2",
+            "degree": 2
+        },
+        {
+            "word": "occupation_1",
+            "degree": 2
+        },
+        {
+            "word": "typewriter_1",
+            "degree": 2
+        },
+        {
+            "word": "ordinary_2",
+            "degree": 2
+        },
+        {
+            "word": "operation_4",
+            "degree": 2
+        },
+        {
+            "word": "uncertain_2",
+            "degree": 2
+        },
+        {
+            "word": "opening_3",
+            "degree": 2
+        },
+        {
+            "word": "understanding_1",
+            "degree": 2
+        },
+        {
+            "word": "open_3",
+            "degree": 2
+        },
+        {
+            "word": "open_2",
+            "degree": 2
+        },
+        {
+            "word": "officer_2",
+            "degree": 2
+        },
+        {
+            "word": "office_1",
+            "degree": 2
+        },
+        {
+            "word": "offer_1",
+            "degree": 2
+        },
+        {
+            "word": "type_3",
+            "degree": 2
+        },
+        {
+            "word": "uneasy_1",
+            "degree": 2
+        },
+        {
+            "word": "up_5",
+            "degree": 2
+        },
+        {
+            "word": "nutrient_1",
+            "degree": 2
+        },
+        {
+            "word": "numeral_1",
+            "degree": 2
+        },
+        {
+            "word": "view_1",
+            "degree": 2
+        },
+        {
+            "word": "notice_2",
+            "degree": 2
+        },
+        {
+            "word": "note_1",
+            "degree": 2
+        },
+        {
+            "word": "nose_1",
+            "degree": 2
+        },
+        {
+            "word": "voice_2",
+            "degree": 2
+        },
+        {
+            "word": "waist_1",
+            "degree": 2
+        },
+        {
+            "word": "nervous_2",
+            "degree": 2
+        },
+        {
+            "word": "step_6",
+            "degree": 2
+        },
+        {
+            "word": "stable_1",
+            "degree": 2
+        },
+        {
+            "word": "road_1",
+            "degree": 2
+        },
+        {
+            "word": "river_1",
+            "degree": 2
+        },
+        {
+            "word": "right_4",
+            "degree": 2
+        },
+        {
+            "word": "rest_2",
+            "degree": 2
+        },
+        {
+            "word": "respect_3",
+            "degree": 2
+        },
+        {
+            "word": "resemblance_1",
+            "degree": 2
+        },
+        {
+            "word": "represent_1",
+            "degree": 2
+        },
+        {
+            "word": "start_3",
+            "degree": 2
+        },
+        {
+            "word": "state_2",
+            "degree": 2
+        },
+        {
+            "word": "repeat_4",
+            "degree": 2
+        },
+        {
+            "word": "repeat_1",
+            "degree": 2
+        },
+        {
+            "word": "steady_2",
+            "degree": 2
+        },
+        {
+            "word": "relax_3",
+            "degree": 2
+        },
+        {
+            "word": "stem_1",
+            "degree": 2
+        },
+        {
+            "word": "rough_1",
+            "degree": 2
+        },
+        {
+            "word": "relation_1",
+            "degree": 2
+        },
+        {
+            "word": "relate_4",
+            "degree": 2
+        },
+        {
+            "word": "relate_2",
+            "degree": 2
+        },
+        {
+            "word": "stone_1",
+            "degree": 2
+        },
+        {
+            "word": "regard_1",
+            "degree": 2
+        },
+        {
+            "word": "reason_2",
+            "degree": 2
+        },
+        {
+            "word": "read_1",
+            "degree": 2
+        },
+        {
+            "word": "reach_7",
+            "degree": 2
+        },
+        {
+            "word": "stop_6",
+            "degree": 2
+        },
+        {
+            "word": "rate_1",
+            "degree": 2
+        },
+        {
+            "word": "rank_2",
+            "degree": 2
+        },
+        {
+            "word": "store_1",
+            "degree": 2
+        },
+        {
+            "word": "store_2",
+            "degree": 2
+        },
+        {
+            "word": "raise_6",
+            "degree": 2
+        },
+        {
+            "word": "solid_3",
+            "degree": 2
+        },
+        {
+            "word": "skin_1",
+            "degree": 2
+        },
+        {
+            "word": "skirt_1",
+            "degree": 2
+        },
+        {
+            "word": "sign_2",
+            "degree": 2
+        },
+        {
+            "word": "sign_1",
+            "degree": 2
+        },
+        {
+            "word": "affect_1",
+            "degree": 2
+        },
+        {
+            "word": "slant_1",
+            "degree": 2
+        },
+        {
+            "word": "show_4",
+            "degree": 2
+        },
+        {
+            "word": "shorten_1",
+            "degree": 2
+        },
+        {
+            "word": "short_4",
+            "degree": 2
+        },
+        {
+            "word": "softly_1",
+            "degree": 2
+        },
+        {
+            "word": "shock_1",
+            "degree": 2
+        },
+        {
+            "word": "afraid_1",
+            "degree": 2
+        },
+        {
+            "word": "shaky_1",
+            "degree": 2
+        },
+        {
+            "word": "shake_1",
+            "degree": 2
+        },
+        {
+            "word": "soldier_1",
+            "degree": 2
+        },
+        {
+            "word": "rain_1",
+            "degree": 2
+        },
+        {
+            "word": "serve_4",
+            "degree": 2
+        },
+        {
+            "word": "sort_1",
+            "degree": 2
+        },
+        {
+            "word": "advice_1",
+            "degree": 2
+        },
+        {
+            "word": "self_1",
+            "degree": 2
+        },
+        {
+            "word": "advance_1",
+            "degree": 2
+        },
+        {
+            "word": "sea_1",
+            "degree": 2
+        },
+        {
+            "word": "speaker_1",
+            "degree": 2
+        },
+        {
+            "word": "special_2",
+            "degree": 2
+        },
+        {
+            "word": "salty_1",
+            "degree": 2
+        },
+        {
+            "word": "sale_1",
+            "degree": 2
+        },
+        {
+            "word": "special_3",
+            "degree": 2
+        },
+        {
+            "word": "special_4",
+            "degree": 2
+        },
+        {
+            "word": "adult_1",
+            "degree": 2
+        },
+        {
+            "word": "spread_3",
+            "degree": 2
+        },
+        {
+            "word": "thick_1",
+            "degree": 2
+        },
+        {
+            "word": "preposition_1",
+            "degree": 2
+        },
+        {
+            "word": "power_2",
+            "degree": 2
+        },
+        {
+            "word": "sympathy_1",
+            "degree": 2
+        },
+        {
+            "word": "air_3",
+            "degree": 2
+        },
+        {
+            "word": "position_3",
+            "degree": 2
+        },
+        {
+            "word": "position_2",
+            "degree": 2
+        },
+        {
+            "word": "population_1",
+            "degree": 2
+        },
+        {
+            "word": "point_3",
+            "degree": 2
+        },
+        {
+            "word": "point_1",
+            "degree": 2
+        },
+        {
+            "word": "player_1",
+            "degree": 2
+        },
+        {
+            "word": "plan_1",
+            "degree": 2
+        },
+        {
+            "word": "taste_3",
+            "degree": 2
+        },
+        {
+            "word": "teaching_1",
+            "degree": 2
+        },
+        {
+            "word": "tell_2",
+            "degree": 2
+        },
+        {
+            "word": "picture_1",
+            "degree": 2
+        },
+        {
+            "word": "present_3",
+            "degree": 2
+        },
+        {
+            "word": "permit_1",
+            "degree": 2
+        },
+        {
+            "word": "permission_2",
+            "degree": 2
+        },
+        {
+            "word": "period_1",
+            "degree": 2
+        },
+        {
+            "word": "people_4",
+            "degree": 2
+        },
+        {
+            "word": "pencil_1",
+            "degree": 2
+        },
+        {
+            "word": "pen_1",
+            "degree": 2
+        },
+        {
+            "word": "thorough_1",
+            "degree": 2
+        },
+        {
+            "word": "particle_1",
+            "degree": 2
+        },
+        {
+            "word": "participle_1",
+            "degree": 2
+        },
+        {
+            "word": "tissue_1",
+            "degree": 2
+        },
+        {
+            "word": "tone_1",
+            "degree": 2
+        },
+        {
+            "word": "painting_1",
+            "degree": 2
+        },
+        {
+            "word": "top_5",
+            "degree": 2
+        },
+        {
+            "word": "painful_1",
+            "degree": 2
+        },
+        {
+            "word": "propose_1",
+            "degree": 2
+        },
+        {
+            "word": "race_4",
+            "degree": 2
+        },
+        {
+            "word": "stream_1",
+            "degree": 2
+        },
+        {
+            "word": "string_1",
+            "degree": 2
+        },
+        {
+            "word": "question_1",
+            "degree": 2
+        },
+        {
+            "word": "study_1",
+            "degree": 2
+        },
+        {
+            "word": "put_4",
+            "degree": 2
+        },
+        {
+            "word": "study_4",
+            "degree": 2
+        },
+        {
+            "word": "style_1",
+            "degree": 2
+        },
+        {
+            "word": "aim_4",
+            "degree": 2
+        },
+        {
+            "word": "subject_4",
+            "degree": 2
+        },
+        {
+            "word": "succeed_1",
+            "degree": 2
+        },
+        {
+            "word": "public_3",
+            "degree": 2
+        },
+        {
+            "word": "provide_2",
+            "degree": 2
+        },
+        {
+            "word": "prove_1",
+            "degree": 2
+        },
+        {
+            "word": "protect_1",
+            "degree": 2
+        },
+        {
+            "word": "page_1",
+            "degree": 2
+        },
+        {
+            "word": "sudden_1",
+            "degree": 2
+        },
+        {
+            "word": "suffer_1",
+            "degree": 2
+        },
+        {
+            "word": "suffer_2",
+            "degree": 2
+        },
+        {
+            "word": "pronoun_1",
+            "degree": 2
+        },
+        {
+            "word": "profession_1",
+            "degree": 2
+        },
+        {
+            "word": "suffering_1",
+            "degree": 2
+        },
+        {
+            "word": "air_2",
+            "degree": 2
+        },
+        {
+            "word": "probable_1",
+            "degree": 2
+        },
+        {
+            "word": "suggest_1",
+            "degree": 2
+        },
+        {
+            "word": "prison_1",
+            "degree": 2
+        },
+        {
+            "word": "print_2",
+            "degree": 2
+        },
+        {
+            "word": "suit_1",
+            "degree": 2
+        },
+        {
+            "word": "press_2",
+            "degree": 2
+        },
+        {
+            "word": "sure_1",
+            "degree": 2
+        },
+        {
+            "word": "capitalize_1",
+            "degree": 2
+        },
+        {
+            "word": "cricket_2",
+            "degree": 2
+        },
+        {
+            "word": "hydrogen_1",
+            "degree": 2
+        },
+        {
+            "word": "environment_2",
+            "degree": 2
+        },
+        {
+            "word": "especially_1",
+            "degree": 2
+        },
+        {
+            "word": "creature_1",
+            "degree": 2
+        },
+        {
+            "word": "horror_1",
+            "degree": 2
+        },
+        {
+            "word": "capable_1",
+            "degree": 2
+        },
+        {
+            "word": "court_3",
+            "degree": 2
+        },
+        {
+            "word": "establish_1",
+            "degree": 2
+        },
+        {
+            "word": "even_4",
+            "degree": 2
+        },
+        {
+            "word": "ill_1",
+            "degree": 2
+        },
+        {
+            "word": "course_4",
+            "degree": 2
+        },
+        {
+            "word": "history_2",
+            "degree": 2
+        },
+        {
+            "word": "evil_1",
+            "degree": 2
+        },
+        {
+            "word": "examine_1",
+            "degree": 2
+        },
+        {
+            "word": "high_1",
+            "degree": 2
+        },
+        {
+            "word": "copy_1",
+            "degree": 2
+        },
+        {
+            "word": "height_2",
+            "degree": 2
+        },
+        {
+            "word": "heart_1",
+            "degree": 2
+        },
+        {
+            "word": "hearing_1",
+            "degree": 2
+        },
+        {
+            "word": "excitement_2",
+            "degree": 2
+        },
+        {
+            "word": "investigate_1",
+            "degree": 2
+        },
+        {
+            "word": "electron_1",
+            "degree": 2
+        },
+        {
+            "word": "keep_3",
+            "degree": 2
+        },
+        {
+            "word": "electronic_1",
+            "degree": 2
+        },
+        {
+            "word": "judgment_2",
+            "degree": 2
+        },
+        {
+            "word": "judge_3",
+            "degree": 2
+        },
+        {
+            "word": "damp_1",
+            "degree": 2
+        },
+        {
+            "word": "join_4",
+            "degree": 2
+        },
+        {
+            "word": "emotion_1",
+            "degree": 2
+        },
+        {
+            "word": "custom_1",
+            "degree": 2
+        },
+        {
+            "word": "empty_1",
+            "degree": 2
+        },
+        {
+            "word": "conversation_1",
+            "degree": 2
+        },
+        {
+            "word": "interested_1",
+            "degree": 2
+        },
+        {
+            "word": "cure_1",
+            "degree": 2
+        },
+        {
+            "word": "brief_1",
+            "degree": 2
+        },
+        {
+            "word": "briefly_1",
+            "degree": 2
+        },
+        {
+            "word": "culture_1",
+            "degree": 2
+        },
+        {
+            "word": "ink_1",
+            "degree": 2
+        },
+        {
+            "word": "indicate_3",
+            "degree": 2
+        },
+        {
+            "word": "indicate_2",
+            "degree": 2
+        },
+        {
+            "word": "important_1",
+            "degree": 2
+        },
+        {
+            "word": "crime_1",
+            "degree": 2
+        },
+        {
+            "word": "come_4",
+            "degree": 2
+        },
+        {
+            "word": "computer_1",
+            "degree": 2
+        },
+        {
+            "word": "chest_1",
+            "degree": 2
+        },
+        {
+            "word": "flavor_1",
+            "degree": 2
+        },
+        {
+            "word": "grasp_1",
+            "degree": 2
+        },
+        {
+            "word": "compare_2",
+            "degree": 2
+        },
+        {
+            "word": "city_1",
+            "degree": 2
+        },
+        {
+            "word": "follow_5",
+            "degree": 2
+        },
+        {
+            "word": "good_3",
+            "degree": 2
+        },
+        {
+            "word": "comfortable_1",
+            "degree": 2
+        },
+        {
+            "word": "clear_3",
+            "degree": 2
+        },
+        {
+            "word": "great_1",
+            "degree": 2
+        },
+        {
+            "word": "atmosphere_1",
+            "degree": 2
+        },
+        {
+            "word": "formal_1",
+            "degree": 2
+        },
+        {
+            "word": "clear_4",
+            "degree": 2
+        },
+        {
+            "word": "clear_5",
+            "degree": 2
+        },
+        {
+            "word": "close_4",
+            "degree": 2
+        },
+        {
+            "word": "gentle_2",
+            "degree": 2
+        },
+        {
+            "word": "gather_1",
+            "degree": 2
+        },
+        {
+            "word": "game_1",
+            "degree": 2
+        },
+        {
+            "word": "collection_2",
+            "degree": 2
+        },
+        {
+            "word": "front_1",
+            "degree": 2
+        },
+        {
+            "word": "back_3",
+            "degree": 2
+        },
+        {
+            "word": "existence_2",
+            "degree": 2
+        },
+        {
+            "word": "continue_1",
+            "degree": 2
+        },
+        {
+            "word": "content_4",
+            "degree": 2
+        },
+        {
+            "word": "harsh_1",
+            "degree": 2
+        },
+        {
+            "word": "content_1",
+            "degree": 2
+        },
+        {
+            "word": "consider_3",
+            "degree": 2
+        },
+        {
+            "word": "cause_2",
+            "degree": 2
+        },
+        {
+            "word": "fearful_1",
+            "degree": 2
+        },
+        {
+            "word": "feel_1",
+            "degree": 2
+        },
+        {
+            "word": "consent_1",
+            "degree": 2
+        },
+        {
+            "word": "ill_2",
+            "degree": 2
+        },
+        {
+            "word": "fiber_2",
+            "degree": 2
+        },
+        {
+            "word": "field_1",
+            "degree": 2
+        },
+        {
+            "word": "fill_1",
+            "degree": 2
+        },
+        {
+            "word": "certain_3",
+            "degree": 2
+        },
+        {
+            "word": "character_2",
+            "degree": 2
+        },
+        {
+            "word": "fire_1",
+            "degree": 2
+        },
+        {
+            "word": "character_4",
+            "degree": 2
+        },
+        {
+            "word": "concrete_2",
+            "degree": 2
+        },
+        {
+            "word": "great_2",
+            "degree": 2
+        },
+        {
+            "word": "divide_4",
+            "degree": 2
+        },
+        {
+            "word": "lift_2",
+            "degree": 2
+        },
+        {
+            "word": "black_1",
+            "degree": 2
+        },
+        {
+            "word": "lift_1",
+            "degree": 2
+        },
+        {
+            "word": "behavior_1",
+            "degree": 2
+        },
+        {
+            "word": "ball_2",
+            "degree": 2
+        },
+        {
+            "word": "blow_5",
+            "degree": 2
+        },
+        {
+            "word": "arm_3",
+            "degree": 2
+        },
+        {
+            "word": "earth_1",
+            "degree": 2
+        },
+        {
+            "word": "like_1",
+            "degree": 2
+        },
+        {
+            "word": "ease_1",
+            "degree": 2
+        },
+        {
+            "word": "lie_1",
+            "degree": 2
+        },
+        {
+            "word": "level_3",
+            "degree": 2
+        },
+        {
+            "word": "easily_2",
+            "degree": 2
+        },
+        {
+            "word": "determine_1",
+            "degree": 2
+        },
+        {
+            "word": "majority_1",
+            "degree": 2
+        },
+        {
+            "word": "edge_2",
+            "degree": 2
+        },
+        {
+            "word": "dress_1",
+            "degree": 2
+        },
+        {
+            "word": "below_1",
+            "degree": 2
+        },
+        {
+            "word": "arithmetic_1",
+            "degree": 2
+        },
+        {
+            "word": "belong_1",
+            "degree": 2
+        },
+        {
+            "word": "beneath_1",
+            "degree": 2
+        },
+        {
+            "word": "loss_1",
+            "degree": 2
+        },
+        {
+            "word": "door_1",
+            "degree": 2
+        },
+        {
+            "word": "love_1",
+            "degree": 2
+        },
+        {
+            "word": "know_2",
+            "degree": 2
+        },
+        {
+            "word": "divide_3",
+            "degree": 2
+        },
+        {
+            "word": "live_4",
+            "degree": 2
+        },
+        {
+            "word": "drop_1",
+            "degree": 2
+        },
+        {
+            "word": "bind_1",
+            "degree": 2
+        },
+        {
+            "word": "list_1",
+            "degree": 2
+        },
+        {
+            "word": "believe_2",
+            "degree": 2
+        },
+        {
+            "word": "defend_1",
+            "degree": 2
+        },
+        {
+            "word": "likely_1",
+            "degree": 2
+        },
+        {
+            "word": "book_1",
+            "degree": 2
+        },
+        {
+            "word": "later_1",
+            "degree": 2
+        },
+        {
+            "word": "basic_1",
+            "degree": 2
+        },
+        {
+            "word": "border_3",
+            "degree": 2
+        },
+        {
+            "word": "electrical_1",
+            "degree": 2
+        },
+        {
+            "word": "dimension_1",
+            "degree": 2
+        },
+        {
+            "word": "dear_1",
+            "degree": 2
+        },
+        {
+            "word": "effort_2",
+            "degree": 2
+        },
+        {
+            "word": "army_1",
+            "degree": 2
+        },
+        {
+            "word": "law_2",
+            "degree": 2
+        },
+        {
+            "word": "bone_1",
+            "degree": 2
+        },
+        {
+            "word": "lean_1",
+            "degree": 2
+        },
+        {
+            "word": "boundary_1",
+            "degree": 2
+        },
+        {
+            "word": "electricity_1",
+            "degree": 2
+        },
+        {
+            "word": "discomfort_1",
+            "degree": 2
+        },
+        {
+            "word": "body_5",
+            "degree": 2
+        },
+        {
+            "word": "story_2",
+            "degree": 1
+        },
+        {
+            "word": "similar_1",
+            "degree": 1
+        },
+        {
+            "word": "confess_1",
+            "degree": 1
+        },
+        {
+            "word": "club_4",
+            "degree": 1
+        },
+        {
+            "word": "stretch_1",
+            "degree": 1
+        },
+        {
+            "word": "sugar_1",
+            "degree": 1
+        },
+        {
+            "word": "color_1",
+            "degree": 1
+        },
+        {
+            "word": "sloth_2",
+            "degree": 1
+        },
+        {
+            "word": "clumsy_1",
+            "degree": 1
+        },
+        {
+            "word": "slippery_1",
+            "degree": 1
+        },
+        {
+            "word": "sing_2",
+            "degree": 1
+        },
+        {
+            "word": "street_1",
+            "degree": 1
+        },
+        {
+            "word": "sleep_1",
+            "degree": 1
+        },
+        {
+            "word": "sleigh_1",
+            "degree": 1
+        },
+        {
+            "word": "confidence_1",
+            "degree": 1
+        },
+        {
+            "word": "slim_1",
+            "degree": 1
+        },
+        {
+            "word": "single_1",
+            "degree": 1
+        },
+        {
+            "word": "strange_1",
+            "degree": 1
+        },
+        {
+            "word": "straw_1",
+            "degree": 1
+        },
+        {
+            "word": "coin_1",
+            "degree": 1
+        },
+        {
+            "word": "suppose_1",
+            "degree": 1
+        },
+        {
+            "word": "confuse_2",
+            "degree": 1
+        },
+        {
+            "word": "compass_1",
+            "degree": 1
+        },
+        {
+            "word": "skill_1",
+            "degree": 1
+        },
+        {
+            "word": "skeleton_1",
+            "degree": 1
+        },
+        {
+            "word": "skin_3",
+            "degree": 1
+        },
+        {
+            "word": "command_1",
+            "degree": 1
+        },
+        {
+            "word": "come_1",
+            "degree": 1
+        },
+        {
+            "word": "command_2",
+            "degree": 1
+        },
+        {
+            "word": "actually_1",
+            "degree": 1
+        },
+        {
+            "word": "company_1",
+            "degree": 1
+        },
+        {
+            "word": "devotion_1",
+            "degree": 1
+        },
+        {
+            "word": "subtract_1",
+            "degree": 1
+        },
+        {
+            "word": "skunk_1",
+            "degree": 1
+        },
+        {
+            "word": "difficult_1",
+            "degree": 1
+        },
+        {
+            "word": "control_2",
+            "degree": 1
+        },
+        {
+            "word": "backbone_1",
+            "degree": 1
+        },
+        {
+            "word": "complete_1",
+            "degree": 1
+        },
+        {
+            "word": "complexion_1",
+            "degree": 1
+        },
+        {
+            "word": "compute_1",
+            "degree": 1
+        },
+        {
+            "word": "desert_2",
+            "degree": 1
+        },
+        {
+            "word": "situation_1",
+            "degree": 1
+        },
+        {
+            "word": "concerned_2",
+            "degree": 1
+        },
+        {
+            "word": "stubborn_1",
+            "degree": 1
+        },
+        {
+            "word": "suffocate_1",
+            "degree": 1
+        },
+        {
+            "word": "dig_2",
+            "degree": 1
+        },
+        {
+            "word": "devote_1",
+            "degree": 1
+        },
+        {
+            "word": "degree_3",
+            "degree": 1
+        },
+        {
+            "word": "concert_1",
+            "degree": 1
+        },
+        {
+            "word": "spearmint_1",
+            "degree": 1
+        },
+        {
+            "word": "spider_1",
+            "degree": 1
+        },
+        {
+            "word": "spend_1",
+            "degree": 1
+        },
+        {
+            "word": "spell_4",
+            "degree": 1
+        },
+        {
+            "word": "creep_1",
+            "degree": 1
+        },
+        {
+            "word": "spectrum_1",
+            "degree": 1
+        },
+        {
+            "word": "spectacle_1",
+            "degree": 1
+        },
+        {
+            "word": "defeat_1",
+            "degree": 1
+        },
+        {
+            "word": "chess_1",
+            "degree": 1
+        },
+        {
+            "word": "deer_1",
+            "degree": 1
+        },
+        {
+            "word": "crisp_2",
+            "degree": 1
+        },
+        {
+            "word": "crustacean_1",
+            "degree": 1
+        },
+        {
+            "word": "deep_1",
+            "degree": 1
+        },
+        {
+            "word": "decoration_2",
+            "degree": 1
+        },
+        {
+            "word": "cry_2",
+            "degree": 1
+        },
+        {
+            "word": "crystal_1",
+            "degree": 1
+        },
+        {
+            "word": "spinal_1",
+            "degree": 1
+        },
+        {
+            "word": "solid_2",
+            "degree": 1
+        },
+        {
+            "word": "sparkle_1",
+            "degree": 1
+        },
+        {
+            "word": "spare_2",
+            "degree": 1
+        },
+        {
+            "word": "curve_1",
+            "degree": 1
+        },
+        {
+            "word": "cut_1",
+            "degree": 1
+        },
+        {
+            "word": "cute_1",
+            "degree": 1
+        },
+        {
+            "word": "sour_1",
+            "degree": 1
+        },
+        {
+            "word": "cylinder_1",
+            "degree": 1
+        },
+        {
+            "word": "daring_1",
+            "degree": 1
+        },
+        {
+            "word": "sorry_1",
+            "degree": 1
+        },
+        {
+            "word": "solid_5",
+            "degree": 1
+        },
+        {
+            "word": "soon_1",
+            "degree": 1
+        },
+        {
+            "word": "solution_2",
+            "degree": 1
+        },
+        {
+            "word": "dawn_1",
+            "degree": 1
+        },
+        {
+            "word": "snug_1",
+            "degree": 1
+        },
+        {
+            "word": "advise_1",
+            "degree": 1
+        },
+        {
+            "word": "stop_1",
+            "degree": 1
+        },
+        {
+            "word": "smile_1",
+            "degree": 1
+        },
+        {
+            "word": "sting_1",
+            "degree": 1
+        },
+        {
+            "word": "stick_6",
+            "degree": 1
+        },
+        {
+            "word": "container_1",
+            "degree": 1
+        },
+        {
+            "word": "stern_2",
+            "degree": 1
+        },
+        {
+            "word": "baby_1",
+            "degree": 1
+        },
+        {
+            "word": "step_3",
+            "degree": 1
+        },
+        {
+            "word": "snack_2",
+            "degree": 1
+        },
+        {
+            "word": "contest_2",
+            "degree": 1
+        },
+        {
+            "word": "steeple_1",
+            "degree": 1
+        },
+        {
+            "word": "snap_1",
+            "degree": 1
+        },
+        {
+            "word": "contract_1",
+            "degree": 1
+        },
+        {
+            "word": "copper_1",
+            "degree": 1
+        },
+        {
+            "word": "connect_2",
+            "degree": 1
+        },
+        {
+            "word": "soak_4",
+            "degree": 1
+        },
+        {
+            "word": "cord_2",
+            "degree": 1
+        },
+        {
+            "word": "country_1",
+            "degree": 1
+        },
+        {
+            "word": "courage_1",
+            "degree": 1
+        },
+        {
+            "word": "sodium_1",
+            "degree": 1
+        },
+        {
+            "word": "staircase_1",
+            "degree": 1
+        },
+        {
+            "word": "sofa_1",
+            "degree": 1
+        },
+        {
+            "word": "stage_1",
+            "degree": 1
+        },
+        {
+            "word": "squirt_1",
+            "degree": 1
+        },
+        {
+            "word": "defect_1",
+            "degree": 1
+        },
+        {
+            "word": "squid_1",
+            "degree": 1
+        },
+        {
+            "word": "spring_1",
+            "degree": 1
+        },
+        {
+            "word": "spot_1",
+            "degree": 1
+        },
+        {
+            "word": "sport_1",
+            "degree": 1
+        },
+        {
+            "word": "vine_1",
+            "degree": 1
+        },
+        {
+            "word": "break_1",
+            "degree": 1
+        },
+        {
+            "word": "vaccine_1",
+            "degree": 1
+        },
+        {
+            "word": "vain_2",
+            "degree": 1
+        },
+        {
+            "word": "vegetable_1",
+            "degree": 1
+        },
+        {
+            "word": "bread_1",
+            "degree": 1
+        },
+        {
+            "word": "veranda_1",
+            "degree": 1
+        },
+        {
+            "word": "brave_1",
+            "degree": 1
+        },
+        {
+            "word": "very_1",
+            "degree": 1
+        },
+        {
+            "word": "branch_1",
+            "degree": 1
+        },
+        {
+            "word": "brain_1",
+            "degree": 1
+        },
+        {
+            "word": "usual_1",
+            "degree": 1
+        },
+        {
+            "word": "brag_1",
+            "degree": 1
+        },
+        {
+            "word": "bowling_1",
+            "degree": 1
+        },
+        {
+            "word": "vote_1",
+            "degree": 1
+        },
+        {
+            "word": "vow_1",
+            "degree": 1
+        },
+        {
+            "word": "bother_1",
+            "degree": 1
+        },
+        {
+            "word": "wallet_1",
+            "degree": 1
+        },
+        {
+            "word": "want_2",
+            "degree": 1
+        },
+        {
+            "word": "wash_1",
+            "degree": 1
+        },
+        {
+            "word": "body_1",
+            "degree": 1
+        },
+        {
+            "word": "water_2",
+            "degree": 1
+        },
+        {
+            "word": "unhappy_1",
+            "degree": 1
+        },
+        {
+            "word": "butterfly_1",
+            "degree": 1
+        },
+        {
+            "word": "butter_1",
+            "degree": 1
+        },
+        {
+            "word": "bury_2",
+            "degree": 1
+        },
+        {
+            "word": "burst_1",
+            "degree": 1
+        },
+        {
+            "word": "burrow_1",
+            "degree": 1
+        },
+        {
+            "word": "underside_1",
+            "degree": 1
+        },
+        {
+            "word": "understand_1",
+            "degree": 1
+        },
+        {
+            "word": "burp_1",
+            "degree": 1
+        },
+        {
+            "word": "bullet_1",
+            "degree": 1
+        },
+        {
+            "word": "uneven_1",
+            "degree": 1
+        },
+        {
+            "word": "waterfall_1",
+            "degree": 1
+        },
+        {
+            "word": "bake_1",
+            "degree": 1
+        },
+        {
+            "word": "build_1",
+            "degree": 1
+        },
+        {
+            "word": "unpleasant_1",
+            "degree": 1
+        },
+        {
+            "word": "unusual_1",
+            "degree": 1
+        },
+        {
+            "word": "upright_1",
+            "degree": 1
+        },
+        {
+            "word": "upset_1",
+            "degree": 1
+        },
+        {
+            "word": "urge_2",
+            "degree": 1
+        },
+        {
+            "word": "urine_1",
+            "degree": 1
+        },
+        {
+            "word": "breathing_1",
+            "degree": 1
+        },
+        {
+            "word": "useful_1",
+            "degree": 1
+        },
+        {
+            "word": "bead_1",
+            "degree": 1
+        },
+        {
+            "word": "wire_3",
+            "degree": 1
+        },
+        {
+            "word": "wish_1",
+            "degree": 1
+        },
+        {
+            "word": "wonder_1",
+            "degree": 1
+        },
+        {
+            "word": "woodchuck_1",
+            "degree": 1
+        },
+        {
+            "word": "woodwind_1",
+            "degree": 1
+        },
+        {
+            "word": "beer_1",
+            "degree": 1
+        },
+        {
+            "word": "beautiful_1",
+            "degree": 1
+        },
+        {
+            "word": "work_1",
+            "degree": 1
+        },
+        {
+            "word": "bean_3",
+            "degree": 1
+        },
+        {
+            "word": "worried_1",
+            "degree": 1
+        },
+        {
+            "word": "wing_1",
+            "degree": 1
+        },
+        {
+            "word": "wretched_1",
+            "degree": 1
+        },
+        {
+            "word": "battery_1",
+            "degree": 1
+        },
+        {
+            "word": "bathtub_1",
+            "degree": 1
+        },
+        {
+            "word": "bathroom_1",
+            "degree": 1
+        },
+        {
+            "word": "basketball_1",
+            "degree": 1
+        },
+        {
+            "word": "basis_1",
+            "degree": 1
+        },
+        {
+            "word": "basic_2",
+            "degree": 1
+        },
+        {
+            "word": "yell_1",
+            "degree": 1
+        },
+        {
+            "word": "yellow_1",
+            "degree": 1
+        },
+        {
+            "word": "massage_1",
+            "degree": 1
+        },
+        {
+            "word": "bicycle_1",
+            "degree": 1
+        },
+        {
+            "word": "board_1",
+            "degree": 1
+        },
+        {
+            "word": "wax_1",
+            "degree": 1
+        },
+        {
+            "word": "wax_2",
+            "degree": 1
+        },
+        {
+            "word": "blueberry_1",
+            "degree": 1
+        },
+        {
+            "word": "blue_1",
+            "degree": 1
+        },
+        {
+            "word": "blood_1",
+            "degree": 1
+        },
+        {
+            "word": "blade_2",
+            "degree": 1
+        },
+        {
+            "word": "weasel_1",
+            "degree": 1
+        },
+        {
+            "word": "bird_1",
+            "degree": 1
+        },
+        {
+            "word": "wedding_1",
+            "degree": 1
+        },
+        {
+            "word": "buy_1",
+            "degree": 1
+        },
+        {
+            "word": "whale_1",
+            "degree": 1
+        },
+        {
+            "word": "wheat_1",
+            "degree": 1
+        },
+        {
+            "word": "wheel_1",
+            "degree": 1
+        },
+        {
+            "word": "whinny_1",
+            "degree": 1
+        },
+        {
+            "word": "white_1",
+            "degree": 1
+        },
+        {
+            "word": "bent_1",
+            "degree": 1
+        },
+        {
+            "word": "wild_3",
+            "degree": 1
+        },
+        {
+            "word": "wind_6",
+            "degree": 1
+        },
+        {
+            "word": "windpipe_1",
+            "degree": 1
+        },
+        {
+            "word": "thermometer_1",
+            "degree": 1
+        },
+        {
+            "word": "teacher_1",
+            "degree": 1
+        },
+        {
+            "word": "choose_1",
+            "degree": 1
+        },
+        {
+            "word": "child_2",
+            "degree": 1
+        },
+        {
+            "word": "television_2",
+            "degree": 1
+        },
+        {
+            "word": "absorb_1",
+            "degree": 1
+        },
+        {
+            "word": "temperature_3",
+            "degree": 1
+        },
+        {
+            "word": "tennis_1",
+            "degree": 1
+        },
+        {
+            "word": "tense_3",
+            "degree": 1
+        },
+        {
+            "word": "testing_1",
+            "degree": 1
+        },
+        {
+            "word": "theater_1",
+            "degree": 1
+        },
+        {
+            "word": "chromosome_1",
+            "degree": 1
+        },
+        {
+            "word": "cheat_1",
+            "degree": 1
+        },
+        {
+            "word": "act_1",
+            "degree": 1
+        },
+        {
+            "word": "acquaint_1",
+            "degree": 1
+        },
+        {
+            "word": "certain_2",
+            "degree": 1
+        },
+        {
+            "word": "cereal_1",
+            "degree": 1
+        },
+        {
+            "word": "cement_1",
+            "degree": 1
+        },
+        {
+            "word": "cellulose_1",
+            "degree": 1
+        },
+        {
+            "word": "cell_1",
+            "degree": 1
+        },
+        {
+            "word": "thought_3",
+            "degree": 1
+        },
+        {
+            "word": "thoughtful_2",
+            "degree": 1
+        },
+        {
+            "word": "tablet_3",
+            "degree": 1
+        },
+        {
+            "word": "surprise_1",
+            "degree": 1
+        },
+        {
+            "word": "surprise_2",
+            "degree": 1
+        },
+        {
+            "word": "surround_2",
+            "degree": 1
+        },
+        {
+            "word": "swallow_1",
+            "degree": 1
+        },
+        {
+            "word": "sweat_1",
+            "degree": 1
+        },
+        {
+            "word": "sweater_1",
+            "degree": 1
+        },
+        {
+            "word": "sweet_1",
+            "degree": 1
+        },
+        {
+            "word": "sword_1",
+            "degree": 1
+        },
+        {
+            "word": "clever_1",
+            "degree": 1
+        },
+        {
+            "word": "tablet_1",
+            "degree": 1
+        },
+        {
+            "word": "thoughtless_3",
+            "degree": 1
+        },
+        {
+            "word": "take_1",
+            "degree": 1
+        },
+        {
+            "word": "clay_1",
+            "degree": 1
+        },
+        {
+            "word": "take_3",
+            "degree": 1
+        },
+        {
+            "word": "talent_1",
+            "degree": 1
+        },
+        {
+            "word": "citrus_1",
+            "degree": 1
+        },
+        {
+            "word": "tame_1",
+            "degree": 1
+        },
+        {
+            "word": "tap_3",
+            "degree": 1
+        },
+        {
+            "word": "task_1",
+            "degree": 1
+        },
+        {
+            "word": "circus_1",
+            "degree": 1
+        },
+        {
+            "word": "trim_1",
+            "degree": 1
+        },
+        {
+            "word": "cat_2",
+            "degree": 1
+        },
+        {
+            "word": "cat_1",
+            "degree": 1
+        },
+        {
+            "word": "carry_1",
+            "degree": 1
+        },
+        {
+            "word": "card_2",
+            "degree": 1
+        },
+        {
+            "word": "town_1",
+            "degree": 1
+        },
+        {
+            "word": "toy_1",
+            "degree": 1
+        },
+        {
+            "word": "tractor_1",
+            "degree": 1
+        },
+        {
+            "word": "carbon_1",
+            "degree": 1
+        },
+        {
+            "word": "trail_1",
+            "degree": 1
+        },
+        {
+            "word": "trick_1",
+            "degree": 1
+        },
+        {
+            "word": "catch_1",
+            "degree": 1
+        },
+        {
+            "word": "trivial_1",
+            "degree": 1
+        },
+        {
+            "word": "trouble_1",
+            "degree": 1
+        },
+        {
+            "word": "truly_2",
+            "degree": 1
+        },
+        {
+            "word": "trumpet_1",
+            "degree": 1
+        },
+        {
+            "word": "trust_1",
+            "degree": 1
+        },
+        {
+            "word": "cap_1",
+            "degree": 1
+        },
+        {
+            "word": "candy_1",
+            "degree": 1
+        },
+        {
+            "word": "cacao_2",
+            "degree": 1
+        },
+        {
+            "word": "tulip_2",
+            "degree": 1
+        },
+        {
+            "word": "twist_7",
+            "degree": 1
+        },
+        {
+            "word": "tired_2",
+            "degree": 1
+        },
+        {
+            "word": "thread_1",
+            "degree": 1
+        },
+        {
+            "word": "throw_1",
+            "degree": 1
+        },
+        {
+            "word": "thumb_2",
+            "degree": 1
+        },
+        {
+            "word": "celebrate_1",
+            "degree": 1
+        },
+        {
+            "word": "time_1",
+            "degree": 1
+        },
+        {
+            "word": "cautious_1",
+            "degree": 1
+        },
+        {
+            "word": "bag_1",
+            "degree": 1
+        },
+        {
+            "word": "time_7",
+            "degree": 1
+        },
+        {
+            "word": "tin_1",
+            "degree": 1
+        },
+        {
+            "word": "tiny_1",
+            "degree": 1
+        },
+        {
+            "word": "cloth_1",
+            "degree": 1
+        },
+        {
+            "word": "cattle_1",
+            "degree": 1
+        },
+        {
+            "word": "tobacco_2",
+            "degree": 1
+        },
+        {
+            "word": "achieve_1",
+            "degree": 1
+        },
+        {
+            "word": "together_2",
+            "degree": 1
+        },
+        {
+            "word": "catch_9",
+            "degree": 1
+        },
+        {
+            "word": "tongue_1",
+            "degree": 1
+        },
+        {
+            "word": "tool_1",
+            "degree": 1
+        },
+        {
+            "word": "tooth_1",
+            "degree": 1
+        },
+        {
+            "word": "account_1",
+            "degree": 1
+        },
+        {
+            "word": "pasta_1",
+            "degree": 1
+        },
+        {
+            "word": "part_1",
+            "degree": 1
+        },
+        {
+            "word": "horse_1",
+            "degree": 1
+        },
+        {
+            "word": "hood_2",
+            "degree": 1
+        },
+        {
+            "word": "honesty_1",
+            "degree": 1
+        },
+        {
+            "word": "alley_2",
+            "degree": 1
+        },
+        {
+            "word": "honest_1",
+            "degree": 1
+        },
+        {
+            "word": "home_1",
+            "degree": 1
+        },
+        {
+            "word": "hole_1",
+            "degree": 1
+        },
+        {
+            "word": "arrive_1",
+            "degree": 1
+        },
+        {
+            "word": "past_2",
+            "degree": 1
+        },
+        {
+            "word": "parent_1",
+            "degree": 1
+        },
+        {
+            "word": "hit_1",
+            "degree": 1
+        },
+        {
+            "word": "pave_1",
+            "degree": 1
+        },
+        {
+            "word": "hip_1",
+            "degree": 1
+        },
+        {
+            "word": "all_2",
+            "degree": 1
+        },
+        {
+            "word": "hint_1",
+            "degree": 1
+        },
+        {
+            "word": "percussion_2",
+            "degree": 1
+        },
+        {
+            "word": "perform_1",
+            "degree": 1
+        },
+        {
+            "word": "heron_1",
+            "degree": 1
+        },
+        {
+            "word": "heavy_1",
+            "degree": 1
+        },
+        {
+            "word": "have_5",
+            "degree": 1
+        },
+        {
+            "word": "pack_1",
+            "degree": 1
+        },
+        {
+            "word": "instrument_2",
+            "degree": 1
+        },
+        {
+            "word": "organism_1",
+            "degree": 1
+        },
+        {
+            "word": "instance_1",
+            "degree": 1
+        },
+        {
+            "word": "originally_1",
+            "degree": 1
+        },
+        {
+            "word": "insect_1",
+            "degree": 1
+        },
+        {
+            "word": "other_3",
+            "degree": 1
+        },
+        {
+            "word": "insane_1",
+            "degree": 1
+        },
+        {
+            "word": "owe_1",
+            "degree": 1
+        },
+        {
+            "word": "include_1",
+            "degree": 1
+        },
+        {
+            "word": "oyster_1",
+            "degree": 1
+        },
+        {
+            "word": "pestle_1",
+            "degree": 1
+        },
+        {
+            "word": "ice_1",
+            "degree": 1
+        },
+        {
+            "word": "pail_1",
+            "degree": 1
+        },
+        {
+            "word": "allow_1",
+            "degree": 1
+        },
+        {
+            "word": "paint_1",
+            "degree": 1
+        },
+        {
+            "word": "hunter_1",
+            "degree": 1
+        },
+        {
+            "word": "pair_4",
+            "degree": 1
+        },
+        {
+            "word": "hump_1",
+            "degree": 1
+        },
+        {
+            "word": "hug_1",
+            "degree": 1
+        },
+        {
+            "word": "parasite_1",
+            "degree": 1
+        },
+        {
+            "word": "point_4",
+            "degree": 1
+        },
+        {
+            "word": "gun_1",
+            "degree": 1
+        },
+        {
+            "word": "grow_1",
+            "degree": 1
+        },
+        {
+            "word": "playpen_1",
+            "degree": 1
+        },
+        {
+            "word": "pleasure_1",
+            "degree": 1
+        },
+        {
+            "word": "plump_1",
+            "degree": 1
+        },
+        {
+            "word": "airplane_1",
+            "degree": 1
+        },
+        {
+            "word": "pod_1",
+            "degree": 1
+        },
+        {
+            "word": "poem_1",
+            "degree": 1
+        },
+        {
+            "word": "group_1",
+            "degree": 1
+        },
+        {
+            "word": "grind_1",
+            "degree": 1
+        },
+        {
+            "word": "play_2",
+            "degree": 1
+        },
+        {
+            "word": "pointer_2",
+            "degree": 1
+        },
+        {
+            "word": "poke_1",
+            "degree": 1
+        },
+        {
+            "word": "polecat_1",
+            "degree": 1
+        },
+        {
+            "word": "policy_2",
+            "degree": 1
+        },
+        {
+            "word": "polite_1",
+            "degree": 1
+        },
+        {
+            "word": "political_1",
+            "degree": 1
+        },
+        {
+            "word": "pool_1",
+            "degree": 1
+        },
+        {
+            "word": "porpoise_1",
+            "degree": 1
+        },
+        {
+            "word": "aircraft_1",
+            "degree": 1
+        },
+        {
+            "word": "pig_1",
+            "degree": 1
+        },
+        {
+            "word": "petroleum_1",
+            "degree": 1
+        },
+        {
+            "word": "phonograph_1",
+            "degree": 1
+        },
+        {
+            "word": "photograph_1",
+            "degree": 1
+        },
+        {
+            "word": "arthropod_1",
+            "degree": 1
+        },
+        {
+            "word": "phrase_2",
+            "degree": 1
+        },
+        {
+            "word": "haul_1",
+            "degree": 1
+        },
+        {
+            "word": "hate_1",
+            "degree": 1
+        },
+        {
+            "word": "pie_1",
+            "degree": 1
+        },
+        {
+            "word": "hardly_1",
+            "degree": 1
+        },
+        {
+            "word": "piece_3",
+            "degree": 1
+        },
+        {
+            "word": "orbit_1",
+            "degree": 1
+        },
+        {
+            "word": "pigeon_1",
+            "degree": 1
+        },
+        {
+            "word": "pile_1",
+            "degree": 1
+        },
+        {
+            "word": "happen_2",
+            "degree": 1
+        },
+        {
+            "word": "algae_1",
+            "degree": 1
+        },
+        {
+            "word": "alcohol_1",
+            "degree": 1
+        },
+        {
+            "word": "hand_10",
+            "degree": 1
+        },
+        {
+            "word": "hall_1",
+            "degree": 1
+        },
+        {
+            "word": "plant_1",
+            "degree": 1
+        },
+        {
+            "word": "gust_1",
+            "degree": 1
+        },
+        {
+            "word": "locomotive_1",
+            "degree": 1
+        },
+        {
+            "word": "antler_1",
+            "degree": 1
+        },
+        {
+            "word": "lump_1",
+            "degree": 1
+        },
+        {
+            "word": "mirror_1",
+            "degree": 1
+        },
+        {
+            "word": "luggage_1",
+            "degree": 1
+        },
+        {
+            "word": "low_1",
+            "degree": 1
+        },
+        {
+            "word": "modest_1",
+            "degree": 1
+        },
+        {
+            "word": "lose_1",
+            "degree": 1
+        },
+        {
+            "word": "look_2",
+            "degree": 1
+        },
+        {
+            "word": "mollusk_1",
+            "degree": 1
+        },
+        {
+            "word": "moose_1",
+            "degree": 1
+        },
+        {
+            "word": "approval_2",
+            "degree": 1
+        },
+        {
+            "word": "animal_1",
+            "degree": 1
+        },
+        {
+            "word": "lock_1",
+            "degree": 1
+        },
+        {
+            "word": "lobby_1",
+            "degree": 1
+        },
+        {
+            "word": "mountain_1",
+            "degree": 1
+        },
+        {
+            "word": "mourn_1",
+            "degree": 1
+        },
+        {
+            "word": "liver_1",
+            "degree": 1
+        },
+        {
+            "word": "live_3",
+            "degree": 1
+        },
+        {
+            "word": "amphibian_1",
+            "degree": 1
+        },
+        {
+            "word": "link_1",
+            "degree": 1
+        },
+        {
+            "word": "line_4",
+            "degree": 1
+        },
+        {
+            "word": "meddle_1",
+            "degree": 1
+        },
+        {
+            "word": "marsupial_1",
+            "degree": 1
+        },
+        {
+            "word": "marry_1",
+            "degree": 1
+        },
+        {
+            "word": "maybe_1",
+            "degree": 1
+        },
+        {
+            "word": "marking_1",
+            "degree": 1
+        },
+        {
+            "word": "mean_7",
+            "degree": 1
+        },
+        {
+            "word": "meaning_1",
+            "degree": 1
+        },
+        {
+            "word": "manage_1",
+            "degree": 1
+        },
+        {
+            "word": "ape_1",
+            "degree": 1
+        },
+        {
+            "word": "mammal_1",
+            "degree": 1
+        },
+        {
+            "word": "mallet_2",
+            "degree": 1
+        },
+        {
+            "word": "multiply_2",
+            "degree": 1
+        },
+        {
+            "word": "medicine_1",
+            "degree": 1
+        },
+        {
+            "word": "male_1",
+            "degree": 1
+        },
+        {
+            "word": "mainly_1",
+            "degree": 1
+        },
+        {
+            "word": "memorize_1",
+            "degree": 1
+        },
+        {
+            "word": "anyway_1",
+            "degree": 1
+        },
+        {
+            "word": "magazine_1",
+            "degree": 1
+        },
+        {
+            "word": "metal_1",
+            "degree": 1
+        },
+        {
+            "word": "meteorite_1",
+            "degree": 1
+        },
+        {
+            "word": "middle_1",
+            "degree": 1
+        },
+        {
+            "word": "oily_2",
+            "degree": 1
+        },
+        {
+            "word": "nut_1",
+            "degree": 1
+        },
+        {
+            "word": "nut_3",
+            "degree": 1
+        },
+        {
+            "word": "landing_3",
+            "degree": 1
+        },
+        {
+            "word": "knowledge_2",
+            "degree": 1
+        },
+        {
+            "word": "knock_2",
+            "degree": 1
+        },
+        {
+            "word": "knife_1",
+            "degree": 1
+        },
+        {
+            "word": "occur_1",
+            "degree": 1
+        },
+        {
+            "word": "keep_1",
+            "degree": 1
+        },
+        {
+            "word": "joy_1",
+            "degree": 1
+        },
+        {
+            "word": "often_1",
+            "degree": 1
+        },
+        {
+            "word": "nun_1",
+            "degree": 1
+        },
+        {
+            "word": "journey_1",
+            "degree": 1
+        },
+        {
+            "word": "opening_2",
+            "degree": 1
+        },
+        {
+            "word": "job_2",
+            "degree": 1
+        },
+        {
+            "word": "jewelry_1",
+            "degree": 1
+        },
+        {
+            "word": "jewel_1",
+            "degree": 1
+        },
+        {
+            "word": "opinion_1",
+            "degree": 1
+        },
+        {
+            "word": "opportunity_1",
+            "degree": 1
+        },
+        {
+            "word": "oppose_1",
+            "degree": 1
+        },
+        {
+            "word": "iron_1",
+            "degree": 1
+        },
+        {
+            "word": "nevertheless_1",
+            "degree": 1
+        },
+        {
+            "word": "mutter_1",
+            "degree": 1
+        },
+        {
+            "word": "naked_1",
+            "degree": 1
+        },
+        {
+            "word": "nasty_1",
+            "degree": 1
+        },
+        {
+            "word": "life_7",
+            "degree": 1
+        },
+        {
+            "word": "natural_1",
+            "degree": 1
+        },
+        {
+            "word": "nearly_1",
+            "degree": 1
+        },
+        {
+            "word": "neat_1",
+            "degree": 1
+        },
+        {
+            "word": "level_1",
+            "degree": 1
+        },
+        {
+            "word": "armadillo_1",
+            "degree": 1
+        },
+        {
+            "word": "leave_1",
+            "degree": 1
+        },
+        {
+            "word": "graveyard_1",
+            "degree": 1
+        },
+        {
+            "word": "leather_1",
+            "degree": 1
+        },
+        {
+            "word": "newspaper_1",
+            "degree": 1
+        },
+        {
+            "word": "nice_1",
+            "degree": 1
+        },
+        {
+            "word": "layer_1",
+            "degree": 1
+        },
+        {
+            "word": "lawyer_1",
+            "degree": 1
+        },
+        {
+            "word": "novel_1",
+            "degree": 1
+        },
+        {
+            "word": "also_1",
+            "degree": 1
+        },
+        {
+            "word": "lavatory_2",
+            "degree": 1
+        },
+        {
+            "word": "large_1",
+            "degree": 1
+        },
+        {
+            "word": "same_1",
+            "degree": 1
+        },
+        {
+            "word": "rubber_2",
+            "degree": 1
+        },
+        {
+            "word": "ruin_1",
+            "degree": 1
+        },
+        {
+            "word": "enter_3",
+            "degree": 1
+        },
+        {
+            "word": "energy_1",
+            "degree": 1
+        },
+        {
+            "word": "rung_2",
+            "degree": 1
+        },
+        {
+            "word": "rush_1",
+            "degree": 1
+        },
+        {
+            "word": "encounter_1",
+            "degree": 1
+        },
+        {
+            "word": "salmon_1",
+            "degree": 1
+        },
+        {
+            "word": "enclose_1",
+            "degree": 1
+        },
+        {
+            "word": "enchant_1",
+            "degree": 1
+        },
+        {
+            "word": "royal_1",
+            "degree": 1
+        },
+        {
+            "word": "sand_1",
+            "degree": 1
+        },
+        {
+            "word": "sauce_1",
+            "degree": 1
+        },
+        {
+            "word": "savage_1",
+            "degree": 1
+        },
+        {
+            "word": "save_1",
+            "degree": 1
+        },
+        {
+            "word": "emotion_2",
+            "degree": 1
+        },
+        {
+            "word": "embarrassment_1",
+            "degree": 1
+        },
+        {
+            "word": "scent_1",
+            "degree": 1
+        },
+        {
+            "word": "elephant_1",
+            "degree": 1
+        },
+        {
+            "word": "schoolwork_1",
+            "degree": 1
+        },
+        {
+            "word": "score_4",
+            "degree": 1
+        },
+        {
+            "word": "rock_2",
+            "degree": 1
+        },
+        {
+            "word": "respect_1",
+            "degree": 1
+        },
+        {
+            "word": "excite_1",
+            "degree": 1
+        },
+        {
+            "word": "exchange_1",
+            "degree": 1
+        },
+        {
+            "word": "example_2",
+            "degree": 1
+        },
+        {
+            "word": "reverse_1",
+            "degree": 1
+        },
+        {
+            "word": "right_2",
+            "degree": 1
+        },
+        {
+            "word": "ripe_1",
+            "degree": 1
+        },
+        {
+            "word": "event_1",
+            "degree": 1
+        },
+        {
+            "word": "roam_1",
+            "degree": 1
+        },
+        {
+            "word": "rock_1",
+            "degree": 1
+        },
+        {
+            "word": "scratch_2",
+            "degree": 1
+        },
+        {
+            "word": "rod_4",
+            "degree": 1
+        },
+        {
+            "word": "rodent_1",
+            "degree": 1
+        },
+        {
+            "word": "role_1",
+            "degree": 1
+        },
+        {
+            "word": "rook_1",
+            "degree": 1
+        },
+        {
+            "word": "room_2",
+            "degree": 1
+        },
+        {
+            "word": "rooster_1",
+            "degree": 1
+        },
+        {
+            "word": "rot_1",
+            "degree": 1
+        },
+        {
+            "word": "rotten_1",
+            "degree": 1
+        },
+        {
+            "word": "entrance_2",
+            "degree": 1
+        },
+        {
+            "word": "affection_1",
+            "degree": 1
+        },
+        {
+            "word": "dog_1",
+            "degree": 1
+        },
+        {
+            "word": "shelf_2",
+            "degree": 1
+        },
+        {
+            "word": "shell_2",
+            "degree": 1
+        },
+        {
+            "word": "shell_6",
+            "degree": 1
+        },
+        {
+            "word": "ship_1",
+            "degree": 1
+        },
+        {
+            "word": "shirt_1",
+            "degree": 1
+        },
+        {
+            "word": "document_1",
+            "degree": 1
+        },
+        {
+            "word": "dish_1",
+            "degree": 1
+        },
+        {
+            "word": "discuss_1",
+            "degree": 1
+        },
+        {
+            "word": "shove_1",
+            "degree": 1
+        },
+        {
+            "word": "sheet_1",
+            "degree": 1
+        },
+        {
+            "word": "discover_1",
+            "degree": 1
+        },
+        {
+            "word": "shut_1",
+            "degree": 1
+        },
+        {
+            "word": "disappoint_1",
+            "degree": 1
+        },
+        {
+            "word": "disagreement_1",
+            "degree": 1
+        },
+        {
+            "word": "sight_1",
+            "degree": 1
+        },
+        {
+            "word": "dirty_1",
+            "degree": 1
+        },
+        {
+            "word": "awkward_3",
+            "degree": 1
+        },
+        {
+            "word": "silicon_1",
+            "degree": 1
+        },
+        {
+            "word": "silly_1",
+            "degree": 1
+        },
+        {
+            "word": "dull_2",
+            "degree": 1
+        },
+        {
+            "word": "element_4",
+            "degree": 1
+        },
+        {
+            "word": "seat_1",
+            "degree": 1
+        },
+        {
+            "word": "see_3",
+            "degree": 1
+        },
+        {
+            "word": "seem_1",
+            "degree": 1
+        },
+        {
+            "word": "seldom_1",
+            "degree": 1
+        },
+        {
+            "word": "eerie_1",
+            "degree": 1
+        },
+        {
+            "word": "agreement_3",
+            "degree": 1
+        },
+        {
+            "word": "agreement_2",
+            "degree": 1
+        },
+        {
+            "word": "separate_2",
+            "degree": 1
+        },
+        {
+            "word": "serious_2",
+            "degree": 1
+        },
+        {
+            "word": "reptile_1",
+            "degree": 1
+        },
+        {
+            "word": "drug_2",
+            "degree": 1
+        },
+        {
+            "word": "settle_4",
+            "degree": 1
+        },
+        {
+            "word": "severe_1",
+            "degree": 1
+        },
+        {
+            "word": "shaft_1",
+            "degree": 1
+        },
+        {
+            "word": "shaggy_2",
+            "degree": 1
+        },
+        {
+            "word": "shame_3",
+            "degree": 1
+        },
+        {
+            "word": "drawer_1",
+            "degree": 1
+        },
+        {
+            "word": "shaving_2",
+            "degree": 1
+        },
+        {
+            "word": "sheep_1",
+            "degree": 1
+        },
+        {
+            "word": "protection_1",
+            "degree": 1
+        },
+        {
+            "word": "get_1",
+            "degree": 1
+        },
+        {
+            "word": "genuine_1",
+            "degree": 1
+        },
+        {
+            "word": "atom_1",
+            "degree": 1
+        },
+        {
+            "word": "profound_2",
+            "degree": 1
+        },
+        {
+            "word": "prohibit_2",
+            "degree": 1
+        },
+        {
+            "word": "future_1",
+            "degree": 1
+        },
+        {
+            "word": "furniture_1",
+            "degree": 1
+        },
+        {
+            "word": "fungus_1",
+            "degree": 1
+        },
+        {
+            "word": "fuel_1",
+            "degree": 1
+        },
+        {
+            "word": "fruit_1",
+            "degree": 1
+        },
+        {
+            "word": "get_2",
+            "degree": 1
+        },
+        {
+            "word": "provide_1",
+            "degree": 1
+        },
+        {
+            "word": "frighten_1",
+            "degree": 1
+        },
+        {
+            "word": "friendly_1",
+            "degree": 1
+        },
+        {
+            "word": "puck_1",
+            "degree": 1
+        },
+        {
+            "word": "punctuation_1",
+            "degree": 1
+        },
+        {
+            "word": "punctuation_2",
+            "degree": 1
+        },
+        {
+            "word": "punishment_1",
+            "degree": 1
+        },
+        {
+            "word": "pupa_1",
+            "degree": 1
+        },
+        {
+            "word": "purse_1",
+            "degree": 1
+        },
+        {
+            "word": "prepare_1",
+            "degree": 1
+        },
+        {
+            "word": "position_4",
+            "degree": 1
+        },
+        {
+            "word": "grateful_1",
+            "degree": 1
+        },
+        {
+            "word": "grass_1",
+            "degree": 1
+        },
+        {
+            "word": "possibly_1",
+            "degree": 1
+        },
+        {
+            "word": "post_1",
+            "degree": 1
+        },
+        {
+            "word": "postcard_1",
+            "degree": 1
+        },
+        {
+            "word": "grain_3",
+            "degree": 1
+        },
+        {
+            "word": "grain_1",
+            "degree": 1
+        },
+        {
+            "word": "grab_1",
+            "degree": 1
+        },
+        {
+            "word": "preface_1",
+            "degree": 1
+        },
+        {
+            "word": "form_3",
+            "degree": 1
+        },
+        {
+            "word": "government_1",
+            "degree": 1
+        },
+        {
+            "word": "good_5",
+            "degree": 1
+        },
+        {
+            "word": "present_1",
+            "degree": 1
+        },
+        {
+            "word": "present_4",
+            "degree": 1
+        },
+        {
+            "word": "assist_1",
+            "degree": 1
+        },
+        {
+            "word": "glad_1",
+            "degree": 1
+        },
+        {
+            "word": "primate_1",
+            "degree": 1
+        },
+        {
+            "word": "give_2",
+            "degree": 1
+        },
+        {
+            "word": "ghost_1",
+            "degree": 1
+        },
+        {
+            "word": "religion_1",
+            "degree": 1
+        },
+        {
+            "word": "real_1",
+            "degree": 1
+        },
+        {
+            "word": "aid_1",
+            "degree": 1
+        },
+        {
+            "word": "fight_1",
+            "degree": 1
+        },
+        {
+            "word": "refrigerator_1",
+            "degree": 1
+        },
+        {
+            "word": "female_2",
+            "degree": 1
+        },
+        {
+            "word": "regularly_1",
+            "degree": 1
+        },
+        {
+            "word": "female_1",
+            "degree": 1
+        },
+        {
+            "word": "fate_2",
+            "degree": 1
+        },
+        {
+            "word": "fall_1",
+            "degree": 1
+        },
+        {
+            "word": "release_2",
+            "degree": 1
+        },
+        {
+            "word": "fight_2",
+            "degree": 1
+        },
+        {
+            "word": "rely_1",
+            "degree": 1
+        },
+        {
+            "word": "fair_1",
+            "degree": 1
+        },
+        {
+            "word": "remember_1",
+            "degree": 1
+        },
+        {
+            "word": "remove_3",
+            "degree": 1
+        },
+        {
+            "word": "face_2",
+            "degree": 1
+        },
+        {
+            "word": "face_1",
+            "degree": 1
+        },
+        {
+            "word": "fabric_1",
+            "degree": 1
+        },
+        {
+            "word": "reply_1",
+            "degree": 1
+        },
+        {
+            "word": "automobile_1",
+            "degree": 1
+        },
+        {
+            "word": "rage_1",
+            "degree": 1
+        },
+        {
+            "word": "forgive_2",
+            "degree": 1
+        },
+        {
+            "word": "put_5",
+            "degree": 1
+        },
+        {
+            "word": "puzzle_1",
+            "degree": 1
+        },
+        {
+            "word": "quality_1",
+            "degree": 1
+        },
+        {
+            "word": "flower_1",
+            "degree": 1
+        },
+        {
+            "word": "quantity_2",
+            "degree": 1
+        },
+        {
+            "word": "flow_1",
+            "degree": 1
+        },
+        {
+            "word": "flood_1",
+            "degree": 1
+        },
+        {
+            "word": "rabbit_1",
+            "degree": 1
+        },
+        {
+            "word": "flatfish_1",
+            "degree": 1
+        },
+        {
+            "word": "silverware_1",
+            "degree": 1
+        },
+        {
+            "word": "railroad_1",
+            "degree": 1
+        },
+        {
+            "word": "flat_2",
+            "degree": 1
+        },
+        {
+            "word": "flame_1",
+            "degree": 1
+        },
+        {
+            "word": "ranch_1",
+            "degree": 1
+        },
+        {
+            "word": "fix_4",
+            "degree": 1
+        },
+        {
+            "word": "fishhook_1",
+            "degree": 1
+        },
+        {
+            "word": "fish_1",
+            "degree": 1
+        },
+        {
+            "word": "fireplace_1",
+            "degree": 1
+        },
+        {
+            "word": "finger_1",
+            "degree": 1
+        }
+    ]
+}

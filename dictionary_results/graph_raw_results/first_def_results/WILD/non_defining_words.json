@@ -1,0 +1,5632 @@
+{
+    "words": [
+        {
+            "vertex": "abbreviation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "absence",
+            "depth_level": 0
+        },
+        {
+            "vertex": "absent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "accordion",
+            "depth_level": 0
+        },
+        {
+            "vertex": "account",
+            "depth_level": 0
+        },
+        {
+            "vertex": "actress",
+            "depth_level": 0
+        },
+        {
+            "vertex": "actual",
+            "depth_level": 0
+        },
+        {
+            "vertex": "addition",
+            "depth_level": 0
+        },
+        {
+            "vertex": "admit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "adopt",
+            "depth_level": 0
+        },
+        {
+            "vertex": "advertisement",
+            "depth_level": 0
+        },
+        {
+            "vertex": "afford",
+            "depth_level": 0
+        },
+        {
+            "vertex": "agreement",
+            "depth_level": 0
+        },
+        {
+            "vertex": "aisle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "album",
+            "depth_level": 0
+        },
+        {
+            "vertex": "allowance",
+            "depth_level": 0
+        },
+        {
+            "vertex": "all right",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alphabetize",
+            "depth_level": 0
+        },
+        {
+            "vertex": "am",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amaze",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ambulance",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amphibian",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amuse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amusement park",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ancient",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anniversary",
+            "depth_level": 0
+        },
+        {
+            "vertex": "announce",
+            "depth_level": 0
+        },
+        {
+            "vertex": "annoy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "another",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anthill",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anxious",
+            "depth_level": 0
+        },
+        {
+            "vertex": "any",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anyway",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apologize",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appetite",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appointment",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appreciate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "approve",
+            "depth_level": 0
+        },
+        {
+            "vertex": "aquarium",
+            "depth_level": 0
+        },
+        {
+            "vertex": "argue",
+            "depth_level": 0
+        },
+        {
+            "vertex": "armadillo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "arrival",
+            "depth_level": 0
+        },
+        {
+            "vertex": "arrive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "arthropod",
+            "depth_level": 0
+        },
+        {
+            "vertex": "artist",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ashamed",
+            "depth_level": 0
+        },
+        {
+            "vertex": "astronaut",
+            "depth_level": 0
+        },
+        {
+            "vertex": "atmosphere",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attempt",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attitude",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attract",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attractive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "author",
+            "depth_level": 0
+        },
+        {
+            "vertex": "available",
+            "depth_level": 0
+        },
+        {
+            "vertex": "avocado",
+            "depth_level": 0
+        },
+        {
+            "vertex": "avoid",
+            "depth_level": 0
+        },
+        {
+            "vertex": "awful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "awkward",
+            "depth_level": 0
+        },
+        {
+            "vertex": "baboon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "babysit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "background",
+            "depth_level": 0
+        },
+        {
+            "vertex": "backpack",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bacon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "badly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bagel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bakery",
+            "depth_level": 0
+        },
+        {
+            "vertex": "balcony",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ballet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bamboo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bandit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barbecue",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barber",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barely",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barge",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barn",
+            "depth_level": 0
+        },
+        {
+            "vertex": "base",
+            "depth_level": 0
+        },
+        {
+            "vertex": "basement",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bathing suit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bathrobe",
+            "depth_level": 0
+        },
+        {
+            "vertex": "batter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bay",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beast",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bedroom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beehive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beg",
+            "depth_level": 0
+        },
+        {
+            "vertex": "behavior",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bench",
+            "depth_level": 0
+        },
+        {
+            "vertex": "best",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "better",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bike",
+            "depth_level": 0
+        },
+        {
+            "vertex": "biography",
+            "depth_level": 0
+        },
+        {
+            "vertex": "birdhouse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bison",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blame",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bleach",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bleed",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bloom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blossom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boast",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bobcat",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bookshelf",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boost",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boring",
+            "depth_level": 0
+        },
+        {
+            "vertex": "born",
+            "depth_level": 0
+        },
+        {
+            "vertex": "both",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bouquet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bow tie",
+            "depth_level": 0
+        },
+        {
+            "vertex": "breed",
+            "depth_level": 0
+        },
+        {
+            "vertex": "breeze",
+            "depth_level": 0
+        },
+        {
+            "vertex": "briefcase",
+            "depth_level": 0
+        },
+        {
+            "vertex": "broad",
+            "depth_level": 0
+        },
+        {
+            "vertex": "broccoli",
+            "depth_level": 0
+        },
+        {
+            "vertex": "broken",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bucket",
+            "depth_level": 0
+        },
+        {
+            "vertex": "buffet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bug",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bugle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bulldozer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bully",
+            "depth_level": 0
+        },
+        {
+            "vertex": "burglar",
+            "depth_level": 0
+        },
+        {
+            "vertex": "burro",
+            "depth_level": 0
+        },
+        {
+            "vertex": "burrow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bury",
+            "depth_level": 0
+        },
+        {
+            "vertex": "busy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "butcher",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cabbage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cabin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cactus",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cafeteria",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calculator",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calendar",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "camouflage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "camp",
+            "depth_level": 0
+        },
+        {
+            "vertex": "campground",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cancel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "candlestick",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cannot",
+            "depth_level": 0
+        },
+        {
+            "vertex": "canyon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cape",
+            "depth_level": 0
+        },
+        {
+            "vertex": "capitalize",
+            "depth_level": 0
+        },
+        {
+            "vertex": "captain",
+            "depth_level": 0
+        },
+        {
+            "vertex": "capybara",
+            "depth_level": 0
+        },
+        {
+            "vertex": "careless",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carnation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carpenter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carpet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carriage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cart",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cartoon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carve",
+            "depth_level": 0
+        },
+        {
+            "vertex": "case",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cashier",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cash register",
+            "depth_level": 0
+        },
+        {
+            "vertex": "castle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "catcher",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cattail",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "century",
+            "depth_level": 0
+        },
+        {
+            "vertex": "certainly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chandelier",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chart",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheek",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheerful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chemistry",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chess",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chewing gum",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chicken pox",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chief",
+            "depth_level": 0
+        },
+        {
+            "vertex": "children",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chimney",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chimpanzee",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chipmunk",
+            "depth_level": 0
+        },
+        {
+            "vertex": "choke",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chuckle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "church",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cigarette",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cinnamon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "citizen",
+            "depth_level": 0
+        },
+        {
+            "vertex": "claim",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clap",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clarinet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clearly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clever",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cliff",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clothes",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clover",
+            "depth_level": 0
+        },
+        {
+            "vertex": "club",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coach",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coast",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coconut",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cocoon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coffee table",
+            "depth_level": 0
+        },
+        {
+            "vertex": "collection",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comb",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comfort",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comic book",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comma",
+            "depth_level": 0
+        },
+        {
+            "vertex": "command",
+            "depth_level": 0
+        },
+        {
+            "vertex": "communicate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "complain",
+            "depth_level": 0
+        },
+        {
+            "vertex": "complaint",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condensation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condiment",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condition",
+            "depth_level": 0
+        },
+        {
+            "vertex": "confidence",
+            "depth_level": 0
+        },
+        {
+            "vertex": "conserve",
+            "depth_level": 0
+        },
+        {
+            "vertex": "consider",
+            "depth_level": 0
+        },
+        {
+            "vertex": "consonant",
+            "depth_level": 0
+        },
+        {
+            "vertex": "contest",
+            "depth_level": 0
+        },
+        {
+            "vertex": "contribute",
+            "depth_level": 0
+        },
+        {
+            "vertex": "convenient",
+            "depth_level": 0
+        },
+        {
+            "vertex": "convince",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cottage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cough",
+            "depth_level": 0
+        },
+        {
+            "vertex": "could",
+            "depth_level": 0
+        },
+        {
+            "vertex": "countryside",
+            "depth_level": 0
+        },
+        {
+            "vertex": "courage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cowboy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cowgirl",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coyote",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cozy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crane",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crawl",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crazy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "credit card",
+            "depth_level": 0
+        },
+        {
+            "vertex": "creep",
+            "depth_level": 0
+        },
+        {
+            "vertex": "creepy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crocodile",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crowded",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crutch",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cube",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cucumber",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cure",
+            "depth_level": 0
+        },
+        {
+            "vertex": "current",
+            "depth_level": 0
+        },
+        {
+            "vertex": "custom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cylinder",
+            "depth_level": 0
+        },
+        {
+            "vertex": "daffodil",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dairy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dancer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dandelion",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dare",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deaf",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dear",
+            "depth_level": 0
+        },
+        {
+            "vertex": "death",
+            "depth_level": 0
+        },
+        {
+            "vertex": "debt",
+            "depth_level": 0
+        },
+        {
+            "vertex": "decrease",
+            "depth_level": 0
+        },
+        {
+            "vertex": "defeat",
+            "depth_level": 0
+        },
+        {
+            "vertex": "defend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "definite",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delay",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delicious",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delight",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delivery",
+            "depth_level": 0
+        },
+        {
+            "vertex": "demand",
+            "depth_level": 0
+        },
+        {
+            "vertex": "den",
+            "depth_level": 0
+        },
+        {
+            "vertex": "department store",
+            "depth_level": 0
+        },
+        {
+            "vertex": "description",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deserve",
+            "depth_level": 0
+        },
+        {
+            "vertex": "desire",
+            "depth_level": 0
+        },
+        {
+            "vertex": "detail",
+            "depth_level": 0
+        },
+        {
+            "vertex": "detective",
+            "depth_level": 0
+        },
+        {
+            "vertex": "detergent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "develop",
+            "depth_level": 0
+        },
+        {
+            "vertex": "development",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diaper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dine",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dining room",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diploma",
+            "depth_level": 0
+        },
+        {
+            "vertex": "direct",
+            "depth_level": 0
+        },
+        {
+            "vertex": "disappoint",
+            "depth_level": 0
+        },
+        {
+            "vertex": "discuss",
+            "depth_level": 0
+        },
+        {
+            "vertex": "disguise",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dishtowel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dishwasher",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dismiss",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diverse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dizzy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "doll",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dolphin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "done",
+            "depth_level": 0
+        },
+        {
+            "vertex": "double",
+            "depth_level": 0
+        },
+        {
+            "vertex": "downstairs",
+            "depth_level": 0
+        },
+        {
+            "vertex": "downtown",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drawbridge",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dread",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drift",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "driveway",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drowsy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drugstore",
+            "depth_level": 0
+        },
+        {
+            "vertex": "duty",
+            "depth_level": 0
+        },
+        {
+            "vertex": "each",
+            "depth_level": 0
+        },
+        {
+            "vertex": "earring",
+            "depth_level": 0
+        },
+        {
+            "vertex": "echo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "educate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "education",
+            "depth_level": 0
+        },
+        {
+            "vertex": "elbow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "elect",
+            "depth_level": 0
+        },
+        {
+            "vertex": "element",
+            "depth_level": 0
+        },
+        {
+            "vertex": "elves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "embarrass",
+            "depth_level": 0
+        },
+        {
+            "vertex": "emergency",
+            "depth_level": 0
+        },
+        {
+            "vertex": "employ",
+            "depth_level": 0
+        },
+        {
+            "vertex": "employee",
+            "depth_level": 0
+        },
+        {
+            "vertex": "employer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "enemy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entire",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entrance",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entree",
+            "depth_level": 0
+        },
+        {
+            "vertex": "environment",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eraser",
+            "depth_level": 0
+        },
+        {
+            "vertex": "escalator",
+            "depth_level": 0
+        },
+        {
+            "vertex": "escape",
+            "depth_level": 0
+        },
+        {
+            "vertex": "evaporate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "every",
+            "depth_level": 0
+        },
+        {
+            "vertex": "everywhere",
+            "depth_level": 0
+        },
+        {
+            "vertex": "evil",
+            "depth_level": 0
+        },
+        {
+            "vertex": "exclaim",
+            "depth_level": 0
+        },
+        {
+            "vertex": "excuse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "expensive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "explore",
+            "depth_level": 0
+        },
+        {
+            "vertex": "explorer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "expression",
+            "depth_level": 0
+        },
+        {
+            "vertex": "extreme",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eyebrow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eyelash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eyelid",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fail",
+            "depth_level": 0
+        },
+        {
+            "vertex": "failure",
+            "depth_level": 0
+        },
+        {
+            "vertex": "faint",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fairy tale",
+            "depth_level": 0
+        },
+        {
+            "vertex": "faithful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "familiar",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fantasy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "farther",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fashion",
+            "depth_level": 0
+        },
+        {
+            "vertex": "faucet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "favor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "favorite",
+            "depth_level": 0
+        },
+        {
+            "vertex": "feast",
+            "depth_level": 0
+        },
+        {
+            "vertex": "feature",
+            "depth_level": 0
+        },
+        {
+            "vertex": "feet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fern",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ferry",
+            "depth_level": 0
+        },
+        {
+            "vertex": "field trip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "final",
+            "depth_level": 0
+        },
+        {
+            "vertex": "firefly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fireplace",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fire station",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fireworks",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flake",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flee",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flight",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flock",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fluffy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flute",
+            "depth_level": 0
+        },
+        {
+            "vertex": "foal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fool",
+            "depth_level": 0
+        },
+        {
+            "vertex": "footprint",
+            "depth_level": 0
+        },
+        {
+            "vertex": "foreign",
+            "depth_level": 0
+        },
+        {
+            "vertex": "forget",
+            "depth_level": 0
+        },
+        {
+            "vertex": "forgive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fortunate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fowl",
+            "depth_level": 0
+        },
+        {
+            "vertex": "freezer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frequent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frequently",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frighten",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frosting",
+            "depth_level": 0
+        },
+        {
+            "vertex": "funeral",
+            "depth_level": 0
+        },
+        {
+            "vertex": "further",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fuzzy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gain",
+            "depth_level": 0
+        },
+        {
+            "vertex": "The Gambia",
+            "depth_level": 0
+        },
+        {
+            "vertex": "garage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gas station",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "geese",
+            "depth_level": 0
+        },
+        {
+            "vertex": "general",
+            "depth_level": 0
+        },
+        {
+            "vertex": "generally",
+            "depth_level": 0
+        },
+        {
+            "vertex": "generous",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ghost",
+            "depth_level": 0
+        },
+        {
+            "vertex": "giggle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "glad",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gobble",
+            "depth_level": 0
+        },
+        {
+            "vertex": "govern",
+            "depth_level": 0
+        },
+        {
+            "vertex": "governor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grab",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grammar",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grandchild",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grandma",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grandpa",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grapefruit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grasshopper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "greeting",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "groom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "groundhog",
+            "depth_level": 0
+        },
+        {
+            "vertex": "growl",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guess",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guest",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guilty",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guinea pig",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gym",
+            "depth_level": 0
+        },
+        {
+            "vertex": "habit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hail",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harbor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hardly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harmful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harsh",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harvest",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hatch",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hawk",
+            "depth_level": 0
+        },
+        {
+            "vertex": "heel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "height",
+            "depth_level": 0
+        },
+        {
+            "vertex": "helmet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "helpful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "herd",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hero",
+            "depth_level": 0
+        },
+        {
+            "vertex": "heroine",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hibernate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hippopotamus",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hire",
+            "depth_level": 0
+        },
+        {
+            "vertex": "his",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hobby",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hook",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hooves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hop",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hot dog",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hour",
+            "depth_level": 0
+        },
+        {
+            "vertex": "how",
+            "depth_level": 0
+        },
+        {
+            "vertex": "huddle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hug",
+            "depth_level": 0
+        },
+        {
+            "vertex": "huge",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hum",
+            "depth_level": 0
+        },
+        {
+            "vertex": "humor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hurricane",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hut",
+            "depth_level": 0
+        },
+        {
+            "vertex": "iceberg",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ice cream",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ice-skate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "icicle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "identify",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ignore",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ill",
+            "depth_level": 0
+        },
+        {
+            "vertex": "illness",
+            "depth_level": 0
+        },
+        {
+            "vertex": "illustrate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "imagination",
+            "depth_level": 0
+        },
+        {
+            "vertex": "independent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "index finger",
+            "depth_level": 0
+        },
+        {
+            "vertex": "individual",
+            "depth_level": 0
+        },
+        {
+            "vertex": "indoor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "industry",
+            "depth_level": 0
+        },
+        {
+            "vertex": "inform",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ingredient",
+            "depth_level": 0
+        },
+        {
+            "vertex": "instant",
+            "depth_level": 0
+        },
+        {
+            "vertex": "insult",
+            "depth_level": 0
+        },
+        {
+            "vertex": "intend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "interrupt",
+            "depth_level": 0
+        },
+        {
+            "vertex": "introduce",
+            "depth_level": 0
+        },
+        {
+            "vertex": "introduction",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invention",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invertebrate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invitation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "iris",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ironing board",
+            "depth_level": 0
+        },
+        {
+            "vertex": "is",
+            "depth_level": 0
+        },
+        {
+            "vertex": "itchy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "its",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jam",
+            "depth_level": 0
+        },
+        {
+            "vertex": "janitor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jaw",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jealous",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jeans",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jelly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "journey",
+            "depth_level": 0
+        },
+        {
+            "vertex": "joy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "judge",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jungle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kangaroo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kettle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kindergarten",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kiss",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kitten",
+            "depth_level": 0
+        },
+        {
+            "vertex": "knight",
+            "depth_level": 0
+        },
+        {
+            "vertex": "knives",
+            "depth_level": 0
+        },
+        {
+            "vertex": "knob",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lace",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lack",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ladle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lane",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lantern",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lately",
+            "depth_level": 0
+        },
+        {
+            "vertex": "laughter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lawn",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lawyer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "leash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "least",
+            "depth_level": 0
+        },
+        {
+            "vertex": "leaves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lesson",
+            "depth_level": 0
+        },
+        {
+            "vertex": "librarian",
+            "depth_level": 0
+        },
+        {
+            "vertex": "license",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lick",
+            "depth_level": 0
+        },
+        {
+            "vertex": "life cycle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lighthouse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lily",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lime",
+            "depth_level": 0
+        },
+        {
+            "vertex": "link",
+            "depth_level": 0
+        },
+        {
+            "vertex": "litter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "living room",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loaves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "log",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lonely",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loop",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lost",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loyal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lullaby",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lynx",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mad",
+            "depth_level": 0
+        },
+        {
+            "vertex": "magician",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mail carrier",
+            "depth_level": 0
+        },
+        {
+            "vertex": "major",
+            "depth_level": 0
+        },
+        {
+            "vertex": "make-believe",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mall",
+            "depth_level": 0
+        },
+        {
+            "vertex": "manage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "manager",
+            "depth_level": 0
+        },
+        {
+            "vertex": "manner",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mansion",
+            "depth_level": 0
+        },
+        {
+            "vertex": "maple",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marble",
+            "depth_level": 0
+        },
+        {
+            "vertex": "market",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marshmallow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "math",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mathematics",
+            "depth_level": 0
+        },
+        {
+            "vertex": "may",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mayonnaise",
+            "depth_level": 0
+        },
+        {
+            "vertex": "maze",
+            "depth_level": 0
+        },
+        {
+            "vertex": "measurement",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mechanic",
+            "depth_level": 0
+        },
+        {
+            "vertex": "medal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "meeting",
+            "depth_level": 0
+        },
+        {
+            "vertex": "melon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "memory",
+            "depth_level": 0
+        },
+        {
+            "vertex": "men",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mental",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mention",
+            "depth_level": 0
+        },
+        {
+            "vertex": "menu",
+            "depth_level": 0
+        },
+        {
+            "vertex": "meow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "merchant",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mess",
+            "depth_level": 0
+        },
+        {
+            "vertex": "messenger",
+            "depth_level": 0
+        },
+        {
+            "vertex": "messy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "method",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mice",
+            "depth_level": 0
+        },
+        {
+            "vertex": "microphone",
+            "depth_level": 0
+        },
+        {
+            "vertex": "microscope",
+            "depth_level": 0
+        },
+        {
+            "vertex": "microwave",
+            "depth_level": 0
+        },
+        {
+            "vertex": "might",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mild",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mile",
+            "depth_level": 0
+        },
+        {
+            "vertex": "million",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miner",
+            "depth_level": 0
+        },
+        {
+            "vertex": "minute",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miss",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mitten",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mobile",
+            "depth_level": 0
+        },
+        {
+            "vertex": "model",
+            "depth_level": 0
+        },
+        {
+            "vertex": "monitor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "monster",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mood",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mop",
+            "depth_level": 0
+        },
+        {
+            "vertex": "moral",
+            "depth_level": 0
+        },
+        {
+            "vertex": "moth",
+            "depth_level": 0
+        },
+        {
+            "vertex": "motorcycle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "muddy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "muffin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "multiply",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mural",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mushroom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "musician",
+            "depth_level": 0
+        },
+        {
+            "vertex": "must",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mutter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "my",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mystery",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nap",
+            "depth_level": 0
+        },
+        {
+            "vertex": "napkin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "national",
+            "depth_level": 0
+        },
+        {
+            "vertex": "next door",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nickname",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nightgown",
+            "depth_level": 0
+        },
+        {
+            "vertex": "night table",
+            "depth_level": 0
+        },
+        {
+            "vertex": "noisy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nonsense",
+            "depth_level": 0
+        },
+        {
+            "vertex": "not",
+            "depth_level": 0
+        },
+        {
+            "vertex": "notebook",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nothing",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nowhere",
+            "depth_level": 0
+        },
+        {
+            "vertex": "occur",
+            "depth_level": 0
+        },
+        {
+            "vertex": "o'clock",
+            "depth_level": 0
+        },
+        {
+            "vertex": "octopus",
+            "depth_level": 0
+        },
+        {
+            "vertex": "offer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "OK",
+            "depth_level": 0
+        },
+        {
+            "vertex": "old-fashioned",
+            "depth_level": 0
+        },
+        {
+            "vertex": "olive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "operate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "opossum",
+            "depth_level": 0
+        },
+        {
+            "vertex": "opportunity",
+            "depth_level": 0
+        },
+        {
+            "vertex": "orchard",
+            "depth_level": 0
+        },
+        {
+            "vertex": "organization",
+            "depth_level": 0
+        },
+        {
+            "vertex": "organize",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ostrich",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ought",
+            "depth_level": 0
+        },
+        {
+            "vertex": "our",
+            "depth_level": 0
+        },
+        {
+            "vertex": "outer space",
+            "depth_level": 0
+        },
+        {
+            "vertex": "outgrow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "owl",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pack",
+            "depth_level": 0
+        },
+        {
+            "vertex": "painter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pajamas",
+            "depth_level": 0
+        },
+        {
+            "vertex": "palace",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pants",
+            "depth_level": 0
+        },
+        {
+            "vertex": "parachute",
+            "depth_level": 0
+        },
+        {
+            "vertex": "parakeet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "part of speech",
+            "depth_level": 0
+        },
+        {
+            "vertex": "passenger",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paste",
+            "depth_level": 0
+        },
+        {
+            "vertex": "patience",
+            "depth_level": 0
+        },
+        {
+            "vertex": "patient",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pause",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paw",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peace",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peacock",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peanut butter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pebble",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peep",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peninsula",
+            "depth_level": 0
+        },
+        {
+            "vertex": "perfume",
+            "depth_level": 0
+        },
+        {
+            "vertex": "perhaps",
+            "depth_level": 0
+        },
+        {
+            "vertex": "permanent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "permit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "personal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "persuade",
+            "depth_level": 0
+        },
+        {
+            "vertex": "petunia",
+            "depth_level": 0
+        },
+        {
+            "vertex": "phone",
+            "depth_level": 0
+        },
+        {
+            "vertex": "photo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "photographer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "picnic",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pigeon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "piglet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pill",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pilot",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pine",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pineapple",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pint",
+            "depth_level": 0
+        },
+        {
+            "vertex": "piranha",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pirate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pitch",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pitchfork",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plaid",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plane",
+            "depth_level": 0
+        },
+        {
+            "vertex": "planetarium",
+            "depth_level": 0
+        },
+        {
+            "vertex": "playground",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pointy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poison",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poisonous",
+            "depth_level": 0
+        },
+        {
+            "vertex": "polar bear",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pole",
+            "depth_level": 0
+        },
+        {
+            "vertex": "police officer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "police station",
+            "depth_level": 0
+        },
+        {
+            "vertex": "polka dot",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pollute",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pollution",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pony",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poppy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "porch",
+            "depth_level": 0
+        },
+        {
+            "vertex": "porcupine",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pork",
+            "depth_level": 0
+        },
+        {
+            "vertex": "positive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "possess",
+            "depth_level": 0
+        },
+        {
+            "vertex": "possibility",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poster",
+            "depth_level": 0
+        },
+        {
+            "vertex": "potholder",
+            "depth_level": 0
+        },
+        {
+            "vertex": "precipitation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prefer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "preserve",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pretend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "previous",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prey",
+            "depth_level": 0
+        },
+        {
+            "vertex": "principal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prison",
+            "depth_level": 0
+        },
+        {
+            "vertex": "privacy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "private",
+            "depth_level": 0
+        },
+        {
+            "vertex": "profession",
+            "depth_level": 0
+        },
+        {
+            "vertex": "professor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "profit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pronounce",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pronunciation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "proof",
+            "depth_level": 0
+        },
+        {
+            "vertex": "proper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "property",
+            "depth_level": 0
+        },
+        {
+            "vertex": "provide",
+            "depth_level": 0
+        },
+        {
+            "vertex": "province",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pudding",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pumpkin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "punishment",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pup",
+            "depth_level": 0
+        },
+        {
+            "vertex": "puppet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pure",
+            "depth_level": 0
+        },
+        {
+            "vertex": "purpose",
+            "depth_level": 0
+        },
+        {
+            "vertex": "purr",
+            "depth_level": 0
+        },
+        {
+            "vertex": "purse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "puzzle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pyramid",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quack",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quality",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quantity",
+            "depth_level": 0
+        },
+        {
+            "vertex": "question mark",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quiz",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raccoon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rack",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raft",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raisin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rake",
+            "depth_level": 0
+        },
+        {
+            "vertex": "range",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ranger",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rapid",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rare",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rather",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ray",
+            "depth_level": 0
+        },
+        {
+            "vertex": "react",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reaction",
+            "depth_level": 0
+        },
+        {
+            "vertex": "realize",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recipe",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recite",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recognize",
+            "depth_level": 0
+        },
+        {
+            "vertex": "record",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rectangle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recycle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "refreshment",
+            "depth_level": 0
+        },
+        {
+            "vertex": "refuse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reindeer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "relationship",
+            "depth_level": 0
+        },
+        {
+            "vertex": "religious",
+            "depth_level": 0
+        },
+        {
+            "vertex": "remain",
+            "depth_level": 0
+        },
+        {
+            "vertex": "remind",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reply",
+            "depth_level": 0
+        },
+        {
+            "vertex": "report card",
+            "depth_level": 0
+        },
+        {
+            "vertex": "represent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reproduce",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reproduction",
+            "depth_level": 0
+        },
+        {
+            "vertex": "request",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rescue",
+            "depth_level": 0
+        },
+        {
+            "vertex": "responsible",
+            "depth_level": 0
+        },
+        {
+            "vertex": "restrict",
+            "depth_level": 0
+        },
+        {
+            "vertex": "result",
+            "depth_level": 0
+        },
+        {
+            "vertex": "review",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reward",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rhinoceros",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rid",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ring finger",
+            "depth_level": 0
+        },
+        {
+            "vertex": "risk",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roam",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roast",
+            "depth_level": 0
+        },
+        {
+            "vertex": "robot",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rocket",
+            "depth_level": 0
+        },
+        {
+            "vertex": "role",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roller coaster",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roller skate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "romantic",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rooster",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rose",
+            "depth_level": 0
+        },
+        {
+            "vertex": "royal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rumble",
+            "depth_level": 0
+        },
+        {
+            "vertex": "runner",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rural",
+            "depth_level": 0
+        },
+        {
+            "vertex": "safety",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sailboat",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sale",
+            "depth_level": 0
+        },
+        {
+            "vertex": "salesclerk",
+            "depth_level": 0
+        },
+        {
+            "vertex": "saltshaker",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sandal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "save",
+            "depth_level": 0
+        },
+        {
+            "vertex": "saxophone",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scarecrow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scarves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "schedule",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scientific",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scissors",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scold",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scoop",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scratchy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sea anemone",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seafood",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sea gull",
+            "depth_level": 0
+        },
+        {
+            "vertex": "search",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seashore",
+            "depth_level": 0
+        },
+        {
+            "vertex": "season",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seat belt",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seaweed",
+            "depth_level": 0
+        },
+        {
+            "vertex": "secretary",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seesaw",
+            "depth_level": 0
+        },
+        {
+            "vertex": "selfish",
+            "depth_level": 0
+        },
+        {
+            "vertex": "settle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "several",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shade",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shadow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shallow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shampoo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shave",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shelter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shelves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sheriff",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shot",
+            "depth_level": 0
+        },
+        {
+            "vertex": "should",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shove",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sibling",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sickness",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sideways",
+            "depth_level": 0
+        },
+        {
+            "vertex": "signature",
+            "depth_level": 0
+        },
+        {
+            "vertex": "silence",
+            "depth_level": 0
+        },
+        {
+            "vertex": "silent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "singer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "siren",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ski",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skull",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skunk",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skyscraper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slave",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sled",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sleeping bag",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sleepy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sleet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slice",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slight",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slipper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "smash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snap",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sneak",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sneaker",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sneeze",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sniff",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sniffle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snob",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snowball",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snowman",
+            "depth_level": 0
+        },
+        {
+            "vertex": "some",
+            "depth_level": 0
+        },
+        {
+            "vertex": "someday",
+            "depth_level": 0
+        },
+        {
+            "vertex": "somehow",
+            "depth_level": 0
+        },
+        {
+            "vertex": "somersault",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spatula",
+            "depth_level": 0
+        },
+        {
+            "vertex": "specific",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spell",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spelling",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spinach",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "splash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spoonful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "squeeze",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stack",
+            "depth_level": 0
+        },
+        {
+            "vertex": "statement",
+            "depth_level": 0
+        },
+        {
+            "vertex": "statue",
+            "depth_level": 0
+        },
+        {
+            "vertex": "steak",
+            "depth_level": 0
+        },
+        {
+            "vertex": "steer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "steering wheel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stepmother",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stethoscope",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sticker",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stir",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stranger",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stray",
+            "depth_level": 0
+        },
+        {
+            "vertex": "strict",
+            "depth_level": 0
+        },
+        {
+            "vertex": "strike",
+            "depth_level": 0
+        },
+        {
+            "vertex": "submarine",
+            "depth_level": 0
+        },
+        {
+            "vertex": "substitute",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suburb",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suburban",
+            "depth_level": 0
+        },
+        {
+            "vertex": "subway",
+            "depth_level": 0
+        },
+        {
+            "vertex": "successful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suck",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suffer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sugar cane",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suggest",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sum",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sundae",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunflower",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunglasses",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunset",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suppose",
+            "depth_level": 0
+        },
+        {
+            "vertex": "surgeon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "surround",
+            "depth_level": 0
+        },
+        {
+            "vertex": "survive",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sweep",
+            "depth_level": 0
+        },
+        {
+            "vertex": "swell",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sympathy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "symptom",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tablespoon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tag",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tailor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "talent",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tame",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tap",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tape",
+            "depth_level": 0
+        },
+        {
+            "vertex": "target",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tattle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tax",
+            "depth_level": 0
+        },
+        {
+            "vertex": "taxi",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tease",
+            "depth_level": 0
+        },
+        {
+            "vertex": "teeth",
+            "depth_level": 0
+        },
+        {
+            "vertex": "telescope",
+            "depth_level": 0
+        },
+        {
+            "vertex": "teller",
+            "depth_level": 0
+        },
+        {
+            "vertex": "temporary",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tempt",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tepee",
+            "depth_level": 0
+        },
+        {
+            "vertex": "territory",
+            "depth_level": 0
+        },
+        {
+            "vertex": "their",
+            "depth_level": 0
+        },
+        {
+            "vertex": "these",
+            "depth_level": 0
+        },
+        {
+            "vertex": "thief",
+            "depth_level": 0
+        },
+        {
+            "vertex": "thirsty",
+            "depth_level": 0
+        },
+        {
+            "vertex": "thorough",
+            "depth_level": 0
+        },
+        {
+            "vertex": "those",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tickle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "title",
+            "depth_level": 0
+        },
+        {
+            "vertex": "toilet paper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "toothbrush",
+            "depth_level": 0
+        },
+        {
+            "vertex": "toothpaste",
+            "depth_level": 0
+        },
+        {
+            "vertex": "topic",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tornado",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tortoise",
+            "depth_level": 0
+        },
+        {
+            "vertex": "total",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tough",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tour",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tower",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tow truck",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trade",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tradition",
+            "depth_level": 0
+        },
+        {
+            "vertex": "traditional",
+            "depth_level": 0
+        },
+        {
+            "vertex": "traffic",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trail",
+            "depth_level": 0
+        },
+        {
+            "vertex": "translate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "transportation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trap",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trash",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tray",
+            "depth_level": 0
+        },
+        {
+            "vertex": "treasure",
+            "depth_level": 0
+        },
+        {
+            "vertex": "troll",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trophy",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tug",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tugboat",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tulip",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tuna",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tune",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tunnel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tusk",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tuxedo",
+            "depth_level": 0
+        },
+        {
+            "vertex": "twice",
+            "depth_level": 0
+        },
+        {
+            "vertex": "twin",
+            "depth_level": 0
+        },
+        {
+            "vertex": "umpire",
+            "depth_level": 0
+        },
+        {
+            "vertex": "unicorn",
+            "depth_level": 0
+        },
+        {
+            "vertex": "uniform",
+            "depth_level": 0
+        },
+        {
+            "vertex": "unite",
+            "depth_level": 0
+        },
+        {
+            "vertex": "untie",
+            "depth_level": 0
+        },
+        {
+            "vertex": "upside down",
+            "depth_level": 0
+        },
+        {
+            "vertex": "urban",
+            "depth_level": 0
+        },
+        {
+            "vertex": "used",
+            "depth_level": 0
+        },
+        {
+            "vertex": "useless",
+            "depth_level": 0
+        },
+        {
+            "vertex": "valley",
+            "depth_level": 0
+        },
+        {
+            "vertex": "vapor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "various",
+            "depth_level": 0
+        },
+        {
+            "vertex": "velvet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "view",
+            "depth_level": 0
+        },
+        {
+            "vertex": "violet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "visitor",
+            "depth_level": 0
+        },
+        {
+            "vertex": "volcano",
+            "depth_level": 0
+        },
+        {
+            "vertex": "volleyball",
+            "depth_level": 0
+        },
+        {
+            "vertex": "voyage",
+            "depth_level": 0
+        },
+        {
+            "vertex": "vulture",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wag",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wallet",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wand",
+            "depth_level": 0
+        },
+        {
+            "vertex": "washing machine",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wastebasket",
+            "depth_level": 0
+        },
+        {
+            "vertex": "waterfall",
+            "depth_level": 0
+        },
+        {
+            "vertex": "watermelon",
+            "depth_level": 0
+        },
+        {
+            "vertex": "web",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weed",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weekend",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weep",
+            "depth_level": 0
+        },
+        {
+            "vertex": "when",
+            "depth_level": 0
+        },
+        {
+            "vertex": "where",
+            "depth_level": 0
+        },
+        {
+            "vertex": "whisper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "whose",
+            "depth_level": 0
+        },
+        {
+            "vertex": "why",
+            "depth_level": 0
+        },
+        {
+            "vertex": "width",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wiggle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "will",
+            "depth_level": 0
+        },
+        {
+            "vertex": "willing",
+            "depth_level": 0
+        },
+        {
+            "vertex": "windmill",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wink",
+            "depth_level": 0
+        },
+        {
+            "vertex": "winner",
+            "depth_level": 0
+        },
+        {
+            "vertex": "witch",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wives",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wolves",
+            "depth_level": 0
+        },
+        {
+            "vertex": "women",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wonderful",
+            "depth_level": 0
+        },
+        {
+            "vertex": "worse",
+            "depth_level": 0
+        },
+        {
+            "vertex": "worst",
+            "depth_level": 0
+        },
+        {
+            "vertex": "would",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wrapper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wreck",
+            "depth_level": 0
+        },
+        {
+            "vertex": "writer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "xylophone",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yawn",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yell",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yes",
+            "depth_level": 0
+        },
+        {
+            "vertex": "your",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bored",
+            "depth_level": 0
+        },
+        {
+            "vertex": "swimmer",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fungi",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shorts",
+            "depth_level": 0
+        },
+        {
+            "vertex": "glasses",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stairs",
+            "depth_level": 0
+        },
+        {
+            "vertex": "garbage can",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grocery store",
+            "depth_level": 0
+        },
+        {
+            "vertex": "allowed",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sadly",
+            "depth_level": 0
+        },
+        {
+            "vertex": "checkers",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apartment building",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bus stop",
+            "depth_level": 0
+        },
+        {
+            "vertex": "office building",
+            "depth_level": 0
+        },
+        {
+            "vertex": "movie theater",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paper towel",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trick-or-treat",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ice skate",
+            "depth_level": 0
+        },
+        {
+            "vertex": "babysitter",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chili pepper",
+            "depth_level": 0
+        },
+        {
+            "vertex": "Hausa",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tide pool",
+            "depth_level": 0
+        },
+        {
+            "vertex": "system unit",
+            "depth_level": 0
+        },
+        {
+            "vertex": "computer lab",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tennis ball",
+            "depth_level": 0
+        },
+        {
+            "vertex": "soccer ball",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ground beef",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pepper grinder",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stuffed animal",
+            "depth_level": 0
+        },
+        {
+            "vertex": "water cycle",
+            "depth_level": 0
+        },
+        {
+            "vertex": "evaporation",
+            "depth_level": 0
+        },
+        {
+            "vertex": "a lot",
+            "depth_level": 0
+        },
+        {
+            "vertex": "active",
+            "depth_level": 1
+        },
+        {
+            "vertex": "actor",
+            "depth_level": 1
+        },
+        {
+            "vertex": "adventure",
+            "depth_level": 1
+        },
+        {
+            "vertex": "adverb",
+            "depth_level": 1
+        },
+        {
+            "vertex": "advice",
+            "depth_level": 1
+        },
+        {
+            "vertex": "aim",
+            "depth_level": 1
+        },
+        {
+            "vertex": "airport",
+            "depth_level": 1
+        },
+        {
+            "vertex": "alike",
+            "depth_level": 1
+        },
+        {
+            "vertex": "anteater",
+            "depth_level": 1
+        },
+        {
+            "vertex": "appear",
+            "depth_level": 1
+        },
+        {
+            "vertex": "armor",
+            "depth_level": 1
+        },
+        {
+            "vertex": "authority",
+            "depth_level": 1
+        },
+        {
+            "vertex": "awake",
+            "depth_level": 1
+        },
+        {
+            "vertex": "backward",
+            "depth_level": 1
+        },
+        {
+            "vertex": "basic",
+            "depth_level": 1
+        },
+        {
+            "vertex": "battle",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beam",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beard",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beef",
+            "depth_level": 1
+        },
+        {
+            "vertex": "belly",
+            "depth_level": 1
+        },
+        {
+            "vertex": "belt",
+            "depth_level": 1
+        },
+        {
+            "vertex": "blink",
+            "depth_level": 1
+        },
+        {
+            "vertex": "boot",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bounce",
+            "depth_level": 1
+        },
+        {
+            "vertex": "breath",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bride",
+            "depth_level": 1
+        },
+        {
+            "vertex": "broom",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bump",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bunch",
+            "depth_level": 1
+        },
+        {
+            "vertex": "butterfly",
+            "depth_level": 1
+        },
+        {
+            "vertex": "calf",
+            "depth_level": 1
+        },
+        {
+            "vertex": "canal",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cap",
+            "depth_level": 1
+        },
+        {
+            "vertex": "capital",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cash",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cave",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ceiling",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chalk",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chapter",
+            "depth_level": 1
+        },
+        {
+            "vertex": "charge",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chewy",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chick",
+            "depth_level": 1
+        },
+        {
+            "vertex": "classroom",
+            "depth_level": 1
+        },
+        {
+            "vertex": "collar",
+            "depth_level": 1
+        },
+        {
+            "vertex": "collect",
+            "depth_level": 1
+        },
+        {
+            "vertex": "comic",
+            "depth_level": 1
+        },
+        {
+            "vertex": "commercial",
+            "depth_level": 1
+        },
+        {
+            "vertex": "confuse",
+            "depth_level": 1
+        },
+        {
+            "vertex": "conjunction",
+            "depth_level": 1
+        },
+        {
+            "vertex": "connection",
+            "depth_level": 1
+        },
+        {
+            "vertex": "copper",
+            "depth_level": 1
+        },
+        {
+            "vertex": "costume",
+            "depth_level": 1
+        },
+        {
+            "vertex": "county",
+            "depth_level": 1
+        },
+        {
+            "vertex": "couple",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crab",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crack",
+            "depth_level": 1
+        },
+        {
+            "vertex": "creature",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crowd",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cupcake",
+            "depth_level": 1
+        },
+        {
+            "vertex": "customer",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cycle",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dead",
+            "depth_level": 1
+        },
+        {
+            "vertex": "deck",
+            "depth_level": 1
+        },
+        {
+            "vertex": "decorate",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dentist",
+            "depth_level": 1
+        },
+        {
+            "vertex": "donkey",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dot",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dressing",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dull",
+            "depth_level": 1
+        },
+        {
+            "vertex": "earn",
+            "depth_level": 1
+        },
+        {
+            "vertex": "equipment",
+            "depth_level": 1
+        },
+        {
+            "vertex": "excellent",
+            "depth_level": 1
+        },
+        {
+            "vertex": "experience",
+            "depth_level": 1
+        },
+        {
+            "vertex": "express",
+            "depth_level": 1
+        },
+        {
+            "vertex": "extra",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fabric",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fairly",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fairy",
+            "depth_level": 1
+        },
+        {
+            "vertex": "farthest",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fault",
+            "depth_level": 1
+        },
+        {
+            "vertex": "finally",
+            "depth_level": 1
+        },
+        {
+            "vertex": "firefighter",
+            "depth_level": 1
+        },
+        {
+            "vertex": "flu",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fold",
+            "depth_level": 1
+        },
+        {
+            "vertex": "football",
+            "depth_level": 1
+        },
+        {
+            "vertex": "freedom",
+            "depth_level": 1
+        },
+        {
+            "vertex": "friendly",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fungus",
+            "depth_level": 1
+        },
+        {
+            "vertex": "gather",
+            "depth_level": 1
+        },
+        {
+            "vertex": "giant",
+            "depth_level": 1
+        },
+        {
+            "vertex": "giraffe",
+            "depth_level": 1
+        },
+        {
+            "vertex": "golf",
+            "depth_level": 1
+        },
+        {
+            "vertex": "goose",
+            "depth_level": 1
+        },
+        {
+            "vertex": "gorilla",
+            "depth_level": 1
+        },
+        {
+            "vertex": "graceful",
+            "depth_level": 1
+        },
+        {
+            "vertex": "grade",
+            "depth_level": 1
+        },
+        {
+            "vertex": "grand",
+            "depth_level": 1
+        },
+        {
+            "vertex": "gun",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hall",
+            "depth_level": 1
+        },
+        {
+            "vertex": "heal",
+            "depth_level": 1
+        },
+        {
+            "vertex": "highway",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hike",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hive",
+            "depth_level": 1
+        },
+        {
+            "vertex": "homework",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hoof",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hospital",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hotel",
+            "depth_level": 1
+        },
+        {
+            "vertex": "howl",
+            "depth_level": 1
+        },
+        {
+            "vertex": "impossible",
+            "depth_level": 1
+        },
+        {
+            "vertex": "interjection",
+            "depth_level": 1
+        },
+        {
+            "vertex": "invite",
+            "depth_level": 1
+        },
+        {
+            "vertex": "itch",
+            "depth_level": 1
+        },
+        {
+            "vertex": "jar",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ketchup",
+            "depth_level": 1
+        },
+        {
+            "vertex": "keyboard",
+            "depth_level": 1
+        },
+        {
+            "vertex": "knock",
+            "depth_level": 1
+        },
+        {
+            "vertex": "knot",
+            "depth_level": 1
+        },
+        {
+            "vertex": "knowledge",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lab",
+            "depth_level": 1
+        },
+        {
+            "vertex": "label",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ladder",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lap",
+            "depth_level": 1
+        },
+        {
+            "vertex": "laundry",
+            "depth_level": 1
+        },
+        {
+            "vertex": "leader",
+            "depth_level": 1
+        },
+        {
+            "vertex": "leopard",
+            "depth_level": 1
+        },
+        {
+            "vertex": "limit",
+            "depth_level": 1
+        },
+        {
+            "vertex": "list",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lobster",
+            "depth_level": 1
+        },
+        {
+            "vertex": "locate",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lucky",
+            "depth_level": 1
+        },
+        {
+            "vertex": "magical",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mask",
+            "depth_level": 1
+        },
+        {
+            "vertex": "match",
+            "depth_level": 1
+        },
+        {
+            "vertex": "matter",
+            "depth_level": 1
+        },
+        {
+            "vertex": "medical",
+            "depth_level": 1
+        },
+        {
+            "vertex": "melt",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mine",
+            "depth_level": 1
+        },
+        {
+            "vertex": "modern",
+            "depth_level": 1
+        },
+        {
+            "vertex": "moment",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mustard",
+            "depth_level": 1
+        },
+        {
+            "vertex": "neat",
+            "depth_level": 1
+        },
+        {
+            "vertex": "nest",
+            "depth_level": 1
+        },
+        {
+            "vertex": "no",
+            "depth_level": 1
+        },
+        {
+            "vertex": "once",
+            "depth_level": 1
+        },
+        {
+            "vertex": "operation",
+            "depth_level": 1
+        },
+        {
+            "vertex": "out",
+            "depth_level": 1
+        },
+        {
+            "vertex": "owe",
+            "depth_level": 1
+        },
+        {
+            "vertex": "owner",
+            "depth_level": 1
+        },
+        {
+            "vertex": "oxygen",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pail",
+            "depth_level": 1
+        },
+        {
+            "vertex": "parade",
+            "depth_level": 1
+        },
+        {
+            "vertex": "parrot",
+            "depth_level": 1
+        },
+        {
+            "vertex": "peanut",
+            "depth_level": 1
+        },
+        {
+            "vertex": "penny",
+            "depth_level": 1
+        },
+        {
+            "vertex": "permission",
+            "depth_level": 1
+        },
+        {
+            "vertex": "petal",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pile",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pillow",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pink",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pitcher",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pond",
+            "depth_level": 1
+        },
+        {
+            "vertex": "poor",
+            "depth_level": 1
+        },
+        {
+            "vertex": "popcorn",
+            "depth_level": 1
+        },
+        {
+            "vertex": "popular",
+            "depth_level": 1
+        },
+        {
+            "vertex": "possession",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pouch",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pour",
+            "depth_level": 1
+        },
+        {
+            "vertex": "praise",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pray",
+            "depth_level": 1
+        },
+        {
+            "vertex": "prepare",
+            "depth_level": 1
+        },
+        {
+            "vertex": "preposition",
+            "depth_level": 1
+        },
+        {
+            "vertex": "price",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pride",
+            "depth_level": 1
+        },
+        {
+            "vertex": "princess",
+            "depth_level": 1
+        },
+        {
+            "vertex": "progress",
+            "depth_level": 1
+        },
+        {
+            "vertex": "proud",
+            "depth_level": 1
+        },
+        {
+            "vertex": "prove",
+            "depth_level": 1
+        },
+        {
+            "vertex": "puddle",
+            "depth_level": 1
+        },
+        {
+            "vertex": "punish",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ranch",
+            "depth_level": 1
+        },
+        {
+            "vertex": "religion",
+            "depth_level": 1
+        },
+        {
+            "vertex": "require",
+            "depth_level": 1
+        },
+        {
+            "vertex": "respect",
+            "depth_level": 1
+        },
+        {
+            "vertex": "return",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rink",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rob",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rush",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scare",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scarf",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scorpion",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scream",
+            "depth_level": 1
+        },
+        {
+            "vertex": "seal",
+            "depth_level": 1
+        },
+        {
+            "vertex": "secret",
+            "depth_level": 1
+        },
+        {
+            "vertex": "shark",
+            "depth_level": 1
+        },
+        {
+            "vertex": "single",
+            "depth_level": 1
+        },
+        {
+            "vertex": "singular",
+            "depth_level": 1
+        },
+        {
+            "vertex": "situation",
+            "depth_level": 1
+        },
+        {
+            "vertex": "skip",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sloth",
+            "depth_level": 1
+        },
+        {
+            "vertex": "song",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sorry",
+            "depth_level": 1
+        },
+        {
+            "vertex": "southern",
+            "depth_level": 1
+        },
+        {
+            "vertex": "spaceship",
+            "depth_level": 1
+        },
+        {
+            "vertex": "speech",
+            "depth_level": 1
+        },
+        {
+            "vertex": "spine",
+            "depth_level": 1
+        },
+        {
+            "vertex": "squirrel",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stamp",
+            "depth_level": 1
+        },
+        {
+            "vertex": "station",
+            "depth_level": 1
+        },
+        {
+            "vertex": "steam",
+            "depth_level": 1
+        },
+        {
+            "vertex": "steel",
+            "depth_level": 1
+        },
+        {
+            "vertex": "strap",
+            "depth_level": 1
+        },
+        {
+            "vertex": "straw",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stripe",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stuff",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stupid",
+            "depth_level": 1
+        },
+        {
+            "vertex": "style",
+            "depth_level": 1
+        },
+        {
+            "vertex": "subtract",
+            "depth_level": 1
+        },
+        {
+            "vertex": "success",
+            "depth_level": 1
+        },
+        {
+            "vertex": "suitcase",
+            "depth_level": 1
+        },
+        {
+            "vertex": "surprise",
+            "depth_level": 1
+        },
+        {
+            "vertex": "swamp",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tale",
+            "depth_level": 1
+        },
+        {
+            "vertex": "task",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tent",
+            "depth_level": 1
+        },
+        {
+            "vertex": "thunderstorm",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ticket",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tide",
+            "depth_level": 1
+        },
+        {
+            "vertex": "toad",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tobacco",
+            "depth_level": 1
+        },
+        {
+            "vertex": "toe",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tourist",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tow",
+            "depth_level": 1
+        },
+        {
+            "vertex": "track",
+            "depth_level": 1
+        },
+        {
+            "vertex": "triangle",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ugly",
+            "depth_level": 1
+        },
+        {
+            "vertex": "unit",
+            "depth_level": 1
+        },
+        {
+            "vertex": "university",
+            "depth_level": 1
+        },
+        {
+            "vertex": "upstairs",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vacation",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vanilla",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vine",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vote",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vowel",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wander",
+            "depth_level": 1
+        },
+        {
+            "vertex": "western",
+            "depth_level": 1
+        },
+        {
+            "vertex": "whistle",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wipe",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wizard",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wonder",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wooden",
+            "depth_level": 1
+        },
+        {
+            "vertex": "zipper",
+            "depth_level": 1
+        },
+        {
+            "vertex": "shopping",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scared",
+            "depth_level": 1
+        },
+        {
+            "vertex": "amazing",
+            "depth_level": 1
+        },
+        {
+            "vertex": "adjective",
+            "depth_level": 2
+        },
+        {
+            "vertex": "alive",
+            "depth_level": 2
+        },
+        {
+            "vertex": "ankle",
+            "depth_level": 2
+        },
+        {
+            "vertex": "anywhere",
+            "depth_level": 2
+        },
+        {
+            "vertex": "baseball",
+            "depth_level": 2
+        },
+        {
+            "vertex": "beak",
+            "depth_level": 2
+        },
+        {
+            "vertex": "belief",
+            "depth_level": 2
+        },
+        {
+            "vertex": "brave",
+            "depth_level": 2
+        },
+        {
+            "vertex": "bushy",
+            "depth_level": 2
+        },
+        {
+            "vertex": "button",
+            "depth_level": 2
+        },
+        {
+            "vertex": "candle",
+            "depth_level": 2
+        },
+        {
+            "vertex": "check",
+            "depth_level": 2
+        },
+        {
+            "vertex": "distant",
+            "depth_level": 2
+        },
+        {
+            "vertex": "entertain",
+            "depth_level": 2
+        },
+        {
+            "vertex": "envelope",
+            "depth_level": 2
+        },
+        {
+            "vertex": "fever",
+            "depth_level": 2
+        },
+        {
+            "vertex": "fingernail",
+            "depth_level": 2
+        },
+        {
+            "vertex": "flash",
+            "depth_level": 2
+        },
+        {
+            "vertex": "flipper",
+            "depth_level": 2
+        },
+        {
+            "vertex": "garbage",
+            "depth_level": 2
+        },
+        {
+            "vertex": "glue",
+            "depth_level": 2
+        },
+        {
+            "vertex": "hockey",
+            "depth_level": 2
+        },
+        {
+            "vertex": "hurry",
+            "depth_level": 2
+        },
+        {
+            "vertex": "imitate",
+            "depth_level": 2
+        },
+        {
+            "vertex": "inch",
+            "depth_level": 2
+        },
+        {
+            "vertex": "kid",
+            "depth_level": 2
+        },
+        {
+            "vertex": "laboratory",
+            "depth_level": 2
+        },
+        {
+            "vertex": "later",
+            "depth_level": 2
+        },
+        {
+            "vertex": "lay",
+            "depth_level": 2
+        },
+        {
+            "vertex": "leap",
+            "depth_level": 2
+        },
+        {
+            "vertex": "magic",
+            "depth_level": 2
+        },
+        {
+            "vertex": "note",
+            "depth_level": 2
+        },
+        {
+            "vertex": "notice",
+            "depth_level": 2
+        },
+        {
+            "vertex": "nurse",
+            "depth_level": 2
+        },
+        {
+            "vertex": "ounce",
+            "depth_level": 2
+        },
+        {
+            "vertex": "perform",
+            "depth_level": 2
+        },
+        {
+            "vertex": "phrase",
+            "depth_level": 2
+        },
+        {
+            "vertex": "pleasant",
+            "depth_level": 2
+        },
+        {
+            "vertex": "pressure",
+            "depth_level": 2
+        },
+        {
+            "vertex": "rainforest",
+            "depth_level": 2
+        },
+        {
+            "vertex": "rank",
+            "depth_level": 2
+        },
+        {
+            "vertex": "recent",
+            "depth_level": 2
+        },
+        {
+            "vertex": "related",
+            "depth_level": 2
+        },
+        {
+            "vertex": "ribbon",
+            "depth_level": 2
+        },
+        {
+            "vertex": "scratch",
+            "depth_level": 2
+        },
+        {
+            "vertex": "shore",
+            "depth_level": 2
+        },
+        {
+            "vertex": "sore",
+            "depth_level": 2
+        },
+        {
+            "vertex": "spot",
+            "depth_level": 2
+        },
+        {
+            "vertex": "steal",
+            "depth_level": 2
+        },
+        {
+            "vertex": "thank",
+            "depth_level": 2
+        },
+        {
+            "vertex": "trip",
+            "depth_level": 2
+        },
+        {
+            "vertex": "tropical",
+            "depth_level": 2
+        },
+        {
+            "vertex": "vinegar",
+            "depth_level": 2
+        },
+        {
+            "vertex": "war",
+            "depth_level": 2
+        },
+        {
+            "vertex": "wise",
+            "depth_level": 2
+        },
+        {
+            "vertex": "wound",
+            "depth_level": 2
+        },
+        {
+            "vertex": "zoo",
+            "depth_level": 2
+        },
+        {
+            "vertex": "address",
+            "depth_level": 3
+        },
+        {
+            "vertex": "audience",
+            "depth_level": 3
+        },
+        {
+            "vertex": "band",
+            "depth_level": 3
+        },
+        {
+            "vertex": "can",
+            "depth_level": 3
+        },
+        {
+            "vertex": "climate",
+            "depth_level": 3
+        },
+        {
+            "vertex": "copy",
+            "depth_level": 3
+        },
+        {
+            "vertex": "disappear",
+            "depth_level": 3
+        },
+        {
+            "vertex": "famous",
+            "depth_level": 3
+        },
+        {
+            "vertex": "increase",
+            "depth_level": 3
+        },
+        {
+            "vertex": "injury",
+            "depth_level": 3
+        },
+        {
+            "vertex": "late",
+            "depth_level": 3
+        },
+        {
+            "vertex": "mailbox",
+            "depth_level": 3
+        },
+        {
+            "vertex": "opinion",
+            "depth_level": 3
+        },
+        {
+            "vertex": "population",
+            "depth_level": 3
+        },
+        {
+            "vertex": "pound",
+            "depth_level": 3
+        },
+        {
+            "vertex": "region",
+            "depth_level": 3
+        },
+        {
+            "vertex": "score",
+            "depth_level": 3
+        },
+        {
+            "vertex": "skate",
+            "depth_level": 3
+        },
+        {
+            "vertex": "south",
+            "depth_level": 3
+        },
+        {
+            "vertex": "sudden",
+            "depth_level": 3
+        },
+        {
+            "vertex": "sunny",
+            "depth_level": 3
+        },
+        {
+            "vertex": "throat",
+            "depth_level": 3
+        },
+        {
+            "vertex": "warn",
+            "depth_level": 3
+        },
+        {
+            "vertex": "difficulty",
+            "depth_level": 4
+        }
+    ]
+}

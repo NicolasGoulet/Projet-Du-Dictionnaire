@@ -1,0 +1,751 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "alcohol"
+        ],
+        "arcs": [
+            [
+                "alcohol",
+                "alcohol"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "pottery"
+        ],
+        "arcs": [
+            [
+                "pottery",
+                "pottery"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "plug"
+        ],
+        "arcs": [
+            [
+                "plug",
+                "plug"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "soldier"
+        ],
+        "arcs": [
+            [
+                "soldier",
+                "soldier"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "summer"
+        ],
+        "arcs": [
+            [
+                "summer",
+                "summer"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "veterinarian"
+        ],
+        "arcs": [
+            [
+                "veterinarian",
+                "veterinarian"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "partner"
+        ],
+        "arcs": [
+            [
+                "partner",
+                "partner"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "paddle"
+        ],
+        "arcs": [
+            [
+                "paddle",
+                "paddle"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "cute"
+        ],
+        "arcs": [
+            [
+                "cute",
+                "cute"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "scientist"
+        ],
+        "arcs": [
+            [
+                "scientist",
+                "scientist"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "influence"
+        ],
+        "arcs": [
+            [
+                "influence",
+                "influence"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "niece"
+        ],
+        "arcs": [
+            [
+                "niece",
+                "niece"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "radio"
+        ],
+        "arcs": [
+            [
+                "radio",
+                "radio"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "teapot"
+        ],
+        "arcs": [
+            [
+                "teapot",
+                "teapot"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "deer"
+        ],
+        "arcs": [
+            [
+                "deer",
+                "deer"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "hump"
+        ],
+        "arcs": [
+            [
+                "hump",
+                "hump"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "flashlight"
+        ],
+        "arcs": [
+            [
+                "flashlight",
+                "flashlight"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_18": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_19": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_20": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_21": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_22": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_23": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_24": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_25": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_26": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_27": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_28": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_29": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_30": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_31": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_32": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_33": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_34": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_35": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_36": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_37": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_38": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "partner"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "veterinarian"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "teapot"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "summer"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "soldier"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "scientist"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "radio"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "pottery"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "plug"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "alcohol"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "paddle"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "niece"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "influence"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "hump"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "flashlight"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "deer"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "cute"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "alcohol"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "veterinarian"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "teapot"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "summer"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "soldier"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "scientist"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "radio"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pottery"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "plug"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "partner"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paddle"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "niece"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "influence"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "hump"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "flashlight"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "deer"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cute"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "spring"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "program"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "project"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "bunny"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "rainy"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "responsibility"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "beer"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "shop"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "signal"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "battery"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "spout"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "canoe"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "army"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "antler"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "toaster"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "vase"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "vet"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "affect"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "village"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "wine"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "website"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "nephew"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "experiment"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "desert"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "guide"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "horn"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "dance"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "lamp"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "left"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "mayor"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "mug"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "camel"
+        },
+        {
+            "in_degree": 0,
+            "vertex": "news"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "alcohol"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "veterinarian"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "teapot"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "summer"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "soldier"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "scientist"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "radio"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pottery"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "plug"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "partner"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paddle"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "niece"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "influence"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "hump"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "flashlight"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "deer"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cute"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "spring"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "program"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "project"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "bunny"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "rainy"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "responsibility"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "beer"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "shop"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "signal"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "battery"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "spout"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "canoe"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "army"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "antler"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "toaster"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "vase"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "vet"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "affect"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "village"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "wine"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "website"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "nephew"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "experiment"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "desert"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "guide"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "horn"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "dance"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "lamp"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "left"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "mayor"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "mug"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "camel"
+        },
+        {
+            "total_degree": 0,
+            "vertex": "news"
+        }
+    ]
+}

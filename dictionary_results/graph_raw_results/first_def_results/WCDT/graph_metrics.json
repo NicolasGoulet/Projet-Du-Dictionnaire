@@ -1,0 +1,633 @@
+{
+    "nb_of_vertices": "10789 / 100.00%",
+    "nb_of_words_in_kernel": "2524 / 23.39%",
+    "nb_of_words_in_core": "2126 / 19.71%",
+    "nb_of_reduced_core": "487 / 4.51%",
+    "nb_of_words_in_satelites": "398 / 3.69%",
+    "nb_of_words_in_reduced_satelites": "0 / 0.00%",
+    "nb_of_words_in_rest": "8265 / 76.61%",
+    "reduced_core_mfvs_size": "111 / 1.03%",
+    "nb_of_words_mfvs": "497 / 4.61%",
+    "initial_nb_of_loops": 834,
+    "initial_nb_of_arcs": 58647,
+    "final_nb_of_arcs": 3215,
+    "initial_nb_of_out_deg_0": 5859,
+    "initial_nb_of_in_deg_0": 7,
+    "initial_nb_of_out_deg_1": 1347,
+    "initial_nb_of_in_deg_1": 269,
+    "initial_nb_of_sccs": 108,
+    "size_of_biggest_scc": 2126,
+    "size_of_2nd_biggest_scc": 4,
+    "nb_of_sccs_kernel": 275,
+    "nb_of_sccs_reduced_digraph": 1,
+    "size_biggest_satelite_kernel": 4,
+    "size_biggest_reduced_satelite": 0,
+    "nb_undefined": "8 / 0.07%",
+    "nb_undefining": "7929 / 73.49%",
+    "top n out deg": [
+        {
+            "out_degree": 1087,
+            "vertex": "use"
+        },
+        {
+            "out_degree": 939,
+            "vertex": "make"
+        },
+        {
+            "out_degree": 936,
+            "vertex": "have"
+        },
+        {
+            "out_degree": 700,
+            "vertex": "other"
+        },
+        {
+            "out_degree": 617,
+            "vertex": "person"
+        },
+        {
+            "out_degree": 428,
+            "vertex": "small"
+        },
+        {
+            "out_degree": 387,
+            "vertex": "do"
+        },
+        {
+            "out_degree": 386,
+            "vertex": "large"
+        },
+        {
+            "out_degree": 377,
+            "vertex": "act"
+        },
+        {
+            "out_degree": 351,
+            "vertex": "part"
+        },
+        {
+            "out_degree": 329,
+            "vertex": "people"
+        },
+        {
+            "out_degree": 305,
+            "vertex": "animal"
+        },
+        {
+            "out_degree": 302,
+            "vertex": "thing"
+        },
+        {
+            "out_degree": 295,
+            "vertex": "long"
+        },
+        {
+            "out_degree": 288,
+            "vertex": "place"
+        },
+        {
+            "out_degree": 273,
+            "vertex": "way"
+        },
+        {
+            "out_degree": 273,
+            "vertex": "body"
+        },
+        {
+            "out_degree": 273,
+            "vertex": "cause"
+        },
+        {
+            "out_degree": 255,
+            "vertex": "live"
+        },
+        {
+            "out_degree": 252,
+            "vertex": "give"
+        },
+        {
+            "out_degree": 243,
+            "vertex": "often"
+        },
+        {
+            "out_degree": 240,
+            "vertex": "very"
+        },
+        {
+            "out_degree": 239,
+            "vertex": "water"
+        },
+        {
+            "out_degree": 233,
+            "vertex": "form"
+        },
+        {
+            "out_degree": 227,
+            "vertex": "plant"
+        },
+        {
+            "out_degree": 216,
+            "vertex": "time"
+        },
+        {
+            "out_degree": 213,
+            "vertex": "such"
+        },
+        {
+            "out_degree": 211,
+            "vertex": "take"
+        },
+        {
+            "out_degree": 210,
+            "vertex": "group"
+        },
+        {
+            "out_degree": 200,
+            "vertex": "move"
+        },
+        {
+            "out_degree": 195,
+            "vertex": "show"
+        },
+        {
+            "out_degree": 190,
+            "vertex": "food"
+        },
+        {
+            "out_degree": 184,
+            "vertex": "piece"
+        },
+        {
+            "out_degree": 184,
+            "vertex": "hold"
+        },
+        {
+            "out_degree": 184,
+            "vertex": "work"
+        },
+        {
+            "out_degree": 180,
+            "vertex": "past"
+        },
+        {
+            "out_degree": 174,
+            "vertex": "kind"
+        },
+        {
+            "out_degree": 158,
+            "vertex": "short"
+        },
+        {
+            "out_degree": 157,
+            "vertex": "shape"
+        },
+        {
+            "out_degree": 157,
+            "vertex": "area"
+        },
+        {
+            "out_degree": 154,
+            "vertex": "more"
+        },
+        {
+            "out_degree": 153,
+            "vertex": "sound"
+        },
+        {
+            "out_degree": 153,
+            "vertex": "material"
+        },
+        {
+            "out_degree": 152,
+            "vertex": "many"
+        },
+        {
+            "out_degree": 147,
+            "vertex": "grow"
+        },
+        {
+            "out_degree": 147,
+            "vertex": "eat"
+        },
+        {
+            "out_degree": 145,
+            "vertex": "together"
+        },
+        {
+            "out_degree": 137,
+            "vertex": "condition"
+        },
+        {
+            "out_degree": 137,
+            "vertex": "surface"
+        },
+        {
+            "out_degree": 136,
+            "vertex": "look"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 41,
+            "vertex": "bacteria"
+        },
+        {
+            "in_degree": 41,
+            "vertex": "alligator"
+        },
+        {
+            "in_degree": 38,
+            "vertex": "elephant"
+        },
+        {
+            "in_degree": 37,
+            "vertex": "dog"
+        },
+        {
+            "in_degree": 32,
+            "vertex": "kangaroo"
+        },
+        {
+            "in_degree": 31,
+            "vertex": "lichen"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "reptile"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "reindeer"
+        },
+        {
+            "in_degree": 30,
+            "vertex": "weasel"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "bison"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "plate tectonics"
+        },
+        {
+            "in_degree": 29,
+            "vertex": "bat"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "otter"
+        },
+        {
+            "in_degree": 28,
+            "vertex": "plant"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "hyena"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "raccoon"
+        },
+        {
+            "in_degree": 27,
+            "vertex": "deer"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "fungus"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "crab"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "seal"
+        },
+        {
+            "in_degree": 26,
+            "vertex": "mammoth"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "golf"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "opossum"
+        },
+        {
+            "in_degree": 25,
+            "vertex": "horse"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "pig"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "contractor"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "diesel engine"
+        },
+        {
+            "in_degree": 24,
+            "vertex": "conch"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "rodent"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "squirrel"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "leopard"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "skunk"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "blue whale"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "rabbit"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "praying mantis"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "porpoise"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "pinniped"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "termite"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "animal"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "oyster"
+        },
+        {
+            "in_degree": 23,
+            "vertex": "peccary"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "iron"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "chandelier"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "tapir"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "antelope"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "anteater"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "whale"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "wishbone"
+        },
+        {
+            "in_degree": 22,
+            "vertex": "capybara"
+        },
+        {
+            "in_degree": 21,
+            "vertex": "saber-toothed tiger"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 1089,
+            "vertex": "use"
+        },
+        {
+            "total_degree": 943,
+            "vertex": "make"
+        },
+        {
+            "total_degree": 938,
+            "vertex": "have"
+        },
+        {
+            "total_degree": 702,
+            "vertex": "other"
+        },
+        {
+            "total_degree": 619,
+            "vertex": "person"
+        },
+        {
+            "total_degree": 432,
+            "vertex": "small"
+        },
+        {
+            "total_degree": 393,
+            "vertex": "do"
+        },
+        {
+            "total_degree": 392,
+            "vertex": "large"
+        },
+        {
+            "total_degree": 380,
+            "vertex": "act"
+        },
+        {
+            "total_degree": 355,
+            "vertex": "part"
+        },
+        {
+            "total_degree": 332,
+            "vertex": "people"
+        },
+        {
+            "total_degree": 328,
+            "vertex": "animal"
+        },
+        {
+            "total_degree": 305,
+            "vertex": "thing"
+        },
+        {
+            "total_degree": 300,
+            "vertex": "long"
+        },
+        {
+            "total_degree": 292,
+            "vertex": "place"
+        },
+        {
+            "total_degree": 284,
+            "vertex": "body"
+        },
+        {
+            "total_degree": 277,
+            "vertex": "way"
+        },
+        {
+            "total_degree": 276,
+            "vertex": "cause"
+        },
+        {
+            "total_degree": 258,
+            "vertex": "live"
+        },
+        {
+            "total_degree": 255,
+            "vertex": "plant"
+        },
+        {
+            "total_degree": 253,
+            "vertex": "water"
+        },
+        {
+            "total_degree": 253,
+            "vertex": "give"
+        },
+        {
+            "total_degree": 246,
+            "vertex": "often"
+        },
+        {
+            "total_degree": 245,
+            "vertex": "very"
+        },
+        {
+            "total_degree": 235,
+            "vertex": "form"
+        },
+        {
+            "total_degree": 228,
+            "vertex": "time"
+        },
+        {
+            "total_degree": 218,
+            "vertex": "group"
+        },
+        {
+            "total_degree": 217,
+            "vertex": "take"
+        },
+        {
+            "total_degree": 216,
+            "vertex": "such"
+        },
+        {
+            "total_degree": 203,
+            "vertex": "move"
+        },
+        {
+            "total_degree": 200,
+            "vertex": "food"
+        },
+        {
+            "total_degree": 198,
+            "vertex": "show"
+        },
+        {
+            "total_degree": 192,
+            "vertex": "work"
+        },
+        {
+            "total_degree": 189,
+            "vertex": "hold"
+        },
+        {
+            "total_degree": 188,
+            "vertex": "piece"
+        },
+        {
+            "total_degree": 183,
+            "vertex": "past"
+        },
+        {
+            "total_degree": 181,
+            "vertex": "kind"
+        },
+        {
+            "total_degree": 164,
+            "vertex": "shape"
+        },
+        {
+            "total_degree": 162,
+            "vertex": "short"
+        },
+        {
+            "total_degree": 159,
+            "vertex": "area"
+        },
+        {
+            "total_degree": 158,
+            "vertex": "sound"
+        },
+        {
+            "total_degree": 158,
+            "vertex": "more"
+        },
+        {
+            "total_degree": 157,
+            "vertex": "material"
+        },
+        {
+            "total_degree": 154,
+            "vertex": "many"
+        },
+        {
+            "total_degree": 152,
+            "vertex": "grow"
+        },
+        {
+            "total_degree": 150,
+            "vertex": "eat"
+        },
+        {
+            "total_degree": 148,
+            "vertex": "together"
+        },
+        {
+            "total_degree": 146,
+            "vertex": "word"
+        },
+        {
+            "total_degree": 144,
+            "vertex": "metal"
+        },
+        {
+            "total_degree": 141,
+            "vertex": "strong"
+        }
+    ]
+}

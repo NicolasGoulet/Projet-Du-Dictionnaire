@@ -1,0 +1,7816 @@
+{
+    "words": [
+        {
+            "vertex": "Hausa_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "OK_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "The Gambia_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "a lot_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "a lot_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "absence_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "absent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "accordion_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "account_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "actress_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "actual_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "addition_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "addition_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "address_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "admit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "admit_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "adopt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "advertise_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "advertisement_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "afford_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "agreement_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "agreement_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "agreement_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "aisle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alarm_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alarm_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "album_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "all right_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "all right_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "allowance_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "allowed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "alphabetize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "already_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "am_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amaze_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ambulance_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amphibian_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amuse_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amuse_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "amusement park_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ancient_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anniversary_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "announce_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "annoy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "another_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "another_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anthill_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anxious_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "anxious_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "any_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "any_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apart_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apartment building_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apologize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appetite_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appetite_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appointment_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "appreciate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "approve_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "aquarium_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "area_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "argue_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "armadillo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "arrange_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "arrival_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "arthropod_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "artist_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ashamed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ashamed_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ashamed_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "astronaut_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "atmosphere_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attempt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attend_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attitude_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attract_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attractive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "attractive_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "author_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "available_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "avocado_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "avoid_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "awful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "awkward_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "baboon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "babysit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "background_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "background_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "backward_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bacon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "badly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bagel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bakery_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "balcony_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ballet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "balloon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bamboo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "band_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bandit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barbecue_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barber_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barely_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barge_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bark_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "barn_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "base_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "base_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "base_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "baseball_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "basement_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "basketball_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bathing suit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bathrobe_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "batter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bay_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beam_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bear_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beast_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beast_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bedroom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beehive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beer_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "beg_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "belief_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bench_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "best_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "better_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "better_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bike_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bill_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "biography_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "birdhouse_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bison_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bit_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blame_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bleach_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bleed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blink_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "block_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bloom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blossom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blow_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blow_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boast_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bobcat_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bookshelf_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "boost_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "border_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bored_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "born_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "both_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bounce_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bouquet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bow tie_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bow_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bow_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bow_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "breed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "breeze_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "briefcase_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bright_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "broccoli_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "broken_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bucket_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "buffet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bug_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bugle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bulldozer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bully_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bump_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bunch_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "burglar_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "burro_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "burrow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bury_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "bus stop_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "butcher_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "button_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cabbage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cabin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cactus_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cafeteria_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calculator_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "call_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calm_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "calves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "camouflage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "camp_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "campground_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "can_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "can_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cancel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "candlestick_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cannot_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "canyon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cap_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cape_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "capitalize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "captain_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "capybara_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "card_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "careless_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "careless_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carnation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carpenter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carpet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carriage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carry_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cart_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cartoon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cartoon_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "carve_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "case_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "case_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "case_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cash register_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cashier_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "castle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "catch_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "catcher_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cattail_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cause_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "center_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "century_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "certainly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chandelier_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chart_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "checkers_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheek_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheer_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cheerful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chemistry_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chest_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chewing gum_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chicken pox_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "children_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chili pepper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chimney_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chimpanzee_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chipmunk_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chocolate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "choice_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "choke_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "chuckle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "church_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cigarette_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cinnamon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "citizen_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "claim_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clap_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clarinet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "class_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clear_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clever_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cliff_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clothes_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "club_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "club_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coach_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coast_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coast_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coat_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coconut_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cocoon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coffee table_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "collar_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "collect_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "collection_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comb_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comfort_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comic book_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "comma_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "communicate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "community_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "company_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "compare_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "complain_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "complaint_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "computer lab_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condensation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condiment_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condition_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "condition_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cone_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cone_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "confidence_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "conserve_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "consider_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "consider_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "consonant_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "continue_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "contribute_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "convenient_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "convince_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cool_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "corn_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cottage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cotton_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cough_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "could_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "could_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "could_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "countryside_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "couple_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "courage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "course_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "course_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cowboy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cowgirl_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "coyote_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cozy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crane_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crash_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crawl_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crazy_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crazy_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crazy_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "credit card_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "creep_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "creep_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "creepy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crime_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crocodile_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crowded_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crutch_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cube_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cube_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cucumber_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cup_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cure_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "curl_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "current_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "custom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "cylinder_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "daffodil_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dandelion_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dare_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "date_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deaf_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deal_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dear_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dear_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "debt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deck_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "decrease_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "defeat_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "defend_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "definite_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "degree_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delay_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delay_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delicious_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delight_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deliver_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "delivery_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "demand_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "den_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "den_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "department store_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "description_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "deserve_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "detective_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "detergent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "develop_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "development_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diamond_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diaper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "die_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "die_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "difficulty_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dine_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dining room_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dip_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diploma_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "direct_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "direct_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "disappoint_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "discover_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "discuss_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "disguise_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "disguise_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dish_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dishtowel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dishwasher_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dismiss_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "diverse_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "divide_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "do_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "doll_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dolphin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "done_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "done_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "double_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "double_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "downstairs_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "downtown_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "draw_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drawbridge_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dread_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dream_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drift_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drive_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drive_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "driveway_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drowsy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drugstore_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drum_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "duty_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "each_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "early_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "earn_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "earring_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "echo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "edge_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "edge_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "educate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "education_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "elbow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "elect_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "electric_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "element_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "element_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "elves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "embarrass_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "emergency_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "employ_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "employee_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "employer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "enemy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "engine_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "enter_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entertain_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entire_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entrance_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entrance_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "entree_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "environment_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "environment_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eraser_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "escalator_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "escape_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "evaporate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "evaporation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "even_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "every_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "everywhere_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "example_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "exclaim_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "excuse_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "exercise_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "expensive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "experience_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "explain_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "explore_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "explorer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "expression_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "extreme_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eyebrow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eyelash_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eyelid_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fail_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fail_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fail_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "failure_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "faint_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fair_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fair_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fair_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fairly_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fairy tale_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "faithful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "false_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "familiar_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fantasy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "farther_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fashion_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fashion_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fast_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "faucet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fault_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "favor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "favorite_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "feast_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "feature_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "feet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fern_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ferry_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fiber_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "field trip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "figure_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "figure_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "film_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fin_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "final_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "finally_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fine_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fine_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fine_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fire station_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "firefly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fireplace_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fireworks_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fix_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flake_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flash_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flee_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flight_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flight_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flight_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flock_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fluffy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "flute_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fly_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "foal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "follow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "follow_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fool_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "football_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "footprint_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "force_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "foreign_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "forget_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "forget_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "forgive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fork_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fortunate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fortunate_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fowl_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "free_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "free_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "freezer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frequent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frequently_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fresh_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frighten_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "frosting_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "funeral_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fungi_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "further_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "fuzzy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gain_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gain_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "garage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "garage_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "garbage can_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gas station_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "geese_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "general_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "general_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "generally_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "generous_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "get_9",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ghost_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "giggle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "glad_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "glasses_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "glove_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "go_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "goal_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gobble_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gobble_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "govern_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grab_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grain_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grammar_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grandchild_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grandma_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grandpa_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grapefruit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grasshopper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "greeting_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grocery store_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "grocery_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "groom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ground beef_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "groundhog_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "growl_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "growl_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guest_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guilty_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guinea pig_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gun_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gym_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "habit_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hail_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hall_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hand_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harbor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hardly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harmful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "harvest_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hatch_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hawk_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hear_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "heart_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "heel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "heel_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "helmet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "help_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "help_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "helpful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "herd_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hero_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "heroine_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hibernate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hippopotamus_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hire_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "his_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hive_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hobby_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "holiday_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "honest_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "honor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hook_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hook_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hooves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hop_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hot dog_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hour_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "how_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "how_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "how_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "huddle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hug_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "huge_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hum_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "humor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hurricane_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hut_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ice cream_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ice skate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ice-skate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "iceberg_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "icicle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "identify_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ignore_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "illustrate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "image_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "imagination_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "increase_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "independent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "independent_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "index finger_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "individual_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "indoor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "industry_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "inform_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ingredient_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "instant_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "insult_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "intend_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "interrupt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "introduce_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "introduction_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invention_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invertebrate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invitation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invite_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "iris_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ironing board_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "is_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "itchy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "its_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jam_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "janitor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jaw_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jealous_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jeans_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "journey_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "joy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "judge_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "jungle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kangaroo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kettle_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kid_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kid_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kindergarten_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kiss_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "kitten_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "knight_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "knives_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "knob_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lace_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lace_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lack_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ladle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lane_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "language_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lantern_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "last_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "late_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lately_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "laughter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "law_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lawn_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lawyer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lead_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lean_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "leash_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "least_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "leaves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "left_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lend_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "length_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "level_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "librarian_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "license_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lick_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "life cycle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lighthouse_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lily_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lime_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "line_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "link_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "litter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "living room_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loaves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "log_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loose_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lose_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lose_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lost_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lost_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lot_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loyal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "luck_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lullaby_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "lynx_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mad_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "magician_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mail carrier_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "major_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "make-believe_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mall_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "manage_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "manager_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "manner_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mansion_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "maple_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marble_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marble_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "market_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marry_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "marshmallow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "match_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "match_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mathematics_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "may_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "may_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mayonnaise_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "maze_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "measurement_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mechanic_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "medal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "medicine_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "meeting_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "melon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "memory_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "men_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mental_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mention_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "menu_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "meow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "merchant_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mess_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "messenger_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "method_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mice_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "microphone_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "microwave_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "might_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "million_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miner_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "minute_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miss_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miss_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "miss_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mitten_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mobile_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "model_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "model_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "monitor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mood_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mop_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "moral_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "moral_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "moth_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "motorcycle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "movie theater_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "muddy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "multiply_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mural_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mushroom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "musician_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "must_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "must_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "must_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mutter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "my_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mystery_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mystery_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nap_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "napkin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nasty_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nasty_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "national_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "national_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "natural_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nature_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nest_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "next door_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nickname_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "night table_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nightgown_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "no_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "noisy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nonsense_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "north_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "not_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "note_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nothing_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "nowhere_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "number_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "o'clock_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "occur_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "octopus_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "off_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "off_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "off_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "off_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "office building_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "office_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "oil_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "old-fashioned_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "old_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "olive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "once_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "operate_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "operate_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "operation_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "opossum_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "opportunity_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "opposite_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "orchard_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "organization_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "organization_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "organize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ostrich_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ought_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ought_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ounce_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "our_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "out_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "out_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "out_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "outer space_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "outgrow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "owl_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pack_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "package_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "painter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "painter_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pajamas_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "palace_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pants_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paper towel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "parachute_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "parakeet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "part of speech_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "party_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paste_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "patience_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "patient_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "paw_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peace_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peace_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peacock_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peanut butter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pebble_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peep_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peep_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "peninsula_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pepper grinder_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "perfume_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "perhaps_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "permanent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "permit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "personal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "persuade_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "petunia_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "phone_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "photo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "photographer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "picnic_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pig_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pigeon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "piglet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pill_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pilot_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pine_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pineapple_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pint_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pipe_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "piranha_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pirate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pitch_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pitchfork_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plaid_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "planetarium_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plant_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "player_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pleasant_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "point_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pointy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poison_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poisonous_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "polar bear_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pole_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "police officer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "police station_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "polka dot_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pollute_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pony_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pool_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poor_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poor_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poppy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "porch_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "porcupine_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pork_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "positive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "positive_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "possess_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "possibility_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poster_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pot_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "potholder_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pouch_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pound_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "precipitation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prefer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "preserve_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "preserve_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "press_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pressure_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pretend_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "previous_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prey_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "principal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "print_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "prison_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "privacy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "private_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "process_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "profession_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "professor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "profit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "program_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "program_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pronounce_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pronounce_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pronunciation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "proof_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "proper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "property_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "property_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "provide_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "province_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pudding_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pumpkin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "punishment_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pup_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "puppet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pure_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pure_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pure_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "purr_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "puzzle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pyramid_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pyramid_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quack_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quality_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quantity_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quarter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "question mark_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quick_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quick_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quiet_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quit_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quite_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quiz_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raccoon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rack_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raft_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "railroad_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raise_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raisin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rake_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "range_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "range_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ranger_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rapid_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rare_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rash_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rather_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "raw_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ray_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reach_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "react_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reaction_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "real_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "realize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reason_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recipe_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recite_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recognize_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "record_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rectangle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "recycle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "refreshment_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "refuse_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "regular_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reindeer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "related_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "relationship_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "relationship_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "relax_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "religious_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "remember_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rent_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "repeat_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "repeat_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reply_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "report card_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "represent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reproduce_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reproduction_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "require_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rescue_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "responsible_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "responsible_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "responsible_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "restrict_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "result_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "return_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "review_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "reward_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rhinoceros_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rich_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rid_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ring finger_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ring_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ring_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ring_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rise_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "risk_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roam_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roast_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roast_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "robot_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rock_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rock_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rocket_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "role_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roller coaster_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "roller skate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "romantic_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rooster_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rose_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rough_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "royal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ruin_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ruler_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rumble_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "runner_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rural_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sadly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "safety_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sailboat_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sale_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sale_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "salesclerk_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "saltshaker_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "save_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "saxophone_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scarecrow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scarves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "schedule_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "school_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scissors_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scold_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "scratchy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "screen_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "screen_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sea anemone_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sea gull_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seafood_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "search_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seashore_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "season_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seat belt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seaweed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "secretary_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "see_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "seesaw_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "selfish_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sense_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sense_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "service_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "set_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "settle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "several_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shade_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shade_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shadow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shallow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shampoo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sharp_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shave_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shelter_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shelves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sheriff_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shine_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shoot_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shoot_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shop_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shorts_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shot_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shot_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "should_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "should_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "should_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shoulder_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shove_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "shower_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sibling_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sickness_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sickness_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "side_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sideways_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sight_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sight_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "signature_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "silence_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "silent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "silly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "silver_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "singer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "single_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "siren_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sit_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sit_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "ski_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skin_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skull_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skunk_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "skyscraper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slave_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sled_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sleeping bag_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sleepy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sleet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slice_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slight_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slipper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slippery_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "smash_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "smash_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "smash_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "smell_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snap_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snap_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snap_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sneak_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sneak_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sneeze_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sniff_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sniffle_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snob_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snow_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snowball_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "snowman_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "soccer ball_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "solid_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "some_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "some_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "someday_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "somehow_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "somersault_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spatula_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "speaker_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "speaker_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "specific_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "specific_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spell_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spell_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spin_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spinach_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "splash_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spoil_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spoil_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spoonful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spread_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "spring_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "square_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "squeeze_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stack_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stairs_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "star_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "star_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "statement_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "statement_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "station_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "statue_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stay_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "steak_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "steer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "steering wheel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "step_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stepmother_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stethoscope_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stick_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sticker_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stiff_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sting_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stir_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stop_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "straight_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "strange_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stranger_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stray_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "strict_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "strike_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "string_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "structure_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stuff_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "stuffed animal_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "style_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "style_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "subject_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "submarine_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "substitute_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suburb_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suburban_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "subway_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "succeed_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "success_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "successful_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suffer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sugar cane_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suggest_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sum_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sundae_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunflower_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunglasses_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunny_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sunset_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "supply_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "support_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "suppose_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "surgeon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "surround_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "survive_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sweep_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "swell_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "swimmer_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "sympathy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "symptom_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "system unit_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tablespoon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tag_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tailor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "talent_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tame_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tape_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tape_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "target_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tattle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tax_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "taxi_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tear_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tease_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "teeth_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "telescope_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "teller_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "temperature_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "temporary_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tempt_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tennis ball_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tepee_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "terrible_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "territory_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "their_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "their_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "these_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "thief_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "thirsty_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "thorough_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "those_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tickle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tide pool_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tip_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tire_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "toilet paper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "toothbrush_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "toothpaste_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "topic_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tornado_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tortoise_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "total_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tough_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tough_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tough_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tough_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tour_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tow truck_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tower_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "track_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trade_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tradition_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "traditional_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "traffic_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trail_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "translate_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "transportation_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trap_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trash_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tray_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "treasure_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "treat_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "triangle_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trick-or-treat_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "troll_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trophy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trouble_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trunk_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trunk_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "trunk_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tug_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tugboat_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tuna_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tune_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tunnel_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tusk_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "tuxedo_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "twice_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "twice_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "twin_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "umpire_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "unicorn_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "uniform_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "unite_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "untie_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "upside down_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "urban_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "used_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "used_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "useless_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "valley_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "vapor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "various_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "velvet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "view_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "view_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "violet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "visitor_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "volcano_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "volleyball_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "volleyball_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "vowel_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "voyage_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "vulture_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wag_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wagon_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "walk_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wallet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wand_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "washing machine_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wastebasket_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "water cycle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "waterfall_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "watermelon_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wave_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wear_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "web_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weed_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weekend_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "weep_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "west_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "when_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "where_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "where_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "whip_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "whisper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "whistle_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "whose_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "why_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "width_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wiggle_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wiggle_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "will_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "willing_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "windmill_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wink_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "winner_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "witch_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wives_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wolves_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "women_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wonderful_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "worse_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "worst_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "would_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "would_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "would_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wrapper_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "wreck_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "writer_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "xylophone_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yawn_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yell_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yes_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "yes_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "your_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "accept_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "actor_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "adventure_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "adverb_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "advice_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "aim_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "airport_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "alike_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "always_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "amazing_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ancient_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "anteater_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "anyway_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "appear_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "appear_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "appreciate_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "aquarium_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "armor_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ask_5",
+            "depth_level": 1
+        },
+        {
+            "vertex": "atmosphere_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "authority_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "awkward_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "babysitter_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "backward_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "balcony_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ballet_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "basic_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "batter_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "battle_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beam_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beard_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beat_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "beef_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "behavior_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "belly_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "belt_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bend_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "blink_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "blow_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "blow_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "body_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "boot_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bounce_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bride_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "broom_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "buffet_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bump_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "bunch_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "butterfly_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "calf_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "can_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "canal_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cap_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "captain_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "car_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cart_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cash_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cave_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ceiling_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cereal_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chance_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chance_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chapter_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chess_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chest_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chick_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "chili_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "claim_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "clover_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "collar_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "collect_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "comic_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "condition_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "confuse_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "conjunction_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "connection_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "consonant_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "contest_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "convenient_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "conversation_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "copper_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cord_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "costume_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "county_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "couple_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "course_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "course_5",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crab_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crack_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crane_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crash_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crazy_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "creature_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "crowd_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "customer_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "cycle_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dead_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "deck_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "decorate_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "definite_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "degree_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dentist_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "detail_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "diamond_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dizzy_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "donkey_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dressing_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "dull_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "duty_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ear_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "earn_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "environment_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "escape_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "especially_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "even_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ever_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "evil_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "expect_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "express_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "extra_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "extreme_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fabric_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fail_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "faint_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fair_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fairly_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fairy_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "familiar_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "farthest_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fault_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "figure_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "figure_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "finally_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fire_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "firefighter_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fold_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "football_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "football_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "forget_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fowl_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "freedom_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "friendly_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "fungus_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "furry_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "gather_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "generally_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "get_8",
+            "depth_level": 1
+        },
+        {
+            "vertex": "giant_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "giraffe_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "golf_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "goose_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "gorilla_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "governor_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "graceful_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "grade_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "grand_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "great_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "guilty_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "habit_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hall_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "heal_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "height_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hero_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "heroine_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hide_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "highway_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hive_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hoof_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "hospital_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "howl_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "illness_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "instrument_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "interjection_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "jar_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ketchup_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "kettle_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "keyboard_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "knock_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "knot_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "know_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "knowledge_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lab_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "label_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ladder_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lane_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lap_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "last_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "laundry_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lead_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "leopard_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "limit_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "little_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lobster_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "locate_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lonely_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "loop_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lose_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "love_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "lucky_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mad_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "magical_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "major_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "manner_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mask_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "match_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "medical_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "melt_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "memory_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "messy_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mile_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mine_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "minute_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "model_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "modern_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "mustard_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "needle_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "neighbor_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "nest_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "net_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "nickname_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "occasion_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "occur_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "offer_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "once_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "operate_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "operation_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "owe_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "oxygen_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pail_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pain_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "parade_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "parrot_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pass_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pass_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pass_6",
+            "depth_level": 1
+        },
+        {
+            "vertex": "paste_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pause_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "peanut_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "penny_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pepper_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "permission_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "persuade_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "petal_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pile_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pink_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pitch_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pitcher_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "plane_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "playground_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pocket_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pole_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pollution_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pond_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "poor_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "popcorn_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "popular_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "positive_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "possession_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pouch_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "praise_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pray_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "prepare_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "prepare_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "preposition_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "pride_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "princess_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "proud_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "prove_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "puddle_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "quality_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ranch_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rapid_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rather_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "record_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "refuse_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "religious_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "remind_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rent_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "request_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "require_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rest_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "return_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rink_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rob_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "row_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rub_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "run_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "rush_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sandal_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "save_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scare_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scarf_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scorpion_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "scream_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "seal_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "season_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "secret_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "serious_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "settle_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "shade_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sharp_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sharp_5",
+            "depth_level": 1
+        },
+        {
+            "vertex": "shopping_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "shot_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "side_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "single_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "singular_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "skip_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "skunk_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sloth_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sniff_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sniffle_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "solid_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "sorry_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "south_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "southern_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "spaceship_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "speak_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "speak_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "speed_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "spine_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stamp_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stand_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "state_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "straw_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "straw_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "strike_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stripe_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "stuff_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "subtract_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "success_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "successful_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "suppose_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "surprise_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "survive_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "swamp_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "system_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tale_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tap_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "task_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tear_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tent_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "territory_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "thunderstorm_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ticket_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tide_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tired_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "toad_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tobacco_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tourist_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "tow_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "track_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "treat_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "trick_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "trunk_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "turn_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "ugly_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "university_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vanilla_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vine_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "vote_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wander_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "weigh_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "western_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wild_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "will_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wipe_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wizard_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wonder_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "wooden_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "writer_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "zipper_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "adjective_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "already_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "always_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "anywhere_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "average_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "bad_5",
+            "depth_level": 2
+        },
+        {
+            "vertex": "bag_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "basket_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "beak_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "board_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "breath_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "burn_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "button_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "candle_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "card_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "cat_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "catch_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "charge_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "check_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "chewy_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "clearly_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "commercial_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "dancer_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "distant_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "dull_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "easy_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "entertain_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "envelope_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "far_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "flash_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "flipper_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "garbage_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "grade_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "guess_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "gun_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "hurry_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "imitate_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "improve_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "include_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "joke_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "laboratory_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "later_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "lay_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "lay_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "limit_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "loose_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "magic_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "magic_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "matter_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "microscope_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "neat_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "note_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "nurse_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "occasion_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "owner_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "pass_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "phrase_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "pillow_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "pitcher_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "play_4",
+            "depth_level": 2
+        },
+        {
+            "vertex": "pressure_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "progress_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "rainforest_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "recent_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "related_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "religion_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "remind_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "ribbon_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "ring_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "rink_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "rough_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "run_4",
+            "depth_level": 2
+        },
+        {
+            "vertex": "scared_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "shark_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "sheet_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "shell_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "shore_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "slow_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "smoke_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "song_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "space_3",
+            "depth_level": 2
+        },
+        {
+            "vertex": "speech_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "spring_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "state_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "steal_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "steam_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "style_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "suck_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "tall_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "thing_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "track_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "treat_4",
+            "depth_level": 2
+        },
+        {
+            "vertex": "tropical_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "up_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "upstairs_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "vacation_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "valuable_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "vinegar_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "vowel_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "war_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "way_2",
+            "depth_level": 2
+        },
+        {
+            "vertex": "west_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "whistle_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "wound_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "address_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "band_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "bear_4",
+            "depth_level": 3
+        },
+        {
+            "vertex": "belief_2",
+            "depth_level": 3
+        },
+        {
+            "vertex": "broad_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "chalk_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "check_2",
+            "depth_level": 3
+        },
+        {
+            "vertex": "climate_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "disappear_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "especially_2",
+            "depth_level": 3
+        },
+        {
+            "vertex": "goal_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "impossible_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "injury_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "pour_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "purse_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "region_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "remember_3",
+            "depth_level": 3
+        },
+        {
+            "vertex": "shoot_2",
+            "depth_level": 3
+        },
+        {
+            "vertex": "south_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "sudden_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "suitcase_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "wax_2",
+            "depth_level": 3
+        },
+        {
+            "vertex": "your_1",
+            "depth_level": 3
+        },
+        {
+            "vertex": "arrow_1",
+            "depth_level": 4
+        },
+        {
+            "vertex": "band_2",
+            "depth_level": 4
+        },
+        {
+            "vertex": "cool_1",
+            "depth_level": 4
+        },
+        {
+            "vertex": "difficulty_1",
+            "depth_level": 4
+        },
+        {
+            "vertex": "monster_1",
+            "depth_level": 4
+        },
+        {
+            "vertex": "rise_3",
+            "depth_level": 4
+        },
+        {
+            "vertex": "shoot_4",
+            "depth_level": 5
+        },
+        {
+            "vertex": "shoot_1",
+            "depth_level": 6
+        }
+    ]
+}

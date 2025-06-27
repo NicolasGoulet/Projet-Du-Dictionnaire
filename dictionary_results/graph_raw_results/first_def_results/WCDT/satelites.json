@@ -1,0 +1,2458 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "marry"
+        ],
+        "arcs": [
+            [
+                "marry",
+                "marry"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "marsupial"
+        ],
+        "arcs": [
+            [
+                "marsupial",
+                "marsupial"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "fierce"
+        ],
+        "arcs": [
+            [
+                "fierce",
+                "fierce"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "lump"
+        ],
+        "arcs": [
+            [
+                "lump",
+                "lump"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "aircraft"
+        ],
+        "arcs": [
+            [
+                "aircraft",
+                "aircraft"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "strange"
+        ],
+        "arcs": [
+            [
+                "strange",
+                "strange"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "insane"
+        ],
+        "arcs": [
+            [
+                "insane",
+                "insane"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "woodwind"
+        ],
+        "arcs": [
+            [
+                "woodwind",
+                "woodwind"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "butter"
+        ],
+        "arcs": [
+            [
+                "butter",
+                "butter"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "wash"
+        ],
+        "arcs": [
+            [
+                "wash",
+                "wash"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "drawer"
+        ],
+        "arcs": [
+            [
+                "drawer",
+                "drawer"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "document"
+        ],
+        "arcs": [
+            [
+                "document",
+                "document"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "liver"
+        ],
+        "arcs": [
+            [
+                "liver",
+                "liver"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "urine"
+        ],
+        "arcs": [
+            [
+                "urine",
+                "urine"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "maybe",
+            "possibly"
+        ],
+        "arcs": [
+            [
+                "maybe",
+                "maybe"
+            ],
+            [
+                "possibly",
+                "possibly"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "rot"
+        ],
+        "arcs": [
+            [
+                "rot",
+                "rot"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "skunk"
+        ],
+        "arcs": [
+            [
+                "skunk",
+                "skunk"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [
+            "vow"
+        ],
+        "arcs": [
+            [
+                "vow",
+                "vow"
+            ]
+        ]
+    },
+    "satellite_18": {
+        "vertices": [
+            "windpipe"
+        ],
+        "arcs": [
+            [
+                "windpipe",
+                "windpipe"
+            ]
+        ]
+    },
+    "satellite_19": {
+        "vertices": [
+            "burp"
+        ],
+        "arcs": [
+            [
+                "burp",
+                "burp"
+            ]
+        ]
+    },
+    "satellite_20": {
+        "vertices": [
+            "vote"
+        ],
+        "arcs": [
+            [
+                "vote",
+                "vote"
+            ]
+        ]
+    },
+    "satellite_21": {
+        "vertices": [
+            "haunt"
+        ],
+        "arcs": [
+            [
+                "haunt",
+                "haunt"
+            ]
+        ]
+    },
+    "satellite_22": {
+        "vertices": [
+            "puck"
+        ],
+        "arcs": [
+            [
+                "puck",
+                "puck"
+            ]
+        ]
+    },
+    "satellite_23": {
+        "vertices": [
+            "brag"
+        ],
+        "arcs": [
+            [
+                "brag",
+                "brag"
+            ]
+        ]
+    },
+    "satellite_24": {
+        "vertices": [
+            "declare"
+        ],
+        "arcs": [
+            [
+                "declare",
+                "declare"
+            ]
+        ]
+    },
+    "satellite_25": {
+        "vertices": [
+            "steeple"
+        ],
+        "arcs": [
+            [
+                "steeple",
+                "steeple"
+            ]
+        ]
+    },
+    "satellite_26": {
+        "vertices": [
+            "puddle"
+        ],
+        "arcs": [
+            [
+                "puddle",
+                "puddle"
+            ]
+        ]
+    },
+    "satellite_27": {
+        "vertices": [
+            "hump"
+        ],
+        "arcs": [
+            [
+                "hump",
+                "hump"
+            ]
+        ]
+    },
+    "satellite_28": {
+        "vertices": [
+            "sweater"
+        ],
+        "arcs": [
+            [
+                "sweater",
+                "sweater"
+            ]
+        ]
+    },
+    "satellite_29": {
+        "vertices": [
+            "sorry"
+        ],
+        "arcs": [
+            [
+                "sorry",
+                "sorry"
+            ]
+        ]
+    },
+    "satellite_30": {
+        "vertices": [
+            "enchant"
+        ],
+        "arcs": [
+            [
+                "enchant",
+                "enchant"
+            ]
+        ]
+    },
+    "satellite_31": {
+        "vertices": [
+            "pail"
+        ],
+        "arcs": [
+            [
+                "pail",
+                "pail"
+            ]
+        ]
+    },
+    "satellite_32": {
+        "vertices": [
+            "rung"
+        ],
+        "arcs": [
+            [
+                "rung",
+                "rung"
+            ]
+        ]
+    },
+    "satellite_33": {
+        "vertices": [
+            "snug"
+        ],
+        "arcs": [
+            [
+                "snug",
+                "snug"
+            ]
+        ]
+    },
+    "satellite_34": {
+        "vertices": [
+            "suppose"
+        ],
+        "arcs": [
+            [
+                "suppose",
+                "suppose"
+            ]
+        ]
+    },
+    "satellite_35": {
+        "vertices": [
+            "clumsy"
+        ],
+        "arcs": [
+            [
+                "clumsy",
+                "clumsy"
+            ]
+        ]
+    },
+    "satellite_36": {
+        "vertices": [
+            "wretched"
+        ],
+        "arcs": [
+            [
+                "wretched",
+                "wretched"
+            ]
+        ]
+    },
+    "satellite_37": {
+        "vertices": [
+            "sweat"
+        ],
+        "arcs": [
+            [
+                "sweat",
+                "sweat"
+            ]
+        ]
+    },
+    "satellite_38": {
+        "vertices": [
+            "gene"
+        ],
+        "arcs": [
+            [
+                "gene",
+                "gene"
+            ]
+        ]
+    },
+    "satellite_39": {
+        "vertices": [
+            "graveyard"
+        ],
+        "arcs": [
+            [
+                "graveyard",
+                "graveyard"
+            ]
+        ]
+    },
+    "satellite_40": {
+        "vertices": [
+            "nun"
+        ],
+        "arcs": [
+            [
+                "nun",
+                "nun"
+            ]
+        ]
+    },
+    "satellite_41": {
+        "vertices": [
+            "meteorite"
+        ],
+        "arcs": [
+            [
+                "meteorite",
+                "meteorite"
+            ]
+        ]
+    },
+    "satellite_42": {
+        "vertices": [
+            "mutter"
+        ],
+        "arcs": [
+            [
+                "mutter",
+                "mutter"
+            ]
+        ]
+    },
+    "satellite_43": {
+        "vertices": [
+            "seldom"
+        ],
+        "arcs": [
+            [
+                "seldom",
+                "seldom"
+            ]
+        ]
+    },
+    "satellite_44": {
+        "vertices": [
+            "regularly"
+        ],
+        "arcs": [
+            [
+                "regularly",
+                "regularly"
+            ]
+        ]
+    },
+    "satellite_45": {
+        "vertices": [
+            "trivial"
+        ],
+        "arcs": [
+            [
+                "trivial",
+                "trivial"
+            ]
+        ]
+    },
+    "satellite_46": {
+        "vertices": [
+            "stubborn"
+        ],
+        "arcs": [
+            [
+                "stubborn",
+                "stubborn"
+            ]
+        ]
+    },
+    "satellite_47": {
+        "vertices": [
+            "slavery"
+        ],
+        "arcs": [
+            [
+                "slavery",
+                "slavery"
+            ]
+        ]
+    },
+    "satellite_48": {
+        "vertices": [
+            "villain"
+        ],
+        "arcs": [
+            [
+                "villain",
+                "villain"
+            ]
+        ]
+    },
+    "satellite_49": {
+        "vertices": [
+            "ending"
+        ],
+        "arcs": [
+            [
+                "ending",
+                "ending"
+            ]
+        ]
+    },
+    "satellite_50": {
+        "vertices": [
+            "plump"
+        ],
+        "arcs": [
+            [
+                "plump",
+                "plump"
+            ]
+        ]
+    },
+    "satellite_51": {
+        "vertices": [
+            "silly"
+        ],
+        "arcs": [
+            [
+                "silly",
+                "silly"
+            ]
+        ]
+    },
+    "satellite_52": {
+        "vertices": [
+            "integrity"
+        ],
+        "arcs": [
+            [
+                "integrity",
+                "integrity"
+            ]
+        ]
+    },
+    "satellite_53": {
+        "vertices": [
+            "teacher"
+        ],
+        "arcs": [
+            [
+                "teacher",
+                "teacher"
+            ]
+        ]
+    },
+    "satellite_54": {
+        "vertices": [
+            "schoolwork"
+        ],
+        "arcs": [
+            [
+                "schoolwork",
+                "schoolwork"
+            ]
+        ]
+    },
+    "satellite_55": {
+        "vertices": [
+            "slippery"
+        ],
+        "arcs": [
+            [
+                "slippery",
+                "slippery"
+            ]
+        ]
+    },
+    "satellite_56": {
+        "vertices": [
+            "hardly"
+        ],
+        "arcs": [
+            [
+                "hardly",
+                "hardly"
+            ]
+        ]
+    },
+    "satellite_57": {
+        "vertices": [
+            "soothe"
+        ],
+        "arcs": [
+            [
+                "soothe",
+                "soothe"
+            ]
+        ]
+    },
+    "satellite_58": {
+        "vertices": [
+            "polite"
+        ],
+        "arcs": [
+            [
+                "polite",
+                "polite"
+            ]
+        ]
+    },
+    "satellite_59": {
+        "vertices": [
+            "frighten"
+        ],
+        "arcs": [
+            [
+                "frighten",
+                "frighten"
+            ]
+        ]
+    },
+    "satellite_60": {
+        "vertices": [
+            "sparkle"
+        ],
+        "arcs": [
+            [
+                "sparkle",
+                "sparkle"
+            ]
+        ]
+    },
+    "satellite_61": {
+        "vertices": [
+            "suffocate"
+        ],
+        "arcs": [
+            [
+                "suffocate",
+                "suffocate"
+            ]
+        ]
+    },
+    "satellite_62": {
+        "vertices": [
+            "unpleasant"
+        ],
+        "arcs": [
+            [
+                "unpleasant",
+                "unpleasant"
+            ]
+        ]
+    },
+    "satellite_63": {
+        "vertices": [
+            "mild"
+        ],
+        "arcs": [
+            [
+                "mild",
+                "mild"
+            ]
+        ]
+    },
+    "satellite_64": {
+        "vertices": [
+            "daybreak"
+        ],
+        "arcs": [
+            [
+                "daybreak",
+                "daybreak"
+            ]
+        ]
+    },
+    "satellite_65": {
+        "vertices": [
+            "flaw"
+        ],
+        "arcs": [
+            [
+                "flaw",
+                "flaw"
+            ]
+        ]
+    },
+    "satellite_66": {
+        "vertices": [
+            "tap"
+        ],
+        "arcs": [
+            [
+                "tap",
+                "tap"
+            ]
+        ]
+    },
+    "satellite_67": {
+        "vertices": [
+            "waterfall"
+        ],
+        "arcs": [
+            [
+                "waterfall",
+                "waterfall"
+            ]
+        ]
+    },
+    "satellite_68": {
+        "vertices": [
+            "rage"
+        ],
+        "arcs": [
+            [
+                "rage",
+                "rage"
+            ]
+        ]
+    },
+    "satellite_69": {
+        "vertices": [
+            "almost"
+        ],
+        "arcs": [
+            [
+                "almost",
+                "almost"
+            ]
+        ]
+    },
+    "satellite_70": {
+        "vertices": [
+            "refrigerator"
+        ],
+        "arcs": [
+            [
+                "refrigerator",
+                "refrigerator"
+            ]
+        ]
+    },
+    "satellite_71": {
+        "vertices": [
+            "armadillo"
+        ],
+        "arcs": [
+            [
+                "armadillo",
+                "armadillo"
+            ]
+        ]
+    },
+    "satellite_72": {
+        "vertices": [
+            "seal"
+        ],
+        "arcs": [
+            [
+                "seal",
+                "seal"
+            ]
+        ]
+    },
+    "satellite_73": {
+        "vertices": [
+            "heron"
+        ],
+        "arcs": [
+            [
+                "heron",
+                "heron"
+            ]
+        ]
+    },
+    "satellite_74": {
+        "vertices": [
+            "nasty"
+        ],
+        "arcs": [
+            [
+                "nasty",
+                "nasty"
+            ]
+        ]
+    },
+    "satellite_75": {
+        "vertices": [
+            "vaccine"
+        ],
+        "arcs": [
+            [
+                "vaccine",
+                "vaccine"
+            ]
+        ]
+    },
+    "satellite_76": {
+        "vertices": [
+            "peppermint"
+        ],
+        "arcs": [
+            [
+                "peppermint",
+                "peppermint"
+            ]
+        ]
+    },
+    "satellite_77": {
+        "vertices": [
+            "tablet"
+        ],
+        "arcs": [
+            [
+                "tablet",
+                "tablet"
+            ]
+        ]
+    },
+    "satellite_78": {
+        "vertices": [
+            "soldier"
+        ],
+        "arcs": [
+            [
+                "soldier",
+                "soldier"
+            ]
+        ]
+    },
+    "satellite_79": {
+        "vertices": [
+            "punctuation"
+        ],
+        "arcs": [
+            [
+                "punctuation",
+                "punctuation"
+            ]
+        ]
+    },
+    "satellite_80": {
+        "vertices": [
+            "limestone"
+        ],
+        "arcs": [
+            [
+                "limestone",
+                "limestone"
+            ]
+        ]
+    },
+    "satellite_81": {
+        "vertices": [
+            "algae"
+        ],
+        "arcs": [
+            [
+                "algae",
+                "algae"
+            ]
+        ]
+    },
+    "satellite_82": {
+        "vertices": [
+            "sofa"
+        ],
+        "arcs": [
+            [
+                "sofa",
+                "sofa"
+            ]
+        ]
+    },
+    "satellite_83": {
+        "vertices": [
+            "daring"
+        ],
+        "arcs": [
+            [
+                "daring",
+                "daring"
+            ]
+        ]
+    },
+    "satellite_84": {
+        "vertices": [
+            "fireplace"
+        ],
+        "arcs": [
+            [
+                "fireplace",
+                "fireplace"
+            ]
+        ]
+    },
+    "satellite_85": {
+        "vertices": [
+            "tennis"
+        ],
+        "arcs": [
+            [
+                "tennis",
+                "tennis"
+            ]
+        ]
+    },
+    "satellite_86": {
+        "vertices": [
+            "splendid"
+        ],
+        "arcs": [
+            [
+                "splendid",
+                "splendid"
+            ]
+        ]
+    },
+    "satellite_87": {
+        "vertices": [
+            "wallet"
+        ],
+        "arcs": [
+            [
+                "wallet",
+                "wallet"
+            ]
+        ]
+    },
+    "satellite_88": {
+        "vertices": [
+            "mourn"
+        ],
+        "arcs": [
+            [
+                "mourn",
+                "mourn"
+            ]
+        ]
+    },
+    "satellite_89": {
+        "vertices": [
+            "blueberry"
+        ],
+        "arcs": [
+            [
+                "blueberry",
+                "blueberry"
+            ]
+        ]
+    },
+    "satellite_90": {
+        "vertices": [
+            "policy"
+        ],
+        "arcs": [
+            [
+                "policy",
+                "policy"
+            ]
+        ]
+    },
+    "satellite_91": {
+        "vertices": [
+            "tulip"
+        ],
+        "arcs": [
+            [
+                "tulip",
+                "tulip"
+            ]
+        ]
+    },
+    "satellite_92": {
+        "vertices": [
+            "purse"
+        ],
+        "arcs": [
+            [
+                "purse",
+                "purse"
+            ]
+        ]
+    },
+    "satellite_93": {
+        "vertices": [
+            "cellulose"
+        ],
+        "arcs": [
+            [
+                "cellulose",
+                "cellulose"
+            ]
+        ]
+    },
+    "satellite_94": {
+        "vertices": [
+            "nut"
+        ],
+        "arcs": [
+            [
+                "nut",
+                "nut"
+            ]
+        ]
+    },
+    "satellite_95": {
+        "vertices": [
+            "pit"
+        ],
+        "arcs": [
+            [
+                "pit",
+                "pit"
+            ]
+        ]
+    },
+    "satellite_96": {
+        "vertices": [
+            "clown"
+        ],
+        "arcs": [
+            [
+                "clown",
+                "clown"
+            ]
+        ]
+    },
+    "satellite_97": {
+        "vertices": [
+            "whinny"
+        ],
+        "arcs": [
+            [
+                "whinny",
+                "whinny"
+            ]
+        ]
+    },
+    "satellite_98": {
+        "vertices": [
+            "sodium"
+        ],
+        "arcs": [
+            [
+                "sodium",
+                "sodium"
+            ]
+        ]
+    },
+    "satellite_99": {
+        "vertices": [
+            "basket"
+        ],
+        "arcs": [
+            [
+                "basket",
+                "basket"
+            ]
+        ]
+    },
+    "satellite_100": {
+        "vertices": [
+            "gust"
+        ],
+        "arcs": [
+            [
+                "gust",
+                "gust"
+            ]
+        ]
+    },
+    "satellite_101": {
+        "vertices": [
+            "lawyer"
+        ],
+        "arcs": [
+            [
+                "lawyer",
+                "lawyer"
+            ]
+        ]
+    },
+    "satellite_102": {
+        "vertices": [
+            "cute"
+        ],
+        "arcs": [
+            [
+                "cute",
+                "cute"
+            ]
+        ]
+    },
+    "satellite_103": {
+        "vertices": [
+            "modest"
+        ],
+        "arcs": [
+            [
+                "modest",
+                "modest"
+            ]
+        ]
+    },
+    "satellite_104": {
+        "vertices": [
+            "naked"
+        ],
+        "arcs": [
+            [
+                "naked",
+                "naked"
+            ]
+        ]
+    },
+    "satellite_105": {
+        "vertices": [
+            "pupa"
+        ],
+        "arcs": [
+            [
+                "pupa",
+                "pupa"
+            ]
+        ]
+    },
+    "satellite_106": {
+        "vertices": [
+            "compute"
+        ],
+        "arcs": [
+            [
+                "compute",
+                "compute"
+            ]
+        ]
+    },
+    "satellite_107": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_108": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_109": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_110": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_111": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_112": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_113": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_114": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_115": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_116": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_117": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_118": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_119": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_120": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_121": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_122": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_123": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_124": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_125": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_126": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_127": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_128": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_129": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_130": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_131": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_132": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_133": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_134": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_135": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_136": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_137": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_138": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_139": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_140": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_141": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_142": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_143": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_144": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_145": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_146": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_147": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_148": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_149": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_150": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_151": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_152": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_153": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_154": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_155": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_156": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_157": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_158": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_159": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_160": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_161": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_162": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_163": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_164": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_165": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_166": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_167": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_168": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_169": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_170": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_171": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_172": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_173": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_174": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_175": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_176": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_177": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_178": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_179": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_180": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_181": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_182": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_183": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_184": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_185": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_186": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_187": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_188": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_189": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_190": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_191": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_192": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_193": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_194": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_195": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_196": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_197": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_198": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_199": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_200": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_201": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_202": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_203": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_204": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_205": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_206": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_207": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_208": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_209": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_210": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_211": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_212": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_213": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_214": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_215": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_216": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_217": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_218": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_219": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_220": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_221": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_222": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_223": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_224": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_225": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_226": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_227": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_228": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_229": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_230": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_231": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_232": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_233": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_234": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_235": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_236": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_237": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_238": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_239": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_240": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_241": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_242": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_243": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_244": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_245": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_246": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_247": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_248": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_249": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_250": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_251": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_252": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_253": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_254": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_255": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_256": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_257": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_258": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_259": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_260": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_261": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_262": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_263": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_264": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_265": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_266": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_267": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_268": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_269": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_270": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_271": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_272": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_273": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "seal"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "splendid"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sparkle"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sorry"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "soothe"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "soldier"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sofa"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sodium"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "snug"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "slippery"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "slavery"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "skunk"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "silly"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "seldom"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "steeple"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "schoolwork"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "rung"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "rot"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "regularly"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "refrigerator"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "rage"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "purse"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "pupa"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "punctuation"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "puddle"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "puck"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "possibly"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "unpleasant"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "algae"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "wretched"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "woodwind"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "windpipe"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "whinny"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "waterfall"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "wash"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "wallet"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "vow"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "vote"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "villain"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "vaccine"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "urine"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "polite"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tulip"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "trivial"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tennis"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "teacher"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tap"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tablet"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sweater"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "sweat"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "fireplace"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "document"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "drawer"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "seldom"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "seal"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "ending"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "schoolwork"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "rung"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "fierce"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "silly"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "rot"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "flaw"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "frighten"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "regularly"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "refrigerator"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "gene"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "rage"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "purse"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "snug"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "splendid"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "compute"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sparkle"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sorry"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "soothe"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "soldier"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sofa"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sodium"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "graveyard"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cute"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "daring"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "daybreak"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "declare"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "slippery"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "slavery"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "skunk"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "marsupial"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "lawyer"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pail"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "limestone"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "liver"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "lump"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nut"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nun"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "marry"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "peppermint"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "maybe"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "meteorite"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "mild"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "modest"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "nasty"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "fireplace"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "document"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "drawer"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "seldom"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "seal"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "ending"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "schoolwork"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "rung"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "fierce"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "silly"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "rot"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "flaw"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "frighten"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "regularly"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "refrigerator"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "gene"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "rage"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "purse"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "snug"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "splendid"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "compute"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sparkle"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sorry"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "soothe"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "soldier"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sofa"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sodium"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "graveyard"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cute"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "daring"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "daybreak"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "declare"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "slippery"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "slavery"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "skunk"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "marsupial"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "lawyer"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pail"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "limestone"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "liver"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "lump"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nut"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nun"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "marry"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "peppermint"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "maybe"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "meteorite"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "mild"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "modest"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "nasty"
+        }
+    ]
+}

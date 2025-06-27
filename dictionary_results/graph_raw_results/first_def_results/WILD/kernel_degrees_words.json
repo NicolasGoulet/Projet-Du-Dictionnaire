@@ -1,0 +1,5164 @@
+{
+    "kernel_words_degrees": [
+        {
+            "word": "thing",
+            "degree": 272
+        },
+        {
+            "word": "make",
+            "degree": 259
+        },
+        {
+            "word": "have",
+            "degree": 259
+        },
+        {
+            "word": "use",
+            "degree": 195
+        },
+        {
+            "word": "people",
+            "degree": 179
+        },
+        {
+            "word": "other",
+            "degree": 164
+        },
+        {
+            "word": "mean",
+            "degree": 127
+        },
+        {
+            "word": "often",
+            "degree": 123
+        },
+        {
+            "word": "do",
+            "degree": 115
+        },
+        {
+            "word": "very",
+            "degree": 115
+        },
+        {
+            "word": "part",
+            "degree": 107
+        },
+        {
+            "word": "animal",
+            "degree": 86
+        },
+        {
+            "word": "body",
+            "degree": 82
+        },
+        {
+            "word": "go",
+            "degree": 81
+        },
+        {
+            "word": "kind",
+            "degree": 78
+        },
+        {
+            "word": "food",
+            "degree": 77
+        },
+        {
+            "word": "small",
+            "degree": 74
+        },
+        {
+            "word": "eat",
+            "degree": 74
+        },
+        {
+            "word": "many",
+            "degree": 72
+        },
+        {
+            "word": "also",
+            "degree": 70
+        },
+        {
+            "word": "call",
+            "degree": 68
+        },
+        {
+            "word": "be",
+            "degree": 66
+        },
+        {
+            "word": "place",
+            "degree": 63
+        },
+        {
+            "word": "long",
+            "degree": 62
+        },
+        {
+            "word": "move",
+            "degree": 62
+        },
+        {
+            "word": "large",
+            "degree": 60
+        },
+        {
+            "word": "piece",
+            "degree": 60
+        },
+        {
+            "word": "time",
+            "degree": 58
+        },
+        {
+            "word": "water",
+            "degree": 58
+        },
+        {
+            "word": "person",
+            "degree": 55
+        },
+        {
+            "word": "sometimes",
+            "degree": 52
+        },
+        {
+            "word": "give",
+            "degree": 52
+        },
+        {
+            "word": "way",
+            "degree": 51
+        },
+        {
+            "word": "say",
+            "degree": 50
+        },
+        {
+            "word": "word",
+            "degree": 47
+        },
+        {
+            "word": "get",
+            "degree": 47
+        },
+        {
+            "word": "grow",
+            "degree": 47
+        },
+        {
+            "word": "live",
+            "degree": 47
+        },
+        {
+            "word": "come",
+            "degree": 45
+        },
+        {
+            "word": "take",
+            "degree": 44
+        },
+        {
+            "word": "want",
+            "degree": 43
+        },
+        {
+            "word": "plant",
+            "degree": 42
+        },
+        {
+            "word": "see",
+            "degree": 42
+        },
+        {
+            "word": "together",
+            "degree": 40
+        },
+        {
+            "word": "happen",
+            "degree": 39
+        },
+        {
+            "word": "talk",
+            "degree": 38
+        },
+        {
+            "word": "cover",
+            "degree": 38
+        },
+        {
+            "word": "feel",
+            "degree": 37
+        },
+        {
+            "word": "look",
+            "degree": 37
+        },
+        {
+            "word": "put",
+            "degree": 36
+        },
+        {
+            "word": "think",
+            "degree": 36
+        },
+        {
+            "word": "hard",
+            "degree": 36
+        },
+        {
+            "word": "shape",
+            "degree": 35
+        },
+        {
+            "word": "keep",
+            "degree": 34
+        },
+        {
+            "word": "material",
+            "degree": 34
+        },
+        {
+            "word": "certain",
+            "degree": 33
+        },
+        {
+            "word": "air",
+            "degree": 33
+        },
+        {
+            "word": "different",
+            "degree": 32
+        },
+        {
+            "word": "tree",
+            "degree": 32
+        },
+        {
+            "word": "group",
+            "degree": 31
+        },
+        {
+            "word": "too",
+            "degree": 31
+        },
+        {
+            "word": "play",
+            "degree": 29
+        },
+        {
+            "word": "hold",
+            "degree": 28
+        },
+        {
+            "word": "then",
+            "degree": 28
+        },
+        {
+            "word": "leg",
+            "degree": 28
+        },
+        {
+            "word": "end",
+            "degree": 28
+        },
+        {
+            "word": "soft",
+            "degree": 28
+        },
+        {
+            "word": "same",
+            "degree": 27
+        },
+        {
+            "word": "round",
+            "degree": 27
+        },
+        {
+            "word": "thin",
+            "degree": 27
+        },
+        {
+            "word": "liquid",
+            "degree": 27
+        },
+        {
+            "word": "area",
+            "degree": 27
+        },
+        {
+            "word": "lot",
+            "degree": 26
+        },
+        {
+            "word": "work",
+            "degree": 26
+        },
+        {
+            "word": "such",
+            "degree": 26
+        },
+        {
+            "word": "metal",
+            "degree": 26
+        },
+        {
+            "word": "short",
+            "degree": 26
+        },
+        {
+            "word": "flat",
+            "degree": 26
+        },
+        {
+            "word": "sound",
+            "degree": 25
+        },
+        {
+            "word": "now",
+            "degree": 24
+        },
+        {
+            "word": "strong",
+            "degree": 24
+        },
+        {
+            "word": "car",
+            "degree": 24
+        },
+        {
+            "word": "know",
+            "degree": 24
+        },
+        {
+            "word": "tell",
+            "degree": 24
+        },
+        {
+            "word": "good",
+            "degree": 24
+        },
+        {
+            "word": "earth",
+            "degree": 24
+        },
+        {
+            "word": "become",
+            "degree": 24
+        },
+        {
+            "word": "fruit",
+            "degree": 23
+        },
+        {
+            "word": "hand",
+            "degree": 23
+        },
+        {
+            "word": "ground",
+            "degree": 23
+        },
+        {
+            "word": "big",
+            "degree": 23
+        },
+        {
+            "word": "light",
+            "degree": 23
+        },
+        {
+            "word": "need",
+            "degree": 22
+        },
+        {
+            "word": "dog",
+            "degree": 22
+        },
+        {
+            "word": "sweet",
+            "degree": 22
+        },
+        {
+            "word": "top",
+            "degree": 21
+        },
+        {
+            "word": "building",
+            "degree": 21
+        },
+        {
+            "word": "money",
+            "degree": 21
+        },
+        {
+            "word": "picture",
+            "degree": 21
+        },
+        {
+            "word": "open",
+            "degree": 21
+        },
+        {
+            "word": "special",
+            "degree": 21
+        },
+        {
+            "word": "land",
+            "degree": 21
+        },
+        {
+            "word": "else",
+            "degree": 21
+        },
+        {
+            "word": "wear",
+            "degree": 21
+        },
+        {
+            "word": "just",
+            "degree": 21
+        },
+        {
+            "word": "side",
+            "degree": 21
+        },
+        {
+            "word": "feeling",
+            "degree": 20
+        },
+        {
+            "word": "rain",
+            "degree": 20
+        },
+        {
+            "word": "close",
+            "degree": 20
+        },
+        {
+            "word": "bad",
+            "degree": 20
+        },
+        {
+            "word": "back",
+            "degree": 20
+        },
+        {
+            "word": "warm",
+            "degree": 20
+        },
+        {
+            "word": "school",
+            "degree": 19
+        },
+        {
+            "word": "happy",
+            "degree": 19
+        },
+        {
+            "word": "milk",
+            "degree": 19
+        },
+        {
+            "word": "show",
+            "degree": 19
+        },
+        {
+            "word": "skin",
+            "degree": 19
+        },
+        {
+            "word": "foot",
+            "degree": 19
+        },
+        {
+            "word": "child",
+            "degree": 19
+        },
+        {
+            "word": "store",
+            "degree": 19
+        },
+        {
+            "word": "help",
+            "degree": 19
+        },
+        {
+            "word": "room",
+            "degree": 19
+        },
+        {
+            "word": "machine",
+            "degree": 19
+        },
+        {
+            "word": "color",
+            "degree": 19
+        },
+        {
+            "word": "paper",
+            "degree": 18
+        },
+        {
+            "word": "example",
+            "degree": 18
+        },
+        {
+            "word": "hot",
+            "degree": 18
+        },
+        {
+            "word": "surface",
+            "degree": 18
+        },
+        {
+            "word": "taste",
+            "degree": 18
+        },
+        {
+            "word": "thick",
+            "degree": 18
+        },
+        {
+            "word": "amount",
+            "degree": 18
+        },
+        {
+            "word": "world",
+            "degree": 17
+        },
+        {
+            "word": "find",
+            "degree": 17
+        },
+        {
+            "word": "cook",
+            "degree": 17
+        },
+        {
+            "word": "well",
+            "degree": 17
+        },
+        {
+            "word": "write",
+            "degree": 17
+        },
+        {
+            "word": "drink",
+            "degree": 17
+        },
+        {
+            "word": "wood",
+            "degree": 17
+        },
+        {
+            "word": "away",
+            "degree": 17
+        },
+        {
+            "word": "most",
+            "degree": 17
+        },
+        {
+            "word": "smooth",
+            "degree": 16
+        },
+        {
+            "word": "point",
+            "degree": 16
+        },
+        {
+            "word": "mind",
+            "degree": 16
+        },
+        {
+            "word": "learn",
+            "degree": 16
+        },
+        {
+            "word": "human",
+            "degree": 16
+        },
+        {
+            "word": "little",
+            "degree": 16
+        },
+        {
+            "word": "break",
+            "degree": 16
+        },
+        {
+            "word": "head",
+            "degree": 16
+        },
+        {
+            "word": "cloth",
+            "degree": 15
+        },
+        {
+            "word": "game",
+            "degree": 15
+        },
+        {
+            "word": "fast",
+            "degree": 15
+        },
+        {
+            "word": "sister",
+            "degree": 15
+        },
+        {
+            "word": "cold",
+            "degree": 15
+        },
+        {
+            "word": "try",
+            "degree": 15
+        },
+        {
+            "word": "important",
+            "degree": 15
+        },
+        {
+            "word": "vegetable",
+            "degree": 15
+        },
+        {
+            "word": "much",
+            "degree": 15
+        },
+        {
+            "word": "town",
+            "degree": 15
+        },
+        {
+            "word": "line",
+            "degree": 15
+        },
+        {
+            "word": "music",
+            "degree": 15
+        },
+        {
+            "word": "bread",
+            "degree": 15
+        },
+        {
+            "word": "type",
+            "degree": 15
+        },
+        {
+            "word": "space",
+            "degree": 14
+        },
+        {
+            "word": "tail",
+            "degree": 14
+        },
+        {
+            "word": "mother",
+            "degree": 14
+        },
+        {
+            "word": "walk",
+            "degree": 14
+        },
+        {
+            "word": "arm",
+            "degree": 14
+        },
+        {
+            "word": "buy",
+            "degree": 14
+        },
+        {
+            "word": "cut",
+            "degree": 14
+        },
+        {
+            "word": "high",
+            "degree": 14
+        },
+        {
+            "word": "fall",
+            "degree": 14
+        },
+        {
+            "word": "tool",
+            "degree": 14
+        },
+        {
+            "word": "all",
+            "degree": 14
+        },
+        {
+            "word": "like",
+            "degree": 14
+        },
+        {
+            "word": "hair",
+            "degree": 14
+        },
+        {
+            "word": "flour",
+            "degree": 14
+        },
+        {
+            "word": "there",
+            "degree": 13
+        },
+        {
+            "word": "meat",
+            "degree": 13
+        },
+        {
+            "word": "handle",
+            "degree": 13
+        },
+        {
+            "word": "road",
+            "degree": 13
+        },
+        {
+            "word": "country",
+            "degree": 13
+        },
+        {
+            "word": "stick",
+            "degree": 13
+        },
+        {
+            "word": "bake",
+            "degree": 13
+        },
+        {
+            "word": "let",
+            "degree": 13
+        },
+        {
+            "word": "brother",
+            "degree": 13
+        },
+        {
+            "word": "friend",
+            "degree": 13
+        },
+        {
+            "word": "sharp",
+            "degree": 13
+        },
+        {
+            "word": "bring",
+            "degree": 13
+        },
+        {
+            "word": "carry",
+            "degree": 13
+        },
+        {
+            "word": "father",
+            "degree": 12
+        },
+        {
+            "word": "outside",
+            "degree": 12
+        },
+        {
+            "word": "substance",
+            "degree": 12
+        },
+        {
+            "word": "yellow",
+            "degree": 12
+        },
+        {
+            "word": "sit",
+            "degree": 12
+        },
+        {
+            "word": "red",
+            "degree": 12
+        },
+        {
+            "word": "seed",
+            "degree": 12
+        },
+        {
+            "word": "container",
+            "degree": 12
+        },
+        {
+            "word": "oil",
+            "degree": 12
+        },
+        {
+            "word": "pay",
+            "degree": 12
+        },
+        {
+            "word": "cat",
+            "degree": 12
+        },
+        {
+            "word": "attach",
+            "degree": 12
+        },
+        {
+            "word": "hurt",
+            "degree": 12
+        },
+        {
+            "word": "whole",
+            "degree": 12
+        },
+        {
+            "word": "life",
+            "degree": 12
+        },
+        {
+            "word": "rest",
+            "degree": 12
+        },
+        {
+            "word": "white",
+            "degree": 12
+        },
+        {
+            "word": "dry",
+            "degree": 11
+        },
+        {
+            "word": "street",
+            "degree": 11
+        },
+        {
+            "word": "bird",
+            "degree": 11
+        },
+        {
+            "word": "family",
+            "degree": 11
+        },
+        {
+            "word": "cake",
+            "degree": 11
+        },
+        {
+            "word": "movie",
+            "degree": 11
+        },
+        {
+            "word": "sugar",
+            "degree": 11
+        },
+        {
+            "word": "grass",
+            "degree": 11
+        },
+        {
+            "word": "eye",
+            "degree": 11
+        },
+        {
+            "word": "dish",
+            "degree": 11
+        },
+        {
+            "word": "run",
+            "degree": 11
+        },
+        {
+            "word": "connect",
+            "degree": 11
+        },
+        {
+            "word": "watch",
+            "degree": 11
+        },
+        {
+            "word": "egg",
+            "degree": 11
+        },
+        {
+            "word": "thread",
+            "degree": 11
+        },
+        {
+            "word": "touch",
+            "degree": 11
+        },
+        {
+            "word": "change",
+            "degree": 11
+        },
+        {
+            "word": "sick",
+            "degree": 11
+        },
+        {
+            "word": "ice",
+            "degree": 11
+        },
+        {
+            "word": "fish",
+            "degree": 11
+        },
+        {
+            "word": "day",
+            "degree": 11
+        },
+        {
+            "word": "finger",
+            "degree": 11
+        },
+        {
+            "word": "fun",
+            "degree": 11
+        },
+        {
+            "word": "add",
+            "degree": 11
+        },
+        {
+            "word": "fur",
+            "degree": 11
+        },
+        {
+            "word": "book",
+            "degree": 11
+        },
+        {
+            "word": "understand",
+            "degree": 11
+        },
+        {
+            "word": "power",
+            "degree": 10
+        },
+        {
+            "word": "flower",
+            "degree": 10
+        },
+        {
+            "word": "sky",
+            "degree": 10
+        },
+        {
+            "word": "ear",
+            "degree": 10
+        },
+        {
+            "word": "ball",
+            "degree": 10
+        },
+        {
+            "word": "clothing",
+            "degree": 10
+        },
+        {
+            "word": "set",
+            "degree": 10
+        },
+        {
+            "word": "rock",
+            "degree": 10
+        },
+        {
+            "word": "law",
+            "degree": 10
+        },
+        {
+            "word": "leave",
+            "degree": 10
+        },
+        {
+            "word": "true",
+            "degree": 10
+        },
+        {
+            "word": "stand",
+            "degree": 10
+        },
+        {
+            "word": "hear",
+            "degree": 10
+        },
+        {
+            "word": "number",
+            "degree": 10
+        },
+        {
+            "word": "serve",
+            "degree": 10
+        },
+        {
+            "word": "stop",
+            "degree": 10
+        },
+        {
+            "word": "solid",
+            "degree": 10
+        },
+        {
+            "word": "door",
+            "degree": 10
+        },
+        {
+            "word": "only",
+            "degree": 10
+        },
+        {
+            "word": "energy",
+            "degree": 9
+        },
+        {
+            "word": "straight",
+            "degree": 9
+        },
+        {
+            "word": "baby",
+            "degree": 9
+        },
+        {
+            "word": "grain",
+            "degree": 9
+        },
+        {
+            "word": "raise",
+            "degree": 9
+        },
+        {
+            "word": "table",
+            "degree": 9
+        },
+        {
+            "word": "cow",
+            "degree": 9
+        },
+        {
+            "word": "read",
+            "degree": 9
+        },
+        {
+            "word": "really",
+            "degree": 9
+        },
+        {
+            "word": "anymore",
+            "degree": 9
+        },
+        {
+            "word": "fly",
+            "degree": 9
+        },
+        {
+            "word": "cause",
+            "degree": 9
+        },
+        {
+            "word": "travel",
+            "degree": 9
+        },
+        {
+            "word": "circle",
+            "degree": 9
+        },
+        {
+            "word": "care",
+            "degree": 9
+        },
+        {
+            "word": "information",
+            "degree": 9
+        },
+        {
+            "word": "insect",
+            "degree": 9
+        },
+        {
+            "word": "female",
+            "degree": 9
+        },
+        {
+            "word": "gas",
+            "degree": 9
+        },
+        {
+            "word": "instrument",
+            "degree": 9
+        },
+        {
+            "word": "maybe",
+            "degree": 9
+        },
+        {
+            "word": "new",
+            "degree": 9
+        },
+        {
+            "word": "believe",
+            "degree": 9
+        },
+        {
+            "word": "heat",
+            "degree": 9
+        },
+        {
+            "word": "heavy",
+            "degree": 9
+        },
+        {
+            "word": "even",
+            "degree": 9
+        },
+        {
+            "word": "contain",
+            "degree": 9
+        },
+        {
+            "word": "face",
+            "degree": 9
+        },
+        {
+            "word": "enjoy",
+            "degree": 9
+        },
+        {
+            "word": "size",
+            "degree": 8
+        },
+        {
+            "word": "wide",
+            "degree": 8
+        },
+        {
+            "word": "usual",
+            "degree": 8
+        },
+        {
+            "word": "hole",
+            "degree": 8
+        },
+        {
+            "word": "similar",
+            "degree": 8
+        },
+        {
+            "word": "down",
+            "degree": 8
+        },
+        {
+            "word": "electricity",
+            "degree": 8
+        },
+        {
+            "word": "wheel",
+            "degree": 8
+        },
+        {
+            "word": "young",
+            "degree": 8
+        },
+        {
+            "word": "pain",
+            "degree": 8
+        },
+        {
+            "word": "ride",
+            "degree": 8
+        },
+        {
+            "word": "start",
+            "degree": 8
+        },
+        {
+            "word": "still",
+            "degree": 8
+        },
+        {
+            "word": "drive",
+            "degree": 8
+        },
+        {
+            "word": "smell",
+            "degree": 8
+        },
+        {
+            "word": "direction",
+            "degree": 8
+        },
+        {
+            "word": "own",
+            "degree": 8
+        },
+        {
+            "word": "girl",
+            "degree": 8
+        },
+        {
+            "word": "string",
+            "degree": 8
+        },
+        {
+            "word": "nice",
+            "degree": 8
+        },
+        {
+            "word": "wash",
+            "degree": 8
+        },
+        {
+            "word": "low",
+            "degree": 8
+        },
+        {
+            "word": "meal",
+            "degree": 8
+        },
+        {
+            "word": "meaning",
+            "degree": 8
+        },
+        {
+            "word": "black",
+            "degree": 8
+        },
+        {
+            "word": "pull",
+            "degree": 8
+        },
+        {
+            "word": "plastic",
+            "degree": 8
+        },
+        {
+            "word": "neck",
+            "degree": 8
+        },
+        {
+            "word": "listen",
+            "degree": 8
+        },
+        {
+            "word": "narrow",
+            "degree": 8
+        },
+        {
+            "word": "box",
+            "degree": 8
+        },
+        {
+            "word": "burn",
+            "degree": 8
+        },
+        {
+            "word": "build",
+            "degree": 8
+        },
+        {
+            "word": "bottom",
+            "degree": 8
+        },
+        {
+            "word": "computer",
+            "degree": 7
+        },
+        {
+            "word": "bicycle",
+            "degree": 7
+        },
+        {
+            "word": "farm",
+            "degree": 7
+        },
+        {
+            "word": "sleep",
+            "degree": 7
+        },
+        {
+            "word": "marry",
+            "degree": 7
+        },
+        {
+            "word": "woman",
+            "degree": 7
+        },
+        {
+            "word": "act",
+            "degree": 7
+        },
+        {
+            "word": "river",
+            "degree": 7
+        },
+        {
+            "word": "birthday",
+            "degree": 7
+        },
+        {
+            "word": "mammal",
+            "degree": 7
+        },
+        {
+            "word": "juice",
+            "degree": 7
+        },
+        {
+            "word": "begin",
+            "degree": 7
+        },
+        {
+            "word": "win",
+            "degree": 7
+        },
+        {
+            "word": "easy",
+            "degree": 7
+        },
+        {
+            "word": "salt",
+            "degree": 7
+        },
+        {
+            "word": "bowl",
+            "degree": 7
+        },
+        {
+            "word": "adult",
+            "degree": 7
+        },
+        {
+            "word": "city",
+            "degree": 7
+        },
+        {
+            "word": "rope",
+            "degree": 7
+        },
+        {
+            "word": "afraid",
+            "degree": 7
+        },
+        {
+            "word": "send",
+            "degree": 7
+        },
+        {
+            "word": "wait",
+            "degree": 7
+        },
+        {
+            "word": "always",
+            "degree": 7
+        },
+        {
+            "word": "flavor",
+            "degree": 7
+        },
+        {
+            "word": "flow",
+            "degree": 7
+        },
+        {
+            "word": "order",
+            "degree": 7
+        },
+        {
+            "word": "shoe",
+            "degree": 7
+        },
+        {
+            "word": "shell",
+            "degree": 7
+        },
+        {
+            "word": "funny",
+            "degree": 7
+        },
+        {
+            "word": "press",
+            "degree": 7
+        },
+        {
+            "word": "dad",
+            "degree": 7
+        },
+        {
+            "word": "decoration",
+            "degree": 7
+        },
+        {
+            "word": "star",
+            "degree": 7
+        },
+        {
+            "word": "swim",
+            "degree": 7
+        },
+        {
+            "word": "laugh",
+            "degree": 7
+        },
+        {
+            "word": "sport",
+            "degree": 7
+        },
+        {
+            "word": "describe",
+            "degree": 6
+        },
+        {
+            "word": "form",
+            "degree": 6
+        },
+        {
+            "word": "bend",
+            "degree": 6
+        },
+        {
+            "word": "chair",
+            "degree": 6
+        },
+        {
+            "word": "love",
+            "degree": 6
+        },
+        {
+            "word": "interesting",
+            "degree": 6
+        },
+        {
+            "word": "ready",
+            "degree": 6
+        },
+        {
+            "word": "far",
+            "degree": 6
+        },
+        {
+            "word": "draw",
+            "degree": 6
+        },
+        {
+            "word": "safe",
+            "degree": 6
+        },
+        {
+            "word": "distance",
+            "degree": 6
+        },
+        {
+            "word": "ring",
+            "degree": 6
+        },
+        {
+            "word": "jacket",
+            "degree": 6
+        },
+        {
+            "word": "object",
+            "degree": 6
+        },
+        {
+            "word": "separate",
+            "degree": 6
+        },
+        {
+            "word": "wool",
+            "degree": 6
+        },
+        {
+            "word": "fill",
+            "degree": 6
+        },
+        {
+            "word": "seat",
+            "degree": 6
+        },
+        {
+            "word": "wheat",
+            "degree": 6
+        },
+        {
+            "word": "uncle",
+            "degree": 6
+        },
+        {
+            "word": "pick",
+            "degree": 6
+        },
+        {
+            "word": "stay",
+            "degree": 6
+        },
+        {
+            "word": "protect",
+            "degree": 6
+        },
+        {
+            "word": "clean",
+            "degree": 6
+        },
+        {
+            "word": "jewelry",
+            "degree": 6
+        },
+        {
+            "word": "pencil",
+            "degree": 6
+        },
+        {
+            "word": "toy",
+            "degree": 6
+        },
+        {
+            "word": "rule",
+            "degree": 6
+        },
+        {
+            "word": "study",
+            "degree": 6
+        },
+        {
+            "word": "stretch",
+            "degree": 6
+        },
+        {
+            "word": "fat",
+            "degree": 6
+        },
+        {
+            "word": "shirt",
+            "degree": 6
+        },
+        {
+            "word": "noise",
+            "degree": 6
+        },
+        {
+            "word": "easily",
+            "degree": 6
+        },
+        {
+            "word": "dirt",
+            "degree": 6
+        },
+        {
+            "word": "particular",
+            "degree": 6
+        },
+        {
+            "word": "cookie",
+            "degree": 6
+        },
+        {
+            "word": "bone",
+            "degree": 6
+        },
+        {
+            "word": "airplane",
+            "degree": 6
+        },
+        {
+            "word": "curved",
+            "degree": 6
+        },
+        {
+            "word": "truck",
+            "degree": 6
+        },
+        {
+            "word": "chicken",
+            "degree": 6
+        },
+        {
+            "word": "man",
+            "degree": 6
+        },
+        {
+            "word": "speak",
+            "degree": 6
+        },
+        {
+            "word": "lunch",
+            "degree": 6
+        },
+        {
+            "word": "sand",
+            "degree": 6
+        },
+        {
+            "word": "present",
+            "degree": 6
+        },
+        {
+            "word": "story",
+            "degree": 6
+        },
+        {
+            "word": "cotton",
+            "degree": 6
+        },
+        {
+            "word": "lake",
+            "degree": 6
+        },
+        {
+            "word": "deep",
+            "degree": 6
+        },
+        {
+            "word": "snow",
+            "degree": 6
+        },
+        {
+            "word": "join",
+            "degree": 6
+        },
+        {
+            "word": "wing",
+            "degree": 6
+        },
+        {
+            "word": "pet",
+            "degree": 6
+        },
+        {
+            "word": "temperature",
+            "degree": 6
+        },
+        {
+            "word": "government",
+            "degree": 6
+        },
+        {
+            "word": "window",
+            "degree": 6
+        },
+        {
+            "word": "stone",
+            "degree": 6
+        },
+        {
+            "word": "floor",
+            "degree": 6
+        },
+        {
+            "word": "wrong",
+            "degree": 6
+        },
+        {
+            "word": "hit",
+            "degree": 6
+        },
+        {
+            "word": "nose",
+            "degree": 6
+        },
+        {
+            "word": "branch",
+            "degree": 6
+        },
+        {
+            "word": "quickly",
+            "degree": 6
+        },
+        {
+            "word": "natural",
+            "degree": 5
+        },
+        {
+            "word": "turn",
+            "degree": 5
+        },
+        {
+            "word": "green",
+            "degree": 5
+        },
+        {
+            "word": "great",
+            "degree": 5
+        },
+        {
+            "word": "breathe",
+            "degree": 5
+        },
+        {
+            "word": "produce",
+            "degree": 5
+        },
+        {
+            "word": "sad",
+            "degree": 5
+        },
+        {
+            "word": "heart",
+            "degree": 5
+        },
+        {
+            "word": "train",
+            "degree": 5
+        },
+        {
+            "word": "bright",
+            "degree": 5
+        },
+        {
+            "word": "mom",
+            "degree": 5
+        },
+        {
+            "word": "past",
+            "degree": 5
+        },
+        {
+            "word": "full",
+            "degree": 5
+        },
+        {
+            "word": "boat",
+            "degree": 5
+        },
+        {
+            "word": "furniture",
+            "degree": 5
+        },
+        {
+            "word": "damage",
+            "degree": 5
+        },
+        {
+            "word": "danger",
+            "degree": 5
+        },
+        {
+            "word": "tube",
+            "degree": 5
+        },
+        {
+            "word": "lift",
+            "degree": 5
+        },
+        {
+            "word": "snack",
+            "degree": 5
+        },
+        {
+            "word": "spend",
+            "degree": 5
+        },
+        {
+            "word": "event",
+            "degree": 5
+        },
+        {
+            "word": "beautiful",
+            "degree": 5
+        },
+        {
+            "word": "bed",
+            "degree": 5
+        },
+        {
+            "word": "male",
+            "degree": 5
+        },
+        {
+            "word": "engine",
+            "degree": 5
+        },
+        {
+            "word": "before",
+            "degree": 5
+        },
+        {
+            "word": "accident",
+            "degree": 5
+        },
+        {
+            "word": "main",
+            "degree": 5
+        },
+        {
+            "word": "next",
+            "degree": 5
+        },
+        {
+            "word": "soup",
+            "degree": 5
+        },
+        {
+            "word": "control",
+            "degree": 5
+        },
+        {
+            "word": "hang",
+            "degree": 5
+        },
+        {
+            "word": "ask",
+            "degree": 5
+        },
+        {
+            "word": "tea",
+            "degree": 5
+        },
+        {
+            "word": "reptile",
+            "degree": 5
+        },
+        {
+            "word": "corn",
+            "degree": 5
+        },
+        {
+            "word": "aunt",
+            "degree": 5
+        },
+        {
+            "word": "correct",
+            "degree": 5
+        },
+        {
+            "word": "drop",
+            "degree": 5
+        },
+        {
+            "word": "fiber",
+            "degree": 5
+        },
+        {
+            "word": "blanket",
+            "degree": 5
+        },
+        {
+            "word": "rubber",
+            "degree": 5
+        },
+        {
+            "word": "sell",
+            "degree": 5
+        },
+        {
+            "word": "upset",
+            "degree": 5
+        },
+        {
+            "word": "meet",
+            "degree": 5
+        },
+        {
+            "word": "letter",
+            "degree": 5
+        },
+        {
+            "word": "choose",
+            "degree": 5
+        },
+        {
+            "word": "boy",
+            "degree": 5
+        },
+        {
+            "word": "lie",
+            "degree": 5
+        },
+        {
+            "word": "planet",
+            "degree": 5
+        },
+        {
+            "word": "instead",
+            "degree": 5
+        },
+        {
+            "word": "climb",
+            "degree": 5
+        },
+        {
+            "word": "push",
+            "degree": 5
+        },
+        {
+            "word": "plan",
+            "degree": 5
+        },
+        {
+            "word": "coin",
+            "degree": 5
+        },
+        {
+            "word": "pen",
+            "degree": 5
+        },
+        {
+            "word": "loud",
+            "degree": 5
+        },
+        {
+            "word": "common",
+            "degree": 5
+        },
+        {
+            "word": "beat",
+            "degree": 5
+        },
+        {
+            "word": "exist",
+            "degree": 4
+        },
+        {
+            "word": "pot",
+            "degree": 4
+        },
+        {
+            "word": "pan",
+            "degree": 4
+        },
+        {
+            "word": "paint",
+            "degree": 4
+        },
+        {
+            "word": "hat",
+            "degree": 4
+        },
+        {
+            "word": "potato",
+            "degree": 4
+        },
+        {
+            "word": "photograph",
+            "degree": 4
+        },
+        {
+            "word": "language",
+            "degree": 4
+        },
+        {
+            "word": "knife",
+            "degree": 4
+        },
+        {
+            "word": "question",
+            "degree": 4
+        },
+        {
+            "word": "mail",
+            "degree": 4
+        },
+        {
+            "word": "old",
+            "degree": 4
+        },
+        {
+            "word": "jump",
+            "degree": 4
+        },
+        {
+            "word": "right",
+            "degree": 4
+        },
+        {
+            "word": "married",
+            "degree": 4
+        },
+        {
+            "word": "never",
+            "degree": 4
+        },
+        {
+            "word": "measure",
+            "degree": 4
+        },
+        {
+            "word": "opening",
+            "degree": 4
+        },
+        {
+            "word": "reason",
+            "degree": 4
+        },
+        {
+            "word": "root",
+            "degree": 4
+        },
+        {
+            "word": "medicine",
+            "degree": 4
+        },
+        {
+            "word": "rough",
+            "degree": 4
+        },
+        {
+            "word": "period",
+            "degree": 4
+        },
+        {
+            "word": "pattern",
+            "degree": 4
+        },
+        {
+            "word": "load",
+            "degree": 4
+        },
+        {
+            "word": "rabbit",
+            "degree": 4
+        },
+        {
+            "word": "middle",
+            "degree": 4
+        },
+        {
+            "word": "player",
+            "degree": 4
+        },
+        {
+            "word": "real",
+            "degree": 4
+        },
+        {
+            "word": "ordinary",
+            "degree": 4
+        },
+        {
+            "word": "path",
+            "degree": 4
+        },
+        {
+            "word": "honey",
+            "degree": 4
+        },
+        {
+            "word": "home",
+            "degree": 4
+        },
+        {
+            "word": "mistake",
+            "degree": 4
+        },
+        {
+            "word": "mix",
+            "degree": 4
+        },
+        {
+            "word": "probably",
+            "degree": 4
+        },
+        {
+            "word": "mountain",
+            "degree": 4
+        },
+        {
+            "word": "party",
+            "degree": 4
+        },
+        {
+            "word": "smile",
+            "degree": 4
+        },
+        {
+            "word": "treat",
+            "degree": 4
+        },
+        {
+            "word": "trouble",
+            "degree": 4
+        },
+        {
+            "word": "candy",
+            "degree": 4
+        },
+        {
+            "word": "elephant",
+            "degree": 4
+        },
+        {
+            "word": "butter",
+            "degree": 4
+        },
+        {
+            "word": "somewhere",
+            "degree": 4
+        },
+        {
+            "word": "equal",
+            "degree": 4
+        },
+        {
+            "word": "bridge",
+            "degree": 4
+        },
+        {
+            "word": "up",
+            "degree": 4
+        },
+        {
+            "word": "vehicle",
+            "degree": 4
+        },
+        {
+            "word": "spice",
+            "degree": 4
+        },
+        {
+            "word": "fair",
+            "degree": 4
+        },
+        {
+            "word": "blue",
+            "degree": 4
+        },
+        {
+            "word": "blade",
+            "degree": 4
+        },
+        {
+            "word": "birth",
+            "degree": 4
+        },
+        {
+            "word": "berry",
+            "degree": 4
+        },
+        {
+            "word": "sing",
+            "degree": 4
+        },
+        {
+            "word": "finish",
+            "degree": 4
+        },
+        {
+            "word": "bee",
+            "degree": 4
+        },
+        {
+            "word": "fix",
+            "degree": 4
+        },
+        {
+            "word": "clay",
+            "degree": 4
+        },
+        {
+            "word": "sure",
+            "degree": 4
+        },
+        {
+            "word": "cream",
+            "degree": 4
+        },
+        {
+            "word": "covering",
+            "degree": 4
+        },
+        {
+            "word": "dangerous",
+            "degree": 4
+        },
+        {
+            "word": "dark",
+            "degree": 4
+        },
+        {
+            "word": "decision",
+            "degree": 4
+        },
+        {
+            "word": "television",
+            "degree": 4
+        },
+        {
+            "word": "desk",
+            "degree": 4
+        },
+        {
+            "word": "clear",
+            "degree": 4
+        },
+        {
+            "word": "expect",
+            "degree": 4
+        },
+        {
+            "word": "tiny",
+            "degree": 4
+        },
+        {
+            "word": "chocolate",
+            "degree": 4
+        },
+        {
+            "word": "tomato",
+            "degree": 4
+        },
+        {
+            "word": "dough",
+            "degree": 4
+        },
+        {
+            "word": "tooth",
+            "degree": 4
+        },
+        {
+            "word": "drawing",
+            "degree": 4
+        },
+        {
+            "word": "center",
+            "degree": 4
+        },
+        {
+            "word": "celebrate",
+            "degree": 4
+        },
+        {
+            "word": "catch",
+            "degree": 4
+        },
+        {
+            "word": "again",
+            "degree": 4
+        },
+        {
+            "word": "forest",
+            "degree": 4
+        },
+        {
+            "word": "weight",
+            "degree": 4
+        },
+        {
+            "word": "bag",
+            "degree": 4
+        },
+        {
+            "word": "attention",
+            "degree": 4
+        },
+        {
+            "word": "yet",
+            "degree": 4
+        },
+        {
+            "word": "sheep",
+            "degree": 4
+        },
+        {
+            "word": "sentence",
+            "degree": 4
+        },
+        {
+            "word": "wife",
+            "degree": 4
+        },
+        {
+            "word": "wet",
+            "degree": 4
+        },
+        {
+            "word": "front",
+            "degree": 4
+        },
+        {
+            "word": "wind",
+            "degree": 4
+        },
+        {
+            "word": "bear",
+            "degree": 4
+        },
+        {
+            "word": "wire",
+            "degree": 4
+        },
+        {
+            "word": "answer",
+            "degree": 4
+        },
+        {
+            "word": "angry",
+            "degree": 4
+        },
+        {
+            "word": "yard",
+            "degree": 4
+        },
+        {
+            "word": "weigh",
+            "degree": 4
+        },
+        {
+            "word": "weather",
+            "degree": 4
+        },
+        {
+            "word": "seem",
+            "degree": 4
+        },
+        {
+            "word": "gray",
+            "degree": 4
+        },
+        {
+            "word": "force",
+            "degree": 4
+        },
+        {
+            "word": "park",
+            "degree": 3
+        },
+        {
+            "word": "scale",
+            "degree": 3
+        },
+        {
+            "word": "ahead",
+            "degree": 3
+        },
+        {
+            "word": "message",
+            "degree": 3
+        },
+        {
+            "word": "loose",
+            "degree": 3
+        },
+        {
+            "word": "lose",
+            "degree": 3
+        },
+        {
+            "word": "symbol",
+            "degree": 3
+        },
+        {
+            "word": "year",
+            "degree": 3
+        },
+        {
+            "word": "parent",
+            "degree": 3
+        },
+        {
+            "word": "tired",
+            "degree": 3
+        },
+        {
+            "word": "action",
+            "degree": 3
+        },
+        {
+            "word": "corner",
+            "degree": 3
+        },
+        {
+            "word": "cord",
+            "degree": 3
+        },
+        {
+            "word": "tight",
+            "degree": 3
+        },
+        {
+            "word": "tennis",
+            "degree": 3
+        },
+        {
+            "word": "painting",
+            "degree": 3
+        },
+        {
+            "word": "teacher",
+            "degree": 3
+        },
+        {
+            "word": "closet",
+            "degree": 3
+        },
+        {
+            "word": "coffee",
+            "degree": 3
+        },
+        {
+            "word": "actually",
+            "degree": 3
+        },
+        {
+            "word": "comfortable",
+            "degree": 3
+        },
+        {
+            "word": "team",
+            "degree": 3
+        },
+        {
+            "word": "theater",
+            "degree": 3
+        },
+        {
+            "word": "concert",
+            "degree": 3
+        },
+        {
+            "word": "carrot",
+            "degree": 3
+        },
+        {
+            "word": "compare",
+            "degree": 3
+        },
+        {
+            "word": "test",
+            "degree": 3
+        },
+        {
+            "word": "being",
+            "degree": 3
+        },
+        {
+            "word": "value",
+            "degree": 3
+        },
+        {
+            "word": "ability",
+            "degree": 3
+        },
+        {
+            "word": "position",
+            "degree": 3
+        },
+        {
+            "word": "blow",
+            "degree": 3
+        },
+        {
+            "word": "block",
+            "degree": 3
+        },
+        {
+            "word": "weave",
+            "degree": 3
+        },
+        {
+            "word": "bite",
+            "degree": 3
+        },
+        {
+            "word": "weapon",
+            "degree": 3
+        },
+        {
+            "word": "brain",
+            "degree": 3
+        },
+        {
+            "word": "bathtub",
+            "degree": 3
+        },
+        {
+            "word": "pizza",
+            "degree": 3
+        },
+        {
+            "word": "beginning",
+            "degree": 3
+        },
+        {
+            "word": "beach",
+            "degree": 3
+        },
+        {
+            "word": "pie",
+            "degree": 3
+        },
+        {
+            "word": "pig",
+            "degree": 3
+        },
+        {
+            "word": "bean",
+            "degree": 3
+        },
+        {
+            "word": "chest",
+            "degree": 3
+        },
+        {
+            "word": "powder",
+            "degree": 3
+        },
+        {
+            "word": "umbrella",
+            "degree": 3
+        },
+        {
+            "word": "as",
+            "degree": 3
+        },
+        {
+            "word": "powerful",
+            "degree": 3
+        },
+        {
+            "word": "bus",
+            "degree": 3
+        },
+        {
+            "word": "art",
+            "degree": 3
+        },
+        {
+            "word": "calm",
+            "degree": 3
+        },
+        {
+            "word": "mostly",
+            "degree": 3
+        },
+        {
+            "word": "pretty",
+            "degree": 3
+        },
+        {
+            "word": "moon",
+            "degree": 3
+        },
+        {
+            "word": "onion",
+            "degree": 3
+        },
+        {
+            "word": "mixture",
+            "degree": 3
+        },
+        {
+            "word": "chance",
+            "degree": 3
+        },
+        {
+            "word": "alone",
+            "degree": 3
+        },
+        {
+            "word": "allow",
+            "degree": 3
+        },
+        {
+            "word": "remember",
+            "degree": 3
+        },
+        {
+            "word": "idea",
+            "degree": 3
+        },
+        {
+            "word": "hill",
+            "degree": 3
+        },
+        {
+            "word": "step",
+            "degree": 3
+        },
+        {
+            "word": "receive",
+            "degree": 3
+        },
+        {
+            "word": "drawer",
+            "degree": 3
+        },
+        {
+            "word": "last",
+            "degree": 3
+        },
+        {
+            "word": "sign",
+            "degree": 3
+        },
+        {
+            "word": "spread",
+            "degree": 3
+        },
+        {
+            "word": "spoon",
+            "degree": 3
+        },
+        {
+            "word": "intelligent",
+            "degree": 3
+        },
+        {
+            "word": "fry",
+            "degree": 3
+        },
+        {
+            "word": "drum",
+            "degree": 3
+        },
+        {
+            "word": "share",
+            "degree": 3
+        },
+        {
+            "word": "salad",
+            "degree": 3
+        },
+        {
+            "word": "edge",
+            "degree": 3
+        },
+        {
+            "word": "disease",
+            "degree": 3
+        },
+        {
+            "word": "kitchen",
+            "degree": 3
+        },
+        {
+            "word": "honest",
+            "degree": 3
+        },
+        {
+            "word": "electric",
+            "degree": 3
+        },
+        {
+            "word": "sheet",
+            "degree": 3
+        },
+        {
+            "word": "slow",
+            "degree": 3
+        },
+        {
+            "word": "husband",
+            "degree": 3
+        },
+        {
+            "word": "empty",
+            "degree": 3
+        },
+        {
+            "word": "forward",
+            "degree": 3
+        },
+        {
+            "word": "especially",
+            "degree": 3
+        },
+        {
+            "word": "job",
+            "degree": 3
+        },
+        {
+            "word": "soap",
+            "degree": 3
+        },
+        {
+            "word": "fact",
+            "degree": 3
+        },
+        {
+            "word": "snake",
+            "degree": 3
+        },
+        {
+            "word": "rise",
+            "degree": 3
+        },
+        {
+            "word": "hungry",
+            "degree": 3
+        },
+        {
+            "word": "serious",
+            "degree": 3
+        },
+        {
+            "word": "include",
+            "degree": 3
+        },
+        {
+            "word": "harm",
+            "degree": 3
+        },
+        {
+            "word": "cup",
+            "degree": 3
+        },
+        {
+            "word": "cupboard",
+            "degree": 3
+        },
+        {
+            "word": "fire",
+            "degree": 3
+        },
+        {
+            "word": "curve",
+            "degree": 3
+        },
+        {
+            "word": "sauce",
+            "degree": 3
+        },
+        {
+            "word": "student",
+            "degree": 3
+        },
+        {
+            "word": "fight",
+            "degree": 3
+        },
+        {
+            "word": "sandwich",
+            "degree": 3
+        },
+        {
+            "word": "structure",
+            "degree": 3
+        },
+        {
+            "word": "decide",
+            "degree": 3
+        },
+        {
+            "word": "gold",
+            "degree": 3
+        },
+        {
+            "word": "dirty",
+            "degree": 3
+        },
+        {
+            "word": "strange",
+            "degree": 3
+        },
+        {
+            "word": "field",
+            "degree": 3
+        },
+        {
+            "word": "sew",
+            "degree": 3
+        },
+        {
+            "word": "feed",
+            "degree": 3
+        },
+        {
+            "word": "dinner",
+            "degree": 3
+        },
+        {
+            "word": "dig",
+            "degree": 3
+        },
+        {
+            "word": "stomach",
+            "degree": 3
+        },
+        {
+            "word": "garden",
+            "degree": 3
+        },
+        {
+            "word": "image",
+            "degree": 3
+        },
+        {
+            "word": "gift",
+            "degree": 3
+        },
+        {
+            "word": "storm",
+            "degree": 3
+        },
+        {
+            "word": "design",
+            "degree": 3
+        },
+        {
+            "word": "reach",
+            "degree": 3
+        },
+        {
+            "word": "raw",
+            "degree": 3
+        },
+        {
+            "word": "fit",
+            "degree": 3
+        },
+        {
+            "word": "shoulder",
+            "degree": 2
+        },
+        {
+            "word": "rug",
+            "degree": 2
+        },
+        {
+            "word": "piano",
+            "degree": 2
+        },
+        {
+            "word": "pipe",
+            "degree": 2
+        },
+        {
+            "word": "simple",
+            "degree": 2
+        },
+        {
+            "word": "shake",
+            "degree": 2
+        },
+        {
+            "word": "salty",
+            "degree": 2
+        },
+        {
+            "word": "science",
+            "degree": 2
+        },
+        {
+            "word": "sea",
+            "degree": 2
+        },
+        {
+            "word": "sausage",
+            "degree": 2
+        },
+        {
+            "word": "suddenly",
+            "degree": 2
+        },
+        {
+            "word": "sense",
+            "degree": 2
+        },
+        {
+            "word": "pass",
+            "degree": 2
+        },
+        {
+            "word": "yarn",
+            "degree": 2
+        },
+        {
+            "word": "service",
+            "degree": 2
+        },
+        {
+            "word": "wrist",
+            "degree": 2
+        },
+        {
+            "word": "worth",
+            "degree": 2
+        },
+        {
+            "word": "ruin",
+            "degree": 2
+        },
+        {
+            "word": "wish",
+            "degree": 2
+        },
+        {
+            "word": "post",
+            "degree": 2
+        },
+        {
+            "word": "shelf",
+            "degree": 2
+        },
+        {
+            "word": "while",
+            "degree": 2
+        },
+        {
+            "word": "shiny",
+            "degree": 2
+        },
+        {
+            "word": "ruler",
+            "degree": 2
+        },
+        {
+            "word": "shoot",
+            "degree": 2
+        },
+        {
+            "word": "week",
+            "degree": 2
+        },
+        {
+            "word": "wedding",
+            "degree": 2
+        },
+        {
+            "word": "queen",
+            "degree": 2
+        },
+        {
+            "word": "regular",
+            "degree": 2
+        },
+        {
+            "word": "spin",
+            "degree": 2
+        },
+        {
+            "word": "towel",
+            "degree": 2
+        },
+        {
+            "word": "refrigerator",
+            "degree": 2
+        },
+        {
+            "word": "toast",
+            "degree": 2
+        },
+        {
+            "word": "puppy",
+            "degree": 2
+        },
+        {
+            "word": "tire",
+            "degree": 2
+        },
+        {
+            "word": "stiff",
+            "degree": 2
+        },
+        {
+            "word": "purple",
+            "degree": 2
+        },
+        {
+            "word": "throw",
+            "degree": 2
+        },
+        {
+            "word": "reading",
+            "degree": 2
+        },
+        {
+            "word": "relax",
+            "degree": 2
+        },
+        {
+            "word": "rat",
+            "degree": 2
+        },
+        {
+            "word": "strawberry",
+            "degree": 2
+        },
+        {
+            "word": "stream",
+            "degree": 2
+        },
+        {
+            "word": "telephone",
+            "degree": 2
+        },
+        {
+            "word": "teach",
+            "degree": 2
+        },
+        {
+            "word": "race",
+            "degree": 2
+        },
+        {
+            "word": "tall",
+            "degree": 2
+        },
+        {
+            "word": "system",
+            "degree": 2
+        },
+        {
+            "word": "supply",
+            "degree": 2
+        },
+        {
+            "word": "support",
+            "degree": 2
+        },
+        {
+            "word": "sweater",
+            "degree": 2
+        },
+        {
+            "word": "quite",
+            "degree": 2
+        },
+        {
+            "word": "warning",
+            "degree": 2
+        },
+        {
+            "word": "plain",
+            "degree": 2
+        },
+        {
+            "word": "roof",
+            "degree": 2
+        },
+        {
+            "word": "wake",
+            "degree": 2
+        },
+        {
+            "word": "skeleton",
+            "degree": 2
+        },
+        {
+            "word": "waist",
+            "degree": 2
+        },
+        {
+            "word": "violin",
+            "degree": 2
+        },
+        {
+            "word": "pointed",
+            "degree": 2
+        },
+        {
+            "word": "police",
+            "degree": 2
+        },
+        {
+            "word": "verb",
+            "degree": 2
+        },
+        {
+            "word": "possible",
+            "degree": 2
+        },
+        {
+            "word": "sink",
+            "degree": 2
+        },
+        {
+            "word": "able",
+            "degree": 2
+        },
+        {
+            "word": "valuable",
+            "degree": 2
+        },
+        {
+            "word": "pottery",
+            "degree": 2
+        },
+        {
+            "word": "soda",
+            "degree": 2
+        },
+        {
+            "word": "son",
+            "degree": 2
+        },
+        {
+            "word": "twist",
+            "degree": 2
+        },
+        {
+            "word": "rice",
+            "degree": 2
+        },
+        {
+            "word": "restaurant",
+            "degree": 2
+        },
+        {
+            "word": "trunk",
+            "degree": 2
+        },
+        {
+            "word": "spaghetti",
+            "degree": 2
+        },
+        {
+            "word": "problem",
+            "degree": 2
+        },
+        {
+            "word": "leaf",
+            "degree": 2
+        },
+        {
+            "word": "fine",
+            "degree": 2
+        },
+        {
+            "word": "firm",
+            "degree": 2
+        },
+        {
+            "word": "bow",
+            "degree": 2
+        },
+        {
+            "word": "flag",
+            "degree": 2
+        },
+        {
+            "word": "less",
+            "degree": 2
+        },
+        {
+            "word": "length",
+            "degree": 2
+        },
+        {
+            "word": "lemon",
+            "degree": 2
+        },
+        {
+            "word": "cousin",
+            "degree": 2
+        },
+        {
+            "word": "crisp",
+            "degree": 2
+        },
+        {
+            "word": "layer",
+            "degree": 2
+        },
+        {
+            "word": "count",
+            "degree": 2
+        },
+        {
+            "word": "couch",
+            "degree": 2
+        },
+        {
+            "word": "bubble",
+            "degree": 2
+        },
+        {
+            "word": "cost",
+            "degree": 2
+        },
+        {
+            "word": "king",
+            "degree": 2
+        },
+        {
+            "word": "business",
+            "degree": 2
+        },
+        {
+            "word": "fork",
+            "degree": 2
+        },
+        {
+            "word": "magazine",
+            "degree": 2
+        },
+        {
+            "word": "bathroom",
+            "degree": 2
+        },
+        {
+            "word": "daughter",
+            "degree": 2
+        },
+        {
+            "word": "monkey",
+            "degree": 2
+        },
+        {
+            "word": "factory",
+            "degree": 2
+        },
+        {
+            "word": "belong",
+            "degree": 2
+        },
+        {
+            "word": "cry",
+            "degree": 2
+        },
+        {
+            "word": "bit",
+            "degree": 2
+        },
+        {
+            "word": "bitter",
+            "degree": 2
+        },
+        {
+            "word": "key",
+            "degree": 2
+        },
+        {
+            "word": "cruel",
+            "degree": 2
+        },
+        {
+            "word": "feather",
+            "degree": 2
+        },
+        {
+            "word": "festival",
+            "degree": 2
+        },
+        {
+            "word": "few",
+            "degree": 2
+        },
+        {
+            "word": "lizard",
+            "degree": 2
+        },
+        {
+            "word": "board",
+            "degree": 2
+        },
+        {
+            "word": "crop",
+            "degree": 2
+        },
+        {
+            "word": "choice",
+            "degree": 2
+        },
+        {
+            "word": "chew",
+            "degree": 2
+        },
+        {
+            "word": "coat",
+            "degree": 2
+        },
+        {
+            "word": "history",
+            "degree": 2
+        },
+        {
+            "word": "hip",
+            "degree": 2
+        },
+        {
+            "word": "healthy",
+            "degree": 2
+        },
+        {
+            "word": "grandparent",
+            "degree": 2
+        },
+        {
+            "word": "health",
+            "degree": 2
+        },
+        {
+            "word": "grape",
+            "degree": 2
+        },
+        {
+            "word": "hoop",
+            "degree": 2
+        },
+        {
+            "word": "hammer",
+            "degree": 2
+        },
+        {
+            "word": "grind",
+            "degree": 2
+        },
+        {
+            "word": "hamburger",
+            "degree": 2
+        },
+        {
+            "word": "grocery",
+            "degree": 2
+        },
+        {
+            "word": "class",
+            "degree": 2
+        },
+        {
+            "word": "growth",
+            "degree": 2
+        },
+        {
+            "word": "clock",
+            "degree": 2
+        },
+        {
+            "word": "cereal",
+            "degree": 2
+        },
+        {
+            "word": "camera",
+            "degree": 2
+        },
+        {
+            "word": "concrete",
+            "degree": 2
+        },
+        {
+            "word": "card",
+            "degree": 2
+        },
+        {
+            "word": "cardboard",
+            "degree": 2
+        },
+        {
+            "word": "careful",
+            "degree": 2
+        },
+        {
+            "word": "interest",
+            "degree": 2
+        },
+        {
+            "word": "fresh",
+            "degree": 2
+        },
+        {
+            "word": "frog",
+            "degree": 2
+        },
+        {
+            "word": "pair",
+            "degree": 2
+        },
+        {
+            "word": "compete",
+            "degree": 2
+        },
+        {
+            "word": "fuel",
+            "degree": 2
+        },
+        {
+            "word": "community",
+            "degree": 2
+        },
+        {
+            "word": "cheese",
+            "degree": 2
+        },
+        {
+            "word": "horse",
+            "degree": 2
+        },
+        {
+            "word": "horn",
+            "degree": 2
+        },
+        {
+            "word": "hope",
+            "degree": 2
+        },
+        {
+            "word": "obey",
+            "degree": 2
+        },
+        {
+            "word": "agree",
+            "degree": 2
+        },
+        {
+            "word": "nail",
+            "degree": 2
+        },
+        {
+            "word": "name",
+            "degree": 2
+        },
+        {
+            "word": "doctor",
+            "degree": 2
+        },
+        {
+            "word": "exact",
+            "degree": 2
+        },
+        {
+            "word": "balloon",
+            "degree": 2
+        },
+        {
+            "word": "alcohol",
+            "degree": 2
+        },
+        {
+            "word": "nature",
+            "degree": 2
+        },
+        {
+            "word": "bath",
+            "degree": 2
+        },
+        {
+            "word": "normal",
+            "degree": 2
+        },
+        {
+            "word": "necessary",
+            "degree": 2
+        },
+        {
+            "word": "deliver",
+            "degree": 2
+        },
+        {
+            "word": "nut",
+            "degree": 2
+        },
+        {
+            "word": "dessert",
+            "degree": 2
+        },
+        {
+            "word": "discover",
+            "degree": 2
+        },
+        {
+            "word": "destroy",
+            "degree": 2
+        },
+        {
+            "word": "needle",
+            "degree": 2
+        },
+        {
+            "word": "early",
+            "degree": 2
+        },
+        {
+            "word": "enter",
+            "degree": 2
+        },
+        {
+            "word": "asleep",
+            "degree": 2
+        },
+        {
+            "word": "divide",
+            "degree": 2
+        },
+        {
+            "word": "arrange",
+            "degree": 2
+        },
+        {
+            "word": "effort",
+            "degree": 2
+        },
+        {
+            "word": "office",
+            "degree": 2
+        },
+        {
+            "word": "basketball",
+            "degree": 2
+        },
+        {
+            "word": "pancake",
+            "degree": 2
+        },
+        {
+            "word": "exciting",
+            "degree": 2
+        },
+        {
+            "word": "apart",
+            "degree": 2
+        },
+        {
+            "word": "difficult",
+            "degree": 2
+        },
+        {
+            "word": "activity",
+            "degree": 2
+        },
+        {
+            "word": "motor",
+            "degree": 2
+        },
+        {
+            "word": "degree",
+            "degree": 2
+        },
+        {
+            "word": "neighborhood",
+            "degree": 2
+        },
+        {
+            "word": "movement",
+            "degree": 2
+        },
+        {
+            "word": "bar",
+            "degree": 2
+        },
+        {
+            "word": "excited",
+            "degree": 2
+        },
+        {
+            "word": "outdoor",
+            "degree": 2
+        },
+        {
+            "word": "ant",
+            "degree": 2
+        },
+        {
+            "word": "angle",
+            "degree": 2
+        },
+        {
+            "word": "anger",
+            "degree": 2
+        },
+        {
+            "word": "muscle",
+            "degree": 2
+        },
+        {
+            "word": "sticky",
+            "degree": 1
+        },
+        {
+            "word": "competition",
+            "degree": 1
+        },
+        {
+            "word": "complete",
+            "degree": 1
+        },
+        {
+            "word": "terrible",
+            "degree": 1
+        },
+        {
+            "word": "steep",
+            "degree": 1
+        },
+        {
+            "word": "dinosaur",
+            "degree": 1
+        },
+        {
+            "word": "state",
+            "degree": 1
+        },
+        {
+            "word": "dream",
+            "degree": 1
+        },
+        {
+            "word": "accept",
+            "degree": 1
+        },
+        {
+            "word": "spring",
+            "degree": 1
+        },
+        {
+            "word": "square",
+            "degree": 1
+        },
+        {
+            "word": "stage",
+            "degree": 1
+        },
+        {
+            "word": "doughnut",
+            "degree": 1
+        },
+        {
+            "word": "doubt",
+            "degree": 1
+        },
+        {
+            "word": "dollar",
+            "degree": 1
+        },
+        {
+            "word": "stepfather",
+            "degree": 1
+        },
+        {
+            "word": "clown",
+            "degree": 1
+        },
+        {
+            "word": "coal",
+            "degree": 1
+        },
+        {
+            "word": "conversation",
+            "degree": 1
+        },
+        {
+            "word": "stem",
+            "degree": 1
+        },
+        {
+            "word": "cocoa",
+            "degree": 1
+        },
+        {
+            "word": "college",
+            "degree": 1
+        },
+        {
+            "word": "combine",
+            "degree": 1
+        },
+        {
+            "word": "company",
+            "degree": 1
+        },
+        {
+            "word": "summer",
+            "degree": 1
+        },
+        {
+            "word": "crime",
+            "degree": 1
+        },
+        {
+            "word": "desert",
+            "degree": 1
+        },
+        {
+            "word": "depend",
+            "degree": 1
+        },
+        {
+            "word": "department",
+            "degree": 1
+        },
+        {
+            "word": "swallow",
+            "degree": 1
+        },
+        {
+            "word": "strength",
+            "degree": 1
+        },
+        {
+            "word": "crunchy",
+            "degree": 1
+        },
+        {
+            "word": "crush",
+            "degree": 1
+        },
+        {
+            "word": "crust",
+            "degree": 1
+        },
+        {
+            "word": "supper",
+            "degree": 1
+        },
+        {
+            "word": "swing",
+            "degree": 1
+        },
+        {
+            "word": "suit",
+            "degree": 1
+        },
+        {
+            "word": "culture",
+            "degree": 1
+        },
+        {
+            "word": "succeed",
+            "degree": 1
+        },
+        {
+            "word": "curl",
+            "degree": 1
+        },
+        {
+            "word": "subject",
+            "degree": 1
+        },
+        {
+            "word": "cute",
+            "degree": 1
+        },
+        {
+            "word": "dance",
+            "degree": 1
+        },
+        {
+            "word": "date",
+            "degree": 1
+        },
+        {
+            "word": "deer",
+            "degree": 1
+        },
+        {
+            "word": "stool",
+            "degree": 1
+        },
+        {
+            "word": "cone",
+            "degree": 1
+        },
+        {
+            "word": "confident",
+            "degree": 1
+        },
+        {
+            "word": "sting",
+            "degree": 1
+        },
+        {
+            "word": "teenager",
+            "degree": 1
+        },
+        {
+            "word": "tear",
+            "degree": 1
+        },
+        {
+            "word": "teapot",
+            "degree": 1
+        },
+        {
+            "word": "difference",
+            "degree": 1
+        },
+        {
+            "word": "continent",
+            "degree": 1
+        },
+        {
+            "word": "continue",
+            "degree": 1
+        },
+        {
+            "word": "cool",
+            "degree": 1
+        },
+        {
+            "word": "dime",
+            "degree": 1
+        },
+        {
+            "word": "die",
+            "degree": 1
+        },
+        {
+            "word": "course",
+            "degree": 1
+        },
+        {
+            "word": "court",
+            "degree": 1
+        },
+        {
+            "word": "diamond",
+            "degree": 1
+        },
+        {
+            "word": "crayon",
+            "degree": 1
+        },
+        {
+            "word": "create",
+            "degree": 1
+        },
+        {
+            "word": "device",
+            "degree": 1
+        },
+        {
+            "word": "stove",
+            "degree": 1
+        },
+        {
+            "word": "sword",
+            "degree": 1
+        },
+        {
+            "word": "weak",
+            "degree": 1
+        },
+        {
+            "word": "automobile",
+            "degree": 1
+        },
+        {
+            "word": "whisker",
+            "degree": 1
+        },
+        {
+            "word": "whip",
+            "degree": 1
+        },
+        {
+            "word": "average",
+            "degree": 1
+        },
+        {
+            "word": "balance",
+            "degree": 1
+        },
+        {
+            "word": "whale",
+            "degree": 1
+        },
+        {
+            "word": "banana",
+            "degree": 1
+        },
+        {
+            "word": "west",
+            "degree": 1
+        },
+        {
+            "word": "bandage",
+            "degree": 1
+        },
+        {
+            "word": "bank",
+            "degree": 1
+        },
+        {
+            "word": "bark",
+            "degree": 1
+        },
+        {
+            "word": "basket",
+            "degree": 1
+        },
+        {
+            "word": "bat",
+            "degree": 1
+        },
+        {
+            "word": "attack",
+            "degree": 1
+        },
+        {
+            "word": "battery",
+            "degree": 1
+        },
+        {
+            "word": "wax",
+            "degree": 1
+        },
+        {
+            "word": "wave",
+            "degree": 1
+        },
+        {
+            "word": "beauty",
+            "degree": 1
+        },
+        {
+            "word": "beer",
+            "degree": 1
+        },
+        {
+            "word": "waste",
+            "degree": 1
+        },
+        {
+            "word": "behave",
+            "degree": 1
+        },
+        {
+            "word": "beverage",
+            "degree": 1
+        },
+        {
+            "word": "bill",
+            "degree": 1
+        },
+        {
+            "word": "waiter",
+            "degree": 1
+        },
+        {
+            "word": "blind",
+            "degree": 1
+        },
+        {
+            "word": "blood",
+            "degree": 1
+        },
+        {
+            "word": "wagon",
+            "degree": 1
+        },
+        {
+            "word": "worry",
+            "degree": 1
+        },
+        {
+            "word": "backyard",
+            "degree": 1
+        },
+        {
+            "word": "attached",
+            "degree": 1
+        },
+        {
+            "word": "slightly",
+            "degree": 1
+        },
+        {
+            "word": "website",
+            "degree": 1
+        },
+        {
+            "word": "advertise",
+            "degree": 1
+        },
+        {
+            "word": "affect",
+            "degree": 1
+        },
+        {
+            "word": "age",
+            "degree": 1
+        },
+        {
+            "word": "ago",
+            "degree": 1
+        },
+        {
+            "word": "alarm",
+            "degree": 1
+        },
+        {
+            "word": "alligator",
+            "degree": 1
+        },
+        {
+            "word": "almost",
+            "degree": 1
+        },
+        {
+            "word": "wrap",
+            "degree": 1
+        },
+        {
+            "word": "alphabet",
+            "degree": 1
+        },
+        {
+            "word": "voice",
+            "degree": 1
+        },
+        {
+            "word": "worm",
+            "degree": 1
+        },
+        {
+            "word": "already",
+            "degree": 1
+        },
+        {
+            "word": "antler",
+            "degree": 1
+        },
+        {
+            "word": "apartment",
+            "degree": 1
+        },
+        {
+            "word": "ape",
+            "degree": 1
+        },
+        {
+            "word": "are",
+            "degree": 1
+        },
+        {
+            "word": "wine",
+            "degree": 1
+        },
+        {
+            "word": "windy",
+            "degree": 1
+        },
+        {
+            "word": "argument",
+            "degree": 1
+        },
+        {
+            "word": "army",
+            "degree": 1
+        },
+        {
+            "word": "wild",
+            "degree": 1
+        },
+        {
+            "word": "arrow",
+            "degree": 1
+        },
+        {
+            "word": "totally",
+            "degree": 1
+        },
+        {
+            "word": "tub",
+            "degree": 1
+        },
+        {
+            "word": "truth",
+            "degree": 1
+        },
+        {
+            "word": "trust",
+            "degree": 1
+        },
+        {
+            "word": "camel",
+            "degree": 1
+        },
+        {
+            "word": "trumpet",
+            "degree": 1
+        },
+        {
+            "word": "canoe",
+            "degree": 1
+        },
+        {
+            "word": "trick",
+            "degree": 1
+        },
+        {
+            "word": "cattle",
+            "degree": 1
+        },
+        {
+            "word": "cell",
+            "degree": 1
+        },
+        {
+            "word": "tractor",
+            "degree": 1
+        },
+        {
+            "word": "central",
+            "degree": 1
+        },
+        {
+            "word": "ceremony",
+            "degree": 1
+        },
+        {
+            "word": "chain",
+            "degree": 1
+        },
+        {
+            "word": "burst",
+            "degree": 1
+        },
+        {
+            "word": "character",
+            "degree": 1
+        },
+        {
+            "word": "cheat",
+            "degree": 1
+        },
+        {
+            "word": "cherry",
+            "degree": 1
+        },
+        {
+            "word": "tongue",
+            "degree": 1
+        },
+        {
+            "word": "toilet",
+            "degree": 1
+        },
+        {
+            "word": "chili",
+            "degree": 1
+        },
+        {
+            "word": "toaster",
+            "degree": 1
+        },
+        {
+            "word": "chip",
+            "degree": 1
+        },
+        {
+            "word": "tissue",
+            "degree": 1
+        },
+        {
+            "word": "circus",
+            "degree": 1
+        },
+        {
+            "word": "clam",
+            "degree": 1
+        },
+        {
+            "word": "claw",
+            "degree": 1
+        },
+        {
+            "word": "tie",
+            "degree": 1
+        },
+        {
+            "word": "braid",
+            "degree": 1
+        },
+        {
+            "word": "visit",
+            "degree": 1
+        },
+        {
+            "word": "blouse",
+            "degree": 1
+        },
+        {
+            "word": "village",
+            "degree": 1
+        },
+        {
+            "word": "veterinarian",
+            "degree": 1
+        },
+        {
+            "word": "vet",
+            "degree": 1
+        },
+        {
+            "word": "blueberry",
+            "degree": 1
+        },
+        {
+            "word": "boil",
+            "degree": 1
+        },
+        {
+            "word": "border",
+            "degree": 1
+        },
+        {
+            "word": "vase",
+            "degree": 1
+        },
+        {
+            "word": "borrow",
+            "degree": 1
+        },
+        {
+            "word": "bottle",
+            "degree": 1
+        },
+        {
+            "word": "useful",
+            "degree": 1
+        },
+        {
+            "word": "bracelet",
+            "degree": 1
+        },
+        {
+            "word": "thumb",
+            "degree": 1
+        },
+        {
+            "word": "brass",
+            "degree": 1
+        },
+        {
+            "word": "unusual",
+            "degree": 1
+        },
+        {
+            "word": "universe",
+            "degree": 1
+        },
+        {
+            "word": "unhappy",
+            "degree": 1
+        },
+        {
+            "word": "underwear",
+            "degree": 1
+        },
+        {
+            "word": "breakfast",
+            "degree": 1
+        },
+        {
+            "word": "brick",
+            "degree": 1
+        },
+        {
+            "word": "typical",
+            "degree": 1
+        },
+        {
+            "word": "bulb",
+            "degree": 1
+        },
+        {
+            "word": "bun",
+            "degree": 1
+        },
+        {
+            "word": "turtle",
+            "degree": 1
+        },
+        {
+            "word": "bunny",
+            "degree": 1
+        },
+        {
+            "word": "mayor",
+            "degree": 1
+        },
+        {
+            "word": "lightning",
+            "degree": 1
+        },
+        {
+            "word": "rainy",
+            "degree": 1
+        },
+        {
+            "word": "likely",
+            "degree": 1
+        },
+        {
+            "word": "railroad",
+            "degree": 1
+        },
+        {
+            "word": "radio",
+            "degree": 1
+        },
+        {
+            "word": "lip",
+            "degree": 1
+        },
+        {
+            "word": "lock",
+            "degree": 1
+        },
+        {
+            "word": "quilt",
+            "degree": 1
+        },
+        {
+            "word": "quiet",
+            "degree": 1
+        },
+        {
+            "word": "luck",
+            "degree": 1
+        },
+        {
+            "word": "quick",
+            "degree": 1
+        },
+        {
+            "word": "map",
+            "degree": 1
+        },
+        {
+            "word": "quarter",
+            "degree": 1
+        },
+        {
+            "word": "marriage",
+            "degree": 1
+        },
+        {
+            "word": "lid",
+            "degree": 1
+        },
+        {
+            "word": "meadow",
+            "degree": 1
+        },
+        {
+            "word": "medium",
+            "degree": 1
+        },
+        {
+            "word": "pump",
+            "degree": 1
+        },
+        {
+            "word": "member",
+            "degree": 1
+        },
+        {
+            "word": "public",
+            "degree": 1
+        },
+        {
+            "word": "mineral",
+            "degree": 1
+        },
+        {
+            "word": "pronoun",
+            "degree": 1
+        },
+        {
+            "word": "promise",
+            "degree": 1
+        },
+        {
+            "word": "project",
+            "degree": 1
+        },
+        {
+            "word": "program",
+            "degree": 1
+        },
+        {
+            "word": "product",
+            "degree": 1
+        },
+        {
+            "word": "mirror",
+            "degree": 1
+        },
+        {
+            "word": "process",
+            "degree": 1
+        },
+        {
+            "word": "repair",
+            "degree": 1
+        },
+        {
+            "word": "invent",
+            "degree": 1
+        },
+        {
+            "word": "iron",
+            "degree": 1
+        },
+        {
+            "word": "ripe",
+            "degree": 1
+        },
+        {
+            "word": "island",
+            "degree": 1
+        },
+        {
+            "word": "jail",
+            "degree": 1
+        },
+        {
+            "word": "joke",
+            "degree": 1
+        },
+        {
+            "word": "rich",
+            "degree": 1
+        },
+        {
+            "word": "rhythm",
+            "degree": 1
+        },
+        {
+            "word": "rhyme",
+            "degree": 1
+        },
+        {
+            "word": "kick",
+            "degree": 1
+        },
+        {
+            "word": "kill",
+            "degree": 1
+        },
+        {
+            "word": "responsibility",
+            "degree": 1
+        },
+        {
+            "word": "report",
+            "degree": 1
+        },
+        {
+            "word": "repeat",
+            "degree": 1
+        },
+        {
+            "word": "month",
+            "degree": 1
+        },
+        {
+            "word": "remove",
+            "degree": 1
+        },
+        {
+            "word": "knee",
+            "degree": 1
+        },
+        {
+            "word": "knit",
+            "degree": 1
+        },
+        {
+            "word": "relative",
+            "degree": 1
+        },
+        {
+            "word": "lamp",
+            "degree": 1
+        },
+        {
+            "word": "lead",
+            "degree": 1
+        },
+        {
+            "word": "recess",
+            "degree": 1
+        },
+        {
+            "word": "lean",
+            "degree": 1
+        },
+        {
+            "word": "leather",
+            "degree": 1
+        },
+        {
+            "word": "left",
+            "degree": 1
+        },
+        {
+            "word": "level",
+            "degree": 1
+        },
+        {
+            "word": "razor",
+            "degree": 1
+        },
+        {
+            "word": "library",
+            "degree": 1
+        },
+        {
+            "word": "perfect",
+            "degree": 1
+        },
+        {
+            "word": "nervous",
+            "degree": 1
+        },
+        {
+            "word": "net",
+            "degree": 1
+        },
+        {
+            "word": "news",
+            "degree": 1
+        },
+        {
+            "word": "newspaper",
+            "degree": 1
+        },
+        {
+            "word": "pit",
+            "degree": 1
+        },
+        {
+            "word": "nickel",
+            "degree": 1
+        },
+        {
+            "word": "niece",
+            "degree": 1
+        },
+        {
+            "word": "noodle",
+            "degree": 1
+        },
+        {
+            "word": "north",
+            "degree": 1
+        },
+        {
+            "word": "northern",
+            "degree": 1
+        },
+        {
+            "word": "noun",
+            "degree": 1
+        },
+        {
+            "word": "physical",
+            "degree": 1
+        },
+        {
+            "word": "nowadays",
+            "degree": 1
+        },
+        {
+            "word": "occasion",
+            "degree": 1
+        },
+        {
+            "word": "nephew",
+            "degree": 1
+        },
+        {
+            "word": "pepper",
+            "degree": 1
+        },
+        {
+            "word": "odd",
+            "degree": 1
+        },
+        {
+            "word": "off",
+            "degree": 1
+        },
+        {
+            "word": "pedal",
+            "degree": 1
+        },
+        {
+            "word": "officer",
+            "degree": 1
+        },
+        {
+            "word": "opposite",
+            "degree": 1
+        },
+        {
+            "word": "pasture",
+            "degree": 1
+        },
+        {
+            "word": "outlet",
+            "degree": 1
+        },
+        {
+            "word": "package",
+            "degree": 1
+        },
+        {
+            "word": "paddle",
+            "degree": 1
+        },
+        {
+            "word": "partner",
+            "degree": 1
+        },
+        {
+            "word": "page",
+            "degree": 1
+        },
+        {
+            "word": "painful",
+            "degree": 1
+        },
+        {
+            "word": "pool",
+            "degree": 1
+        },
+        {
+            "word": "prize",
+            "degree": 1
+        },
+        {
+            "word": "print",
+            "degree": 1
+        },
+        {
+            "word": "prince",
+            "degree": 1
+        },
+        {
+            "word": "prevent",
+            "degree": 1
+        },
+        {
+            "word": "mosquito",
+            "degree": 1
+        },
+        {
+            "word": "motion",
+            "degree": 1
+        },
+        {
+            "word": "practice",
+            "degree": 1
+        },
+        {
+            "word": "mud",
+            "degree": 1
+        },
+        {
+            "word": "mug",
+            "degree": 1
+        },
+        {
+            "word": "museum",
+            "degree": 1
+        },
+        {
+            "word": "musical",
+            "degree": 1
+        },
+        {
+            "word": "nasty",
+            "degree": 1
+        },
+        {
+            "word": "pop",
+            "degree": 1
+        },
+        {
+            "word": "interested",
+            "degree": 1
+        },
+        {
+            "word": "polite",
+            "degree": 1
+        },
+        {
+            "word": "near",
+            "degree": 1
+        },
+        {
+            "word": "poetry",
+            "degree": 1
+        },
+        {
+            "word": "poem",
+            "degree": 1
+        },
+        {
+            "word": "pocket",
+            "degree": 1
+        },
+        {
+            "word": "plural",
+            "degree": 1
+        },
+        {
+            "word": "plug",
+            "degree": 1
+        },
+        {
+            "word": "plenty",
+            "degree": 1
+        },
+        {
+            "word": "pleasure",
+            "degree": 1
+        },
+        {
+            "word": "please",
+            "degree": 1
+        },
+        {
+            "word": "necklace",
+            "degree": 1
+        },
+        {
+            "word": "plate",
+            "degree": 1
+        },
+        {
+            "word": "neighbor",
+            "degree": 1
+        },
+        {
+            "word": "slide",
+            "degree": 1
+        },
+        {
+            "word": "sofa",
+            "degree": 1
+        },
+        {
+            "word": "sock",
+            "degree": 1
+        },
+        {
+            "word": "soccer",
+            "degree": 1
+        },
+        {
+            "word": "exactly",
+            "degree": 1
+        },
+        {
+            "word": "snout",
+            "degree": 1
+        },
+        {
+            "word": "snail",
+            "degree": 1
+        },
+        {
+            "word": "exercise",
+            "degree": 1
+        },
+        {
+            "word": "experiment",
+            "degree": 1
+        },
+        {
+            "word": "smoke",
+            "degree": 1
+        },
+        {
+            "word": "explain",
+            "degree": 1
+        },
+        {
+            "word": "explode",
+            "degree": 1
+        },
+        {
+            "word": "smart",
+            "degree": 1
+        },
+        {
+            "word": "false",
+            "degree": 1
+        },
+        {
+            "word": "slippery",
+            "degree": 1
+        },
+        {
+            "word": "ever",
+            "degree": 1
+        },
+        {
+            "word": "sleeve",
+            "degree": 1
+        },
+        {
+            "word": "fancy",
+            "degree": 1
+        },
+        {
+            "word": "slant",
+            "degree": 1
+        },
+        {
+            "word": "farmer",
+            "degree": 1
+        },
+        {
+            "word": "skirt",
+            "degree": 1
+        },
+        {
+            "word": "fear",
+            "degree": 1
+        },
+        {
+            "word": "skill",
+            "degree": 1
+        },
+        {
+            "word": "fence",
+            "degree": 1
+        },
+        {
+            "word": "figure",
+            "degree": 1
+        },
+        {
+            "word": "film",
+            "degree": 1
+        },
+        {
+            "word": "silver",
+            "degree": 1
+        },
+        {
+            "word": "silly",
+            "degree": 1
+        },
+        {
+            "word": "signal",
+            "degree": 1
+        },
+        {
+            "word": "either",
+            "degree": 1
+        },
+        {
+            "word": "spout",
+            "degree": 1
+        },
+        {
+            "word": "dress",
+            "degree": 1
+        },
+        {
+            "word": "driver",
+            "degree": 1
+        },
+        {
+            "word": "spoil",
+            "degree": 1
+        },
+        {
+            "word": "drug",
+            "degree": 1
+        },
+        {
+            "word": "spill",
+            "degree": 1
+        },
+        {
+            "word": "spider",
+            "degree": 1
+        },
+        {
+            "word": "spicy",
+            "degree": 1
+        },
+        {
+            "word": "duck",
+            "degree": 1
+        },
+        {
+            "word": "dust",
+            "degree": 1
+        },
+        {
+            "word": "speed",
+            "degree": 1
+        },
+        {
+            "word": "speaker",
+            "degree": 1
+        },
+        {
+            "word": "earthquake",
+            "degree": 1
+        },
+        {
+            "word": "sight",
+            "degree": 1
+        },
+        {
+            "word": "souvenir",
+            "degree": 1
+        },
+        {
+            "word": "sour",
+            "degree": 1
+        },
+        {
+            "word": "elevator",
+            "degree": 1
+        },
+        {
+            "word": "emotion",
+            "degree": 1
+        },
+        {
+            "word": "sort",
+            "degree": 1
+        },
+        {
+            "word": "soon",
+            "degree": 1
+        },
+        {
+            "word": "enough",
+            "degree": 1
+        },
+        {
+            "word": "entertainment",
+            "degree": 1
+        },
+        {
+            "word": "sometime",
+            "degree": 1
+        },
+        {
+            "word": "solve",
+            "degree": 1
+        },
+        {
+            "word": "erase",
+            "degree": 1
+        },
+        {
+            "word": "soldier",
+            "degree": 1
+        },
+        {
+            "word": "soil",
+            "degree": 1
+        },
+        {
+            "word": "honor",
+            "degree": 1
+        },
+        {
+            "word": "grandmother",
+            "degree": 1
+        },
+        {
+            "word": "guard",
+            "degree": 1
+        },
+        {
+            "word": "guide",
+            "degree": 1
+        },
+        {
+            "word": "guitar",
+            "degree": 1
+        },
+        {
+            "word": "screen",
+            "degree": 1
+        },
+        {
+            "word": "scientist",
+            "degree": 1
+        },
+        {
+            "word": "gum",
+            "degree": 1
+        },
+        {
+            "word": "scary",
+            "degree": 1
+        },
+        {
+            "word": "happiness",
+            "degree": 1
+        },
+        {
+            "word": "hate",
+            "degree": 1
+        },
+        {
+            "word": "sandy",
+            "degree": 1
+        },
+        {
+            "word": "here",
+            "degree": 1
+        },
+        {
+            "word": "hide",
+            "degree": 1
+        },
+        {
+            "word": "holiday",
+            "degree": 1
+        },
+        {
+            "word": "grandfather",
+            "degree": 1
+        },
+        {
+            "word": "hump",
+            "degree": 1
+        },
+        {
+            "word": "icing",
+            "degree": 1
+        },
+        {
+            "word": "rude",
+            "degree": 1
+        },
+        {
+            "word": "imaginary",
+            "degree": 1
+        },
+        {
+            "word": "rub",
+            "degree": 1
+        },
+        {
+            "word": "row",
+            "degree": 1
+        },
+        {
+            "word": "imagine",
+            "degree": 1
+        },
+        {
+            "word": "immediately",
+            "degree": 1
+        },
+        {
+            "word": "improve",
+            "degree": 1
+        },
+        {
+            "word": "influence",
+            "degree": 1
+        },
+        {
+            "word": "injure",
+            "degree": 1
+        },
+        {
+            "word": "ink",
+            "degree": 1
+        },
+        {
+            "word": "roll",
+            "degree": 1
+        },
+        {
+            "word": "forever",
+            "degree": 1
+        },
+        {
+            "word": "sidewalk",
+            "degree": 1
+        },
+        {
+            "word": "flame",
+            "degree": 1
+        },
+        {
+            "word": "flashlight",
+            "degree": 1
+        },
+        {
+            "word": "shy",
+            "degree": 1
+        },
+        {
+            "word": "shut",
+            "degree": 1
+        },
+        {
+            "word": "shower",
+            "degree": 1
+        },
+        {
+            "word": "float",
+            "degree": 1
+        },
+        {
+            "word": "shovel",
+            "degree": 1
+        },
+        {
+            "word": "shout",
+            "degree": 1
+        },
+        {
+            "word": "flood",
+            "degree": 1
+        },
+        {
+            "word": "follow",
+            "degree": 1
+        },
+        {
+            "word": "shop",
+            "degree": 1
+        },
+        {
+            "word": "forehead",
+            "degree": 1
+        },
+        {
+            "word": "spray",
+            "degree": 1
+        },
+        {
+            "word": "ship",
+            "degree": 1
+        },
+        {
+            "word": "frame",
+            "degree": 1
+        },
+        {
+            "word": "shine",
+            "degree": 1
+        },
+        {
+            "word": "free",
+            "degree": 1
+        },
+        {
+            "word": "freeze",
+            "degree": 1
+        },
+        {
+            "word": "friendship",
+            "degree": 1
+        },
+        {
+            "word": "frozen",
+            "degree": 1
+        },
+        {
+            "word": "furry",
+            "degree": 1
+        },
+        {
+            "word": "future",
+            "degree": 1
+        },
+        {
+            "word": "gasoline",
+            "degree": 1
+        },
+        {
+            "word": "gentle",
+            "degree": 1
+        },
+        {
+            "word": "glove",
+            "degree": 1
+        },
+        {
+            "word": "goal",
+            "degree": 1
+        }
+    ]
+}

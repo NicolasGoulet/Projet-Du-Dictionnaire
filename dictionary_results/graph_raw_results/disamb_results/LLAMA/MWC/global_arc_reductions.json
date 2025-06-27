@@ -1,0 +1,30 @@
+{
+    "global_arc_reductions": [
+        {
+            "reduction_name": "pie_arc",
+            "reduction_order": 13745,
+            "removed_arcs": [
+                "arrangement_7->morula_1",
+                "birth_2->adenine_1",
+                "birth_4->adenine_1",
+                "collapse_2->morula_1",
+                "cut_46->morula_1",
+                "fit_12->morula_1",
+                "have_1->adenine_1",
+                "information_5->adenine_1",
+                "inheritance_3->adenine_1",
+                "mollusk_1->adenine_1",
+                "part_13->morula_1",
+                "pass_16->morula_1",
+                "piece_3->morula_1",
+                "possession_6->adenine_1",
+                "purine_1->adenine_1",
+                "reason_5->adenine_1",
+                "tiresome_1->boring_1",
+                "tiresome_1->numb_1",
+                "title_16->adenine_1",
+                "valve_2->adenine_1"
+            ]
+        }
+    ]
+}

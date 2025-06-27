@@ -1,0 +1,4122 @@
+{
+    "satellite_0": {
+        "vertices": [
+            "actin_1",
+            "myosin_1"
+        ],
+        "arcs": [
+            [
+                "actin_1",
+                "actin_1"
+            ],
+            [
+                "myosin_1",
+                "myosin_1"
+            ]
+        ]
+    },
+    "satellite_1": {
+        "vertices": [
+            "chromatin_1",
+            "histone_1"
+        ],
+        "arcs": [
+            [
+                "chromatin_1",
+                "chromatin_1"
+            ],
+            [
+                "histone_1",
+                "histone_1"
+            ]
+        ]
+    },
+    "satellite_2": {
+        "vertices": [
+            "acetylcholine_1",
+            "neurotransmitter_1"
+        ],
+        "arcs": [
+            [
+                "acetylcholine_1",
+                "acetylcholine_1"
+            ],
+            [
+                "neurotransmitter_1",
+                "neurotransmitter_1"
+            ]
+        ]
+    },
+    "satellite_3": {
+        "vertices": [
+            "acupuncture_1"
+        ],
+        "arcs": [
+            [
+                "acupuncture_1",
+                "acupuncture_1"
+            ]
+        ]
+    },
+    "satellite_4": {
+        "vertices": [
+            "woodchuck_1"
+        ],
+        "arcs": [
+            [
+                "woodchuck_1",
+                "woodchuck_1"
+            ]
+        ]
+    },
+    "satellite_5": {
+        "vertices": [
+            "heterogamous_1"
+        ],
+        "arcs": [
+            [
+                "heterogamous_1",
+                "heterogamous_1"
+            ]
+        ]
+    },
+    "satellite_6": {
+        "vertices": [
+            "foliose_1",
+            "fruticose_1"
+        ],
+        "arcs": [
+            [
+                "foliose_1",
+                "foliose_1"
+            ],
+            [
+                "fruticose_1",
+                "fruticose_1"
+            ]
+        ]
+    },
+    "satellite_7": {
+        "vertices": [
+            "antipsychotic_1"
+        ],
+        "arcs": [
+            [
+                "antipsychotic_1",
+                "antipsychotic_1"
+            ]
+        ]
+    },
+    "satellite_8": {
+        "vertices": [
+            "cytokine_1"
+        ],
+        "arcs": [
+            [
+                "cytokine_1",
+                "cytokine_1"
+            ]
+        ]
+    },
+    "satellite_9": {
+        "vertices": [
+            "radium_1"
+        ],
+        "arcs": [
+            [
+                "radium_1",
+                "radium_1"
+            ]
+        ]
+    },
+    "satellite_10": {
+        "vertices": [
+            "indenture_2"
+        ],
+        "arcs": [
+            [
+                "indenture_2",
+                "indenture_2"
+            ]
+        ]
+    },
+    "satellite_11": {
+        "vertices": [
+            "craniometry_1"
+        ],
+        "arcs": [
+            [
+                "craniometry_1",
+                "craniometry_1"
+            ]
+        ]
+    },
+    "satellite_12": {
+        "vertices": [
+            "organogenesis_1"
+        ],
+        "arcs": [
+            [
+                "organogenesis_1",
+                "organogenesis_1"
+            ]
+        ]
+    },
+    "satellite_13": {
+        "vertices": [
+            "syngeneic_1"
+        ],
+        "arcs": [
+            [
+                "syngeneic_1",
+                "syngeneic_1"
+            ]
+        ]
+    },
+    "satellite_14": {
+        "vertices": [
+            "spittoon_1"
+        ],
+        "arcs": [
+            [
+                "spittoon_1",
+                "spittoon_1"
+            ]
+        ]
+    },
+    "satellite_15": {
+        "vertices": [
+            "mendicant_2"
+        ],
+        "arcs": [
+            [
+                "mendicant_2",
+                "mendicant_2"
+            ]
+        ]
+    },
+    "satellite_16": {
+        "vertices": [
+            "phlebotomy_1"
+        ],
+        "arcs": [
+            [
+                "phlebotomy_1",
+                "phlebotomy_1"
+            ]
+        ]
+    },
+    "satellite_17": {
+        "vertices": [
+            "multihull_1"
+        ],
+        "arcs": [
+            [
+                "multihull_1",
+                "multihull_1"
+            ]
+        ]
+    },
+    "satellite_18": {
+        "vertices": [
+            "titanium_1"
+        ],
+        "arcs": [
+            [
+                "titanium_1",
+                "titanium_1"
+            ]
+        ]
+    },
+    "satellite_19": {
+        "vertices": [
+            "metanephros_1"
+        ],
+        "arcs": [
+            [
+                "metanephros_1",
+                "metanephros_1"
+            ]
+        ]
+    },
+    "satellite_20": {
+        "vertices": [
+            "woofer_1"
+        ],
+        "arcs": [
+            [
+                "woofer_1",
+                "woofer_1"
+            ]
+        ]
+    },
+    "satellite_21": {
+        "vertices": [
+            "holistic_2"
+        ],
+        "arcs": [
+            [
+                "holistic_2",
+                "holistic_2"
+            ]
+        ]
+    },
+    "satellite_22": {
+        "vertices": [
+            "running_11"
+        ],
+        "arcs": [
+            [
+                "running_11",
+                "running_11"
+            ]
+        ]
+    },
+    "satellite_23": {
+        "vertices": [
+            "microeconomic_1"
+        ],
+        "arcs": [
+            [
+                "microeconomic_1",
+                "microeconomic_1"
+            ]
+        ]
+    },
+    "satellite_24": {
+        "vertices": [
+            "trophoblast_1"
+        ],
+        "arcs": [
+            [
+                "trophoblast_1",
+                "trophoblast_1"
+            ]
+        ]
+    },
+    "satellite_25": {
+        "vertices": [
+            "amylopsin_1"
+        ],
+        "arcs": [
+            [
+                "amylopsin_1",
+                "amylopsin_1"
+            ]
+        ]
+    },
+    "satellite_26": {
+        "vertices": [
+            "plaintext_1"
+        ],
+        "arcs": [
+            [
+                "plaintext_1",
+                "plaintext_1"
+            ]
+        ]
+    },
+    "satellite_27": {
+        "vertices": [
+            "isotactic_1"
+        ],
+        "arcs": [
+            [
+                "isotactic_1",
+                "isotactic_1"
+            ]
+        ]
+    },
+    "satellite_28": {
+        "vertices": [
+            "holometabolous_1"
+        ],
+        "arcs": [
+            [
+                "holometabolous_1",
+                "holometabolous_1"
+            ]
+        ]
+    },
+    "satellite_29": {
+        "vertices": [
+            "gerontology_1"
+        ],
+        "arcs": [
+            [
+                "gerontology_1",
+                "gerontology_1"
+            ]
+        ]
+    },
+    "satellite_30": {
+        "vertices": [
+            "hiss_3"
+        ],
+        "arcs": [
+            [
+                "hiss_3",
+                "hiss_3"
+            ]
+        ]
+    },
+    "satellite_31": {
+        "vertices": [
+            "dichromate_1"
+        ],
+        "arcs": [
+            [
+                "dichromate_1",
+                "dichromate_1"
+            ]
+        ]
+    },
+    "satellite_32": {
+        "vertices": [
+            "peridot_1"
+        ],
+        "arcs": [
+            [
+                "peridot_1",
+                "peridot_1"
+            ]
+        ]
+    },
+    "satellite_33": {
+        "vertices": [
+            "xeric_1"
+        ],
+        "arcs": [
+            [
+                "xeric_1",
+                "xeric_1"
+            ]
+        ]
+    },
+    "satellite_34": {
+        "vertices": [
+            "myriapod_1"
+        ],
+        "arcs": [
+            [
+                "myriapod_1",
+                "myriapod_1"
+            ]
+        ]
+    },
+    "satellite_35": {
+        "vertices": [
+            "cholecystokinin_1"
+        ],
+        "arcs": [
+            [
+                "cholecystokinin_1",
+                "cholecystokinin_1"
+            ]
+        ]
+    },
+    "satellite_36": {
+        "vertices": [
+            "hansom_1"
+        ],
+        "arcs": [
+            [
+                "hansom_1",
+                "hansom_1"
+            ]
+        ]
+    },
+    "satellite_37": {
+        "vertices": [
+            "pancreatic_1"
+        ],
+        "arcs": [
+            [
+                "pancreatic_1",
+                "pancreatic_1"
+            ]
+        ]
+    },
+    "satellite_38": {
+        "vertices": [
+            "misname_1"
+        ],
+        "arcs": [
+            [
+                "misname_1",
+                "misname_1"
+            ]
+        ]
+    },
+    "satellite_39": {
+        "vertices": [
+            "homology_5"
+        ],
+        "arcs": [
+            [
+                "homology_5",
+                "homology_5"
+            ]
+        ]
+    },
+    "satellite_40": {
+        "vertices": [
+            "praenomen_1"
+        ],
+        "arcs": [
+            [
+                "praenomen_1",
+                "praenomen_1"
+            ]
+        ]
+    },
+    "satellite_41": {
+        "vertices": [
+            "horizon_2"
+        ],
+        "arcs": [
+            [
+                "horizon_2",
+                "horizon_2"
+            ]
+        ]
+    },
+    "satellite_42": {
+        "vertices": [
+            "phytoflagellate_1"
+        ],
+        "arcs": [
+            [
+                "phytoflagellate_1",
+                "phytoflagellate_1"
+            ]
+        ]
+    },
+    "satellite_43": {
+        "vertices": [
+            "smectic_1"
+        ],
+        "arcs": [
+            [
+                "smectic_1",
+                "smectic_1"
+            ]
+        ]
+    },
+    "satellite_44": {
+        "vertices": [
+            "personate_1"
+        ],
+        "arcs": [
+            [
+                "personate_1",
+                "personate_1"
+            ]
+        ]
+    },
+    "satellite_45": {
+        "vertices": [
+            "cosmetologist_1"
+        ],
+        "arcs": [
+            [
+                "cosmetologist_1",
+                "cosmetologist_1"
+            ]
+        ]
+    },
+    "satellite_46": {
+        "vertices": [
+            "introspectionism_1"
+        ],
+        "arcs": [
+            [
+                "introspectionism_1",
+                "introspectionism_1"
+            ]
+        ]
+    },
+    "satellite_47": {
+        "vertices": [
+            "blessedness_5"
+        ],
+        "arcs": [
+            [
+                "blessedness_5",
+                "blessedness_5"
+            ]
+        ]
+    },
+    "satellite_48": {
+        "vertices": [
+            "laetrile_1"
+        ],
+        "arcs": [
+            [
+                "laetrile_1",
+                "laetrile_1"
+            ]
+        ]
+    },
+    "satellite_49": {
+        "vertices": [
+            "earthshine_1"
+        ],
+        "arcs": [
+            [
+                "earthshine_1",
+                "earthshine_1"
+            ]
+        ]
+    },
+    "satellite_50": {
+        "vertices": [
+            "psittacosis_1"
+        ],
+        "arcs": [
+            [
+                "psittacosis_1",
+                "psittacosis_1"
+            ]
+        ]
+    },
+    "satellite_51": {
+        "vertices": [
+            "quark_1"
+        ],
+        "arcs": [
+            [
+                "quark_1",
+                "quark_1"
+            ]
+        ]
+    },
+    "satellite_52": {
+        "vertices": [
+            "rhizopod_1"
+        ],
+        "arcs": [
+            [
+                "rhizopod_1",
+                "rhizopod_1"
+            ]
+        ]
+    },
+    "satellite_53": {
+        "vertices": [
+            "transalpine_1"
+        ],
+        "arcs": [
+            [
+                "transalpine_1",
+                "transalpine_1"
+            ]
+        ]
+    },
+    "satellite_54": {
+        "vertices": [
+            "demagoguery_1"
+        ],
+        "arcs": [
+            [
+                "demagoguery_1",
+                "demagoguery_1"
+            ]
+        ]
+    },
+    "satellite_55": {
+        "vertices": [
+            "cervical_1"
+        ],
+        "arcs": [
+            [
+                "cervical_1",
+                "cervical_1"
+            ]
+        ]
+    },
+    "satellite_56": {
+        "vertices": [
+            "spathe_1"
+        ],
+        "arcs": [
+            [
+                "spathe_1",
+                "spathe_1"
+            ]
+        ]
+    },
+    "satellite_57": {
+        "vertices": [
+            "neuropterous_1"
+        ],
+        "arcs": [
+            [
+                "neuropterous_1",
+                "neuropterous_1"
+            ]
+        ]
+    },
+    "satellite_58": {
+        "vertices": [
+            "oilbird_1"
+        ],
+        "arcs": [
+            [
+                "oilbird_1",
+                "oilbird_1"
+            ]
+        ]
+    },
+    "satellite_59": {
+        "vertices": [
+            "gargle_3"
+        ],
+        "arcs": [
+            [
+                "gargle_3",
+                "gargle_3"
+            ]
+        ]
+    },
+    "satellite_60": {
+        "vertices": [
+            "launcher_2"
+        ],
+        "arcs": [
+            [
+                "launcher_2",
+                "launcher_2"
+            ]
+        ]
+    },
+    "satellite_61": {
+        "vertices": [
+            "optometrist_1"
+        ],
+        "arcs": [
+            [
+                "optometrist_1",
+                "optometrist_1"
+            ]
+        ]
+    },
+    "satellite_62": {
+        "vertices": [
+            "squawbush_1"
+        ],
+        "arcs": [
+            [
+                "squawbush_1",
+                "squawbush_1"
+            ]
+        ]
+    },
+    "satellite_63": {
+        "vertices": [
+            "plutonium_1"
+        ],
+        "arcs": [
+            [
+                "plutonium_1",
+                "plutonium_1"
+            ]
+        ]
+    },
+    "satellite_64": {
+        "vertices": [
+            "carbonium_1"
+        ],
+        "arcs": [
+            [
+                "carbonium_1",
+                "carbonium_1"
+            ]
+        ]
+    },
+    "satellite_65": {
+        "vertices": [
+            "washcloth_1"
+        ],
+        "arcs": [
+            [
+                "washcloth_1",
+                "washcloth_1"
+            ]
+        ]
+    },
+    "satellite_66": {
+        "vertices": [
+            "springtail_1"
+        ],
+        "arcs": [
+            [
+                "springtail_1",
+                "springtail_1"
+            ]
+        ]
+    },
+    "satellite_67": {
+        "vertices": [
+            "paracrine_1"
+        ],
+        "arcs": [
+            [
+                "paracrine_1",
+                "paracrine_1"
+            ]
+        ]
+    },
+    "satellite_68": {
+        "vertices": [
+            "major_9"
+        ],
+        "arcs": [
+            [
+                "major_9",
+                "major_9"
+            ]
+        ]
+    },
+    "satellite_69": {
+        "vertices": [
+            "safelight_1"
+        ],
+        "arcs": [
+            [
+                "safelight_1",
+                "safelight_1"
+            ]
+        ]
+    },
+    "satellite_70": {
+        "vertices": [
+            "conidium_1"
+        ],
+        "arcs": [
+            [
+                "conidium_1",
+                "conidium_1"
+            ]
+        ]
+    },
+    "satellite_71": {
+        "vertices": [
+            "ubiquity_1"
+        ],
+        "arcs": [
+            [
+                "ubiquity_1",
+                "ubiquity_1"
+            ]
+        ]
+    },
+    "satellite_72": {
+        "vertices": [
+            "luciferin_1"
+        ],
+        "arcs": [
+            [
+                "luciferin_1",
+                "luciferin_1"
+            ]
+        ]
+    },
+    "satellite_73": {
+        "vertices": [
+            "guanaco_1"
+        ],
+        "arcs": [
+            [
+                "guanaco_1",
+                "guanaco_1"
+            ]
+        ]
+    },
+    "satellite_74": {
+        "vertices": [
+            "stereoscopic_1"
+        ],
+        "arcs": [
+            [
+                "stereoscopic_1",
+                "stereoscopic_1"
+            ]
+        ]
+    },
+    "satellite_75": {
+        "vertices": [
+            "outpatient_1"
+        ],
+        "arcs": [
+            [
+                "outpatient_1",
+                "outpatient_1"
+            ]
+        ]
+    },
+    "satellite_76": {
+        "vertices": [
+            "hernia_1"
+        ],
+        "arcs": [
+            [
+                "hernia_1",
+                "hernia_1"
+            ]
+        ]
+    },
+    "satellite_77": {
+        "vertices": [
+            "mannose_1"
+        ],
+        "arcs": [
+            [
+                "mannose_1",
+                "mannose_1"
+            ]
+        ]
+    },
+    "satellite_78": {
+        "vertices": [
+            "uniformitarianism_1"
+        ],
+        "arcs": [
+            [
+                "uniformitarianism_1",
+                "uniformitarianism_1"
+            ]
+        ]
+    },
+    "satellite_79": {
+        "vertices": [
+            "bankbook_1"
+        ],
+        "arcs": [
+            [
+                "bankbook_1",
+                "bankbook_1"
+            ]
+        ]
+    },
+    "satellite_80": {
+        "vertices": [
+            "decapitate_1"
+        ],
+        "arcs": [
+            [
+                "decapitate_1",
+                "decapitate_1"
+            ]
+        ]
+    },
+    "satellite_81": {
+        "vertices": [
+            "lotic_1"
+        ],
+        "arcs": [
+            [
+                "lotic_1",
+                "lotic_1"
+            ]
+        ]
+    },
+    "satellite_82": {
+        "vertices": [
+            "quaalude_1"
+        ],
+        "arcs": [
+            [
+                "quaalude_1",
+                "quaalude_1"
+            ]
+        ]
+    },
+    "satellite_83": {
+        "vertices": [
+            "cannabinol_1"
+        ],
+        "arcs": [
+            [
+                "cannabinol_1",
+                "cannabinol_1"
+            ]
+        ]
+    },
+    "satellite_84": {
+        "vertices": [
+            "endotrophic_1"
+        ],
+        "arcs": [
+            [
+                "endotrophic_1",
+                "endotrophic_1"
+            ]
+        ]
+    },
+    "satellite_85": {
+        "vertices": [
+            "gonorrhea_1"
+        ],
+        "arcs": [
+            [
+                "gonorrhea_1",
+                "gonorrhea_1"
+            ]
+        ]
+    },
+    "satellite_86": {
+        "vertices": [
+            "thrombin_1"
+        ],
+        "arcs": [
+            [
+                "thrombin_1",
+                "thrombin_1"
+            ]
+        ]
+    },
+    "satellite_87": {
+        "vertices": [
+            "phellogen_1"
+        ],
+        "arcs": [
+            [
+                "phellogen_1",
+                "phellogen_1"
+            ]
+        ]
+    },
+    "satellite_88": {
+        "vertices": [
+            "bookstore_1"
+        ],
+        "arcs": [
+            [
+                "bookstore_1",
+                "bookstore_1"
+            ]
+        ]
+    },
+    "satellite_89": {
+        "vertices": [
+            "antipode_1"
+        ],
+        "arcs": [
+            [
+                "antipode_1",
+                "antipode_1"
+            ]
+        ]
+    },
+    "satellite_90": {
+        "vertices": [
+            "exonuclease_1"
+        ],
+        "arcs": [
+            [
+                "exonuclease_1",
+                "exonuclease_1"
+            ]
+        ]
+    },
+    "satellite_91": {
+        "vertices": [
+            "porcini_1"
+        ],
+        "arcs": [
+            [
+                "porcini_1",
+                "porcini_1"
+            ]
+        ]
+    },
+    "satellite_92": {
+        "vertices": [
+            "hyperopia_1"
+        ],
+        "arcs": [
+            [
+                "hyperopia_1",
+                "hyperopia_1"
+            ]
+        ]
+    },
+    "satellite_93": {
+        "vertices": [
+            "portobello_1"
+        ],
+        "arcs": [
+            [
+                "portobello_1",
+                "portobello_1"
+            ]
+        ]
+    },
+    "satellite_94": {
+        "vertices": [
+            "image_17"
+        ],
+        "arcs": [
+            [
+                "image_17",
+                "image_17"
+            ]
+        ]
+    },
+    "satellite_95": {
+        "vertices": [
+            "glasswort_1"
+        ],
+        "arcs": [
+            [
+                "glasswort_1",
+                "glasswort_1"
+            ]
+        ]
+    },
+    "satellite_96": {
+        "vertices": [
+            "sapwood_1"
+        ],
+        "arcs": [
+            [
+                "sapwood_1",
+                "sapwood_1"
+            ]
+        ]
+    },
+    "satellite_97": {
+        "vertices": [
+            "neutralization_1"
+        ],
+        "arcs": [
+            [
+                "neutralization_1",
+                "neutralization_1"
+            ]
+        ]
+    },
+    "satellite_98": {
+        "vertices": [
+            "rumen_1"
+        ],
+        "arcs": [
+            [
+                "rumen_1",
+                "rumen_1"
+            ]
+        ]
+    },
+    "satellite_99": {
+        "vertices": [
+            "candidiasis_1"
+        ],
+        "arcs": [
+            [
+                "candidiasis_1",
+                "candidiasis_1"
+            ]
+        ]
+    },
+    "satellite_100": {
+        "vertices": [
+            "subtrahend_1"
+        ],
+        "arcs": [
+            [
+                "subtrahend_1",
+                "subtrahend_1"
+            ]
+        ]
+    },
+    "satellite_101": {
+        "vertices": [
+            "troponin_1"
+        ],
+        "arcs": [
+            [
+                "troponin_1",
+                "troponin_1"
+            ]
+        ]
+    },
+    "satellite_102": {
+        "vertices": [
+            "hydrostatic_1"
+        ],
+        "arcs": [
+            [
+                "hydrostatic_1",
+                "hydrostatic_1"
+            ]
+        ]
+    },
+    "satellite_103": {
+        "vertices": [
+            "peptidoglycan_1"
+        ],
+        "arcs": [
+            [
+                "peptidoglycan_1",
+                "peptidoglycan_1"
+            ]
+        ]
+    },
+    "satellite_104": {
+        "vertices": [
+            "thorium_1"
+        ],
+        "arcs": [
+            [
+                "thorium_1",
+                "thorium_1"
+            ]
+        ]
+    },
+    "satellite_105": {
+        "vertices": [
+            "rhizobium_1"
+        ],
+        "arcs": [
+            [
+                "rhizobium_1",
+                "rhizobium_1"
+            ]
+        ]
+    },
+    "satellite_106": {
+        "vertices": [
+            "conciseness_1"
+        ],
+        "arcs": [
+            [
+                "conciseness_1",
+                "conciseness_1"
+            ]
+        ]
+    },
+    "satellite_107": {
+        "vertices": [
+            "sphalerite_1"
+        ],
+        "arcs": [
+            [
+                "sphalerite_1",
+                "sphalerite_1"
+            ]
+        ]
+    },
+    "satellite_108": {
+        "vertices": [
+            "tungsten_1"
+        ],
+        "arcs": [
+            [
+                "tungsten_1",
+                "tungsten_1"
+            ]
+        ]
+    },
+    "satellite_109": {
+        "vertices": [
+            "polyunsaturated_1"
+        ],
+        "arcs": [
+            [
+                "polyunsaturated_1",
+                "polyunsaturated_1"
+            ]
+        ]
+    },
+    "satellite_110": {
+        "vertices": [
+            "charm_3"
+        ],
+        "arcs": [
+            [
+                "charm_3",
+                "charm_3"
+            ]
+        ]
+    },
+    "satellite_111": {
+        "vertices": [
+            "chrismation_1"
+        ],
+        "arcs": [
+            [
+                "chrismation_1",
+                "chrismation_1"
+            ]
+        ]
+    },
+    "satellite_112": {
+        "vertices": [
+            "aerostat_1"
+        ],
+        "arcs": [
+            [
+                "aerostat_1",
+                "aerostat_1"
+            ]
+        ]
+    },
+    "satellite_113": {
+        "vertices": [
+            "mimicry_3"
+        ],
+        "arcs": [
+            [
+                "mimicry_3",
+                "mimicry_3"
+            ]
+        ]
+    },
+    "satellite_114": {
+        "vertices": [
+            "fake_2"
+        ],
+        "arcs": [
+            [
+                "fake_2",
+                "fake_2"
+            ]
+        ]
+    },
+    "satellite_115": {
+        "vertices": [
+            "fermion_1"
+        ],
+        "arcs": [
+            [
+                "fermion_1",
+                "fermion_1"
+            ]
+        ]
+    },
+    "satellite_116": {
+        "vertices": [
+            "meson_1"
+        ],
+        "arcs": [
+            [
+                "meson_1",
+                "meson_1"
+            ]
+        ]
+    },
+    "satellite_117": {
+        "vertices": [
+            "intron_1"
+        ],
+        "arcs": [
+            [
+                "intron_1",
+                "intron_1"
+            ]
+        ]
+    },
+    "satellite_118": {
+        "vertices": [
+            "hieroglyphic_3"
+        ],
+        "arcs": [
+            [
+                "hieroglyphic_3",
+                "hieroglyphic_3"
+            ]
+        ]
+    },
+    "satellite_119": {
+        "vertices": [
+            "heuristic_3"
+        ],
+        "arcs": [
+            [
+                "heuristic_3",
+                "heuristic_3"
+            ]
+        ]
+    },
+    "satellite_120": {
+        "vertices": [
+            "exopeptidase_1"
+        ],
+        "arcs": [
+            [
+                "exopeptidase_1",
+                "exopeptidase_1"
+            ]
+        ]
+    },
+    "satellite_121": {
+        "vertices": [
+            "protease_1"
+        ],
+        "arcs": [
+            [
+                "protease_1",
+                "protease_1"
+            ]
+        ]
+    },
+    "satellite_122": {
+        "vertices": [
+            "oophorectomy_1"
+        ],
+        "arcs": [
+            [
+                "oophorectomy_1",
+                "oophorectomy_1"
+            ]
+        ]
+    },
+    "satellite_123": {
+        "vertices": [
+            "blonde_1"
+        ],
+        "arcs": [
+            [
+                "blonde_1",
+                "blonde_1"
+            ]
+        ]
+    },
+    "satellite_124": {
+        "vertices": [
+            "perihelion_1"
+        ],
+        "arcs": [
+            [
+                "perihelion_1",
+                "perihelion_1"
+            ]
+        ]
+    },
+    "satellite_125": {
+        "vertices": [
+            "apheresis_1"
+        ],
+        "arcs": [
+            [
+                "apheresis_1",
+                "apheresis_1"
+            ]
+        ]
+    },
+    "satellite_126": {
+        "vertices": [
+            "crayfish_1"
+        ],
+        "arcs": [
+            [
+                "crayfish_1",
+                "crayfish_1"
+            ]
+        ]
+    },
+    "satellite_127": {
+        "vertices": [
+            "skycap_1"
+        ],
+        "arcs": [
+            [
+                "skycap_1",
+                "skycap_1"
+            ]
+        ]
+    },
+    "satellite_128": {
+        "vertices": [
+            "unscrupulous_1"
+        ],
+        "arcs": [
+            [
+                "unscrupulous_1",
+                "unscrupulous_1"
+            ]
+        ]
+    },
+    "satellite_129": {
+        "vertices": [
+            "bellflower_1"
+        ],
+        "arcs": [
+            [
+                "bellflower_1",
+                "bellflower_1"
+            ]
+        ]
+    },
+    "satellite_130": {
+        "vertices": [
+            "niacinamide_1"
+        ],
+        "arcs": [
+            [
+                "niacinamide_1",
+                "niacinamide_1"
+            ]
+        ]
+    },
+    "satellite_131": {
+        "vertices": [
+            "hemorrhoid_1"
+        ],
+        "arcs": [
+            [
+                "hemorrhoid_1",
+                "hemorrhoid_1"
+            ]
+        ]
+    },
+    "satellite_132": {
+        "vertices": [
+            "unguent_1"
+        ],
+        "arcs": [
+            [
+                "unguent_1",
+                "unguent_1"
+            ]
+        ]
+    },
+    "satellite_133": {
+        "vertices": [
+            "pareve_1"
+        ],
+        "arcs": [
+            [
+                "pareve_1",
+                "pareve_1"
+            ]
+        ]
+    },
+    "satellite_134": {
+        "vertices": [
+            "calcite_1"
+        ],
+        "arcs": [
+            [
+                "calcite_1",
+                "calcite_1"
+            ]
+        ]
+    },
+    "satellite_135": {
+        "vertices": [
+            "existentialist_1"
+        ],
+        "arcs": [
+            [
+                "existentialist_1",
+                "existentialist_1"
+            ]
+        ]
+    },
+    "satellite_136": {
+        "vertices": [
+            "myelinated_1"
+        ],
+        "arcs": [
+            [
+                "myelinated_1",
+                "myelinated_1"
+            ]
+        ]
+    },
+    "satellite_137": {
+        "vertices": [
+            "cutesiness_1"
+        ],
+        "arcs": [
+            [
+                "cutesiness_1",
+                "cutesiness_1"
+            ]
+        ]
+    },
+    "satellite_138": {
+        "vertices": [
+            "etic_1"
+        ],
+        "arcs": [
+            [
+                "etic_1",
+                "etic_1"
+            ]
+        ]
+    },
+    "satellite_139": {
+        "vertices": [
+            "nicotinic_1"
+        ],
+        "arcs": [
+            [
+                "nicotinic_1",
+                "nicotinic_1"
+            ]
+        ]
+    },
+    "satellite_140": {
+        "vertices": [
+            "synthetase_1"
+        ],
+        "arcs": [
+            [
+                "synthetase_1",
+                "synthetase_1"
+            ]
+        ]
+    },
+    "satellite_141": {
+        "vertices": [
+            "phycology_1"
+        ],
+        "arcs": [
+            [
+                "phycology_1",
+                "phycology_1"
+            ]
+        ]
+    },
+    "satellite_142": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_143": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_144": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_145": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_146": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_147": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_148": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_149": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_150": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_151": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_152": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_153": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_154": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_155": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_156": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_157": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_158": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_159": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_160": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_161": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_162": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_163": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_164": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_165": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_166": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_167": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_168": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_169": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_170": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_171": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_172": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_173": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_174": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_175": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_176": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_177": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_178": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_179": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_180": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_181": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_182": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_183": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_184": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_185": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_186": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_187": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_188": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_189": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_190": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_191": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_192": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_193": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_194": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_195": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_196": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_197": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_198": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_199": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_200": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_201": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_202": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_203": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_204": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_205": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_206": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_207": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_208": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_209": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_210": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_211": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_212": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_213": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_214": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_215": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_216": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_217": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_218": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_219": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_220": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_221": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_222": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_223": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_224": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_225": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_226": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_227": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_228": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_229": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_230": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_231": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_232": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_233": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_234": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_235": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_236": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_237": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_238": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_239": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_240": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_241": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_242": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_243": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_244": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_245": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_246": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_247": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_248": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_249": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_250": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_251": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_252": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_253": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_254": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_255": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_256": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_257": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_258": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_259": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_260": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_261": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_262": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_263": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_264": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_265": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_266": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_267": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_268": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_269": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_270": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_271": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_272": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_273": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_274": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_275": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_276": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_277": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_278": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_279": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_280": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_281": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_282": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_283": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_284": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_285": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_286": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_287": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_288": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_289": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_290": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_291": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_292": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_293": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_294": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_295": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_296": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_297": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_298": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_299": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_300": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_301": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_302": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_303": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_304": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_305": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_306": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_307": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_308": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_309": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_310": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_311": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_312": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_313": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_314": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_315": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_316": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_317": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_318": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_319": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_320": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_321": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_322": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_323": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_324": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_325": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_326": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_327": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_328": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_329": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_330": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_331": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_332": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_333": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_334": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_335": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_336": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_337": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_338": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_339": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_340": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_341": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_342": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_343": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_344": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_345": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_346": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_347": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_348": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_349": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_350": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_351": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_352": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_353": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_354": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_355": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_356": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_357": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_358": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_359": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_360": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_361": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_362": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_363": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_364": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_365": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_366": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_367": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_368": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_369": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_370": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_371": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_372": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_373": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_374": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_375": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_376": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_377": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_378": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_379": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_380": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_381": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_382": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_383": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_384": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_385": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_386": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_387": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_388": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_389": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_390": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_391": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_392": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_393": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_394": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_395": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_396": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_397": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_398": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_399": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_400": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_401": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_402": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_403": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_404": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_405": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_406": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_407": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_408": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_409": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_410": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_411": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_412": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_413": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_414": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_415": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_416": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_417": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_418": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_419": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_420": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_421": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_422": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_423": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_424": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_425": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_426": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_427": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_428": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_429": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_430": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_431": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_432": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_433": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_434": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_435": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_436": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_437": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_438": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_439": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_440": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_441": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_442": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_443": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_444": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_445": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_446": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_447": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_448": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_449": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_450": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_451": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_452": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_453": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_454": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_455": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_456": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_457": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_458": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_459": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_460": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_461": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_462": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_463": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_464": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_465": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_466": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_467": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_468": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_469": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_470": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_471": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_472": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_473": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_474": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_475": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_476": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_477": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_478": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_479": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_480": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_481": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_482": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_483": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_484": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_485": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_486": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_487": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_488": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_489": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_490": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_491": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_492": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_493": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_494": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_495": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_496": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_497": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_498": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_499": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_500": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_501": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_502": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_503": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_504": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_505": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_506": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_507": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_508": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_509": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_510": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_511": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_512": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_513": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_514": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_515": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_516": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_517": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_518": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_519": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_520": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_521": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_522": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_523": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_524": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_525": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_526": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_527": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_528": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_529": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_530": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_531": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_532": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_533": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_534": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_535": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_536": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_537": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_538": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_539": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_540": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_541": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_542": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_543": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_544": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_545": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_546": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_547": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_548": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_549": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_550": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_551": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_552": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_553": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_554": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_555": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_556": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_557": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_558": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_559": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_560": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_561": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_562": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_563": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_564": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_565": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_566": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_567": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_568": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_569": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_570": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_571": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_572": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_573": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_574": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_575": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_576": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_577": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_578": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_579": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_580": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_581": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_582": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_583": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_584": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_585": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_586": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_587": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_588": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_589": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_590": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_591": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_592": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_593": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_594": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_595": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_596": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_597": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_598": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_599": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_600": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_601": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_602": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_603": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_604": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_605": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_606": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_607": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_608": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_609": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_610": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_611": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_612": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_613": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_614": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_615": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_616": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_617": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_618": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_619": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_620": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_621": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_622": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_623": {
+        "vertices": [],
+        "arcs": []
+    },
+    "satellite_624": {
+        "vertices": [],
+        "arcs": []
+    },
+    "top n out deg": [
+        {
+            "out_degree": 1,
+            "vertex": "phycology_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "pancreatic_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "paracrine_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "pareve_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "peptidoglycan_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "peridot_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "perihelion_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "personate_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "phellogen_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "phlebotomy_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "outpatient_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "phytoflagellate_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "plaintext_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "plutonium_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "polyunsaturated_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "porcini_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "portobello_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "praenomen_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "protease_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "neuropterous_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "metanephros_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "microeconomic_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "mimicry_3"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "misname_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "multihull_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "myelinated_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "myosin_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "myriapod_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "psittacosis_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "neurotransmitter_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "neutralization_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "niacinamide_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "nicotinic_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "oilbird_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "oophorectomy_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "optometrist_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "organogenesis_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "tungsten_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "syngeneic_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "synthetase_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "thorium_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "thrombin_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "titanium_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "transalpine_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "trophoblast_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "troponin_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "subtrahend_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "ubiquity_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "unguent_1"
+        },
+        {
+            "out_degree": 1,
+            "vertex": "uniformitarianism_1"
+        }
+    ],
+    "top n in deg": [
+        {
+            "in_degree": 1,
+            "vertex": "phycology_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "radium_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "quark_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "quaalude_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "psittacosis_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "earthshine_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "praenomen_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "portobello_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "porcini_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "polyunsaturated_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "plutonium_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "plaintext_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "endotrophic_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "phytoflagellate_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "dichromate_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "etic_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "phlebotomy_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "phellogen_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "existentialist_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "personate_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "exonuclease_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "exopeptidase_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "perihelion_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "peridot_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "peptidoglycan_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "fake_2"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "pareve_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "fermion_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cosmetologist_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "charm_3"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "squawbush_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cholecystokinin_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "springtail_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "spittoon_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sphalerite_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "chrismation_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "chromatin_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "spathe_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "smectic_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "skycap_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "conciseness_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "conidium_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "paracrine_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "sapwood_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "craniometry_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "crayfish_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "safelight_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "running_11"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "cutesiness_1"
+        },
+        {
+            "in_degree": 1,
+            "vertex": "rumen_1"
+        }
+    ],
+    "top n total deg": [
+        {
+            "total_degree": 2,
+            "vertex": "phycology_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "radium_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "quark_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "quaalude_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "psittacosis_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "earthshine_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "praenomen_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "portobello_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "porcini_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "polyunsaturated_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "plutonium_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "plaintext_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "endotrophic_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "phytoflagellate_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "dichromate_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "etic_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "phlebotomy_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "phellogen_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "existentialist_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "personate_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "exonuclease_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "exopeptidase_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "perihelion_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "peridot_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "peptidoglycan_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "fake_2"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "pareve_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "fermion_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cosmetologist_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "charm_3"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "squawbush_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cholecystokinin_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "springtail_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "spittoon_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sphalerite_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "chrismation_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "chromatin_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "spathe_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "smectic_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "skycap_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "conciseness_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "conidium_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "paracrine_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "sapwood_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "craniometry_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "crayfish_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "safelight_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "running_11"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "cutesiness_1"
+        },
+        {
+            "total_degree": 2,
+            "vertex": "rumen_1"
+        }
+    ]
+}

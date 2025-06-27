@@ -1,0 +1,296 @@
+{
+    "words": [
+        {
+            "vertex": "aged_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "all_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "apart_12",
+            "depth_level": 0
+        },
+        {
+            "vertex": "as_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "back_11",
+            "depth_level": 0
+        },
+        {
+            "vertex": "back_30",
+            "depth_level": 0
+        },
+        {
+            "vertex": "back_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "blush_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "by_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "clear_39",
+            "depth_level": 0
+        },
+        {
+            "vertex": "crazy_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "dark_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "date_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "die_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "different_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "drink_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "eat_17",
+            "depth_level": 0
+        },
+        {
+            "vertex": "electroencephalograph_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "even_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "force_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "gladly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "guess_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hi_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "hour_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "inside_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "inside_15",
+            "depth_level": 0
+        },
+        {
+            "vertex": "invitation_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "look_42",
+            "depth_level": 0
+        },
+        {
+            "vertex": "loud_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "m_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "major_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "member_3",
+            "depth_level": 0
+        },
+        {
+            "vertex": "mononucleosis_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "need_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "negative_11",
+            "depth_level": 0
+        },
+        {
+            "vertex": "north_7",
+            "depth_level": 0
+        },
+        {
+            "vertex": "number_23",
+            "depth_level": 0
+        },
+        {
+            "vertex": "numerous_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "old_28",
+            "depth_level": 0
+        },
+        {
+            "vertex": "only_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "otherwise_4",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pipe_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "pipe_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plaster_2",
+            "depth_level": 0
+        },
+        {
+            "vertex": "plate_17",
+            "depth_level": 0
+        },
+        {
+            "vertex": "poly_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "put_108",
+            "depth_level": 0
+        },
+        {
+            "vertex": "quiet_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "rabbi_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "side_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "single_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "slow_11",
+            "depth_level": 0
+        },
+        {
+            "vertex": "south_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "teenager_1",
+            "depth_level": 0
+        },
+        {
+            "vertex": "together_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "turn_8",
+            "depth_level": 0
+        },
+        {
+            "vertex": "use_28",
+            "depth_level": 0
+        },
+        {
+            "vertex": "want_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "war_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "week_6",
+            "depth_level": 0
+        },
+        {
+            "vertex": "west_5",
+            "depth_level": 0
+        },
+        {
+            "vertex": "work_10",
+            "depth_level": 0
+        },
+        {
+            "vertex": "but_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "down_21",
+            "depth_level": 1
+        },
+        {
+            "vertex": "else_3",
+            "depth_level": 1
+        },
+        {
+            "vertex": "inwards_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "just_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "never_9",
+            "depth_level": 1
+        },
+        {
+            "vertex": "representative_2",
+            "depth_level": 1
+        },
+        {
+            "vertex": "simply_1",
+            "depth_level": 1
+        },
+        {
+            "vertex": "spend_4",
+            "depth_level": 1
+        },
+        {
+            "vertex": "different_1",
+            "depth_level": 2
+        },
+        {
+            "vertex": "separate_12",
+            "depth_level": 3
+        }
+    ]
+}
