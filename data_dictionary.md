@@ -18,7 +18,7 @@ They are as following :
 
 **PLEASE NOTE :** The sections are written assuming familiarity with the main concepts and ideas of the project. If you find any concept you are not familiar with, please consult the **Methodology** section. 
 
-**PLEASE ALSO NOTE:** The preprocessing for the data used by DeepSeek has since been improved upon. Saddly, some named entities slipped through and have been removed. If someone has the time, it would be simple however to fix by filtering out from the raw `dico` format the symbols that are named entities. Then you could re-execute my pipeline `dico` to `minset`, using the cleaned DeepSeek data. *
+**PLEASE ALSO NOTE:** The preprocessing for the data used by DeepSeek has since been improved upon. Saddly, some named entities slipped through and have been removed. If someone has the time, it would be simple however to fix by filtering out from the raw `dico` format the symbols that are named entities. Then you could re-execute my pipeline `dico` to `minset`, using the cleaned DeepSeek data. 
 
 **QUAESO NOTA** : All the code will be available on GitHub. 
 
