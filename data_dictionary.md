@@ -13,6 +13,7 @@ They are as following :
 - **General Structure of the Results** : I describe the general contents of the zip file with all results,`complete_data.zip`. 
 - **Dictionary Structures, Graph Metrics and Algorithm Results** : Read this section to study the structures of dictionaries and their contents. The section also describes graph theoretic aspects.
 - **Prompts Data** : Read this section to study the inter-model agreement on the prompts and the model-human agreement on 25 prompts. 
+- **Wic task** : Read this section if you are interested in the inter-model agreement on the WIC (Word In Context) task. It is a standard task to test models on Word Sense Disambiguation. 
 - **Methodology** : Read this section if you are interested in the methodological aspects of this project OR if you are not familiar with some aspects of the project. 
 - **Produced Figures** : A collection of figures used throughout this document. 
 
@@ -20,7 +21,7 @@ They are as following :
 
 **PLEASE ALSO NOTE:** The preprocessing for the data used by DeepSeek has since been improved upon. Saddly, some named entities slipped through and have been removed. If someone has the time, it would be simple however to fix by filtering out from the raw `dico` format the symbols that are named entities. Then you could re-execute my pipeline `dico` to `minset`, using the cleaned DeepSeek data. 
 
-**QUAESO NOTA** : All the code will be available on GitHub. 
+**QUAESO NOTA** : All the code will (at some point) be available on GitHub. 
 
 ## General Structure
 
@@ -236,6 +237,31 @@ Each subject has its own CSV file in the Results folder with the following two f
 ### Tools 
 
 TODO describe the tools used for disambiguation 
+
+
+## WIC Task
+
+This section covers the WIC task. 
+
+It constitutes of pairs of sentences with a target word used in both sentence. 
+
+The task for the models is to tell for a given target word used in a pair if the word has the same meaning in both sentences. 
+
+Each pair comes with a reference to the real answer. 
+
+Here is the data dictionary for our results. Like always, we have a folder per model (DEEPKSEEK, LLAMA, GEMMA and QWEN).
+
+| Field | Type | Description |
+|-------|------|-------------|
+| **truth_value** | *str* | Ground-truth label for the pair of sentences: **T** (meanings are identical) or **F** (meanings differ). |
+| **target_word** | *str* | The word whose sense consistency is being judged across the two sentences in the prompt. |
+| **prompt** | *str* | Full text shown to the model, including task instructions, the target word, both sentences (*c1* and *c2*), and the answer cue. |
+| **MODEL_answer** | *str* | The model’s answer for this item (either **T** or **F**). Replace *MODEL* with the model name (e.g., `gemma_answer`, `llama_answer`, `qwen_answer`). |
+| **MODEL_retries** | *int* | Number of additional attempts the script made before obtaining the final answer from the model (0 = answered on first try). |
+| **result** | *int* | Scored correctness of the model’s answer: **1** if `MODEL_answer` equals `truth_value`, **0** otherwise. |
+| **average** | *float* | Running average accuracy of the model *up to and including* this item (range 0–1; higher = better). |
+
+---
 
 ## Methodology
 
